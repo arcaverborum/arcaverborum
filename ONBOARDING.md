@@ -74,9 +74,11 @@ python build.py aggregate
 
 The build never downloads anything: a missing Glottolog or Concepticon table is
 an error, not a silent fetch. CI rebuilds from the same snapshot on every pull
-request. A pull request that adds a source or variety not in the snapshot must
-include the new intake rows; ask the maintainer how to package them until
-snapshot extensions are automated.
+request. A pull request that adds a source not in the snapshot commits it as a
+source extension under `extensions/<dataset>/` (format and rules in
+[extensions/README.md](extensions/README.md)); the build reads it from git next
+to the snapshot intake. On the maintainer's full workspace, adding or removing
+an extension rebuilds the intake database once.
 
 The maintainer's full pipeline (`build.py fetch` and `ingest` over all of
 Lexibank, GLED and Wiktionary) regenerates the intake from the original

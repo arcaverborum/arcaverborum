@@ -18,7 +18,9 @@ function `update_many` uses to decide what a build may read. Lexibank
 ``parameters_raw`` is reduced to the parameters of those rows. Language,
 metadata and bibliography tables are kept whole (they are small and feed the
 catalog). The Wiktionary pronunciation ledger is not a build input; it is
-kept, reduced to accepted rows, as per-entry provenance.
+kept, reduced to accepted rows, as per-entry provenance. Source extensions
+(``extensions/``, see :mod:`arcaverborum.extensions`) are committed to git and
+therefore never part of a snapshot.
 """
 
 from __future__ import annotations
@@ -137,7 +139,7 @@ def export(root: Path, output: Path, *, git_commit: str = "") -> dict:
     root = Path(root)
     output = Path(output)
     output.mkdir(parents=True, exist_ok=False)
-    languages = [root / "intake" / s / "languages.csv" for s in ("lexibank", "wiktionary")]
+    languages = [root / "intake" / s / "languages.csv" for s in ("lexibank", "wiktionary", "extensions")]
     catalog = build_catalog([p for p in languages if p.exists()],
                             glottolog=load_glottolog(root / "raw/glottolog/languages.csv"),
                             avid_registry=load_avid_registry())
