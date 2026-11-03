@@ -22,7 +22,10 @@ jobs:
           python-version: ${{ matrix.python-version }}
 
       - name: Install locked dependencies (merkmal pinned to an exact commit)
+        env:
+          MERKMAL_REQUIRE_UTF8PROC: "1"
         run: |
+          sudo apt-get update -q && sudo apt-get install -y -q libutf8proc-dev pkg-config
           pip install -r requirements.lock
           pip install --no-deps -e .
 

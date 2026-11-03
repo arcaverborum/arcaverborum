@@ -34,7 +34,10 @@ jobs:
           python-version: "3.13"
 
       - name: Install locked dependencies
+        env:
+          MERKMAL_REQUIRE_UTF8PROC: "1"
         run: |
+          sudo apt-get update -q && sudo apt-get install -y -q libutf8proc-dev pkg-config
           pip install -r requirements.lock
           pip install --no-deps -e .
 
