@@ -1,0 +1,21 @@
+{
+  "source": "wiktionary",
+  "decision": "Declare the legacy English Wiktionary intake as CC BY-SA 4.0 (Wiktionary text is also available under the GFDL), attributed to Wiktionary contributors, with the exact frozen snapshot identified by checksum.",
+  "recorded_by": "Tiago Tresoldi",
+  "recorded_on": "2026-11-02",
+  "snapshot": {
+    "file": "raw/wiktionary/raw.jsonl.gz (Kaikki/Wiktextract raw English Wiktionary extraction)",
+    "url": "https://kaikki.org/dictionary/raw-wiktextract-data.jsonl.gz",
+    "sha256": "a6a32d41e35990b79a886d9082ebb3459a16fbaed6d2995aaedf6ef46d3ee643",
+    "sha256_verified_on": "2026-11-02",
+    "local_copy_dated": "2026-08-22",
+    "dump_date": null,
+    "dump_date_note": "The Wiktionary dump date of this extraction was not recorded when it was downloaded. The snapshot is identified only by its checksum; it was obtained no later than 2026-08-22. No dump date is asserted."
+  },
+  "terms": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "basis": "Wiktionary text is published under CC BY-SA 4.0 and the GFDL (https://en.wiktionary.org/wiki/Wiktionary:Copyrights); Kaikki/Wiktextract extractions carry the same terms.",
+    "attribution": "Wiktionary contributors. Each record's headword page on en.wiktionary.org gives its contributor history; the page as it exists today may differ from the extracted snapshot.",
+    "adaptations": "Arca's normalizations, segmentations and corrections of these records are adaptations and are distributed under the same CC BY-SA 4.0 terms."
+  }
+}

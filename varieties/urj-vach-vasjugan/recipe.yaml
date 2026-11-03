@@ -1,0 +1,56 @@
+av_id: urj-vach-vasjugan
+name: Vach-Vasjugan
+review:
+  status: draft
+  reviewer: ''
+  date: ''
+quality:
+  tier: bronze
+  forms_score: 0.9438
+  cognates_score: 0.7
+  pinned: true
+construction:
+  summary: Register an attested variety omitted from the frozen registry and existing
+    configs; identity confirmed against the cached Glottolog language/dialect entry
+    and the single named source language.
+  lexical_base:
+    source: uralex
+    rationale: Register an attested variety omitted from the frozen registry and existing
+      configs; identity confirmed against the cached Glottolog language/dialect entry
+      and the single named source language.
+  transcription:
+    strategy: override
+    profile: none
+    overrides: custom/transcriptions.csv
+    notes: 82 reviewed tokenization repairs attach detached breves to the preceding
+      ɑ, o or ø; source phonemes and NFD characters are preserved. 374 clean forms,
+      three unclean comma-separated alternatives.
+  concepts:
+    mapping: source
+    core_coverage: 150/161
+    notes: 377/377 forms mapped; 307 distinct concepts.
+  cognates:
+    source: uralex
+    method: expert
+    computed: none
+    notes: 100% of forms carry Cognacy.
+  loans:
+    handling: source
+    annotated: 0%
+    notes: ''
+candidates:
+- source: uralex
+  coverage: partial
+  verdict: used
+  reason: Register an attested variety omitted from the frozen registry and existing
+    configs; identity confirmed against the cached Glottolog language/dialect entry
+    and the single named source language.
+provenance:
+  bibliography:
+  - uralex_DEWbOstj
+  source_url: https://github.com/tresoldi/uralex
+tradeoffs:
+  gains: 150 core concepts with clean support after 82 conservative tokenization repairs.
+  known_losses: No accepted construction replaced.
+notes: Reviewed 2026-10-27; source snapshots and repair decisions in custom/transcription_review.csv;
+  specialist review pending.

@@ -1,0 +1,23 @@
+av_id: ine-aragonese
+name: Aragonese
+glottocode: arag1245
+family: Indo-European
+macroarea: Eurasia
+sources:
+  transcription: wiktionary
+  cognates: wiktionary
+extensions:
+  transcriptions: false
+  forms: false
+  cognates: false
+  concept_map: true
+  profile: true
+scoring:
+  forms_score: 0.8489
+  cognates_score: 0.1332
+  tier: bronze
+pinned: true
+registered_on: '2026-05-20'
+notes: Wiktionary broad-segmental orthographic profile pilot (2026-10-23); ambiguous
+  x, foreign spellings and unsupported punctuation remain unclean. No inferred stress
+  or dialect-specific allophony. See PACKET.md.

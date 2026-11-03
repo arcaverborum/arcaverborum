@@ -1,0 +1,72 @@
+av_id: afa-saho
+name: Saho
+review:
+  status: draft
+  reviewer: ''
+  date: ''
+quality:
+  tier: bronze
+  forms_score: 0.8814
+  cognates_score: 0.0336
+  pinned: true
+construction:
+  summary: Wiktionary with a broad Saho Latin-script profile; specialist review pending.
+  lexical_base:
+    source: wiktionary
+    rationale: 54 core concepts versus 37 in GLED; gains and losses in PACKET.md.
+  transcription:
+    strategy: profile
+    profile: custom/profile.tsv
+    overrides: none
+    notes: 143/143 forms profile-derived; 0 unclean. Existing source IPA takes precedence.
+      Broad transcription conventions and evidence in PACKET.md.
+  concepts:
+    mapping: corrected
+    core_coverage: 54/161
+    notes: '2026-10-24 audit: 57 parameter senses reviewed; 54 core concepts with
+      supported IPA. See custom/core_review.csv; source sense compatibility does not
+      validate native translations.'
+  cognates:
+    source: wiktionary
+    method: source
+    computed: none
+    notes: 12 Wiktionary etymology annotations; not expert comparative judgments.
+  loans:
+    handling: source
+    annotated: 1%
+    notes: ''
+candidates:
+- source: wiktionary
+  coverage: partial
+  verdict: used
+  reason: 54/161 core concepts with a language-specific profile.
+- source: gled
+  coverage: partial
+  verdict: not used
+  reason: Only 37 core concepts; 12 absent from Wiktionary.
+provenance:
+  bibliography:
+  - wiktionary_kaikki2026
+tradeoffs:
+  gains: 29 additional core concepts; 117 mapped concepts in total.
+  known_losses: 12 core concepts and GLED cognacy coverage; only broad segmental transcription
+    plus explicitly marked high pitch.
+notes: Evidence, score method, linguistic limitations, and follow-up are in PACKET.md.
+sense_audit:
+  date: '2026-10-24'
+  scope: English source sense versus frozen concept definition; native lexical and
+    dialect review pending
+  decisions: custom/core_review.csv
+  check_command: python scripts/audit_core_pilots.py
+  clean_core_concepts: 54
+  missing_gled_core:
+  - ani-louse
+  - bod-blood
+  - bod-breast
+  - bod-die
+  - foo-drink
+  - kin-i
+  - kin-thou
+  - mot-come
+  - phy-mountain
+  - tim-new

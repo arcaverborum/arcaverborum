@@ -1,0 +1,24 @@
+av_id: alg-unami
+name: Unami
+glottocode: unam1242
+family: Algic
+macroarea: North America
+sources:
+  transcription: wiktionary
+  cognates: wiktionary
+  source_language_id: wikt_unm
+extensions:
+  transcriptions: false
+  forms: false
+  cognates: false
+  concept_map: false
+  profile: false
+scoring:
+  forms_score: 0.7262
+  cognates_score: 0.6
+  tier: copper
+pinned: true
+registered_on: '2026-05-20'
+notes: WN reviewed bounded primary; earlier source records retained as guarded supplements.
+  Exact source scope/readings preserved; no transferred cognacy or changed variety-level
+  score. See PACKET.md.

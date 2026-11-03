@@ -1,0 +1,21 @@
+av_id: ine-old-persian-ca-600-400-b-c
+name: Old Persian (ca. 600-400 B.C.)
+glottocode: oldp1254
+family: Indo-European
+macroarea: Eurasia
+sources:
+  transcription: iecor
+  cognates: iecor
+extensions:
+  transcriptions: false
+  forms: false
+  cognates: false
+  concept_map: false
+  profile: true
+scoring:
+  forms_score: 0.4845
+  cognates_score: 0.7
+  tier: silver
+pinned: true
+registered_on: '2026-05-20'
+notes: 'IECOR canonical: forms+cognates=iecor (0.48/0.70)'

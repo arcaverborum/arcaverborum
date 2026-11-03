@@ -1,0 +1,87 @@
+name: Rebuild from snapshot
+
+# Tier-1 check on every pull request and master push: rebuild accepted outputs
+# from git + the accepted-inputs snapshot of the latest release, with no other
+# inputs and no network beyond downloading that snapshot. On master, also build
+# the explorer and refresh the rolling `live` pre-release that
+# arcaverborum/live deploys to live.arcaverborum.org.
+
+on:
+  pull_request:
+    branches: [master]
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+concurrency:
+  group: build-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install locked dependencies
+        run: |
+          pip install -r requirements.lock
+          pip install --no-deps -e .
+
+      - name: Download the accepted-inputs snapshot of the latest release
+        id: snapshot
+        run: |
+          tag=$(gh release list --exclude-pre-releases --exclude-drafts --json tagName,isLatest \
+                --jq '.[] | select(.isLatest) | .tagName')
+          if [ -z "$tag" ]; then echo "::warning::No release yet; nothing to rebuild from."; exit 0; fi
+          gh release download "$tag" -p "arcaverborum-$tag-snapshot.tar.gz" -p SHA256SUMS
+          grep " arcaverborum-$tag-snapshot.tar.gz\$" SHA256SUMS | sha256sum -c -
+          python -c "from arcaverborum.snapshot import unpack; unpack('arcaverborum-$tag-snapshot.tar.gz', '.')"
+          echo "tag=$tag" >> "$GITHUB_OUTPUT"
+
+      - name: Rebuild touched varieties (pull request)
+        if: github.event_name == 'pull_request' && steps.snapshot.outputs.tag != ''
+        run: |
+          base=${{ github.event.pull_request.base.sha }}
+          touched=$(git diff --name-only "$base"...HEAD -- varieties | cut -d/ -f2 | sort -u | \
+                    while read v; do [ -f "varieties/$v/config.yaml" ] && echo "$v"; done)
+          shared=$(git diff --name-only "$base"...HEAD -- src build.py | head -1)
+          if [ -n "$shared" ]; then
+            echo "Build code changed: rebuilding everything"
+            python build.py update --all
+            python build.py aggregate
+          elif [ -n "$touched" ]; then
+            python build.py update $touched
+          else
+            echo "No variety or build code changes."
+          fi
+
+      - name: Rebuild everything and build the explorer (master)
+        if: github.event_name != 'pull_request' && steps.snapshot.outputs.tag != ''
+        run: |
+          python build.py update --all
+          python build.py aggregate
+          ARCA_BUILD_DATE=$(git show -s --format=%cs HEAD) python scripts/build_research_web.py
+          python scripts/build_site_bundle.py live "$GITHUB_SHA" arcaverborum-live-site.tar.gz
+
+      - name: Refresh the rolling live pre-release
+        if: github.event_name == 'push' && steps.snapshot.outputs.tag != ''
+        run: |
+          echo "$GITHUB_SHA" > LIVE_REVISION
+          sha256sum arcaverborum-live-site.tar.gz > SHA256SUMS
+          if ! gh release view live >/dev/null 2>&1; then
+            gh release create live --prerelease --title "live (rolling build of master; not a release)" \
+              --notes "Rebuilt on every green master push and deployed to https://live.arcaverborum.org. Not citable; use the latest schema-letter release." \
+              --target "$GITHUB_SHA"
+          fi
+          gh release upload live arcaverborum-live-site.tar.gz SHA256SUMS LIVE_REVISION --clobber

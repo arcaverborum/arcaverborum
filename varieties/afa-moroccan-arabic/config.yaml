@@ -1,0 +1,21 @@
+av_id: afa-moroccan-arabic
+name: Moroccan Arabic
+glottocode: moro1292
+family: Afro-Asiatic
+macroarea: Africa
+sources:
+  transcription: ratcliffearabic
+  cognates: ratcliffearabic
+extensions:
+  transcriptions: false
+  forms: false
+  cognates: false
+  concept_map: false
+  profile: false
+scoring:
+  forms_score: 0.5941
+  cognates_score: 0.0
+  tier: bronze
+pinned: false
+registered_on: '2026-05-20'
+notes: 'cognates switched from kitchensemitic to ratcliffearabic for source consistency'

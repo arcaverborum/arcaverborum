@@ -1,0 +1,300 @@
+# Arca Verborum
+
+Per-variety lexical database for computational historical linguistics.
+For each language variety, Arca builds one accepted construction from the
+best available lexical evidence, with full provenance, per-form quality
+scoring, and hand-curatable extensions. A construction may start from a
+single source, combine source data with Arca-authored corrections, or
+eventually use computed/curated cognates when that gives the best
+historical-linguistic dataset.
+
+- **Explore:** [arcaverborum.org](https://arcaverborum.org) (latest release) ·
+  [live.arcaverborum.org](https://live.arcaverborum.org) (current `master`)
+- **Download:** [releases](https://github.com/arcaverborum/arcaverborum/releases),
+  identified as `<schema letter>-<date>` (e.g. `A-2026-11-10`), each in three
+  licence tiers with the accepted-inputs snapshot that rebuilds it; see
+  [docs/RELEASES.md](docs/RELEASES.md).
+- **Contribute:** every change is a pull request; see
+  [CONTRIBUTING](https://github.com/arcaverborum/.github/blob/main/CONTRIBUTING.md),
+  the [AI policy](https://github.com/arcaverborum/.github/blob/main/AI_POLICY.md)
+  and `editors.csv`. New here? Start with `ONBOARDING.md`.
+
+Arca Verborum is built on top of Lexibank, GLED, Wiktionary and original
+sources; Lexibank's contribution is foundational. Its history before the move to
+the `arcaverborum` organization (dated batch reports, reviews and planning) is in
+the archived repository [tresoldi/arcaverborum](https://github.com/tresoldi/arcaverborum).
+
+For the current dataset and next priorities, read [STATUS](docs/STATUS.md) and
+[NEXT](docs/NEXT.md). The [coverage-planning workflow](docs/workflows/arca-coverage-planning/SKILL.md)
+records how to turn “what could be next?” into an evidence-backed batch and
+maintain the queue afterwards.
+
+## Layout
+
+```
+raw/                            downloaded source data (gitignored)
+  lexibank/<dataset>/cldf/...
+  wiktionary/raw.jsonl.gz
+  glottolog/languages.csv
+  concepticon/concepticon.tsv
+
+intake/                         pre-processed per-source CSVs (gitignored)
+  lexibank/{forms,languages,parameters_raw,metadata}.csv
+  wiktionary/{forms,languages,parameters_raw}.csv
+
+varieties/<av_id>/              one dir per variety (tracked)
+  config.yaml                   source picks, extensions, notes, scoring
+  custom/transcriptions.csv     per-form transcription column overrides
+  custom/forms.csv              additive new (concept, form) rows
+  custom/cognates.csv           per-form cognate overrides
+  custom/concept_map.csv        per-Parameter_ID Concepticon fixes
+  generated/forms.csv           gitignored — output of `build.py update`
+  generated/build_manifest.json gitignored — input fingerprint (skip-if-unchanged)
+
+output/aggregate/               (gitignored) union across enrolled varieties
+
+src/arcaverborum/               package code
+  catalog.py · score.py · supplements.py · phonology.py
+  variety.py · aggregate.py · forms_schema.py · tracking.py · avid.py · explore.py
+  concepts.py · concept_audit.py · concepticon.py
+  sources/{lexibank,gled,wiktionary,glottolog,concepticon}.py
+  data/{score_weights.yaml, selection.csv, family_codes.csv, varieties.csv,
+        concepts.csv, semantic_field_codes.csv, concept_overrides.csv, ...}
+
+build.py                        top-level build CLI
+explore.py                      top-level query CLI (SQLite-indexed)
+```
+
+## Variety IDs (`av_id`)
+
+Each variety has a stable, human-readable primary key of the form
+`<family_code>-<name_slug>` — e.g. `ine-latin`, `sit-mandarin-chinese`,
+`bas-basque` — with a `-2`, `-3` … suffix only to break collisions.
+
+* `family_code` is a 3-char code for the variety's **top-level Glottolog
+  family** (the only genealogical dimension in the key, so IDs survive
+  Glottolog reclassifications of subgroups). Codes live in the committed,
+  curatable `src/arcaverborum/data/family_codes.csv`; `und` = undetermined
+  family. Macroarea, subfamily, and coordinates stay as columns, not in
+  the key.
+* IDs are **assigned once and frozen** in `src/arcaverborum/data/varieties.csv`
+  (Glottocode ↔ av_id). The Glottocode is kept as a column (mapping to
+  Glottolog/ISO) but is no longer the av_id. See `arcaverborum.avid`.
+
+## Concept IDs (`concept_id`)
+
+Concepts get the same treatment as varieties: our own frozen,
+human-readable key, mapping to Concepticon as a column.
+
+* `concept_id` has the form `<field_code>-<label_slug>` — e.g. `phy-water`,
+  `bod-hair`, `act-eat`, `spa-below-or-under` — with a `-<qualifier>` or
+  `-2` suffix only to break within-field collisions. `field_code` is a
+  3-char code for the concept's Concepticon **semantic field** (the only
+  coarse, stable dimension in the key). All lowercase, query-friendly.
+* The clean `label` and a `pos` tag (`n`/`v`/`adj`/…) are columns, so the
+  verb/noun ambiguity, parentheses, and disjunctive glosses of Concepticon
+  never enter the data. The `concepticon_id` is kept as a column.
+* IDs are **assigned once and frozen** in
+  `src/arcaverborum/data/concepts.csv`; field codes live in the curatable
+  `src/arcaverborum/data/semantic_field_codes.csv`. Drift against
+  Concepticon is surfaced by `python build.py concepts` (never silently
+  re-keyed). See
+  `arcaverborum.concepts` and `docs/CONCEPTS_SPECIFICATION.md`.
+
+## CLI
+
+```bash
+python build.py fetch --source lexibank      # clone Lexibank repos
+python build.py fetch --source all           # fetch every source
+
+python build.py ingest --source lexibank     # raw/lexibank → intake/lexibank
+python build.py ingest --source wiktionary   # raw/wiktionary → intake/wiktionary
+
+python build.py register lati1261            # create varieties/ine-latin/ (accepts Glottocode or av_id)
+python build.py extend ine-latin            # scaffold custom/*.csv templates
+python build.py update ine-latin            # build generated/forms.csv
+python build.py update --all                 # build everything (skips unchanged)
+python build.py update --family Indo-European
+python build.py update --all --force         # rebuild even if unchanged
+
+python build.py aggregate                    # union into output/aggregate/
+python build.py concepts                     # audit the concept catalog vs Concepticon
+python build.py concepts --mint              # mint ids for new in-use concepts
+python build.py status                       # enrollment / freshness
+
+python build.py snapshot DIR --archive X.tar.gz   # export the accepted-inputs snapshot
+python build.py release A-2026-11-10         # schema-A release in full/redistributable/by tiers
+```
+
+### Incremental builds
+
+`update` rebuilds a variety only when one of its inputs changed. Each
+build records a fingerprint in `generated/build_manifest.json` over four
+components:
+
+- **config** — the output-relevant fields of `config.yaml` (source picks,
+  scoring, identity; not the auto-managed `extensions` flags or `notes`).
+- **custom** — the bytes of the four `custom/*.csv` override files.
+- **slice** — the variety's own intake rows (Glottocode × transcription
+  source), with Concepticon resolution folded in.
+- **recipe** — the transform code (`variety.py`, `phonology.py`,
+  `aggregate.py`), `score_weights.yaml`, and the merkmal version.
+
+Re-running `update` with nothing changed skips every variety; re-ingesting
+one source rebuilds only the varieties whose slice actually changed;
+editing the build code (or `--force`) rebuilds all. Manifests live under
+the gitignored `generated/`, so a fresh checkout rebuilds from scratch.
+
+### Source universe and priority
+
+Selection considers every source — all Lexibank datasets, GLED, and
+Wiktionary. The current implementation uses a priority floor so noisier
+sources remain fallback candidates:
+
+| Priority | Sources | When they win |
+|---|---|---|
+| 1 | All Lexibank datasets | Always preferred; best composite score wins |
+| 2 | GLED | Only when no Lexibank source covers the variety |
+| 3 | Wiktionary | Only when neither Lexibank nor GLED covers it |
+
+Fallback picks (priority 2–3) never rank above the `copper` tier.
+
+The intended curation policy is evolving: curated lexical datasets should
+come first, Wiktionary should be treated as an important fallback and
+research entry point, and GLED should be reserved for last-resort
+scaffolding. See `docs/CURATION_WORKFLOW_SPECIFICATION.md`; build behavior
+has not yet been changed to enforce that policy.
+
+### Variety dirs are config-only by default
+
+`register` writes just `config.yaml`. The `custom/*.csv` templates are
+scaffolded on demand with `build.py extend <av_id>` (keeps the tree
+light at thousands of varieties). The build treats missing custom files
+as "no extension".
+
+## Exploring the data (`explore.py`)
+
+A small console "database interface" over the aggregate output. It loads
+`output/aggregate/*.csv` once into a local SQLite index
+(`output/explore.sqlite`, gitignored) with the obvious indexes, then
+answers queries instantly.
+
+Run `python explore.py` with no arguments for detailed help with worked
+examples for every command (and `python explore.py <command> -h` for one
+command's own options).
+
+```bash
+python explore.py index                       # build/refresh the index (~25s; needs `aggregate` first)
+
+python explore.py langs --family Indo-European # list varieties (filters: --family/--macroarea/--tier/--source/--search)
+python explore.py lang Latin                   # all forms of a variety (av_id, Glottocode, or name)
+python explore.py lang lati1261 --concept phy-water
+python explore.py concept phy-water --family Indo-European   # a concept across varieties (concept_id, label, or Concepticon ID)
+python explore.py cognate --concept phy-water  # cognate sets attested for a concept
+python explore.py cognate iecor_335            # members of one cognate set
+python explore.py form '水' --concept phy-water # search surface forms (Form/Value)
+python explore.py concepts                     # concepts ranked by coverage
+python explore.py stats --family Indo-European # summary statistics (omit --family for global)
+python explore.py sql "SELECT tier, COUNT(*) FROM forms GROUP BY tier"   # read-only SQL
+python explore.py info                         # tables, columns, build provenance
+```
+
+Notes:
+
+* Every command takes `--limit N` (`0` = all) and `--csv` (full-fidelity,
+  `\n`-terminated, pipe-friendly). The console view shows a curated column
+  subset; `--csv` and `sql` emit all columns.
+* `lang` resolves an av_id, a Glottocode, or a name (exact, then
+  substring) and reports the resolution.
+* Cognate identity is keyed on `canonical_cognate_id` when present, else
+  the per-source `Cognacy` code (the canonical id is reserved and not yet
+  populated).
+* `descendants` is a stub: etymological descent links aren't in the schema
+  yet (Wiktionary descendant chains aren't ingested); it points to the
+  cognate commands, which are the nearest available relation.
+* `sql` accepts a single read-only statement (`SELECT`/`WITH`/`PRAGMA`/
+  `EXPLAIN`); writes are rejected and the connection is opened query-only.
+* The index is rebuilt only when the aggregate CSVs change; other commands
+  warn if the index is older than `output/aggregate/`.
+
+## Variety config (`varieties/<av_id>/config.yaml`)
+
+```yaml
+av_id: ine-latin
+name: Latin
+glottocode: lati1261
+family: Indo-European
+macroarea: Eurasia
+sources:
+  transcription: kesslersignificance
+  cognates: kesslersignificance
+extensions:
+  transcriptions: false
+  forms: false
+  cognates: false
+  concept_map: false
+scoring:
+  forms_score: 0.9938
+  cognates_score: 0.7000
+  tier: bronze
+pinned: false
+notes: |
+  auto: forms=kesslersignificance (0.99); cognates=kesslersignificance (0.70)
+```
+
+## Extension semantics
+
+* **transcriptions.csv** — per-form column override matched by
+  `source_form_id` or `Concepticon_ID`. Source row's other columns are
+  preserved. Use for hand-cleaned phonology on top of source data.
+* **forms.csv** — purely additive new rows (e.g. a form your source
+  didn't include). Get auto-assigned `custom_<av_id>_<n>` IDs and
+  `transcription_source=custom`.
+* **cognates.csv** — per-`source_form_id` cognate column overrides.
+* **concept_map.csv** — per-`Parameter_ID` concept fixes: correct the
+  `Concepticon_ID`/`Concepticon_Gloss`, or pin our `concept_id` directly.
+
+When custom columns are non-empty they override the source's; empty
+columns leave source values intact.
+
+## Phonology
+
+Source segments are canonicalized to clean BIPA and kept when merkmal-valid
+(`source`), using merkmal's `descriptive` system — the merkmal-native
+categorical engine the downstream cognate toolchain also uses. Validity is
+generative (features derived compositionally from base + diacritics).
+Each token is passed through `merkmal.normalize`, which resolves CLTS
+source/BIPA slash notation (`a/b` → `b`), expands deprecated affricate
+ligatures (`ʤ` → `dʒ`), maps ASCII colon to the IPA length mark, and strips
+suprasegmental stress; Arca also maps source shorthand such as `mb` and
+`nd` to the explicit prenasalized modifier forms `ᵐb` and `ⁿd`. Tone
+digits are attached to their nucleus before the validity check (and kept as
+separate tokens in the output). Source segments that still fail are kept
+verbatim and flagged `unclean` — real IPA is never
+discarded in favour of re-segmenting the (often orthographic) form, so a
+later normalization pass can reclaim those tokens in place. Only when source
+segments are absent is the form re-segmented via merkmal's IPA tokenizer
+(`segment_ipa`, `resegmented`); if any token fails to validate it is
+`unclean`. `Segments_Source` in every output row records `source`,
+`resegmented`, or `unclean`.
+
+## Documentation
+
+* `docs/README.md` — documentation map.
+* `docs/RELEASES.md` — release identifiers, tiers, licensing and how a
+  release is cut and rebuilt.
+* `docs/BESTOF_SPECIFICATION.md` — current build mechanics, quality model,
+  selection logic, and aggregate schema.
+* `docs/CONCEPTS_SPECIFICATION.md` — frozen concept catalog and
+  Concepticon mapping.
+* `docs/CURATION_WORKFLOW_SPECIFICATION.md` — planned language curation
+  workflow, authority recipes, derived layers, and pilot scope.
+
+## Licence
+
+* Code: MIT (`LICENSE`).
+* Lexical records keep their source's terms, per row (`License`,
+  `terms_status`); releases come in `full`, `redistributable` and `by` tiers.
+* Arca's own work (identifiers, catalogs, concept/WordNet links, scores) is
+  CC BY 4.0; adaptations of ShareAlike records keep their source's terms.
+  See [docs/RELEASES.md](docs/RELEASES.md#licensing).

@@ -1,0 +1,170 @@
+"""Lexibank: clone/update CLDF wordlist datasets from datasets.csv.
+
+`fetch(raw_root)` clones into `raw_root/lexibank/<dataset>/` (170 repos).
+Datasets needing conversion (e.g. GLED) are post-processed via
+`arcaverborum.sources.gled.convert`.
+"""
+
+from __future__ import annotations
+
+import csv
+import logging
+import subprocess
+from pathlib import Path
+
+logger = logging.getLogger(__name__)
+
+DATASETS_CSV_DEFAULT = Path("datasets.csv")
+DATASETS_NEEDING_CONVERSION = {"gled"}
+
+
+def _clone(name: str, url: str, target_dir: Path) -> bool:
+    try:
+        subprocess.run(
+            ["git", "clone", "--depth", "1", url, str(target_dir)],
+            capture_output=True,
+            text=True,
+            check=True,
+        )
+        return True
+    except subprocess.CalledProcessError as e:
+        logger.error("clone %s: %s", name, e.stderr.strip())
+        return False
+
+
+def _update(name: str, repo_dir: Path) -> bool:
+    try:
+        subprocess.run(
+            ["git", "-C", str(repo_dir), "pull"],
+            capture_output=True,
+            text=True,
+            check=True,
+        )
+        return True
+    except subprocess.CalledProcessError as e:
+        logger.error("pull %s: %s", name, e.stderr.strip())
+        return False
+
+
+def _read_datasets(csv_path: Path) -> list[dict[str, str]]:
+    with csv_path.open(encoding="utf-8") as f:
+        return [dict(r) for r in csv.DictReader(f) if r.get("NAME") and r.get("URL")]
+
+
+def fetch(
+    raw_root: Path,
+    datasets_csv: Path = DATASETS_CSV_DEFAULT,
+    curated_only: bool = False,
+    expert_cognates_only: bool = False,
+    dry_run: bool = False,
+) -> dict[str, int]:
+    target_dir = raw_root / "lexibank"
+    target_dir.mkdir(parents=True, exist_ok=True)
+
+    repos = _read_datasets(datasets_csv)
+    if curated_only:
+        repos = [r for r in repos if r.get("CORE", "").strip().upper() == "TRUE"]
+    elif expert_cognates_only:
+        repos = [r for r in repos if r.get("ExpertCognates", "").strip().upper() == "TRUE"]
+
+    logger.info("Fetch lexibank: %d repos", len(repos))
+    stats = {"cloned": 0, "updated": 0, "failed": 0}
+    import json
+
+    ancient = {
+        r["dataset"]
+        for r in json.loads((Path(__file__).resolve().parents[1] / "data/ancient_lexical_sources.json").read_text())
+    }
+
+    african = {
+        r["dataset"]
+        for r in json.loads((Path(__file__).resolve().parents[1] / "data/african_lexical_sources.json").read_text())
+    }
+
+    american = {
+        r["dataset"]
+        for r in json.loads((Path(__file__).resolve().parents[1] / "data/american_evidence_sources.json").read_text())
+    }
+
+    reviewed_cldf = {
+        r['dataset']
+        for r in json.loads((Path(__file__).resolve().parents[1] / 'data/reviewed_cldf_sources.json').read_text())
+    }
+
+    original_lexica = {
+        r['dataset']
+        for r in json.loads((Path(__file__).resolve().parents[1] / 'data/original_lexical_sources.json').read_text())
+    }
+
+    for repo in repos:
+        name = repo["NAME"].strip()
+        url = repo["URL"].strip()
+        repo_dir = target_dir / name
+
+        if dry_run:
+            action = (
+                "materialize reviewed source"
+                if name in (ancient | african | american | reviewed_cldf | original_lexica
+                            | {"bodtbangru", "gerardije2025", "rvidinfinitives"})
+                else ("update" if repo_dir.exists() else "clone")
+            )
+            logger.info("[dry-run] %s %s", action, name)
+            continue
+
+        if name in ancient | african | american | reviewed_cldf | original_lexica:
+            if name in original_lexica:
+                from arcaverborum.sources.original_lexica import materialize
+            elif name in reviewed_cldf:
+                from arcaverborum.sources.reviewed_cldf import materialize
+            elif name in american:
+                from arcaverborum.sources.american_evidence import materialize
+            elif name in african:
+                from arcaverborum.sources.african_lexica import materialize
+            else:
+                from arcaverborum.sources.ancient_lexica import materialize
+
+            existed = repo_dir.exists()
+            try:
+                materialize(raw_root, dataset=name, download=True)
+                stats["updated" if existed else "cloned"] += 1
+            except (OSError, ValueError, RuntimeError) as error:
+                logger.error("Historical source fetch %s: %s", name, error)
+                stats["failed"] += 1
+            continue
+
+        if name in {"bodtbangru", "gerardije2025", "rvidinfinitives"}:
+            # These frozen originals need reviewed materialization, not Git pull.
+            if name == "bodtbangru":
+                from arcaverborum.sources.bangru_original import materialize
+            elif name == "gerardije2025":
+                from arcaverborum.sources.je_original import materialize
+            else:
+                from arcaverborum.sources.rvid import materialize
+            existed = repo_dir.exists()
+            try:
+                materialize(raw_root, download=True)
+                stats["updated" if existed else "cloned"] += 1
+            except (OSError, ValueError, RuntimeError) as error:
+                logger.error("Original source fetch %s: %s", name, error)
+                stats["failed"] += 1
+            continue
+
+        if repo_dir.exists():
+            ok = _update(name, repo_dir)
+            stats["updated" if ok else "failed"] += 1
+        else:
+            ok = _clone(name, url, repo_dir)
+            stats["cloned" if ok else "failed"] += 1
+
+        if ok and name in DATASETS_NEEDING_CONVERSION:
+            from arcaverborum.sources import gled
+
+            gled.convert(repo_dir)
+
+    logger.info("Lexibank fetch summary: %s", stats)
+    return stats
+
+
+if __name__ == "__main__":
+    logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
+    fetch(Path("raw"))

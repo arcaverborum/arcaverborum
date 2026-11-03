@@ -1,0 +1,23 @@
+av_id: afa-somali
+name: Somali
+glottocode: soma1255
+family: Afro-Asiatic
+macroarea: Africa
+sources:
+  transcription: wiktionary
+  cognates: wiktionary
+extensions:
+  transcriptions: false
+  forms: false
+  cognates: false
+  concept_map: true
+  profile: true
+scoring:
+  forms_score: 0.913
+  cognates_score: 0.0671
+  tier: bronze
+pinned: true
+registered_on: '2026-05-20'
+notes: 'Wiktionary orthographic-profile pilot (2026-10-23): broader core coverage;
+  broad segmental IPA only, no inferred tone or vowel harmony. Wiktionary etymologies
+  are not expert cognates. See PACKET.md.'

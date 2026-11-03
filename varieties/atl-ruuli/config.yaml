@@ -1,0 +1,23 @@
+av_id: atl-ruuli
+name: Ruuli
+glottocode: ruul1235
+family: Atlantic-Congo
+macroarea: Africa
+sources:
+  transcription: ruruulioriginal
+  cognates: ruruulioriginal
+  source_language_id: ruruulioriginal_RuruuliLunyala
+extensions:
+  transcriptions: false
+  forms: false
+  cognates: false
+  concept_map: false
+  profile: false
+scoring:
+  forms_score: 0.0843
+  cognates_score: 0.0
+  tier: copper
+pinned: true
+registered_on: '2026-05-20'
+notes: Q07 reviewed original dictionary primary; previous native evidence pinned separately,
+  including unmapped records. Lexical authority is separate from phonetic support.

@@ -1,0 +1,24 @@
+av_id: nub-apinaye
+name: Apinayé
+glottocode: apin1244
+family: Nuclear-Macro-Je
+macroarea: South America
+sources:
+  transcription: gerardije2025
+  cognates: gerardije2025
+  source_language_id: gerardije2025_Apinaye
+extensions:
+  transcriptions: false
+  forms: false
+  cognates: false
+  concept_map: false
+  profile: true
+scoring:
+  forms_score: 0.7
+  cognates_score: 0
+  tier: bronze
+pinned: true
+registered_on: '2026-05-20'
+notes: Licensed Jê study exact member with language-specific documented broad phonemic
+  profile. Earlier GLED/Wiktionary evidence retained separately; unreviewed notation
+  and automatic cognacy held.

@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "Cite the Arca Verborum release you used (identifier and DOI), together with the original sources of the records."
+title: "Arca Verborum: a per-variety lexical database for computational historical linguistics"
+type: dataset
+authors:
+  - family-names: Tresoldi
+    given-names: Tiago
+    orcid: "https://orcid.org/0000-0002-2863-1467"
+    affiliation: "Department of Linguistics and Philology, Uppsala University"
+url: "https://arcaverborum.org"
+repository-code: "https://github.com/arcaverborum/arcaverborum"
+license: MIT
+license-url: "https://github.com/arcaverborum/arcaverborum/blob/master/docs/RELEASES.md#licensing"
+keywords:
+  - historical linguistics
+  - comparative linguistics
+  - lexical database
+  - wordlist
+  - cognates
+  - CLDF
+  - Concepticon
+  - WordNet
+references:
+  - type: article
+    title: "Lexibank, a public repository of standardized wordlists with computed phonological and lexical features"
+    authors:
+      - family-names: List
+        given-names: Johann-Mattis
+      - family-names: Forkel
+        given-names: Robert
+      - family-names: Greenhill
+        given-names: Simon J.
+      - family-names: Rzymski
+        given-names: Christoph
+      - family-names: Englisch
+        given-names: Johannes
+      - family-names: Gray
+        given-names: Russell D.
+    journal: "Scientific Data"
+    volume: 9
+    year: 2022
+    doi: "10.1038/s41597-022-01432-0"

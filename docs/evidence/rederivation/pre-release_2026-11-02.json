@@ -1,0 +1,26 @@
+{
+ "snapshot": "arcaverborum-snapshot.tar.gz (pre-release, 2026-11-02)",
+ "snapshot_git_commit": "077ceeb45fe7bf28853e6d1a3eb59e8a888ea4e8",
+ "exported_ref": "HEAD",
+ "compared_files": 32511,
+ "identical": 32511,
+ "missing": [],
+ "extra": [],
+ "differ": [],
+ "n_missing": 0,
+ "n_extra": 0,
+ "n_differ": 0,
+ "timings_seconds": {
+  "update": 524.6,
+  "aggregate": 64.4,
+  "web": 991.4
+ },
+ "ok": true,
+ "snapshot_sha256": "a4a323f06700b833dd2016f3649650d29d2390433bf9f3deee5746451c2bdaae",
+ "snapshot_bytes": 126900906,
+ "snapshot_uncompressed_bytes": 1083882984,
+ "source_repository": "tresoldi/arcaverborum (local commit; tree identical to this repository apart from documentation)",
+ "method": "scripts/verify_rederivation.py --web: git archive of the commit into an empty directory, snapshot unpacked, network disabled via proxies, ARCA_BUILD_DATE pinned; build.py update --all, build.py aggregate, scripts/build_research_web.py --with-communities; every derived file compared byte for byte with the maintainer reference build.",
+ "host": "devbox (4 cores, 7.6 GB RAM)",
+ "date": "2026-11-02"
+}

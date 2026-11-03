@@ -1,0 +1,21 @@
+av_id: mon-oirad-kalmyk-darkhat
+name: Oirad-Kalmyk-Darkhat
+glottocode: kalm1243
+family: Mongolic-Khitan
+macroarea: Eurasia
+sources:
+  transcription: northeuralex
+  cognates: northeuralex
+extensions:
+  transcriptions: false
+  forms: false
+  cognates: false
+  concept_map: false
+  profile: false
+scoring:
+  forms_score: 0.9302
+  cognates_score: 0.0
+  tier: bronze
+pinned: false
+registered_on: '2026-05-20'
+notes: 'auto: forms=northeuralex (0.93)'

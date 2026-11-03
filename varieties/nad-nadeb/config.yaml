@@ -1,0 +1,25 @@
+av_id: nad-nadeb
+name: Nadëb
+glottocode: nade1244
+family: Naduhup
+macroarea: South America
+sources:
+  transcription: hgnphonemic
+  cognates: hgnphonemic
+  source_language_id: hgnphonemic_122
+extensions:
+  transcriptions: false
+  forms: false
+  cognates: false
+  concept_map: false
+  profile: false
+scoring:
+  forms_score: 0.5556
+  cognates_score: 0.0
+  tier: bronze
+pinned: true
+registered_on: '2026-05-20'
+notes: R01 original HGN75 Roçado supplied phonemic citations primary;34 Rio Negro
+  separately scoped supplements and one preceding record preserved verbatim. Contextual
+  citations retain quantity, nasality and phonation; no new stress/tone or cognacy
+  inferred.

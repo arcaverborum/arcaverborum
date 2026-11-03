@@ -1,0 +1,140 @@
+# Completed work and historical evidence
+
+* [NXT-01–04/06,2026-11-02](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/research/NXT_EXECUTION_2026-11-02.md):441 new records, four language-level identities and one specialist register; seven source-traced definitions,235 typed WordNet links, continuous Kipeá section collation and a reviewed-source release. NXT-05 deferred by user. [Metrics](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/research/nxt_metrics_2026-11-02.json).
+
+Use [STATUS](../STATUS.md) for the current baseline and [NEXT](../NEXT.md) for
+active proposals. Reports and companion CSV/JSON files retain their dated paths
+so packet links and source references remain stable. A historical shortlist or
+“held” decision is not automatically the current work queue.
+
+## Accepted data batches
+
+* [PROJ-01–06,2026-11-02](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/research/PROJECT_EXECUTION_2026-11-02.md):940 new typed WordNet links for933 concepts; four Kipeá written citations,19 Yasa native-sense mappings and35,096 guarded cognacy repairs. Source-visible model-review/scope workspaces and a deterministic All accepted candidate; original-authority and expert gates retained.
+
+* [CINF-01–05,2026-11-01](../research/CINF_EXECUTION_2026-11-01.md):326 spelling repairs,109 phonemic recoveries, independent model review and a76-pair bounded-memory study; simpler models win sampled panels, no confidence promotion. Published analytical/source refresh and explicit expert/source gates.
+
+* [Colexification v2,2026-11-01](../COLEXIFICATION_ROBUSTNESS_2026-11-01.md):95 incorrect assignments cleared, all native records preserved; source-sense eligibility, bounded influence, family/resource replication,81 model runs and explicit uncertainty. [Metrics](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/colexification_robustness_metrics_2026-11-01.json).
+
+* [Regional R00–R09,2026-11-01](../REGIONAL_EXECUTION_2026-11-01.md):64 records/47 supported core slots, newly explicit17-noun Shinekhen written pilot, three original LexiRumah primary promotions retaining119 GLED records, complete11,457-row Mongolic edition and explicit zero-admission regional gates. [Metrics](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/regional_summary_2026-11-01.json).
+
+* [Worldwide U01–U12](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/WORLDWIDE_U_EXECUTION_2026-10-30.md):45,549 records,8,290 supported readings, one newly explicit canonical Kipeá construction and8,998,169 new intake rows; exact source/reading/sense gates retained. [Metrics](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/worldwide_u_summary_2026-10-30.json).
+
+* [Southern Cone/CHIRILA T01–T08](../SOUTHERN_T_EXECUTION_2026-10-30.md):106 records,47 supported/core slots, three historical language pilots, four recovered Laklãnõ readings and complete private CHIRILA transport/identity review. [Metrics](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/southern_t_summary_2026-10-30.json).
+
+* [Worldwide original-source S01–S09](../WORLDWIDE_S_EXECUTION_2026-10-30.md): twelve native-preserving intake namespaces; eleven canonical languages/one named variety, original African primary improvements, finite readings and precise holds. [Metrics](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/worldwide_s_summary_2026-10-30.json), [verification](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/worldwide_s_verification_2026-10-30.json).
+
+* [Worldwide R01–R09,2026-10-30](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/WORLDWIDE_R_EXECUTION_2026-10-30.md):337 records,248 supported slots/144 core, three substantive written-language pilots, native-preserving source acquisition and exact evidence holds. [Metrics](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/worldwide_r_summary_2026-10-30.json).
+
+* [JOHD/HGN J01–J04,2026-10-29](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/JOHD_EVIDENCE_EXECUTION_2026-10-29.md):151 records,64 supported slots/45 core, three explicitly written reconstruction inventories, original HGN recovery and ten exact semantic mappings. [Metrics](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/johd_execution_summary_2026-10-29.json).
+
+* [Worldwide Q01–Q08,2026-10-29](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/WORLDWIDE_Q_EXECUTION_2026-10-29.md):325 records, two24-entry written language pilots, three primary changes, native-evidence preservation, dictionary depth and exact Etruscan edition acquisition. [Metrics](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/worldwide_q_summary_2026-10-29.json).
+
+* [Worldwide WN01–WN09,2026-10-29](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/WORLDWIDE_WN_EXECUTION_2026-10-29.md):493 records,336 supported slots, three minimal-language pilots, ten primary changes and per-concept source-fidelity reporting. [Metrics](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/worldwide_wn_summary_2026-10-29.json).
+
+* [Wiktionary source preference WS,2026-10-29](../WIKTIONARY_SOURCE_SELECTION_2026-10-29.md): four reviewed primary changes, additional Yurok/Ternate supplied IPA, all earlier GLED evidence retained. [Metrics](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/wiktionary_source_selection_summary_2026-10-29.json).
+
+* [Worldwide follow-up WF01–WF12,2026-10-29](../WORLDWIDE_FOLLOWUP_EXECUTION_2026-10-29.md):543 records,408 net supported slots, West Papua/Torricelli, two named varieties, original dictionary depth, ancient context and semantic corrections. [Metrics](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/worldwide_followup_summary_2026-10-29.json).
+
+* [Worldwide GW01–GW10,2026-10-29](../WORLDWIDE_EXPANSION_2026-10-29.md):
+  657 records,532 net supported slots,one written-only new language,three named
+  Italian samples,original IPA/context recovery and semantic correction.
+  [Metrics](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/worldwide_expansion_summary_2026-10-29.json).
+
+* [African follow-up AX01–AX06,2026-10-29](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/AFRICA_FOLLOWUP_2026-10-29.md):
+  363 new records,80 recovered readings,one written-only new language,two GLED
+  swaps and semantic/identity corrections. [Metrics](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/africa_followup_summary_2026-10-29.json).
+
+* [Sub-Saharan Africa/Bantu AF01–AF09,2026-10-28](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/AFRICA_EXPANSION_2026-10-28.md):
+  supplied readings, bounded original dictionary profiles, two written-only new
+  languages, two loss-preserving GLED primary replacements and explicit holds.
+  [Realized metrics](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/africa_expansion_summary_2026-10-28.json).
+
+## Planning investigations
+
+* [Whole-project priorities,2026-11-02](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/planning/PROJECT_NEXT_2026-11-02.md): fresh additive/GLED/reviewed/missing-member diagnostics; lexical depth and original sources first, then senses, observation review, cognacy and reproducible release. Planning only; no new admissions.
+
+* [Worldwide original sources after R,S01–S09,2026-10-30](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/WORLDWIDE_AFTER_R_SOURCE_PLAN_2026-10-30.md): actual RefLex payload audit, new original dictionary/CLDF/workbook acquisitions and source-specific profile gates; planning only, accepted data unchanged.
+
+* [Worldwide after WN,Q01–Q08](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/WORLDWIDE_AFTER_WN_PLAN_2026-10-29.md): zero-supported reading recovery, dictionary-scale new-language pilots, original-source depth, Australia, locality/citation conventions and ancient editions; not executed.
+
+* [Worldwide after WS,WN01–WN09](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/WORLDWIDE_NEXT_AFTER_WS_2026-10-29.md): proposed balanced source upgrades, original dictionary depth, missing-language search and quality reporting; not executed.
+
+* [Worldwide follow-up WF01–WF10,2026-10-29](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/WORLDWIDE_FOLLOWUP_2026-10-29.md): post-GW recommendations, identity checks and exact source-member candidates; not executed.
+
+* [Worldwide next-work investigation,2026-10-29](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/WORLDWIDE_NEXT_2026-10-29.md):
+  global coverage/quality baseline and GW01–GW10 proposed; no lexical changes.
+
+* [Sub-Saharan Africa, especially Bantu,2026-10-28](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/SUBSAHARAN_AFRICA_INVESTIGATION_2026-10-28.md):
+  ancestry-scoped485-construction Bantu baseline, TLS/IPA/profile depth, loss-aware
+  GLED screen, actual RefLex and original dictionary acquisitions, and AF01–AF09
+  proposed. Zero accepted-data changes.
+
+
+* [Ancient languages worldwide,2026-10-28](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/ANCIENT_LANGUAGES_INVESTIGATION_2026-10-28.md):
+  58-construction baseline, historical qualified-reading ceilings, three pinned
+  original-source research samples and AN01–AN09 proposed. Zero accepted-data changes.
+
+* [Romance / Italian area,2026-10-28](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/ROMANCE_INVESTIGATION_2026-10-28.md):
+  supplied/profile/locality triage, pinned RVID snapshot and acquisition gates;
+  R01–R06 proposed, zero accepted-data changes.
+
+* [Central/North America,2026-10-28](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/NORTH_AMERICA_INVESTIGATION_2026-10-28.md):
+  regional triage, GLED/profile review, two pinned Zapotec dictionary acquisitions,
+  placeholder/identity findings and proposed NA01–NA07. Zero accepted-data changes.
+
+## Batch reports
+
+Newest completed batches first. Each report links its decisions and metrics.
+
+* [Ancient languages AN01–AN09,2026-10-28](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/ANCIENT_EXPANSION_2026-10-28.md):
+  qualified historical readings, written lexical pilots, original-source metadata
+  and acquisition gates; explicit Etruscan/Elamite priority.
+
+| Report | Work recorded |
+| --- | --- |
+| [Romance R01–R06](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/ROMANCE_EXPANSION_2026-10-28.md) | 176 new source forms,16 profile readings,+138 supported slots in existing constructions;14 named samples; RVID acquisition and Alpine evidence gates |
+| [Central/North America NA01–NA07](../NORTH_AMERICA_EXPANSION_2026-10-28.md) | +377 supported core slots;508 new lexical forms;755 recording placeholders separated; Tseltal replacement, Zapotec/Alutiiq profiles and Nizaviguiti named-variety admission |
+| [Source-led N01–N05](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/SOURCE_LED_EXPANSION_2026-10-28.md) | +269 forms/+164 supported core slots; broader Jê non-core vocabulary; Lule and Apolista evidence holds |
+| [South American depth, 2026-10-28](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/SOUTH_AMERICA_DEPTH_2026-10-28.md) | Mastanahua, Tupinambá and four Tupian constructions; Panará/Apinayé profiles and GLED replacements; Ingain numerals; six missing-language holds |
+| [South American coverage, 2026-10-28](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/SOUTH_AMERICA_COVERAGE_2026-10-28.md) | Guaraní/Hoti/Yurutí, Arawakan/Tupian supplements; Xerénte/Xavánte replacements; Ingain admission |
+| [Amazonian expansion, 2026-10-27](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/AMAZONIAN_EXPANSION_2026-10-27.md) | Amahuaca, Puinave, Apurinã/Resígaro/Baré, dictionary work and original-source Bangru |
+| [Coverage batch, 2026-10-27](../COVERAGE_BATCH_2026-10-27.md) | Dictionary senses, American supplements, Iquito profile, Sikuani/Hitnu and acquisition screening |
+| [Americas coverage follow-up, 2026-10-27](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/AMERICAS_COVERAGE_FOLLOWUP_2026-10-27.md) | Dictionary/profile, provenance and Americas work before those batches |
+| [Data expansion, 2026-10-27](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/DATA_EXPANSION_2026-10-27.md) | Supplied Wiktionary IPA recovery, source promotion and additional languages |
+| [Continued expansion, 2026-10-27](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/CONTINUED_EXPANSION_2026-10-27.md) | Amazonian named samples, Pannonian profile and staged refreshes; later metrics supersede this snapshot |
+| [Source expansion, 2026-10-27](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/SOURCE_EXPANSION_2026-10-27.md) | Repository inventory, Lote/Tomoip admission and source freshness screen |
+
+The [journal](../JOURNAL.md) provides chronological handoffs across batches.
+Earlier language recovery decisions are in
+[coverage recovery, 2026-10-23](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/coverage_recovery_2026-10-23.csv).
+
+## Snapshot queues and source migrations
+
+* [Initial GLED queue](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/GLED_REPLACEMENT_QUEUE_2026-10-27.md): historical
+  shortlist; several selections were subsequently replaced.
+* [Staged refresh review](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/source_refresh_2026-10-27/README.md): historical
+  IECOR/ABVD comparison. Check later promotion/identity reports before acting.
+* [ABVD promotion](../abvd_promotion_2026-10-27.csv) and
+  [identity review](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/abvd_identity_review_2026-10-27.csv).
+* [Original-source missing-language screen](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/amazonian_expansion_missing_languages_2026-10-27.csv):
+  includes the completed Bangru admission; unresolved cases route through HELD.
+
+Dated rankings are discovery snapshots. Their rows can overlap, retain already
+reviewed holds and omit primary-source/profile opportunities. The latest useful
+ranking is linked from STATUS; refresh it after relevant intake or build changes.
+
+## Source assessments
+
+* [JOHD555 South American aggregate,2026-10-29](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/SOURCE_ASSESSMENT_JOHD555_2026-10-29.md): strong original HGN phonemic-only recovery lead, duplicate/source-quality audit and separately scoped proto-language inventories; planning only.
+
+## Worldwide planning after JOHD/HGN
+
+* [R01–R09,2026-10-30](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/WORLDWIDE_AFTER_J_PLAN_2026-10-30.md): refreshed rankings, original RefLex missing-language candidates, newly inspected African/Papuan/Maltese source releases and Australian phonemic-only recovery; historical proposal, subsequently executed in the R report above.
+
+## Southern Cone and archived CHIRILA investigation
+
+[2026-10-30 proposal T01–T08](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/SOUTHERN_CONE_CHIRILA_PLAN_2026-10-30.md): explicit Charrúa/Southern Brazil–Uruguay–Argentina priority, acquired historical/phonological originals and independently measured historical CHIRILA CSV. [Evidence](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/southern_cone_chirila_evidence_2026-10-30.json), [inventory](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/southern_cone_chirila_inventory_2026-10-30.json). Planning only; no lexical gains.
+
+## Post-T planning evidence
+
+* [Worldwide older-Brazil/full-source intake proposal U01–U12](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/WORLDWIDE_AFTER_T_BRAZIL_SOURCE_PLAN_2026-10-30.md): actual1699/1709/1863 acquisitions, Kariri identity issue, complete RefLex scaling, other Wiktionary editions, Pite1.1 route and precise bulk-source gates. Planning only; [baseline](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/worldwide_after_t_baseline_2026-10-30.json), [source evidence](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/worldwide_after_t_source_evidence_2026-10-30.json).

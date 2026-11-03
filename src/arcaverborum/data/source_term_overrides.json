@@ -1,0 +1,39 @@
+[
+  {
+    "source": "uralex",
+    "expected_metadata_sha256": "1528e9eed9e771d87e0dd7557c0e4f27795deb05aac96f48266333c2060cc769",
+    "expected_accepted_records": 9968,
+    "accepted_binding_sha256": "9d6d718b23de36785b310ce7f52056529ecd1509b8bdf0f5a6f02ddf1ca8b200",
+    "evidence_document": "docs/research/nxt_uralex_terms_binding_2026-11-02.json",
+    "evidence_document_sha256": "9010d73a3549f6df439bdba449c873c8e2c6cfa15b457f3d53585ec9f3bf5c4d",
+    "updates": {
+      "License": "https://creativecommons.org/licenses/by/4.0/",
+      "URL": "https://github.com/tresoldi/uralex",
+      "Repository_Version": "tresoldi/uralex@6b3667f770e709ebe4aa3426f8fffb9a0a818323",
+      "Citation": "Vesakoski, Outi; Tresoldi, Tiago; Soosaar, Sven-Erik; de Heer, Mervi; Maurits, Luke; Syrjänen, Kaj; Honkola, Terhi; Dunn, Michael, and UraLex contributors. Uralic basic vocabulary with cognate and loanword information. Pinned repository 6b3667f770e709ebe4aa3426f8fffb9a0a818323. Native source bibliography and form references retained. Also cite the introducing paper: Vesakoski et al., Unravelling the disintegration patterns and chronology of the Uralic language family."
+    }
+  },
+  {
+    "source": "luangthongkumkaren",
+    "expected_metadata_sha256": "cd037ae3ab20b96e20c2cd617ede80f10d34e39e32bdf365d5aa19a45f28a39f",
+    "expected_accepted_records": 1473,
+    "accepted_binding_sha256": "6c24060efe6d68c6475929cd61177cbd8f1f4654e6087e9992bef2a61e5d13c9",
+    "evidence_document": "docs/evidence/source-terms/luangthongkumkaren_2026-11-03.json",
+    "evidence_document_sha256": "0dfe8b07a5747a11b77ddb7f2951f03ff7e1a1fd5015a72c62e457b553c09042",
+    "updates": {
+      "License": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  {
+    "source": "wiktionary",
+    "expected_metadata_sha256": "df56a04407dd21b6be73d25d0430b3c16c5ddfc25059f711c96cc26f0dc0703c",
+    "expected_accepted_records": 141050,
+    "accepted_binding_sha256": "139ccbd59153da2798015a4fde12d2aa6cdc7660c95f4d91c33d3ba4a788b7bf",
+    "evidence_document": "docs/evidence/source-terms/wiktionary_legacy_2026-11-02.json",
+    "evidence_document_sha256": "65539bea1871d7210e03b7cdb062827e4095ee932b2229fe2d13c00e1db4c3de",
+    "updates": {
+      "License": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "Citation": "Wiktionary contributors. English Wiktionary, via the Kaikki/Wiktextract raw extraction (https://kaikki.org/dictionary/raw-wiktextract-data.jsonl.gz), frozen snapshot sha256:a6a32d41e35990b79a886d9082ebb3459a16fbaed6d2995aaedf6ef46d3ee643; dump date not recorded, obtained no later than 2026-08-22. Per-entry pages: https://en.wiktionary.org/wiki/<headword>. CC BY-SA 4.0 (also GFDL); Arca adaptations are CC BY-SA 4.0."
+    }
+  }
+]

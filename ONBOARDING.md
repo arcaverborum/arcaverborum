@@ -1,0 +1,338 @@
+# Arca Verborum Onboarding
+
+This guide is for a checkout of `arcaverborum/arcaverborum`.
+Generated products under `varieties/*/generated/`, `intake/`, `raw/`, and
+`output/` are intentionally not part of the committed source of truth.
+
+Read [STATUS](docs/STATUS.md) for the accepted baseline and [NEXT](docs/NEXT.md)
+for proposed work. Use [the planning workflow](docs/workflows/arca-coverage-planning/SKILL.md)
+when choosing an expansion batch, [the journal](docs/JOURNAL.md) for handoff
+history, and [the documentation map](docs/README.md) for technical references.
+
+## 1. Project Shape
+
+Arca Verborum is a per-variety lexical database for computational
+historical linguistics. Each variety has a stable `av_id`, selected source
+configuration, optional curated extensions, and generated per-variety forms.
+The aggregate product is built from those per-variety outputs.
+
+The current goal is not just to pick a source mechanically. Arca builds one
+accepted authoritative construction per language. That construction may use
+a source as-is, use a source plus explicit corrections, or eventually use
+Arca-derived layers and computed/curated cognates when they are reviewed.
+
+## 2. Data Flow
+
+```
+fetch     -> raw/<source>/...                         downloaded; gitignored
+ingest    -> intake/<source>/{forms,languages,...}    normalized intake; gitignored
+register/curate -> varieties/<av_id>/config.yaml       tracked source choices
+update    -> varieties/<av_id>/generated/forms.csv    generated; gitignored
+aggregate -> output/aggregate/...                     generated; gitignored
+report    -> output/report/curation.*                 generated; gitignored
+explore   -> output/explore.sqlite                    generated; gitignored
+```
+
+Tracked source of truth:
+
+* code under `src/arcaverborum/`;
+* stable registries under `src/arcaverborum/data/`;
+* `varieties/<av_id>/config.yaml`;
+* hand-authored `varieties/<av_id>/custom/*` files when present;
+* documentation and tests.
+
+## 3. Environment
+
+Python 3.12+ is required. All dependencies, including the phonology library
+`merkmal` (built from source, pinned to an exact commit), are locked:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.lock
+pip install --no-deps -e .
+pytest -q
+```
+
+## 4. Getting the inputs: the accepted-inputs snapshot
+
+You do not need the tens of gigabytes of raw sources. Each release ships an
+**accepted-inputs snapshot**: exactly the intake rows, language/parameter/
+metadata tables, bibliography and frozen Glottolog/Concepticon tables that the
+accepted constructions read. Unpack it at the repository root:
+
+```bash
+tag=$(gh release view --repo arcaverborum/arcaverborum --json tagName --jq .tagName)
+gh release download "$tag" --repo arcaverborum/arcaverborum -p "arcaverborum-$tag-snapshot.tar.gz"
+python -c "from arcaverborum.snapshot import unpack; unpack('arcaverborum-$tag-snapshot.tar.gz', '.')"
+python build.py update --all      # about 10 minutes; later runs rebuild only what changed
+python build.py aggregate
+```
+
+The build never downloads anything: a missing Glottolog or Concepticon table is
+an error, not a silent fetch. CI rebuilds from the same snapshot on every pull
+request. A pull request that adds a source or variety not in the snapshot must
+include the new intake rows; ask the maintainer how to package them until
+snapshot extensions are automated.
+
+The maintainer's full pipeline (`build.py fetch` and `ingest` over all of
+Lexibank, GLED and Wiktionary) regenerates the intake from the original
+sources; `build.py snapshot` then exports a new snapshot for the next release.
+
+Do not add `pycldf`, `pylexibank` or `cldfbench` as runtime dependencies; the
+CLDF export is written directly.
+
+## 5. Common Commands
+
+Build or refresh the affected accepted constructions from available intake:
+
+```bash
+python build.py update <accepted-av-id> [<accepted-av-id> ...]
+python build.py aggregate
+python build.py report
+python explore.py index
+```
+
+Build a single variety after editing its config or custom files:
+
+```bash
+python build.py update ine-latin
+python build.py aggregate
+python build.py report
+```
+
+Scaffold curation files for a variety:
+
+```bash
+python build.py extend ine-latin
+```
+
+Inspect the aggregate:
+
+```bash
+python explore.py stats
+python explore.py langs --family Indo-European
+python explore.py lang ine-latin
+python explore.py concept phy-water
+python explore.py sql "SELECT tier, COUNT(*) FROM varieties GROUP BY tier"
+```
+
+Audit concept drift against Concepticon:
+
+```bash
+python build.py concepts
+python build.py concepts --mint
+```
+
+## 6. Current Baseline and Planning
+
+[STATUS](docs/STATUS.md) maintains the accepted counts, data commit, verification,
+latest evidence pointers and publication state. [NEXT](docs/NEXT.md) maintains
+proposed tasks; [HELD](docs/planning/HELD.md) records reopening evidence.
+Update these when a batch closes rather than copying historical metrics here.
+
+The [coverage-planning workflow](docs/workflows/arca-coverage-planning/SKILL.md)
+connects discovery, identity/source/sense gates, execution and closure. Dated
+reports are indexed in [history](docs/history/README.md).
+
+Frozen Jê source reproduction uses scripts/stage_je_original.py --fetch
+--write-profiles. Fresh intake can append the complete namespace once. An
+existing namespace requires scripts/expand_source_intake.py with a complete
+stage and the actual preceding form count. Earlier rows, citations, license,
+version and bibliography remain unchanged. The earlier251→371 migration has
+already succeeded; never replay its old count or subset-ingest active intake.
+
+## 7. Source Policy
+
+Prioritize better evidence and broader lexical coverage, with particular
+attention to the Americas, especially South America. Suitable languages without
+source IPA may receive documented orthographic profiles. Never treat spelling
+as IPA merely because an upstream field is named “Pronunciation”.
+
+An accepted construction may combine a primary source with individually reviewed
+supplements. Keep original source identities, raw readings, semantic decisions
+and cognacy scopes. Do not apply a primary source's profile or cognate judgments
+to a secondary source. The guarded supplementation ledger fails closed on drift.
+
+The explorer defaults to All accepted varieties. Its Core-source preset filters
+individual lexical rows; it is distinct from the 161-concept vocabulary filter
+and the archived Core 0.1.0 release.
+
+## 8. Curation Rules
+
+Per-language work should become a structured curation packet, not ad hoc
+edits. A packet should document the current construction, candidate sources,
+concept mapping, transcription quality, cognates, provenance, tradeoffs, and
+recommended authority recipe.
+
+Small fixes can live in `varieties/<av_id>/custom/*`:
+
+Supplementary sources use guarded `custom/supplements.csv` admissions. Their
+profiles live separately under `custom/supplement_profiles/`, with exact
+whole-form keys and a SHA256 recorded per admission; they never affect the
+primary source. See `scripts/iquito_profile.py` for the first pilot.
+
+
+* `transcriptions.csv` overrides source transcription columns;
+* `forms.csv` adds new forms;
+* `cognates.csv` overrides cognate fields by form id;
+* `concept_map.csv` fixes source parameter-to-concept mapping;
+* `profile.tsv` maps orthographic graphemes to IPA.
+
+Profiles use greedy longest-match grapheme rules. A key such as `^word$`
+instead matches the entire form exactly and takes precedence over grapheme
+rules. Exact keys are excluded from substring matching: a dictionary-backed
+profile cannot accidentally pronounce unknown compounds by concatenating
+known headwords. Store pronunciation evidence and unresolved cases alongside
+the curation packet. Profile coverage validates the chosen transcription
+convention; it does not recover contrasts the spelling leaves unspecified.
+
+Heavy correction or newly authored data should graduate into a named
+Arca-derived layer once the data's scholarly identity is effectively Arca's
+construction rather than the upstream source alone.
+
+## 9. Gotchas
+
+* `av_id` is the primary key. It is a frozen Arca identifier of the form
+  `<family_code>-<name_slug>`, not a Glottocode.
+* `concept_id` is also an Arca-controlled frozen key. Concepticon remains a
+  mapped external column.
+* `build.py status` checks config/custom/recipe freshness, but intake
+  changes are detected by `build.py update`.
+* `build_one` accepts pre-loaded intake DataFrames so `update --all` does
+  not re-read huge CSVs per variety.
+* Phonology uses merkmal's `descriptive` system. Source segments are
+  normalized, tone digits are merged onto their nucleus before validation,
+  and invalid source segments are preserved as `unclean`.
+* Intake and per-variety generated outputs are gitignored. The research web
+  catalog, family shards, manifest and bibliography under `web/data/` are tracked.
+  Pages deploys these committed artifacts; it does not rebuild lexical data.
+* Never ingest a subset directly into the active intake: ingestion replaces
+  tables. Stage first, then use `scripts/append_source_intake.py` for new source
+  namespaces. Existing namespaces require an explicit guarded migration.
+* For accepted-only rebuilds, select varieties with existing
+  `generated/forms.csv`; orphan configs are not accepted varieties.
+* Use `.venv/bin/python` or `uv run --no-sync` with the installed local merkmal
+  build. Both UTF8PROC normalization modes must be tested; do not add uv.lock.
+
+## 10. Documentation Map
+
+Use `docs/README.md` as the index. The main specs are:
+
+* `docs/BESTOF_SPECIFICATION.md` for current build mechanics;
+* `docs/CONCEPTS_SPECIFICATION.md` for concept IDs and Concepticon mapping;
+* `docs/CURATION_WORKFLOW_SPECIFICATION.md` for the next curation workflow.
+
+Document-based sources can use explicit transport handlers: bodtbangru fetches
+and verifies a frozen Zenodo PDF, then materializes its reviewed CSVW/CLDF slice.
+Use scripts/stage_bangru_original.py --fetch --audit-pdf before validated append
+of the new namespace; optional PyMuPDF 2.0 reproduces the PDF-span audit. Source
+versions may be immutable DOI/document hashes rather than Git commits.
+
+For bounded reviewed dictionary primaries, unlinked community-member selectors
+and recording-only metadata, see [the evidence format](docs/GUARDED_PRIMARY_AND_RECORDINGS.md).
+
+## Worldwide follow-up reproduction state
+
+WF01–WF12 is closed; see docs/WORLDWIDE_FOLLOWUP_EXECUTION_2026-10-29.md. Verify
+new original dictionaries with scripts/verify_worldwide_sources.py --manifest
+docs/worldwide_followup_sources_2026-10-29.json. The optional Text-Fabric command
+in scripts/stage_bhsa_lexical.py reproduces14 written lexemes from23 pinned features.
+Coptic materialization now uses two independently hashed files (58 rows); RVID's
+complete derivative is92 rows/seven samples. Existing namespace expansions already
+succeeded: do not replay older expected counts or append a namespace twice.
+Cumulative profile reviews retain earlier exact keys and identity-scope fields;
+do not compile a new partial slice over an existing profile inventory.
+
+For complete research-web rebuilds on this workstation, use disk-backed scratch
+space if `/tmp` is full (its tmpfs is small):
+
+```bash
+mkdir -p raw/curation/web-tmp
+TMPDIR="$PWD/raw/curation/web-tmp" .venv/bin/python scripts/build_research_web.py
+```
+
+## Original-source S reproduction
+
+S01–S09 is closed; see docs/WORLDWIDE_S_EXECUTION_2026-10-30.md. The pinned
+original-source manifest covers12 complete namespaces/161,344 intake rows.
+Use scripts/stage_original_lexica.py --dataset NAME --fetch only outside active
+intake; these namespaces are already appended. scripts/verify_original_lexica.py
+reproduces complete source/parameter/language/metadata/bibliography evidence
+without changing intake. scripts/verify_original_profiles.py checks finite
+reading scopes and the ten pinned LexiRumah profile files. The optional
+PyMuPDF page audit is scripts/audit_original_pdf_citations.py. Complete intake
+is not accepted vocabulary; primary/supplement ledgers remain the admission gate.
+The PDF transport pins original bytes and manually reviewed page quotations;
+run the independent page audit when changing that reviewed slice.
+
+Reviewed literal source quotations retain original whitespace; do not normalize
+those CSV cells merely to satisfy diff whitespace checks. Their native hashes
+and independent page audits depend on the exact quotation.
+
+## Historical T source reproduction
+
+T01–T08 is closed; see docs/SOUTHERN_T_EXECUTION_2026-10-30.md. Four additional
+complete original-source namespaces add56 intake rows. Use
+`scripts/verify_original_lexica.py --output docs/southern_t_source_verification_2026-10-30.json`
+to reproduce all16 registered original namespaces without changing intake.
+`reviewed_facsimile` stores independently authored historical image transcriptions
+with exact PDF/page/xref/image hashes and locators. It does not pretend that PDF
+OCR verifies handwriting. The optional PyMuPDF audit is
+`scripts/audit_southern_t_citations.py`; source PDFs/images remain privately cached.
+`audit_chirila_transport.py` stages the pinned full historical CSV privately,
+never active intake; it does not clear public redistribution or source identity.
+
+## Regional original-source reproduction
+
+R00–R09 is closed; see docs/REGIONAL_EXECUTION_2026-11-01.md and current STATUS.
+The complete Mongolic2026-03-25 HTML namespace is already appended. Reproduce
+outside intake with `scripts/stage_mongolic_original.py --fetch --output PATH`,
+then `scripts/verify_regional_source.py` checks every11,457 native intake row.
+`scripts/verify_regional_preservation.py` streams the previous committed web
+shards and current shards, without private before-files. Source notation is not
+automatically IPA; only the reviewed Shinekhen member has canonical identity.
+The worldwide opportunity ranker now defaults to a256MiB address-space cap and
+streams shared catalogs/member groups. Recreate the disk-backed TMPDIR directory
+before a lexical web rebuild; Python ignores a nonexistent TMPDIR.
+
+## Colexification v2 reproduction
+
+See docs/COLEXIFICATION_ROBUSTNESS_2026-11-01.md for source-sense eligibility,
+bounded projection weights, resource-block replication and model sensitivity.
+The standard capped pipeline remains `scripts/build_colexification.py
+--memory-mb 256 --publish --with-communities`. Semantic review CSVs, original
+English sense labels, resource blocks and evidence code are bound into the
+analytical snapshot; changed sense decisions require lexical/derived refresh.
+Run `scripts/verify_colexification_robustness.py` for all-record preservation and
+`scripts/verify_colexification_projection.py --build NEW --before OLD --output PROOF`
+for projection invariants. The semantic audit script emits a triage queue and
+never edits mappings automatically. The displayed global partition uses the
+replicated weighted backbone, while reported rare associations remain accessible.
+
+## CINF validation and source-fidelity reproduction
+
+CINF-01–05 received bounded execution; see
+[the paper execution record](docs/research/CINF_EXECUTION_2026-11-01.md),
+[STATUS](docs/STATUS.md) and [remaining gates](docs/planning/HELD.md).
+Use the committed `validation_protocol_v2.json`; never select a new panel after
+reading its outcomes. `scripts/validate_colexification_inference.py --build BUILD
+--protocol src/arcaverborum/data/colexification/validation_protocol_v2.json
+--output NEW_DIRECTORY` streams context/prediction SQLite with a256MiB worker
+cap. `scripts/verify_colexification_validation.py` independently recovers labels,
+folds, baseline formulas and scores. Full private artifacts remain hash-bound;
+public summaries are research diagnostics, not production confidence weights.
+
+`prepare_hg_fidelity_repairs.py` writes a new review packet without changing
+intake/varieties. Guarded transcription policies distinguish supplied phonemic
+readings from explicitly orthographic-only evidence. Never re-tokenize written-only
+forms into IPA. `verify_cinf_preservation.py` reconstructs the pre-batch Git
+snapshot with small Git pack windows under the memory cap; its dated baseline
+is not a general verifier for future unrelated expansions. `verify_cinf_projection.py`
+checks the reviewed additive repair; the earlier deletion-only projection proof
+intentionally rejects new edges and is inappropriate for this additive batch.
+
+Canonical parent mappings take priority over custom dialect rows sharing a
+Glottocode. Header-only builds are not new accepted languages; public catalog
+filtering retains genuinely documented audio-only evidence. Installed-build
+HAVE_UTF8PROC flag-state tests do not claim two physically different libraries.

@@ -1,0 +1,23 @@
+av_id: tuc-wa-ikhana
+name: Wa'ikhana
+glottocode: pira1254
+family: Tucanoan
+macroarea: South America
+sources:
+  transcription: huntergatherer
+  cognates: chacontukanoan
+extensions:
+  transcriptions: true
+  forms: false
+  cognates: false
+  concept_map: false
+  profile: false
+scoring:
+  forms_score: 0.9802
+  cognates_score: 0.9
+  tier: bronze
+pinned: false
+registered_on: '2026-05-20'
+notes: 'auto: forms=huntergatherer (0.98); cognates=chacontukanoan (0.90) [cross-source:
+  emitted cognates still come from transcription_source]; CINF-02 guarded native spelling/phonemic-column
+  recovery; uncertain notation retained as written evidence only.'

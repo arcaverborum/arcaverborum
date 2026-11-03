@@ -1,0 +1,24 @@
+av_id: nub-xerente
+name: Xerénte
+glottocode: xere1240
+family: Nuclear-Macro-Je
+macroarea: South America
+sources:
+  transcription: gerardije2025
+  cognates: gerardije2025
+  source_language_id: gerardije2025_Xerente
+extensions:
+  transcriptions: false
+  forms: false
+  cognates: false
+  concept_map: false
+  profile: true
+scoring:
+  forms_score: 0.7
+  cognates_score: 0
+  tier: bronze
+pinned: true
+registered_on: '2026-05-20'
+notes: Reviewed licensed Jê study source with conservative exact-form broad phonemic
+  profile; ambiguous Macro-Jê symbols and automated cognacy held. Existing GLED evidence
+  retained as separately attributed supplements.

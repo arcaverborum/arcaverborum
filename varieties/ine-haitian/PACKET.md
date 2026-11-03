@@ -1,0 +1,14 @@
+# Haitian curation packet
+
+## Worldwide follow-up — 2026-10-29
+
+Accepted 2029 records; 104/161 supported core concepts. Primary: `wiktionary`.
+[Execution, sources, gains and holds](../../docs/WORLDWIDE_FOLLOWUP_EXECUTION_2026-10-29.md).
+Earlier evidence and source-specific cognacy remain; six precise shared English-sense
+rules correct older mappings where applicable. Source conversions are not independent
+IPA elicitation, profiles are finite and source-specific, and written-only records
+add no phonetic support. Config and guarded custom ledgers enforce acceptance.
+
+## Source-sense correction —2026-11-01
+
+1 incorrect headword-level concept assignments cleared; 2 existing scores change mechanically where newly approved English sense rules populate the scorer’s source mapping field. Native words, readings, source IDs, cognacy and comments remain. Shared parameter rules distinguish actual English senses against frozen definitions, not phonetic validity or semantic similarity. See [method and decisions](../../docs/COLEXIFICATION_ROBUSTNESS_2026-11-01.md). Unreviewed dictionary mappings remain reported candidates and cannot independently supply the replicated backbone.

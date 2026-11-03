@@ -1,0 +1,23 @@
+av_id: ine-galician
+name: Galician
+glottocode: gali1258
+family: Indo-European
+macroarea: Eurasia
+sources:
+  transcription: wiktionary
+  cognates: wiktionary
+extensions:
+  transcriptions: false
+  forms: false
+  cognates: false
+  concept_map: true
+  profile: true
+scoring:
+  forms_score: 0.3515
+  cognates_score: 0.1525
+  tier: copper
+pinned: true
+registered_on: '2026-05-20'
+notes: 'Dictionary-supported Wiktionary pilot (2026-10-23): exact ILG pronunciations
+  for core headwords; no generic spelling-to-IPA guesses. Most non-core forms remain
+  unclean. See PACKET.md.'

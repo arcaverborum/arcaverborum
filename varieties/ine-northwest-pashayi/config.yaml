@@ -1,0 +1,21 @@
+av_id: ine-northwest-pashayi
+name: Northwest Pashayi
+glottocode: nort2665
+family: Indo-European
+macroarea: Eurasia
+sources:
+  transcription: iecor
+  cognates: iecor
+extensions:
+  transcriptions: false
+  forms: false
+  cognates: false
+  concept_map: false
+  profile: false
+scoring:
+  forms_score: 0.8954
+  cognates_score: 0.7
+  tier: silver
+pinned: true
+registered_on: '2026-05-20'
+notes: 'IECOR canonical: forms+cognates=iecor (0.90/0.70)'

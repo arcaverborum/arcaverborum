@@ -1,0 +1,24 @@
+av_id: ine-asturian-leonese-cantabrian
+name: Asturian-Leonese-Cantabrian
+glottocode: astu1245
+family: Indo-European
+macroarea: Eurasia
+sources:
+  transcription: wiktionary
+  cognates: wiktionary
+  source_language_id: wikt_ast
+extensions:
+  transcriptions: false
+  forms: false
+  cognates: false
+  concept_map: true
+  profile: true
+scoring:
+  forms_score: 0.6806
+  cognates_score: 0.1243
+  tier: bronze
+pinned: true
+registered_on: '2026-05-20'
+notes: Reviewed named Asturian sample wikt_ast, 2026-10-27; broad phonemic standard-spelling
+  subset plus exact source-provided IPA. Not a pooled sample of Leonese/Cantabrian.
+  See PACKET.md.

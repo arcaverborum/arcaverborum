@@ -1,0 +1,78 @@
+av_id: ine-asturian-leonese-cantabrian
+name: Asturian-Leonese-Cantabrian
+review:
+  status: draft
+  reviewer: ''
+  date: '2026-10-27'
+quality:
+  tier: bronze
+  forms_score: 0.6806
+  cognates_score: 0.1243
+  pinned: true
+construction:
+  summary: Named Asturian source wikt_ast; source IPA plus incomplete standard-spelling
+    broad phonemic profile.
+  lexical_base:
+    source: wiktionary
+    rationale: Named Asturian construction, without pooling Leonese/Cantabrian. Follow-up
+      source audit corrects unsupported final-r readings; 82 supported core versus
+      37 in original GLED.
+  transcription:
+    strategy: profile
+    profile: custom/profile.tsv
+    overrides: none
+    notes: 166 supplied IPA, 3946 profile-supported, 5603 unresolved. Final-r ambiguity
+      withheld after regression fix; see PACKET.md.
+  concepts:
+    mapping: corrected
+    core_coverage: 142/161
+    notes: 2582/9715 forms mapped; 1423 distinct concepts.
+  cognates:
+    source: wiktionary
+    method: source
+    computed: none
+    notes: Source Wiktionary etymology annotations, not expert comparative cognates;
+      no GLED cognates transferred.
+  loans:
+    handling: source
+    annotated: 16%
+    notes: ''
+candidates: []
+provenance:
+  bibliography:
+  - wiktionary
+tradeoffs:
+  gains: 9715 lexical forms; 82 supported core, with +398 profile-supported forms
+    versus the preliminary profile.
+  known_losses: 'Final-r readings now withheld: preliminary core92 revised to82; no
+    GLED cognacy transferred.'
+notes: ALLA grammar 2001 pp.15–16,23–24,36–48. Broad phonemic subset; specialist lexical
+  validation pending. See PACKET.md.
+worldwide_review_2026_10_29:
+  status: accepted_bounded_review
+  report: ../../docs/WORLDWIDE_EXPANSION_2026-10-29.md
+  primary: wiktionary
+  forms: 9715
+  supported_core: 82
+  source_statuses:
+    unclean: 5603
+    profile: 3946
+    source: 166
+  preservation: Earlier lexical records/readings and native cognacy/evidence retained
+    with exact reviewed semantic corrections. No unreviewed profile, historical IPA
+    or new-language identity inferred.
+worldwide_followup_2026_10_29:
+  status: accepted_bounded_review
+  report: ../../docs/WORLDWIDE_FOLLOWUP_EXECUTION_2026-10-29.md
+  primary: wiktionary
+  forms: 9715
+  supported_core: 82
+  source_statuses:
+    unclean: 5603
+    profile: 3946
+    source: 166
+  preservation: Earlier lexical records/readings/cognacy and native evidence retained.
+    Only six exact shared sense rules change earlier mappings; profile artifact hashes
+    were revalidated.
+  reading_scope: Guarded source conversions, supplied IPA, finite dictionary profiles
+    or explicit written-only rows; see custom ledgers and authored source reviews.

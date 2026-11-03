@@ -1,0 +1,26 @@
+av_id: nub-xokleng
+name: Xokleng
+glottocode: xokl1240
+family: Nuclear-Macro-Je
+macroarea: South America
+sources:
+  transcription: diacl
+  cognates: diacl
+extensions:
+  transcriptions: false
+  forms: false
+  cognates: false
+  concept_map: false
+  profile: false
+scoring:
+  forms_score: 0.4476
+  cognates_score: 0.0
+  tier: bronze
+pinned: true
+registered_on: '2026-05-20'
+notes: T04 finite matched contemporary Laklãnõ spelling/sense recovery using Gakran2015
+  explicit examples and grapheme correspondences. DIACL bibliography3096 identifies2013
+  Nanblá speaker data; grammar is supporting linguistic authority, not asserted identical
+  elicitation or independent witness. No accent-as-stress guess, surface vowel echo
+  or generic historical transfer. Underlying source spelling/cognacy/mapping retained;
+  no supplied IPA claim.

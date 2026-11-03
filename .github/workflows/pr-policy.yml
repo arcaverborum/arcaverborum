@@ -1,0 +1,37 @@
+name: PR policy
+
+on:
+  pull_request:
+    types: [opened, edited, synchronize, reopened]
+    branches: [master]
+
+permissions:
+  contents: read
+
+jobs:
+  policy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: AI assistance is disclosed
+        env:
+          BODY: ${{ github.event.pull_request.body }}
+        run: |
+          line=$(printf '%s\n' "$BODY" | grep -iE '^AI assistance:' | head -1 || true)
+          value=$(printf '%s' "$line" | sed -E 's/^[Aa][Ii] assistance:[[:space:]]*//; s/[[:space:]]*$//')
+          case "$value" in
+            "none"|"search & suggestion"|"extraction or transformation"|"drafting & review") echo "AI assistance: $value" ;;
+            *) echo "::error::Fill in 'AI assistance:' with exactly one of: none | search & suggestion | extraction or transformation | drafting & review"; exit 1 ;;
+          esac
+
+      - name: CODEOWNERS matches editors.csv
+        run: python scripts/codeowners.py --check
+
+      - name: Evidence referenced from data and code exists
+        run: |
+          missing=0
+          for p in $(git grep -hoP '(?<![\w/.-])docs/[A-Za-z0-9_./-]+' -- varieties src tests | sed -E 's/[.,;:)]+$//' | sort -u); do
+            [ -e "$p" ] || { echo "::error::missing evidence $p"; missing=1; }
+          done
+          exit $missing

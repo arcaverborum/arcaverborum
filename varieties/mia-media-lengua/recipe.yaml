@@ -1,0 +1,37 @@
+av_id: mia-media-lengua
+name: Media Lengua
+review:
+  status: draft
+  reviewer: ''
+  date: '2026-10-27'
+quality:
+  forms_score: 0.6858
+  cognates_score: 0.0
+  tier: bronze
+  pinned: true
+construction:
+  lexical_base:
+    source: dictmedialengua
+    rationale: 3216 supplied-segment forms; 397 reviewed dictionary senses yield 331
+      mapped concepts and 132 supported core.
+  transcription:
+    strategy: source
+    notes: Supplied Phonological_Representation; original strings retained.
+  concepts:
+    mapping: reviewed
+    core_coverage: 132/161
+    notes: 397 guarded source-sense decisions; 331 mapped concepts; original polysemy
+      and remaining unmapped glosses retained.
+  cognates:
+    source: ''
+    method: none
+    notes: No judgments inferred from lexical origin.
+provenance:
+  bibliography:
+  - dictmedialengua_dictionary
+tradeoffs:
+  gains: 3216 source-supported forms; source citation corrected.
+  known_losses: Old Wiktionary construction remains available in intake; specialist
+    review pending.
+notes: Named Ecuadorian dictionary contribution; source variation retained; not admitted
+  to Core collection.

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Downloads — Arca Verborum</title>
+<meta name="description" content="Download Arca Verborum releases in three licence tiers, with the accepted-inputs snapshot that rebuilds them.">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="style.css">
+<style>
+.downloads {max-width:58rem} .downloads main {line-height:1.6} .downloads code {overflow-wrap:anywhere}
+.downloads th,.downloads td {white-space:normal} .downloads .scroll {overflow:auto}
+.downloads .download-link {display:inline-block;padding:.65rem 1rem;background:var(--accent);color:var(--accent-fg);border-radius:.25rem;text-decoration:none}
+.downloads h2 {margin-top:1.8rem} .downloads header nav {display:flex;gap:1rem;flex-wrap:wrap}
+</style>
+</head>
+<body>
+<a class="skip" href="#downloads">Skip to downloads</a>
+<div class="wrap downloads">
+<header><h1>Arca Verborum <span class="research-label">Downloads</span></h1>
+<nav aria-label="Project"><a href="./">Research explorer</a><a href="https://github.com/arcaverborum/arcaverborum">Repository</a><a href="https://github.com/arcaverborum/arcaverborum/releases">All releases</a></nav></header>
+<main id="downloads">
+<!--RELEASE-SECTION-->
+<h2>Choosing a tier</h2>
+<p>Every release is identified by its schema letter and date (for example <code>A-2026-11-10</code>) and comes in three tiers built from the same commit. Licensing is per source and per row: each record carries its source’s terms in the <code>License</code> and <code>terms_status</code> columns, and each archive has a <code>LICENSES.md</code>.</p>
+<div class="scroll" role="region" aria-label="Release tiers" tabindex="0"><table>
+<thead><tr><th scope="col">Tier</th><th scope="col">Contains</th><th scope="col">Use when</th></tr></thead>
+<tbody>
+<tr><td><code>by</code></td><td>Records under CC BY 4.0 or in the public domain</td><td>Attribution must be the only condition (including commercial reuse)</td></tr>
+<tr><td><code>redistributable</code></td><td>All records whose source declares redistributable terms (adds CC BY-SA, CC BY-NC, CC BY-NC-SA, GPL)</td><td>Research use that can honour NonCommercial and ShareAlike conditions row by row</td></tr>
+<tr><td><code>full</code></td><td>Every accepted record, including sources whose terms are undeclared (<code>terms_status = missing_declaration</code>)</td><td>Complete coverage; check the flagged sources before redistribution</td></tr>
+</tbody></table></div>
+<p>Arca’s own identifiers, catalogs, concept/WordNet links and scores are CC BY 4.0. Adaptations of ShareAlike records keep their source’s terms. The code is MIT. Keep original attribution, citations and per-entry URLs.</p>
+<h2>Rebuilding a release</h2>
+<p>Each release also ships its <strong>accepted-inputs snapshot</strong>: unpack it at the root of the repository at the release’s commit and run <code>python build.py update --all</code> and <code>python build.py aggregate</code> to re-derive the data with no other input. Native tables are in <code>data/</code>, a CLDF Wordlist export of the same rows in <code>cldf/</code>.</p>
+<h2>Citing</h2>
+<p>Cite the release identifier (and its DOI once minted) together with the original sources of the records you use; each archive includes <code>CITATION.cff</code> and <code>data/sources.bib</code>.</p>
+</main>
+<footer>Original linguistic evidence, explicit uncertainty and reproducible research selections. <a href="./">Return to the explorer</a>.</footer>
+</div>
+</body>
+</html>

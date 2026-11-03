@@ -1,0 +1,36 @@
+av_id: map-mori-atas
+name: Mori Atas
+glottocode: mori1269
+family: Austronesian
+macroarea: Papunesia
+sources:
+  transcription: abvd2026
+  cognates: abvd2026
+  source_glottocodes:
+  - mori1269
+  source_language_ids:
+  - abvd2026_885
+  - abvd2026_886
+  - abvd2026_887
+  - abvd2026_888
+  - abvd2026_889
+  - abvd2026_890
+  - abvd2026_891
+  - abvd2026_892
+  - abvd2026_893
+  - abvd2026_894
+extensions:
+  transcriptions: false
+  forms: false
+  cognates: false
+  concept_map: false
+  profile: false
+scoring:
+  forms_score: 0.426
+  cognates_score: 0.3236
+  tier: bronze
+pinned: true
+registered_on: '2026-05-20'
+notes: Reviewed ABVD snapshot 81748db (2026-10-27); explicit canonical-language membership,
+  including named dialect samples where applicable. Source cognates remain in abvd2026
+  namespace; previous ABVD judgments are not transferred. See docs/abvd_promotion_2026-10-27.csv.

@@ -1,0 +1,23 @@
+av_id: afa-afar
+name: Afar
+glottocode: afar1241
+family: Afro-Asiatic
+macroarea: Africa
+sources:
+  transcription: wiktionary
+  cognates: wiktionary
+extensions:
+  transcriptions: false
+  forms: false
+  cognates: false
+  concept_map: true
+  profile: true
+scoring:
+  forms_score: 0.9158
+  cognates_score: 0.083
+  tier: bronze
+pinned: true
+registered_on: '2026-05-20'
+notes: 'Wiktionary orthographic-profile pilot (2026-10-23): broad segmental Afar transcription,
+  preserving explicitly marked high pitch only. Unwritten pitch and contextual allophony
+  are not inferred. See PACKET.md.'

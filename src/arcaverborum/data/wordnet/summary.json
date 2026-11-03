@@ -1,0 +1,24 @@
+{
+  "catalog_concepts": 3828,
+  "coverage": {
+    "accepted": 1350,
+    "review": 1660,
+    "unlinked": 44,
+    "source_association": 735,
+    "merged": 39
+  },
+  "links": {
+    "accepted:related": 99,
+    "accepted:exact": 768,
+    "accepted:narrower": 243,
+    "accepted:broader": 258,
+    "source_association:association": 838
+  },
+  "candidates": 16979,
+  "concepticon_bridge_rows_verified": 1372,
+  "oewn_version": "2025",
+  "princeton_version": "3.0",
+  "relation_direction": "Arca to target: broader means target broader; narrower means target narrower",
+  "candidate_method": "Up to five POS-prioritized retrieval suggestions; scores are not confidence",
+  "scope": "Frozen concept catalog only; no lexical record or native unmapped sense is remapped"
+}

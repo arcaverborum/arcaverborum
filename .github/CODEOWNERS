@@ -1,0 +1,8 @@
+# Generated from editors.csv by scripts/codeowners.py; do not edit by hand.
+# GitHub applies the last matching rule.
+
+* @tresoldi
+
+# Governance files stay with the maintainer.
+/editors.csv @tresoldi
+/.github/ @tresoldi

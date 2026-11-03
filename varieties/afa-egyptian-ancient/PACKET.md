@@ -1,0 +1,45 @@
+# Egyptian (Ancient) curation packet
+
+## Accepted ancient evidence review — 2026-10-28
+
+[Batch evidence and decisions](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/ANCIENT_EXPANSION_2026-10-28.md).
+Before: 1346 forms, 0 supported core slots.
+After: 1354 forms, 0 supported core slots.
+Statuses: {'unclean': 1316, 'resegmented': 38}. Source rows: {'wiktionary': 1346, 'tlaearlieregyptian': 8}.
+
+The existing primary selection and its profile/cognacy scope are retained.
+Additions are individually guarded in [custom/supplements.csv](custom/supplements.csv).
+[Historical reading rules](custom/historical_evidence.csv) distinguish original
+segment origin from historical phonetic certainty. Source-specific reading
+conventions are not interchangeable across periods or datasets. Written-only
+admissions have blank segments and contribute no supported phonetic coverage.
+Original forms, source glosses, reading alternatives and cognacy namespaces
+remain visible; no primary expert judgments are copied onto supplements.
+
+See the batch's authored admit/hold CSVs and pinned lexical source specifications
+for exact semantics, version, terms and reproduction commands. No GLED swap or
+new-language claim is made for this existing construction. Remaining uncertainties
+are routed through [the held-work register](../../docs/planning/HELD.md).
+
+## Worldwide GW review — 2026-10-29
+
+[Execution, source pins, linguistic limits and exact decision ledgers](../../docs/WORLDWIDE_EXPANSION_2026-10-29.md).
+Current accepted state: 1354 records; 0/161 supported core; statuses {'unclean': 1316, 'resegmented': 38}.
+This section supersedes older current-state counts. Earlier readings/cognacy and
+native evidence are retained; exact reviewed semantic corrections may unmap a
+record without deleting it. Source profiles and original IPA routes remain scoped
+to their guarded members/forms, with uncertainty and written-only status explicit.
+See HELD before reopening source notation, sample identity or sense decisions.
+
+## Worldwide follow-up — 2026-10-29
+
+Accepted 1354 records; 0/161 supported core concepts. Primary: `wiktionary`.
+[Execution, sources, gains and holds](../../docs/WORLDWIDE_FOLLOWUP_EXECUTION_2026-10-29.md).
+Earlier evidence and source-specific cognacy remain; six precise shared English-sense
+rules correct older mappings where applicable. Source conversions are not independent
+IPA elicitation, profiles are finite and source-specific, and written-only records
+add no phonetic support. Config and guarded custom ledgers enforce acceptance.
+
+## Source-sense correction —2026-11-01
+
+1 incorrect headword-level concept assignments cleared; 9 existing scores change mechanically where newly approved English sense rules populate the scorer’s source mapping field. Native words, readings, source IDs, cognacy and comments remain. Shared parameter rules distinguish actual English senses against frozen definitions, not phonetic validity or semantic similarity. See [method and decisions](../../docs/COLEXIFICATION_ROBUSTNESS_2026-11-01.md). Unreviewed dictionary mappings remain reported candidates and cannot independently supply the replicated backbone.

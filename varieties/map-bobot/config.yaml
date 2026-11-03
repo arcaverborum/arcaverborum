@@ -1,0 +1,28 @@
+av_id: map-bobot
+name: Bobot
+glottocode: bobo1254
+family: Austronesian
+macroarea: Papunesia
+sources:
+  transcription: abvd2026
+  cognates: abvd2026
+  source_glottocodes:
+  - bobo1254
+  source_language_ids:
+  - abvd2026_16
+  - abvd2026_278
+extensions:
+  transcriptions: false
+  forms: false
+  cognates: false
+  concept_map: false
+  profile: false
+scoring:
+  forms_score: 0.4962
+  cognates_score: 0.6035
+  tier: bronze
+pinned: true
+registered_on: '2026-05-20'
+notes: Reviewed ABVD snapshot 81748db (2026-10-27); explicit canonical-language membership,
+  including named dialect samples where applicable. Source cognates remain in abvd2026
+  namespace; previous ABVD judgments are not transferred. See docs/abvd_promotion_2026-10-27.csv.

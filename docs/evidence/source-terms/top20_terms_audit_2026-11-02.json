@@ -1,0 +1,272 @@
+{
+ "audit": "Terms re-audit of the 20 largest accepted sources (67.8% of 2,120,263 accepted records, RC4 counts)",
+ "performed_on": "2026-11-02",
+ "method": "For git-hosted sources: license in metadata.json and the CLDF metadata of the local checkout actually ingested (raw/lexibank/<source>, commit recorded), compared with the declared intake license and with the CLDF metadata at upstream HEAD. NAKALA record queried via api.nakala.fr. Repository_Version in intake metadata is the CLDF provenance marker (prov:wasDerivedFrom dc:created), not necessarily the ingested commit.",
+ "finding": "All 18 declared sources are consistent between the intake declaration, the ingested commit and upstream HEAD. Legacy Wiktionary has no upstream declaration and is resolved by a reviewed override. No relicensing detected. The original publications behind the CLDF datasets were not re-examined.",
+ "sources": [
+  {
+   "source": "idssegmented",
+   "records": 289458,
+   "declared": "https://creativecommons.org/licenses/by/4.0/",
+   "local": "raw/lexibank/idssegmented",
+   "local_commit": "3374498b56f7dd1d7b70fda1f3fe66f9a9e87fa3",
+   "local_licenses": {
+    "metadata.json": "CC-BY-4.0",
+    "cldf": "https://creativecommons.org/licenses/by/4.0/"
+   },
+   "upstream_head_cldf": "https://creativecommons.org/licenses/by/4.0/",
+   "upstream_head": "3374498b56f7dd1d7b70fda1f3fe66f9a9e87fa3",
+   "result": "consistent"
+  },
+  {
+   "source": "wiktionary",
+   "records": 141050,
+   "declared": "",
+   "result": "no upstream declaration; declared by reviewed override (wiktionary_legacy_2026-11-02.json)"
+  },
+  {
+   "source": "abvd2026",
+   "records": 136969,
+   "declared": "https://creativecommons.org/licenses/by/4.0/",
+   "local": "raw/lexibank/abvd2026",
+   "local_commit": "81748db0c5fcf3bf1d8c8372b86df75c375e1f22",
+   "local_licenses": {
+    "metadata.json": "https://creativecommons.org/licenses/by/4.0/",
+    "cldf": "https://creativecommons.org/licenses/by/4.0/"
+   },
+   "upstream_head_cldf": "https://creativecommons.org/licenses/by/4.0/",
+   "upstream_head": "81748db0c5fcf3bf1d8c8372b86df75c375e1f22",
+   "result": "consistent"
+  },
+  {
+   "source": "transnewguineaorg",
+   "records": 107809,
+   "declared": "https://creativecommons.org/licenses/by/4.0/",
+   "local": "raw/lexibank/transnewguineaorg",
+   "local_commit": "f3691bf7f7ac5523496b7a288aaa369fa8d29d03",
+   "local_licenses": {
+    "metadata.json": "CC-BY-4.0",
+    "cldf": "https://creativecommons.org/licenses/by/4.0/"
+   },
+   "upstream_head_cldf": "https://creativecommons.org/licenses/by/4.0/",
+   "upstream_head": "f3691bf7f7ac5523496b7a288aaa369fa8d29d03",
+   "result": "consistent"
+  },
+  {
+   "source": "tls",
+   "records": 103469,
+   "declared": "https://creativecommons.org/licenses/by/4.0/",
+   "local": "raw/lexibank/tls",
+   "local_commit": "dbfc360add9936097e6e247c1187e40652590b5b",
+   "local_licenses": {
+    "metadata.json": "CC-BY-4.0",
+    "cldf": "https://creativecommons.org/licenses/by/4.0/"
+   },
+   "upstream_head_cldf": "https://creativecommons.org/licenses/by/4.0/",
+   "upstream_head": "dbfc360add9936097e6e247c1187e40652590b5b",
+   "result": "consistent"
+  },
+  {
+   "source": "tryoncad",
+   "records": 84638,
+   "declared": "https://creativecommons.org/licenses/by/4.0/",
+   "local": "raw/lexibank/tryoncad",
+   "local_commit": "0dbefd42e97a931a755077e473b56b4e01fe12af",
+   "local_licenses": {
+    "metadata.json": "CC-BY-4.0",
+    "cldf": "https://creativecommons.org/licenses/by/4.0/"
+   },
+   "upstream_head_cldf": "https://creativecommons.org/licenses/by/4.0/",
+   "upstream_head": "0dbefd42e97a931a755077e473b56b4e01fe12af",
+   "result": "consistent"
+  },
+  {
+   "source": "gled",
+   "records": 80754,
+   "declared": "CC-BY-4.0",
+   "local": "raw/lexibank/gled",
+   "local_commit": "bd1e2ff26a1332771c7550c1a4a3c3f26985369b",
+   "local_licenses": {
+    "cldf": "CC-BY-4.0"
+   },
+   "upstream_head": "bd1e2ff26a1332771c7550c1a4a3c3f26985369b",
+   "result": "consistent"
+  },
+  {
+   "source": "huntergatherer",
+   "records": 55483,
+   "declared": "https://creativecommons.org/licenses/by/4.0/",
+   "local": "raw/lexibank/huntergatherer",
+   "local_commit": "7b4cae7edd07a1840ec59e062845cf155dc2e932",
+   "local_licenses": {
+    "metadata.json": "CC-BY-4.0",
+    "cldf": "https://creativecommons.org/licenses/by/4.0/"
+   },
+   "upstream_head_cldf": "https://creativecommons.org/licenses/by/4.0/",
+   "upstream_head": "7b4cae7edd07a1840ec59e062845cf155dc2e932",
+   "result": "consistent"
+  },
+  {
+   "source": "polyglottaafricana",
+   "records": 50699,
+   "declared": "https://creativecommons.org/licenses/by/4.0/",
+   "local": "raw/lexibank/polyglottaafricana",
+   "local_commit": "8f80c8d3e7c970dad4570e2e6a8f0a1c78ea294c",
+   "local_licenses": {
+    "metadata.json": "CC-BY-4.0",
+    "cldf": "https://creativecommons.org/licenses/by/4.0/"
+   },
+   "upstream_head_cldf": "https://creativecommons.org/licenses/by/4.0/",
+   "upstream_head": "45cab9c459b1fe371605ee7c073b792d1db4ebf3",
+   "result": "consistent"
+  },
+  {
+   "source": "smithborneo",
+   "records": 46433,
+   "declared": "https://creativecommons.org/licenses/by/4.0/",
+   "local": "raw/lexibank/smithborneo",
+   "local_commit": "98973b0353cde305c7dea782be67e0659e24ce49",
+   "local_licenses": {
+    "metadata.json": "CC-BY-4.0",
+    "cldf": "https://creativecommons.org/licenses/by/4.0/"
+   },
+   "upstream_head_cldf": "https://creativecommons.org/licenses/by/4.0/",
+   "upstream_head": "98973b0353cde305c7dea782be67e0659e24ce49",
+   "result": "consistent"
+  },
+  {
+   "source": "bowernpny",
+   "records": 38263,
+   "declared": "https://creativecommons.org/licenses/by/4.0/",
+   "local": "raw/lexibank/bowernpny",
+   "local_commit": "0641c6a23e908e4a34eee834e0903e78d4781048",
+   "local_licenses": {
+    "metadata.json": "CC-BY-4.0",
+    "cldf": "https://creativecommons.org/licenses/by/4.0/"
+   },
+   "upstream_head_cldf": "https://creativecommons.org/licenses/by/4.0/",
+   "upstream_head": "0641c6a23e908e4a34eee834e0903e78d4781048",
+   "result": "consistent"
+  },
+  {
+   "source": "johanssonsoundsymbolic",
+   "records": 38046,
+   "declared": "https://creativecommons.org/licenses/by/4.0/",
+   "local": "raw/lexibank/johanssonsoundsymbolic",
+   "local_commit": "109c32749f9d7c25b439c0b4541912a31d685686",
+   "local_licenses": {
+    "metadata.json": "CC-BY-4.0",
+    "cldf": "https://creativecommons.org/licenses/by/4.0/"
+   },
+   "upstream_head_cldf": "https://creativecommons.org/licenses/by/4.0/",
+   "upstream_head": "109c32749f9d7c25b439c0b4541912a31d685686",
+   "result": "consistent"
+  },
+  {
+   "source": "northeuralex",
+   "records": 37798,
+   "declared": "https://creativecommons.org/licenses/by/4.0/",
+   "local": "raw/lexibank/northeuralex",
+   "local_commit": "e9a8119f25cf6078299132d8c4e7db338d46ff23",
+   "local_licenses": {
+    "metadata.json": "CC-BY-4.0",
+    "cldf": "https://creativecommons.org/licenses/by/4.0/"
+   },
+   "upstream_head_cldf": "https://creativecommons.org/licenses/by/4.0/",
+   "upstream_head": "e9a8119f25cf6078299132d8c4e7db338d46ff23",
+   "result": "consistent"
+  },
+  {
+   "source": "abvdphilippines",
+   "records": 36869,
+   "declared": "https://creativecommons.org/licenses/by/4.0/",
+   "local": "raw/lexibank/abvdphilippines",
+   "local_commit": "10010f63ee979833ef2f39576210a30b48147e7c",
+   "local_licenses": {
+    "metadata.json": "CC-BY-4.0",
+    "cldf": "https://creativecommons.org/licenses/by/4.0/"
+   },
+   "upstream_head_cldf": "https://creativecommons.org/licenses/by/4.0/",
+   "upstream_head": "10010f63ee979833ef2f39576210a30b48147e7c",
+   "result": "consistent"
+  },
+  {
+   "source": "vanuatuvoices",
+   "records": 35123,
+   "declared": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "local": "raw/lexibank/vanuatuvoices",
+   "local_commit": "424d95f21ae68b8f0e8fba38f189353ffdb6f6c3",
+   "local_licenses": {
+    "metadata.json": "CC-BY-NC-4.0",
+    "cldf": "https://creativecommons.org/licenses/by-nc/4.0/"
+   },
+   "upstream_head_cldf": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "upstream_head": "64f546260777e1d612c6757014feec04afbaa599",
+   "result": "consistent"
+  },
+  {
+   "source": "lsi",
+   "records": 34448,
+   "declared": "https://creativecommons.org/licenses/by/4.0/",
+   "local": "raw/lexibank/lsi",
+   "local_commit": "bfae847565dc6810af05c11bf612457e5861009e",
+   "local_licenses": {
+    "metadata.json": "CC-BY-4.0",
+    "cldf": "https://creativecommons.org/licenses/by/4.0/"
+   },
+   "upstream_head_cldf": "https://creativecommons.org/licenses/by/4.0/",
+   "upstream_head": "133bcfcc416933d686ab0d111b693f7e47c7a7fa",
+   "result": "consistent"
+  },
+  {
+   "source": "wold",
+   "records": 31462,
+   "declared": "https://creativecommons.org/licenses/by/4.0/",
+   "local": "raw/lexibank/wold",
+   "local_commit": "1df62b9bdc7292b35982aea49b4d5bd1951f6f3e",
+   "local_licenses": {
+    "metadata.json": "CC-BY-4.0",
+    "cldf": "https://creativecommons.org/licenses/by/4.0/"
+   },
+   "upstream_head_cldf": "https://creativecommons.org/licenses/by/4.0/",
+   "upstream_head": "1df62b9bdc7292b35982aea49b4d5bd1951f6f3e",
+   "result": "consistent"
+  },
+  {
+   "source": "tryonsolomon",
+   "records": 31200,
+   "declared": "https://creativecommons.org/licenses/by/4.0/",
+   "local": "raw/lexibank/tryonsolomon",
+   "local_commit": "1781b5670bf2d5f4d744bfcdca067f4f0452e947",
+   "local_licenses": {
+    "metadata.json": "CC-BY-4.0",
+    "cldf": "https://creativecommons.org/licenses/by/4.0/"
+   },
+   "upstream_head_cldf": "https://creativecommons.org/licenses/by/4.0/",
+   "upstream_head": "1781b5670bf2d5f4d744bfcdca067f4f0452e947",
+   "result": "consistent"
+  },
+  {
+   "source": "reflexremaining",
+   "records": 28776,
+   "declared": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+   "nakala_record": "10.34847/nkl.e3cbkjzm (version 5, published)",
+   "nakala_license": "CC-BY-NC-SA-4.0",
+   "result": "consistent"
+  },
+  {
+   "source": "zgraggenmadang",
+   "records": 28102,
+   "declared": "https://creativecommons.org/licenses/by/4.0/",
+   "local": "raw/lexibank/zgraggenmadang",
+   "local_commit": "b9a0f23bb7de32ab95adcd63cc46673670543c32",
+   "local_licenses": {
+    "metadata.json": "CC-BY-4.0",
+    "cldf": "https://creativecommons.org/licenses/by/4.0/"
+   },
+   "upstream_head_cldf": "https://creativecommons.org/licenses/by/4.0/",
+   "upstream_head": "b9a0f23bb7de32ab95adcd63cc46673670543c32",
+   "result": "consistent"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+av_id: ine-old-english-ca-450-1100
+name: Old English (ca. 450-1100)
+glottocode: olde1238
+family: Indo-European
+macroarea: Eurasia
+sources:
+  transcription: iecor
+  cognates: iecor
+extensions:
+  transcriptions: false
+  forms: false
+  cognates: false
+  concept_map: false
+  profile: false
+scoring:
+  forms_score: 0.8794
+  cognates_score: 0.7
+  tier: silver
+pinned: true
+registered_on: '2026-05-20'
+notes: 'IECOR canonical: forms+cognates=iecor (0.88/0.70)'
