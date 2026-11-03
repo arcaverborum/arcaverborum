@@ -10,6 +10,7 @@ Subcommands:
   update        Rebuild generated/forms.csv for varieties whose inputs
                 changed (config/custom/intake/recipe); --force rebuilds all.
   aggregate     Merge per-variety output into output/aggregate/.
+  extensions    Validate the source extensions in extensions/ and write intake/extensions/.
   report        Rank varieties by curation priority into output/report/.
   concepts      Audit (and optionally extend) the frozen concept catalog.
   status        Show enrollment, freshness, source coverage stats.
@@ -57,9 +58,9 @@ def _intake_paths(source: str = "lexibank") -> dict[str, Path]:
 
 
 def _all_intake_sources() -> list[str]:
-    """Intake sources present on disk (lexibank always first)."""
+    """Intake sources present on disk (lexibank always first, committed source extensions last)."""
     sources = []
-    for name in ("lexibank", "wiktionary"):
+    for name in ("lexibank", "wiktionary", "extensions"):
         if (INTAKE_DIR / name / "forms.csv").exists():
             sources.append(name)
     return sources or ["lexibank"]
@@ -67,6 +68,9 @@ def _all_intake_sources() -> list[str]:
 
 def _combined_intake() -> dict[str, list[Path]]:
     """Forms/languages/parameters paths across all present intake sources."""
+    from arcaverborum.extensions import materialize
+
+    materialize(PROJECT_ROOT)
     sources = _all_intake_sources()
     return {
         "forms": [INTAKE_DIR / s / "forms.csv" for s in sources],
@@ -234,6 +238,21 @@ def _git_commit() -> str:
     return result.stdout.strip() if result.returncode == 0 else ""
 
 
+def cmd_extensions(args: argparse.Namespace) -> int:
+    from arcaverborum.extensions import datasets, materialize, validate
+
+    problems = validate(PROJECT_ROOT)
+    for problem in problems:
+        logger.error("%s", problem)
+    if problems:
+        return 1
+    names = datasets(PROJECT_ROOT)
+    if not args.check:
+        materialize(PROJECT_ROOT)
+    logger.info("%d source extensions valid%s", len(names), f": {', '.join(names)}" if names else "")
+    return 0
+
+
 def cmd_snapshot(args: argparse.Namespace) -> int:
     from arcaverborum.snapshot import export, pack
 
@@ -303,10 +322,15 @@ def cmd_aggregate(args: argparse.Namespace) -> int:
             logger.error("Run `build.py update --all` first (or pass --allow-incomplete for local work).")
             return 1
 
+    from arcaverborum.extensions import materialize
+
     extra = []
     wikt = INTAKE_DIR / "wiktionary"
     if (wikt / "parameters_raw.csv").exists():
         extra.append(wikt)
+    ext = materialize(PROJECT_ROOT)
+    if ext is not None:
+        extra.append(ext)
 
     stats = aggregate_all(
         varieties_root=VARIETIES_DIR,
@@ -526,6 +550,10 @@ def main(argv: list[str] | None = None) -> int:
     p_relc = sub.add_parser("release-core", help="Historical Core v0.1.0 release (superseded)")
     p_relc.add_argument("--version", default="0.1.0", help="Release version (semver), default 0.1.0")
     p_relc.set_defaults(fn=cmd_release_core)
+
+    p_ext = sub.add_parser("extensions", help="Validate extensions/ and write intake/extensions/")
+    p_ext.add_argument("--check", action="store_true", help="Validate only; write nothing")
+    p_ext.set_defaults(fn=cmd_extensions)
 
     p_snap = sub.add_parser("snapshot", help="Export the accepted-inputs snapshot (everything the build reads)")
     p_snap.add_argument("output", help="Directory to create")
