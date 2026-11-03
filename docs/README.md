@@ -20,3 +20,5 @@
 Dated batch reports, reviews and earlier release candidates are in the archived
 repository [tresoldi/arcaverborum](https://github.com/tresoldi/arcaverborum);
 links to them in these documents are pinned to its final commit.
+
+<!-- PR policy test; not to be merged. -->
