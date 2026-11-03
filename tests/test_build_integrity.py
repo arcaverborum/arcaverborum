@@ -109,3 +109,12 @@ def test_build_date_is_pinnable(monkeypatch):
     monkeypatch.delenv("ARCA_BUILD_DATE")
     monkeypatch.setenv("SOURCE_DATE_EPOCH", "0")
     assert build_date() == "1970-01-01"
+
+
+def test_merkmal_uses_full_unicode_normalization():
+    import merkmal
+
+    from arcaverborum.phonology import resegment
+
+    assert merkmal.HAVE_UTF8PROC
+    assert resegment("gỹnh") == ("ɡ ỹ n h", True)

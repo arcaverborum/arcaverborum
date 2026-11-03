@@ -28,6 +28,16 @@ import merkmal
 
 logger = logging.getLogger(__name__)
 
+# merkmal built without the system libutf8proc falls back to an IPA-focused
+# normalizer whose output can differ (e.g. decomposed y + U+0303 for U+1EF9),
+# which silently changes segments and breaks guarded preservation. Refuse it.
+if not getattr(merkmal, "HAVE_UTF8PROC", False):
+    raise ImportError(
+        "merkmal was built without libutf8proc; its normalization differs from the reference build. "
+        "Install the libutf8proc development headers (Debian/Ubuntu: libutf8proc-dev) and reinstall "
+        "merkmal with MERKMAL_REQUIRE_UTF8PROC=1."
+    )
+
 SYSTEM = "descriptive"
 SEPARATORS = ("+", "_")
 SOURCE_TOKEN_ALIASES = {

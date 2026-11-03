@@ -44,12 +44,15 @@ Tracked source of truth:
 ## 3. Environment
 
 Python 3.12+ is required. All dependencies, including the phonology library
-`merkmal` (built from source, pinned to an exact commit), are locked:
+`merkmal` (built from source, pinned to an exact commit), are locked. merkmal
+must be built against the system `libutf8proc`: without it, merkmal falls back
+to a normalizer whose output differs, and Arca refuses to import it.
 
 ```bash
+sudo apt-get install libutf8proc-dev pkg-config   # macOS: brew install utf8proc pkg-config
 python3 -m venv .venv
 source .venv/bin/activate
-pip install -r requirements.lock
+MERKMAL_REQUIRE_UTF8PROC=1 pip install -r requirements.lock
 pip install --no-deps -e .
 pytest -q
 ```
