@@ -66,7 +66,9 @@ python scripts/zenodo_deposit.py <id> --dry-run
 ```
 
 The site and snapshot builders write multi-GB temporary files: point `TMPDIR` at a
-disk with room (a small in-memory `/tmp` fails with "database or disk is full").
+disk with room, as an **absolute** path (a small in-memory `/tmp` fails with
+"database or disk is full", and `verify_rederivation.py` runs its builds from
+another directory, where a relative `TMPDIR` does not resolve).
 
 `verify_rederivation.py` exports the committed tree into an empty directory,
 unpacks the snapshot, rebuilds offline and compares every derived file with
