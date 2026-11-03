@@ -25,6 +25,7 @@ dependencies = [
 [project.optional-dependencies]
 research = ["infomap==2.16.0", "igraph==1.0.0"]
 dev = [
+    "pycldf>=1.40",
     "pytest>=8.0.0",
     "ruff>=0.1.0",
     "mypy>=1.0.0",

@@ -60,9 +60,9 @@ def _fixture(root: Path):
     forms = []
     for i, (av, ts, cs, concept) in enumerate(rows):
         forms.append({**dict.fromkeys(FORM_FIELDS, ""), "av_id": av, "concept_id": concept, "Value": f"v{i}",
-                      "Form": f"f{i}", "Segments_Source": "source", "Cognacy": f"{cs}-1",
-                      "transcription_source": ts, "cognate_source": cs, "source_form_id": f"s{i}",
-                      "bibtex_key": "key1"})
+                      "Form": f"f{i}", "Segments": f"f {i}", "Segments_Source": "source", "Cognacy": f"{cs}-1",
+                      "Alignment": f"f - {i}", "transcription_source": ts, "cognate_source": cs,
+                      "source_form_id": f"s{i}", "bibtex_key": "key1;key2[12-14]" if i else "key1"})
     _write(agg / "forms.csv", FORM_FIELDS, forms)
     _write(agg / "varieties.csv", ["av_id", "Glottocode", "Name", "Family", "Macroarea", "transcription_source",
                                    "cognate_source", "pinned", "forms_score", "cognates_score", "tier"],
@@ -73,7 +73,7 @@ def _fixture(root: Path):
            [dict(Dataset="by_src", License="https://creativecommons.org/licenses/by/4.0/"),
             dict(Dataset="nc_src", License="https://creativecommons.org/licenses/by-nc/4.0/"),
             dict(Dataset="none_src", License="")])
-    (agg / "sources.bib").write_text("@book{key1, title={T}}\n")
+    (agg / "sources.bib").write_text("@book{key1, title={T}}\n\n@book{key2, title={U}}\n")
     _write(root / "raw/glottolog/languages.csv", ["ID", "Latitude", "Longitude"], [])
     for av, *_ in rows:
         folder = root / "varieties" / av
@@ -104,6 +104,33 @@ def test_tiers_filter_rows_and_curation_files(tmp_path, tier, expected):
         # The mixed construction's cognacy comes from an NC source: excluded entirely.
         assert all(r["cognate_source"] == "by_src" for r in kept)
     assert meta["cldf"]["forms"] == len(kept)
+    from pycldf import Dataset
+
+    cldf = Dataset.from_metadata(out / "cldf/cldf-metadata.json")
+    assert cldf.validate()
+    rows = list(cldf["FormTable"])
+    assert all(isinstance(r["Segments"], list) and isinstance(r["Source"], list) for r in rows)
     manifest = json.loads((out / "MANIFEST.json").read_text())
     assert manifest["records"] == len(kept) and manifest["tier"] == tier
     assert "CC BY 4.0" in (out / "LICENSES.md").read_text()
+
+
+def test_cldf_sources_split_packed_keys_and_drop_unresolved():
+    from arcaverborum.release_a import cldf_sources
+
+    available = {"uralex_JL", "uralex_MH", "wold_1"}
+    assert cldf_sources("uralex_JL, MH;wold_6;wold_1[12-14]", available) == [
+        "uralex_JL", "uralex_MH", "wold_1[12-14]"]
+    assert cldf_sources("uralex_JL, MH[3]", available) == ["uralex_JL[3]", "uralex_MH[3]"]
+    assert cldf_sources("", available) == []
+
+
+def test_cldf_properties_are_cldf_terms():
+    from pycldf.terms import TERMS
+
+    from arcaverborum.release_a import _CLDF_COGNATES, _CLDF_FORMS, _CLDF_LANGUAGES, _CLDF_PARAMETERS, _cols
+
+    for names in (_CLDF_FORMS, _CLDF_COGNATES, _CLDF_LANGUAGES, _CLDF_PARAMETERS):
+        for col in _cols(names):
+            if "propertyUrl" in col:
+                assert col["propertyUrl"].split("#")[-1] in TERMS, col
