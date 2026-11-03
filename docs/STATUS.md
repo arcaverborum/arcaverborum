@@ -20,10 +20,11 @@ Curation is frozen until release `A` is published; see [LAUNCH](LAUNCH.md).
   dependencies are locked (`requirements.lock`).
 - **Rebuild guarantee.** The accepted-inputs snapshot of each release, unpacked
   into a clean checkout, re-derives the release's outputs offline;
-  `scripts/verify_rederivation.py` checks this byte for byte. Pre-release
-  proof, 2026-11-02: 32,511 of 32,511 derived files identical (variety
-  builds, aggregate and the full site) from a 127 MB snapshot
-  ([report](evidence/rederivation/pre-release_2026-11-02.json)).
+  `scripts/verify_rederivation.py` checks this byte for byte. Release
+  `A-2026-11-03` (commit `ac575639`): 32,511 of 32,511 derived files identical
+  (variety builds, aggregate and the full site) from its 127 MB snapshot
+  ([report](evidence/rederivation/A-2026-11-03.json); pre-release proof of
+  2026-11-02 [here](evidence/rederivation/pre-release_2026-11-02.json)).
 - **Licensing.** Reviewed overrides bind legacy English Wiktionary (CC BY-SA 4.0,
   snapshot identified by checksum, dump date unknown) and `luangthongkumkaren`
   (CC BY 4.0, confirmed by the author; upstream declared ND in error). The 20 largest

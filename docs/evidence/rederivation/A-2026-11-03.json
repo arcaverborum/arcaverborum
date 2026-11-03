@@ -1,0 +1,19 @@
+{
+ "snapshot": "/home/agent/work/chl/arcaverborum-staging/work/arcaverborum-A-2026-11-03-snapshot.tar.gz",
+ "snapshot_git_commit": "ac575639134ed389f1cd8f3d75044e5fe48e08b8",
+ "exported_ref": "HEAD",
+ "compared_files": 32511,
+ "identical": 32511,
+ "missing": [],
+ "extra": [],
+ "differ": [],
+ "n_missing": 0,
+ "n_extra": 0,
+ "n_differ": 0,
+ "timings_seconds": {
+  "update": 490.7,
+  "aggregate": 59.5,
+  "web": 949.2
+ },
+ "ok": true
+}
