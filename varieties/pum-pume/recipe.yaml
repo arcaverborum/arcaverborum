@@ -1,0 +1,36 @@
+av_id: pum-pume
+name: Pumé
+review:
+  status: draft
+  reviewer: ''
+  date: '2026-11-04'
+quality:
+  forms_score: 0.9512
+  cognates_score: 0.0
+  tier: bronze
+  pinned: false
+construction:
+  lexical_base:
+    source: huntergatherer
+    source_language_id: ''
+    rationale: Reviewed additive construction; exact original source identities retained.
+  transcription:
+    strategy: source with explicit supplements
+  concepts:
+    mapping: reviewed
+    core_coverage: 138/161
+    ledger: docs/south_america_isolates_2026-11-04_slices.csv
+  cognates:
+    source: source-scoped
+    notes: No cross-source inference; supplement cognacy stays in its own namespace.
+south_america_isolates_2026_11_04:
+  status: draft
+  report: ../../docs/SOUTH_AMERICA_ISOLATES_2026-11-04.md
+  ledger: ../../docs/south_america_isolates_2026-11-04_slices.csv
+  primary: huntergatherer
+  forms: 1212
+  concepts: 1149
+  supported_core: 138
+  supplement_members:
+    idssegmented_yaruro: 900
+  preservation: All release A records retained; gap fills only; source-scoped cognacy.

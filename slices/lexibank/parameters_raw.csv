@@ -1,0 +1,2681 @@
+ID,Dataset,Name,Concepticon_ID,Concepticon_Gloss
+blumpanotacana_1_dust,blumpanotacana,dust,2,DUST
+blumpanotacana_3_gather,blumpanotacana,gather,7,GATHER
+blumpanotacana_4_firewood,blumpanotacana,firewood,10,FIREWOOD
+blumpanotacana_5_darkness,blumpanotacana,darkness,11,DARKNESS
+blumpanotacana_6_spreadout,blumpanotacana,spread out,38,SPREAD OUT
+blumpanotacana_7_stinking,blumpanotacana,stinking,42,STINKING
+blumpanotacana_8_besilent,blumpanotacana,be silent,48,BE SILENT
+blumpanotacana_9_shiver,blumpanotacana,shiver,52,SHIVER
+blumpanotacana_10_kneel,blumpanotacana,kneel,66,KNEEL
+blumpanotacana_12_youngman,blumpanotacana,young man,76,YOUNG MAN
+blumpanotacana_13_youngwoman,blumpanotacana,young woman,77,YOUNG WOMAN
+blumpanotacana_14_all,blumpanotacana,all,98,ALL
+blumpanotacana_15_turtle,blumpanotacana,turtle,112,TURTLE
+blumpanotacana_16_dive,blumpanotacana,dive,119,DIVE
+blumpanotacana_17_spin,blumpanotacana,spin,121,SPIN
+blumpanotacana_18_forehead,blumpanotacana,forehead,123,FOREHEAD
+blumpanotacana_20_extinguish,blumpanotacana,extinguish,127,EXTINGUISH
+blumpanotacana_21_weave,blumpanotacana,weave,133,WEAVE
+blumpanotacana_23_bathe,blumpanotacana,bathe,138,BATHE
+blumpanotacana_24_burnsomething,blumpanotacana,burn (something),141,BURN (SOMETHING)
+blumpanotacana_25_red,blumpanotacana,red,156,RED
+blumpanotacana_27_black,blumpanotacana,black,163,BLACK
+blumpanotacana_28_rest,blumpanotacana,rest,168,REST
+blumpanotacana_29_blowofwind,blumpanotacana,blow (of wind),175,BLOW (OF WIND)
+blumpanotacana_30_ripe,blumpanotacana,ripe,178,RIPE
+blumpanotacana_31_hairbody,blumpanotacana,hair (body),189,HAIR (BODY)
+blumpanotacana_32_marry,blumpanotacana,marry,203,MARRY
+blumpanotacana_33_nasalmucussnot,blumpanotacana,nasal mucus (snot),208,NASAL MUCUS (SNOT)
+blumpanotacana_34_field,blumpanotacana,field,212,FIELD
+blumpanotacana_35_stretch,blumpanotacana,stretch,214,STRETCH
+blumpanotacana_36_liedown,blumpanotacana,lie down,215,LIE DOWN
+blumpanotacana_37_fire,blumpanotacana,fire,221,FIRE
+blumpanotacana_38_fish,blumpanotacana,fish,227,FISH
+blumpanotacana_39_flower,blumpanotacana,flower,239,FLOWER
+blumpanotacana_40_left,blumpanotacana,left,244,LEFT
+blumpanotacana_41_fog,blumpanotacana,fog,249,FOG
+blumpanotacana_43_food,blumpanotacana,food,256,FOOD
+blumpanotacana_44_peel,blumpanotacana,peel,275,PEEL
+blumpanotacana_45_crooked,blumpanotacana,crooked,297,CROOKED
+blumpanotacana_46_chieftain,blumpanotacana,chieftain,301,CHIEFTAIN
+blumpanotacana_49_lick,blumpanotacana,lick,319,LICK
+blumpanotacana_50_chew,blumpanotacana,chew,321,CHEW
+blumpanotacana_51_fatorganicsubstance,blumpanotacana,fat (organic substance),323,FAT (ORGANIC SUBSTANCE)
+blumpanotacana_52_untie,blumpanotacana,untie,352,UNTIE
+blumpanotacana_53_fanaction,blumpanotacana,fan (action),360,FAN (ACTION)
+blumpanotacana_54_pickup,blumpanotacana,pick up,371,PICK UP
+blumpanotacana_55_pinch,blumpanotacana,pinch,378,PINCH
+blumpanotacana_56_wrinkled,blumpanotacana,wrinkled,380,WRINKLED
+blumpanotacana_57_alcoholfermenteddrink,blumpanotacana,alcohol (fermented drink),404,ALCOHOL (FERMENTED DRINK)
+blumpanotacana_58_oldman,blumpanotacana,old man,406,OLD MAN
+blumpanotacana_59_forest,blumpanotacana,forest,420,FOREST
+blumpanotacana_61_upperlegthigh,blumpanotacana,upper leg (thigh),471,UPPER LEG (THIGH)
+blumpanotacana_62_lip,blumpanotacana,lip,478,LIP
+blumpanotacana_63_grow,blumpanotacana,grow,479,GROW
+blumpanotacana_64_kidney,blumpanotacana,kidney,489,KIDNEY
+blumpanotacana_66_cure,blumpanotacana,cure,499,CURE
+blumpanotacana_67_lift,blumpanotacana,lift,501,LIFT
+blumpanotacana_68_frog,blumpanotacana,frog,503,FROG
+blumpanotacana_69_maize,blumpanotacana,maize,506,MAIZE
+blumpanotacana_70_nest,blumpanotacana,nest,539,NEST
+blumpanotacana_72_comeback,blumpanotacana,come back,581,COME BACK
+blumpanotacana_73_ant,blumpanotacana,ant,587,ANT
+blumpanotacana_74_naked,blumpanotacana,naked,590,NAKED
+blumpanotacana_75_piss,blumpanotacana,piss,592,PISS
+blumpanotacana_76_potato,blumpanotacana,potato,593,POTATO
+blumpanotacana_77_liemislead,blumpanotacana,lie (mislead),601,LIE (MISLEAD)
+blumpanotacana_78_hideconceal,blumpanotacana,hide (conceal),602,HIDE (CONCEAL)
+blumpanotacana_79_grass,blumpanotacana,grass,606,GRASS
+blumpanotacana_80_animal,blumpanotacana,animal,619,ANIMAL
+blumpanotacana_81_lake,blumpanotacana,lake,624,LAKE
+blumpanotacana_82_leaf,blumpanotacana,leaf,628,LEAF
+blumpanotacana_83_lightradiation,blumpanotacana,light (radiation),630,LIGHT (RADIATION)
+blumpanotacana_84_lizard,blumpanotacana,lizard,632,LIZARD
+blumpanotacana_85_meat,blumpanotacana,meat,634,MEAT
+blumpanotacana_86_milk,blumpanotacana,milk,635,MILK
+blumpanotacana_88_mud,blumpanotacana,mud,640,MUD
+blumpanotacana_89_ash,blumpanotacana,ash,646,ASH
+blumpanotacana_90_plain,blumpanotacana,plain,652,PLAIN
+blumpanotacana_91_rainprecipitation,blumpanotacana,rain (precipitation),658,RAIN (PRECIPITATION)
+blumpanotacana_92_bee,blumpanotacana,bee,665,BEE
+blumpanotacana_94_root,blumpanotacana,root,670,ROOT
+blumpanotacana_95_sand,blumpanotacana,sand,671,SAND
+blumpanotacana_96_mouth,blumpanotacana,mouth,674,MOUTH
+blumpanotacana_97_shitdefecate,blumpanotacana,shit (defecate),676,SHIT (DEFECATE)
+blumpanotacana_98_axe,blumpanotacana,axe,677,AXE
+blumpanotacana_99_beard,blumpanotacana,beard,678,BEARD
+blumpanotacana_100_bright,blumpanotacana,bright,679,BRIGHT
+blumpanotacana_101_breakdestroyorgetdestroyed,blumpanotacana,break (destroy or get destroyed),680,BREAK (DESTROY OR GET DESTROYED)
+blumpanotacana_102_side,blumpanotacana,side,682,SIDE
+blumpanotacana_103_person,blumpanotacana,person,683,PERSON
+blumpanotacana_104_lung,blumpanotacana,lung,688,LUNG
+blumpanotacana_106_bring,blumpanotacana,bring,692,BRING
+blumpanotacana_107_get,blumpanotacana,get,694,GET
+blumpanotacana_108_go,blumpanotacana,go,695,GO
+blumpanotacana_109_carry,blumpanotacana,carry,700,CARRY
+blumpanotacana_110_clean,blumpanotacana,clean,704,CLEAN
+blumpanotacana_111_goupascend,blumpanotacana,go up (ascend),705,GO UP (ASCEND)
+blumpanotacana_112_dark,blumpanotacana,dark,706,DARK
+blumpanotacana_113_remember,blumpanotacana,remember,707,REMEMBER
+blumpanotacana_114_shine,blumpanotacana,shine,708,SHINE
+blumpanotacana_115_steal,blumpanotacana,steal,713,STEAL
+blumpanotacana_116_seed,blumpanotacana,seed,714,SEED
+blumpanotacana_117_shout,blumpanotacana,shout,715,SHOUT
+blumpanotacana_118_sweet,blumpanotacana,sweet,717,SWEET
+blumpanotacana_119_find,blumpanotacana,find,719,FIND
+blumpanotacana_121_dawn,blumpanotacana,dawn,729,DAWN
+blumpanotacana_122_snake,blumpanotacana,snake,730,SNAKE
+blumpanotacana_123_beverage,blumpanotacana,beverage,731,BEVERAGE
+blumpanotacana_124_owl,blumpanotacana,owl,735,OWL
+blumpanotacana_125_lightignite,blumpanotacana,light (ignite),737,LIGHT (IGNITE)
+blumpanotacana_126_thing,blumpanotacana,thing,738,THING
+blumpanotacana_127_egg,blumpanotacana,egg,744,EGG
+blumpanotacana_128_enter,blumpanotacana,enter,749,ENTER
+blumpanotacana_129_cover,blumpanotacana,cover,761,COVER
+blumpanotacana_130_outside,blumpanotacana,outside,762,OUTSIDE
+blumpanotacana_131_skin,blumpanotacana,skin,763,SKIN
+blumpanotacana_132_move,blumpanotacana,move,765,MOVE
+blumpanotacana_133_roof,blumpanotacana,roof,769,ROOF
+blumpanotacana_134_belt,blumpanotacana,belt,772,BELT
+blumpanotacana_135_flute,blumpanotacana,flute,777,FLUTE
+blumpanotacana_136_smokeexhaust,blumpanotacana,smoke (exhaust),778,SMOKE (EXHAUST)
+blumpanotacana_137_fearfright,blumpanotacana,fear (fright),781,FEAR (FRIGHT)
+blumpanotacana_138_testicles,blumpanotacana,testicles,797,TESTICLES
+blumpanotacana_139_jaw,blumpanotacana,jaw,798,JAW
+blumpanotacana_140_rib,blumpanotacana,rib,801,RIB
+blumpanotacana_141_blanket,blumpanotacana,blanket,806,BLANKET
+blumpanotacana_142_soul,blumpanotacana,soul,811,SOUL
+blumpanotacana_143_half,blumpanotacana,half,816,HALF
+blumpanotacana_144_they,blumpanotacana,they,817,THEY
+blumpanotacana_145_stomach,blumpanotacana,stomach,819,STOMACH
+blumpanotacana_146_roll,blumpanotacana,roll,827,ROLL
+blumpanotacana_147_buttocks,blumpanotacana,buttocks,834,BUTTOCKS
+blumpanotacana_148_blue,blumpanotacana,blue,837,BLUE
+blumpanotacana_149_spider,blumpanotacana,spider,843,SPIDER
+blumpanotacana_150_seize,blumpanotacana,seize,855,SEIZE
+blumpanotacana_152_pumpkin,blumpanotacana,pumpkin,864,PUMPKIN
+blumpanotacana_153_cough,blumpanotacana,cough,879,COUGH
+blumpanotacana_154_parrot,blumpanotacana,parrot,882,PARROT
+blumpanotacana_155_bitter,blumpanotacana,bitter,887,BITTER
+blumpanotacana_156_swallow,blumpanotacana,swallow,897,SWALLOW
+blumpanotacana_157_tree,blumpanotacana,tree,906,TREE
+blumpanotacana_158_oldwoman,blumpanotacana,old woman,907,OLD WOMAN
+blumpanotacana_159_drum,blumpanotacana,drum,908,DRUM
+blumpanotacana_160_chilipepper,blumpanotacana,chili pepper,919,CHILI PEPPER
+blumpanotacana_161_love,blumpanotacana,love,923,LOVE
+blumpanotacana_162_cassava,blumpanotacana,cassava,925,CASSAVA
+blumpanotacana_163_embrace,blumpanotacana,embrace,928,EMBRACE
+blumpanotacana_164_bird,blumpanotacana,bird,937,BIRD
+blumpanotacana_165_honey,blumpanotacana,honey,942,HONEY
+blumpanotacana_166_blood,blumpanotacana,blood,946,BLOOD
+blumpanotacana_167_water,blumpanotacana,water,948,WATER
+blumpanotacana_168_flee,blumpanotacana,flee,956,FLEE
+blumpanotacana_169_wind,blumpanotacana,wind,960,WIND
+blumpanotacana_170_woman,blumpanotacana,woman,962,WOMAN
+blumpanotacana_171_tobacco,blumpanotacana,tobacco,974,TOBACCO
+blumpanotacana_172_arrow,blumpanotacana,arrow,977,ARROW
+blumpanotacana_173_heel,blumpanotacana,heel,980,HEEL
+blumpanotacana_174_elbow,blumpanotacana,elbow,981,ELBOW
+blumpanotacana_175_bow,blumpanotacana,bow,994,BOW
+blumpanotacana_176_deaf,blumpanotacana,deaf,996,DEAF
+blumpanotacana_177_put,blumpanotacana,put,998,PUT
+blumpanotacana_179_right,blumpanotacana,right,1019,RIGHT
+blumpanotacana_180_whistle,blumpanotacana,whistle,1025,WHISTLE
+blumpanotacana_181_grind,blumpanotacana,grind,1033,GRIND
+blumpanotacana_182_good,blumpanotacana,good,1035,GOOD
+blumpanotacana_184_shut,blumpanotacana,shut,1046,SHUT
+blumpanotacana_185_pursue,blumpanotacana,pursue,1047,PURSUE
+blumpanotacana_186_call,blumpanotacana,call,1084,CALL
+blumpanotacana_187_lightweight,blumpanotacana,light (weight),1052,LIGHT (WEIGHT)
+blumpanotacana_188_trappitfall,blumpanotacana,trap (pitfall),1075,TRAP (PITFALL)
+blumpanotacana_189_follow,blumpanotacana,follow,1085,FOLLOW
+blumpanotacana_191_beborn,blumpanotacana,be born,1090,BE BORN
+blumpanotacana_193_cooksomething,blumpanotacana,cook (something),1100,COOK (SOMETHING)
+blumpanotacana_194_goout,blumpanotacana,go out,1107,GO OUT
+blumpanotacana_195_wound,blumpanotacana,wound,1109,WOUND
+blumpanotacana_196_send,blumpanotacana,send,1127,SEND
+blumpanotacana_197_orphan,blumpanotacana,orphan,1149,ORPHAN
+blumpanotacana_198_thunder,blumpanotacana,thunder,1150,THUNDER
+blumpanotacana_199_open,blumpanotacana,open,1156,OPEN
+blumpanotacana_200_because,blumpanotacana,because,1157,BECAUSE
+blumpanotacana_201_fart,blumpanotacana,fart,1159,FART
+blumpanotacana_202_thread,blumpanotacana,thread,1161,THREAD
+blumpanotacana_204_shoot,blumpanotacana,shoot,1172,SHOOT
+blumpanotacana_205_eyebrow,blumpanotacana,eyebrow,1173,EYEBROW
+blumpanotacana_206_yesterday,blumpanotacana,yesterday,1174,YESTERDAY
+blumpanotacana_207_ghost,blumpanotacana,ghost,1175,GHOST
+blumpanotacana_209_vulture,blumpanotacana,vulture,1185,VULTURE
+blumpanotacana_210_charcoal,blumpanotacana,charcoal,1188,CHARCOAL
+blumpanotacana_212_many,blumpanotacana,many,1198,MANY
+blumpanotacana_213_wife,blumpanotacana,wife,1199,WIFE
+blumpanotacana_214_husband,blumpanotacana,husband,1200,HUSBAND
+blumpanotacana_215_feather,blumpanotacana,feather,1201,FEATHER
+blumpanotacana_216_big,blumpanotacana,big,1202,BIG
+blumpanotacana_217_long,blumpanotacana,long,1203,LONG
+blumpanotacana_218_bark,blumpanotacana,bark,1204,BARK
+blumpanotacana_219_tongue,blumpanotacana,tongue,1205,TONGUE
+blumpanotacana_220_young,blumpanotacana,young,1207,YOUNG
+blumpanotacana_221_cat,blumpanotacana,cat,1208,CAT
+blumpanotacana_222_i,blumpanotacana,i,1209,I
+blumpanotacana_223_heavy,blumpanotacana,heavy,1210,HEAVY
+blumpanotacana_225_you,blumpanotacana,you,1213,YOU
+blumpanotacana_226_thou,blumpanotacana,thou,1215,THOU
+blumpanotacana_227_mother,blumpanotacana,mother,1216,MOTHER
+blumpanotacana_228_father,blumpanotacana,father,1217,FATHER
+blumpanotacana_229_rope,blumpanotacana,rope,1218,ROPE
+blumpanotacana_230_worm,blumpanotacana,worm,1219,WORM
+blumpanotacana_231_tail,blumpanotacana,tail,1220,TAIL
+blumpanotacana_232_nose,blumpanotacana,nose,1221,NOSE
+blumpanotacana_233_penis,blumpanotacana,penis,1222,PENIS
+blumpanotacana_234_heart,blumpanotacana,heart,1223,HEART
+blumpanotacana_235_liver,blumpanotacana,liver,1224,LIVER
+blumpanotacana_236_daynotnight,blumpanotacana,day (not night),1225,DAY (NOT NIGHT)
+blumpanotacana_237_year,blumpanotacana,year,1226,YEAR
+blumpanotacana_238_earthsoil,blumpanotacana,earth (soil),1228,EARTH (SOIL)
+blumpanotacana_239_old,blumpanotacana,old,1229,OLD
+blumpanotacana_240_dirty,blumpanotacana,dirty,1230,DIRTY
+blumpanotacana_241_new,blumpanotacana,new,1231,NEW
+blumpanotacana_242_night,blumpanotacana,night,1233,NIGHT
+blumpanotacana_243_smooth,blumpanotacana,smooth,1234,SMOOTH
+blumpanotacana_244_who,blumpanotacana,who,1235,WHO
+blumpanotacana_245_what,blumpanotacana,what,1236,WHAT
+blumpanotacana_246_where,blumpanotacana,where,1237,WHERE
+blumpanotacana_247_when,blumpanotacana,when,1238,WHEN
+blumpanotacana_248_how,blumpanotacana,how,1239,HOW
+blumpanotacana_250_some,blumpanotacana,some,1241,SOME
+blumpanotacana_251_few,blumpanotacana,few,1242,FEW
+blumpanotacana_252_wide,blumpanotacana,wide,1243,WIDE
+blumpanotacana_253_thick,blumpanotacana,thick,1244,THICK
+blumpanotacana_254_small,blumpanotacana,small,1246,SMALL
+blumpanotacana_255_ear,blumpanotacana,ear,1247,EAR
+blumpanotacana_256_eye,blumpanotacana,eye,1248,EYE
+blumpanotacana_258_house,blumpanotacana,house,1252,HOUSE
+blumpanotacana_259_head,blumpanotacana,head,1256,HEAD
+blumpanotacana_260_wing,blumpanotacana,wing,1257,WING
+blumpanotacana_261_fingernail,blumpanotacana,fingernail,1258,FINGERNAIL
+blumpanotacana_262_sing,blumpanotacana,sing,1261,SING
+blumpanotacana_263_narrow,blumpanotacana,narrow,1267,NARROW
+blumpanotacana_264_yes,blumpanotacana,yes,1268,YES
+blumpanotacana_265_no,blumpanotacana,no,1269,NO
+blumpanotacana_266_salt,blumpanotacana,salt,1274,SALT
+blumpanotacana_267_hand,blumpanotacana,hand,1277,HAND
+blumpanotacana_268_vomit,blumpanotacana,vomit,1278,VOMIT
+blumpanotacana_269_fall,blumpanotacana,fall,1280,FALL
+blumpanotacana_270_hot,blumpanotacana,hot,1286,HOT
+blumpanotacana_271_cold,blumpanotacana,cold,1287,COLD
+blumpanotacana_272_baby,blumpanotacana,baby,1289,BABY
+blumpanotacana_273_back,blumpanotacana,back,1291,BACK
+blumpanotacana_274_bad,blumpanotacana,bad,1292,BAD
+blumpanotacana_275_leg,blumpanotacana,leg,1297,LEG
+blumpanotacana_276_foot,blumpanotacana,foot,1301,FOOT
+blumpanotacana_277_finger,blumpanotacana,finger,1303,FINGER
+blumpanotacana_278_childyounghuman,blumpanotacana,child (young human),1304,CHILD (YOUNG HUMAN)
+blumpanotacana_279_language,blumpanotacana,language,1307,LANGUAGE
+blumpanotacana_280_askinquire,blumpanotacana,ask (inquire),1309,ASK (INQUIRE)
+blumpanotacana_281_moon,blumpanotacana,moon,1313,MOON
+blumpanotacana_282_chicken,blumpanotacana,chicken,1318,CHICKEN
+blumpanotacana_283_slip,blumpanotacana,slip,1324,SLIP
+blumpanotacana_284_friend,blumpanotacana,friend,1325,FRIEND
+blumpanotacana_285_tomorrow,blumpanotacana,tomorrow,1329,TOMORROW
+blumpanotacana_286_neck,blumpanotacana,neck,1333,NECK
+blumpanotacana_287_white,blumpanotacana,white,1335,WHITE
+blumpanotacana_288_eat,blumpanotacana,eat,1336,EAT
+blumpanotacana_289_pig,blumpanotacana,pig,1337,PIG
+blumpanotacana_290_morning,blumpanotacana,morning,1339,MORNING
+blumpanotacana_291_summer,blumpanotacana,summer,1342,SUMMER
+blumpanotacana_292_sun,blumpanotacana,sun,1343,SUN
+blumpanotacana_293_throat,blumpanotacana,throat,1346,THROAT
+blumpanotacana_294_laugh,blumpanotacana,laugh,1355,LAUGH
+blumpanotacana_295_enemy,blumpanotacana,enemy,1358,ENEMY
+blumpanotacana_296_separate,blumpanotacana,separate,1359,SEPARATE
+blumpanotacana_297_duck,blumpanotacana,duck,1360,DUCK
+blumpanotacana_298_boy,blumpanotacana,boy,1366,BOY
+blumpanotacana_299_knee,blumpanotacana,knee,1371,KNEE
+blumpanotacana_300_medicine,blumpanotacana,medicine,1372,MEDICINE
+blumpanotacana_301_ring,blumpanotacana,ring,1374,RING
+blumpanotacana_302_now,blumpanotacana,now,1376,NOW
+blumpanotacana_303_tooth,blumpanotacana,tooth,1380,TOOTH
+blumpanotacana_304_needleforsewing,blumpanotacana,needle (for sewing),1382,NEEDLE (FOR SEWING)
+blumpanotacana_305_arrive,blumpanotacana,arrive,1387,ARRIVE
+blumpanotacana_306_shade,blumpanotacana,shade,1388,SHADE
+blumpanotacana_307_louse,blumpanotacana,louse,1392,LOUSE
+blumpanotacana_308_hornanatomy,blumpanotacana,horn (anatomy),1393,HORN (ANATOMY)
+blumpanotacana_309_bone,blumpanotacana,bone,1394,BONE
+blumpanotacana_310_sharp,blumpanotacana,sharp,1396,SHARP
+blumpanotacana_311_dry,blumpanotacana,dry,1398,DRY
+blumpanotacana_312_drink,blumpanotacana,drink,1401,DRINK
+blumpanotacana_313_breast,blumpanotacana,breast,1402,BREAST
+blumpanotacana_314_bite,blumpanotacana,bite,1403,BITE
+blumpanotacana_315_straight,blumpanotacana,straight,1404,STRAIGHT
+blumpanotacana_316_name,blumpanotacana,name,1405,NAME
+blumpanotacana_317_far,blumpanotacana,far,1406,FAR
+blumpanotacana_319_hear,blumpanotacana,hear,1408,HEAR
+blumpanotacana_320_see,blumpanotacana,see,1409,SEE
+blumpanotacana_321_knowsomething,blumpanotacana,know (something),1410,KNOW (SOMETHING)
+blumpanotacana_322_play,blumpanotacana,play,1413,PLAY
+blumpanotacana_323_squeeze,blumpanotacana,squeeze,1414,SQUEEZE
+blumpanotacana_324_thinkreflect,blumpanotacana,think (reflect),1415,THINK (REFLECT)
+blumpanotacana_325_sit,blumpanotacana,sit,1416,SIT
+blumpanotacana_326_kill,blumpanotacana,kill,1417,KILL
+blumpanotacana_327_dig,blumpanotacana,dig,1418,DIG
+blumpanotacana_328_suck,blumpanotacana,suck,1421,SUCK
+blumpanotacana_329_fight,blumpanotacana,fight,1423,FIGHT
+blumpanotacana_330_yellow,blumpanotacana,yellow,1424,YELLOW
+blumpanotacana_331_green,blumpanotacana,green,1425,GREEN
+blumpanotacana_332_burning,blumpanotacana,burning,1428,BURNING
+blumpanotacana_333_full,blumpanotacana,full,1429,FULL
+blumpanotacana_334_star,blumpanotacana,star,1430,STAR
+blumpanotacana_335_cut,blumpanotacana,cut,1432,CUT
+blumpanotacana_337_hunt,blumpanotacana,hunt,1435,HUNT
+blumpanotacana_338_split,blumpanotacana,split,1437,SPLIT
+blumpanotacana_339_swim,blumpanotacana,swim,1439,SWIM
+blumpanotacana_340_spit,blumpanotacana,spit,1440,SPIT
+blumpanotacana_341_flymovethroughair,blumpanotacana,fly (move through air),1441,FLY (MOVE THROUGH AIR)
+blumpanotacana_342_stand,blumpanotacana,stand,1442,STAND
+blumpanotacana_343_walk,blumpanotacana,walk,1443,WALK
+blumpanotacana_344_turnaround,blumpanotacana,turn around,1444,TURN AROUND
+blumpanotacana_345_come,blumpanotacana,come,1446,COME
+blumpanotacana_346_give,blumpanotacana,give,1447,GIVE
+blumpanotacana_347_rub,blumpanotacana,rub,1449,RUB
+blumpanotacana_348_push,blumpanotacana,push,1452,PUSH
+blumpanotacana_349_wash,blumpanotacana,wash,1453,WASH
+blumpanotacana_350_pull,blumpanotacana,pull,1455,PULL
+blumpanotacana_351_throw,blumpanotacana,throw,1456,THROW
+blumpanotacana_352_sew,blumpanotacana,sew,1457,SEW
+blumpanotacana_353_say,blumpanotacana,say,1458,SAY
+blumpanotacana_354_drunk,blumpanotacana,drunk,1463,DRUNK
+blumpanotacana_355_lookfor,blumpanotacana,look for,1468,LOOK FOR
+blumpanotacana_356_comb,blumpanotacana,comb,1475,COMB
+blumpanotacana_357_chair,blumpanotacana,chair,1476,CHAIR
+blumpanotacana_358_body,blumpanotacana,body,1480,BODY
+blumpanotacana_359_shoulder,blumpanotacana,shoulder,1482,SHOULDER
+blumpanotacana_360_beloworunder,blumpanotacana,below or under,1485,BELOW OR UNDER
+blumpanotacana_361_plantsomething,blumpanotacana,plant (something),1486,PLANT (SOMETHING)
+blumpanotacana_362_cloud,blumpanotacana,cloud,1489,CLOUD
+blumpanotacana_367_flyinsect,blumpanotacana,fly (insect),1504,FLY (INSECT)
+blumpanotacana_368_fruit,blumpanotacana,fruit,1507,FRUIT
+blumpanotacana_369_mosquito,blumpanotacana,mosquito,1509,MOSQUITO
+blumpanotacana_370_wasp,blumpanotacana,wasp,1517,WASP
+blumpanotacana_371_run,blumpanotacana,run,1519,RUN
+blumpanotacana_372_forget,blumpanotacana,forget,1523,FORGET
+blumpanotacana_373_basket,blumpanotacana,basket,1539,BASKET
+blumpanotacana_374_eyelash,blumpanotacana,eyelash,1540,EYELASH
+blumpanotacana_375_snail,blumpanotacana,snail,1543,SNAIL
+blumpanotacana_376_man,blumpanotacana,man,1554,MAN
+blumpanotacana_377_face,blumpanotacana,face,1560,FACE
+blumpanotacana_378_lazy,blumpanotacana,lazy,1564,LAZY
+blumpanotacana_379_door,blumpanotacana,door,1567,DOOR
+blumpanotacana_380_sell,blumpanotacana,sell,1571,SELL
+blumpanotacana_381_float,blumpanotacana,float,1574,FLOAT
+blumpanotacana_382_pileup,blumpanotacana,pile up,1576,PILE UP
+blumpanotacana_383_only,blumpanotacana,only,1580,ONLY
+blumpanotacana_384_brain,blumpanotacana,brain,1583,BRAIN
+blumpanotacana_385_sleep,blumpanotacana,sleep,1585,SLEEP
+blumpanotacana_386_smellperceive,blumpanotacana,smell (perceive),1586,SMELL (PERCEIVE)
+blumpanotacana_387_smellstink,blumpanotacana,smell (stink),1587,SMELL (STINK)
+blumpanotacana_389_up,blumpanotacana,up,1591,UP
+blumpanotacana_390_chest,blumpanotacana,chest,1592,CHEST
+blumpanotacana_391_deep,blumpanotacana,deep,1593,DEEP
+blumpanotacana_392_flour,blumpanotacana,flour,1594,FLOUR
+blumpanotacana_393_wakeup,blumpanotacana,wake up,1602,WAKE UP
+blumpanotacana_394_inside,blumpanotacana,inside,1606,INSIDE
+blumpanotacana_395_cloth,blumpanotacana,cloth,1616,CLOTH
+blumpanotacana_396_sneeze,blumpanotacana,sneeze,1621,SNEEZE
+blumpanotacana_397_speak,blumpanotacana,speak,1623,SPEAK
+blumpanotacana_398_empty,blumpanotacana,empty,1624,EMPTY
+blumpanotacana_400_evening,blumpanotacana,evening,1629,EVENING
+blumpanotacana_401_fast,blumpanotacana,fast,1631,FAST
+blumpanotacana_402_flat,blumpanotacana,flat,1633,FLAT
+blumpanotacana_403_relatives,blumpanotacana,relatives,1644,RELATIVES
+blumpanotacana_404_short,blumpanotacana,short,1645,SHORT
+blumpanotacana_405_girl,blumpanotacana,girl,1646,GIRL
+blumpanotacana_407_tearofeye,blumpanotacana,tear (of eye),1651,TEAR (OF EYE)
+blumpanotacana_408_lightning,blumpanotacana,lightning,1654,LIGHTNING
+blumpanotacana_409_true,blumpanotacana,true,1657,TRUE
+blumpanotacana_410_mute,blumpanotacana,mute,1666,MUTE
+blumpanotacana_411_hole,blumpanotacana,hole,1667,HOLE
+blumpanotacana_412_write,blumpanotacana,write,1672,WRITE
+blumpanotacana_413_arm,blumpanotacana,arm,1673,ARM
+blumpanotacana_414_behind,blumpanotacana,behind,1686,BEHIND
+blumpanotacana_415_smokeinhale,blumpanotacana,smoke (inhale),1689,SMOKE (INHALE)
+blumpanotacana_416_tell,blumpanotacana,tell,1711,TELL
+blumpanotacana_417_bury,blumpanotacana,bury,1719,BURY
+blumpanotacana_418_wet,blumpanotacana,wet,1726,WET
+blumpanotacana_419_rotten,blumpanotacana,rotten,1728,ROTTEN
+blumpanotacana_420_cheek,blumpanotacana,cheek,1730,CHEEK
+blumpanotacana_421_sky,blumpanotacana,sky,1732,SKY
+blumpanotacana_422_rainbow,blumpanotacana,rainbow,1733,RAINBOW
+blumpanotacana_423_tearshred,blumpanotacana,tear (shred),1735,TEAR (SHRED)
+blumpanotacana_424_join,blumpanotacana,join,1743,JOIN
+blumpanotacana_425_choose,blumpanotacana,choose,1750,CHOOSE
+blumpanotacana_426_leave,blumpanotacana,leave,1752,LEAVE
+blumpanotacana_427_oldersister,blumpanotacana,older sister,1758,OLDER SISTER
+blumpanotacana_428_olderbrother,blumpanotacana,older brother,1759,OLDER BROTHER
+blumpanotacana_429_youngerbrother,blumpanotacana,younger brother,1760,YOUNGER BROTHER
+blumpanotacana_430_youngersister,blumpanotacana,younger sister,1761,YOUNGER SISTER
+blumpanotacana_431_finish,blumpanotacana,finish,1766,FINISH
+blumpanotacana_432_scrape,blumpanotacana,scrape,1767,SCRAPE
+blumpanotacana_433_approach,blumpanotacana,approach,1778,APPROACH
+blumpanotacana_434_pain,blumpanotacana,pain,1783,PAIN
+blumpanotacana_435_want,blumpanotacana,want,1784,WANT
+blumpanotacana_436_butterfly,blumpanotacana,butterfly,1791,BUTTERFLY
+blumpanotacana_437_bat,blumpanotacana,bat,1793,BAT
+blumpanotacana_438_wood,blumpanotacana,wood,1803,WOOD
+blumpanotacana_439_pus,blumpanotacana,pus,1808,PUS
+blumpanotacana_440_look,blumpanotacana,look,1819,LOOK
+blumpanotacana_441_askrequest,blumpanotacana,ask (request),1828,ASK (REQUEST)
+blumpanotacana_442_jump,blumpanotacana,jump,1829,JUMP
+blumpanotacana_443_meet,blumpanotacana,meet,1831,MEET
+blumpanotacana_446_navel,blumpanotacana,navel,1838,NAVEL
+blumpanotacana_447_cry,blumpanotacana,cry,1839,CRY
+blumpanotacana_448_sick,blumpanotacana,sick,1847,SICK
+blumpanotacana_449_cotton,blumpanotacana,cotton,1850,COTTON
+blumpanotacana_450_soft,blumpanotacana,soft,1856,SOFT
+blumpanotacana_451_hunger,blumpanotacana,hunger,1864,HUNGER
+blumpanotacana_452_buy,blumpanotacana,buy,1869,BUY
+blumpanotacana_453_dance,blumpanotacana,dance,1879,DANCE
+blumpanotacana_454_hard,blumpanotacana,hard,1884,HARD
+blumpanotacana_455_armpit,blumpanotacana,armpit,1886,ARMPIT
+blumpanotacana_456_touch,blumpanotacana,touch,1892,TOUCH
+blumpanotacana_457_clothes,blumpanotacana,clothes,1895,CLOTHES
+blumpanotacana_458_help,blumpanotacana,help,1897,HELP
+blumpanotacana_459_sour,blumpanotacana,sour,1906,SOUR
+blumpanotacana_460_shake,blumpanotacana,shake,1909,SHAKE
+blumpanotacana_461_press,blumpanotacana,press,1913,PRESS
+blumpanotacana_462_tie,blumpanotacana,tie,1917,TIE
+blumpanotacana_463_dreamsomething,blumpanotacana,dream (something),1920,DREAM (SOMETHING)
+blumpanotacana_464_rough,blumpanotacana,rough,1923,ROUGH
+blumpanotacana_465_deer,blumpanotacana,deer,1936,DEER
+blumpanotacana_467_near,blumpanotacana,near,1942,NEAR
+blumpanotacana_468_unripe,blumpanotacana,unripe,1958,UNRIPE
+blumpanotacana_469_raw,blumpanotacana,raw,1959,RAW
+blumpanotacana_470_necklace,blumpanotacana,necklace,1961,NECKLACE
+blumpanotacana_471_canoe,blumpanotacana,canoe,1970,CANOE
+blumpanotacana_472_demon,blumpanotacana,demon,1973,DEMON
+blumpanotacana_473_dew,blumpanotacana,dew,1977,DEW
+blumpanotacana_474_snore,blumpanotacana,snore,1983,SNORE
+blumpanotacana_476_flow,blumpanotacana,flow,2003,FLOW
+blumpanotacana_477_bend,blumpanotacana,bend,2004,BEND
+blumpanotacana_478_dog,blumpanotacana,dog,2009,DOG
+blumpanotacana_479_godowndescend,blumpanotacana,go down (descend),2014,GO DOWN (DESCEND)
+blumpanotacana_480_mix,blumpanotacana,mix,2017,MIX
+blumpanotacana_483_springorwell,blumpanotacana,spring or well,2144,SPRING OR WELL
+blumpanotacana_485_path,blumpanotacana,path,2252,PATH
+blumpanotacana_489_hairhead,blumpanotacana,hair (head),2648,HAIR (HEAD)
+blumpanotacana_493_mightyorpowerfulorstrong,blumpanotacana,mighty or powerful or strong,3188,MIGHTY OR POWERFUL OR STRONG
+blumpanotacana_494_centerormiddle,blumpanotacana,center or middle,3208,CENTER OR MIDDLE
+blumpanotacana_496_crawlorcreep,blumpanotacana,crawl or creep,3456,CRAWL OR CREEP
+blumpanotacana_497_townorvillage,blumpanotacana,town or village,3609,TOWN OR VILLAGE
+blumpanotacana_498_cookingpot,blumpanotacana,cooking pot,3653,COOKING POT
+blumpanotacana_499_wave,blumpanotacana,wave,978,WAVE
+blumpanotacana_500_treestump,blumpanotacana,tree stump,241,TREE STUMP
+hubercolumbian_1_tongue,hubercolumbian,tongue,1205,TONGUE
+hubercolumbian_2_mouth,hubercolumbian,mouth,674,MOUTH
+hubercolumbian_3_lip,hubercolumbian,lip,478,LIP
+hubercolumbian_4_tooth,hubercolumbian,tooth,1380,TOOTH
+hubercolumbian_5_nose,hubercolumbian,nose,1221,NOSE
+hubercolumbian_6_eye,hubercolumbian,eye,1248,EYE
+hubercolumbian_7_ear,hubercolumbian,ear,1247,EAR
+hubercolumbian_8_head,hubercolumbian,head,1256,HEAD
+hubercolumbian_9_forehead,hubercolumbian,forehead,123,FOREHEAD
+hubercolumbian_10_hair,hubercolumbian,hair,2648,HAIR (HEAD)
+hubercolumbian_11_chin,hubercolumbian,chin,1510,CHIN
+hubercolumbian_12_beard,hubercolumbian,beard,678,BEARD
+hubercolumbian_13_neck,hubercolumbian,neck,1333,NECK
+hubercolumbian_14_chest,hubercolumbian,chest,1592,CHEST
+hubercolumbian_15_womansbreasts,hubercolumbian,woman's breasts,1402,BREAST
+hubercolumbian_16_abdomenbelly,hubercolumbian,"abdomen, belly",1251,BELLY
+hubercolumbian_17_back,hubercolumbian,back,1291,BACK
+hubercolumbian_18_shoulder,hubercolumbian,shoulder,1482,SHOULDER
+hubercolumbian_19_arm,hubercolumbian,arm,1673,ARM
+hubercolumbian_21_elbow,hubercolumbian,elbow,981,ELBOW
+hubercolumbian_22_hand,hubercolumbian,hand,1277,HAND
+hubercolumbian_23_finger,hubercolumbian,finger,1303,FINGER
+hubercolumbian_24_fingernail,hubercolumbian,fingernail,1258,FINGERNAIL
+hubercolumbian_25_leg,hubercolumbian,leg,1297,LEG
+hubercolumbian_26_thigh,hubercolumbian,thigh,471,UPPER LEG (THIGH)
+hubercolumbian_27_knee,hubercolumbian,knee,1371,KNEE
+hubercolumbian_28_shin,hubercolumbian,shin,186,SHIN
+hubercolumbian_29_foot,hubercolumbian,foot,1301,FOOT
+hubercolumbian_30_toe,hubercolumbian,toe,1389,TOE
+hubercolumbian_31_skin,hubercolumbian,skin,763,SKIN
+hubercolumbian_32_bone,hubercolumbian,bone,1394,BONE
+hubercolumbian_33_blood,hubercolumbian,blood,946,BLOOD
+hubercolumbian_34_heart,hubercolumbian,heart,1223,HEART
+hubercolumbian_35_lungs,hubercolumbian,lungs,688,LUNG
+hubercolumbian_36_penis,hubercolumbian,penis,1222,PENIS
+hubercolumbian_37_vulva,hubercolumbian,vulva,1837,VULVA
+hubercolumbian_38_man,hubercolumbian,man,1554,MAN
+hubercolumbian_39_male,hubercolumbian,male,1553,MALE
+hubercolumbian_40_woman,hubercolumbian,woman,962,WOMAN
+hubercolumbian_41_people,hubercolumbian,people,789,PEOPLE
+hubercolumbian_42_husband,hubercolumbian,husband,1200,HUSBAND
+hubercolumbian_43_wife,hubercolumbian,wife,1199,WIFE
+hubercolumbian_44_father,hubercolumbian,father,1217,FATHER
+hubercolumbian_45_mother,hubercolumbian,mother,1216,MOTHER
+hubercolumbian_46_babyinfant,hubercolumbian,"baby, infant",1289,BABY
+hubercolumbian_47_old,hubercolumbian,old,406,OLD MAN
+hubercolumbian_48_water,hubercolumbian,water,948,WATER
+hubercolumbian_49_river,hubercolumbian,river,666,RIVER
+hubercolumbian_50_island,hubercolumbian,island,622,ISLAND
+hubercolumbian_51_lake,hubercolumbian,lake,624,LAKE
+hubercolumbian_52_swamp,hubercolumbian,swamp,1145,SWAMP
+hubercolumbian_53_springofwater,hubercolumbian,spring of water,849,SPRING (OF WATER)
+hubercolumbian_54_waterfall,hubercolumbian,waterfall,943,WATERFALL
+hubercolumbian_55_rapids,hubercolumbian,rapids,1670,RAPIDS
+hubercolumbian_56_fire,hubercolumbian,fire,221,FIRE
+hubercolumbian_57_ash,hubercolumbian,ash,646,ASH
+hubercolumbian_58_charcoal,hubercolumbian,charcoal,1188,CHARCOAL
+hubercolumbian_59_smoke,hubercolumbian,smoke,778,SMOKE (EXHAUST)
+hubercolumbian_60_firewood,hubercolumbian,firewood,10,FIREWOOD
+hubercolumbian_61_sky,hubercolumbian,sky,1732,SKY
+hubercolumbian_62_rain,hubercolumbian,rain,658,RAIN (PRECIPITATION)
+hubercolumbian_63_wind,hubercolumbian,wind,960,WIND
+hubercolumbian_64_sun,hubercolumbian,sun,1343,SUN
+hubercolumbian_65_moon,hubercolumbian,moon,1313,MOON
+hubercolumbian_66_star,hubercolumbian,star,1430,STAR
+hubercolumbian_67_day,hubercolumbian,day,1225,DAY (NOT NIGHT)
+hubercolumbian_68_night,hubercolumbian,night,1233,NIGHT
+hubercolumbian_69_thunder,hubercolumbian,thunder,1150,THUNDER
+hubercolumbian_70_lightning,hubercolumbian,lightning,1654,LIGHTNING
+hubercolumbian_71_rainbow,hubercolumbian,rainbow,1733,RAINBOW
+hubercolumbian_72_earth,hubercolumbian,earth,1228,EARTH (SOIL)
+hubercolumbian_73_stone,hubercolumbian,stone,857,STONE
+hubercolumbian_74_sand,hubercolumbian,sand,671,SAND
+hubercolumbian_75_house,hubercolumbian,house,1252,HOUSE
+hubercolumbian_76_roof,hubercolumbian,roof,769,ROOF
+hubercolumbian_77_doorway,hubercolumbian,doorway,1567,DOOR
+hubercolumbian_78_seatstool,hubercolumbian,"seat, stool",2058,STOOL
+hubercolumbian_79_mat,hubercolumbian,mat,195,MAT
+hubercolumbian_80_hammock,hubercolumbian,hammock,2019,HAMMOCK
+hubercolumbian_81_bed,hubercolumbian,bed,1663,BED
+hubercolumbian_82_cookingpot,hubercolumbian,cooking pot,3653,COOKING POT
+hubercolumbian_83_cultivatedclearing,hubercolumbian,cultivated clearing,212,FIELD
+hubercolumbian_84_village,hubercolumbian,village,930,VILLAGE
+hubercolumbian_85_pathtrail,hubercolumbian,"path, trail",2457,PATH OR ROAD
+hubercolumbian_86_fishnet,hubercolumbian,fish net,388,FISHNET
+hubercolumbian_87_fishhook,hubercolumbian,fish hook,1074,FISHHOOK
+hubercolumbian_88_axe,hubercolumbian,axe,677,AXE
+hubercolumbian_89_knife,hubercolumbian,knife,1352,KNIFE
+hubercolumbian_92_club,hubercolumbian,club,1763,CLUB
+hubercolumbian_93_spear,hubercolumbian,spear,945,SPEAR
+hubercolumbian_94_bow,hubercolumbian,bow,994,BOW
+hubercolumbian_96_blowgun,hubercolumbian,blowgun,432,BLOWGUN
+hubercolumbian_97_tapir,hubercolumbian,tapir,312,TAPIR
+hubercolumbian_98_jaguar,hubercolumbian,jaguar,1250,JAGUAR
+hubercolumbian_99_puma,hubercolumbian,puma,1891,PUMA
+hubercolumbian_100_armadillo,hubercolumbian,armadillo,1885,ARMADILLO
+hubercolumbian_101_dog,hubercolumbian,dog,2009,DOG
+hubercolumbian_102_deer,hubercolumbian,deer,1936,DEER
+hubercolumbian_103_bat,hubercolumbian,bat,1793,BAT
+hubercolumbian_104_otter,hubercolumbian,otter,15,OTTER
+hubercolumbian_110_paca,hubercolumbian,paca,316,PACA
+hubercolumbian_115_collaredpeccary,hubercolumbian,collared peccary,435,COLLARED PECCARY
+hubercolumbian_117_agouti,hubercolumbian,agouti,313,AGOUTI
+hubercolumbian_118_rat,hubercolumbian,rat,1490,RAT
+hubercolumbian_119_cat,hubercolumbian,cat,1208,CAT
+hubercolumbian_120_mouse,hubercolumbian,mouse,1491,MOUSE
+hubercolumbian_121_tail,hubercolumbian,tail,1220,TAIL
+hubercolumbian_122_snake,hubercolumbian,snake,730,SNAKE
+hubercolumbian_125_coralsnake,hubercolumbian,coral snake,2240,CORAL SNAKE
+hubercolumbian_126_toad,hubercolumbian,toad,894,TOAD
+hubercolumbian_127_bird,hubercolumbian,bird,937,BIRD
+hubercolumbian_128_hummingbird,hubercolumbian,hummingbird,1589,HUMMINGBIRD
+hubercolumbian_129_macaw,hubercolumbian,macaw,1630,MACAW
+hubercolumbian_131_parrot,hubercolumbian,parrot,882,PARROT
+hubercolumbian_132_parakeet,hubercolumbian,parakeet,886,PARAKEET
+hubercolumbian_133_buzzard,hubercolumbian,buzzard,1865,BUZZARD
+hubercolumbian_135_owl,hubercolumbian,owl,735,OWL
+hubercolumbian_136_guan,hubercolumbian,guan,437,GUAN
+hubercolumbian_137_hen,hubercolumbian,hen,1514,HEN
+hubercolumbian_138_fish,hubercolumbian,fish,227,FISH
+hubercolumbian_140_bee,hubercolumbian,bee,665,BEE
+hubercolumbian_141_fly,hubercolumbian,fly,1504,FLY (INSECT)
+hubercolumbian_142_flea,hubercolumbian,flea,232,FLEA
+hubercolumbian_143_louse,hubercolumbian,louse,1392,LOUSE
+hubercolumbian_144_mosquito,hubercolumbian,mosquito,1509,MOSQUITO
+hubercolumbian_145_termite,hubercolumbian,termite,883,TERMITE
+hubercolumbian_146_ant,hubercolumbian,ant,587,ANT
+hubercolumbian_147_spider,hubercolumbian,spider,843,SPIDER
+hubercolumbian_148_chiggoejiggerflea,hubercolumbian,"chiggoe, jigger flea",438,CHIGGOE (JIGGER FLEA)
+hubercolumbian_149_bush,hubercolumbian,bush,1683,BUSH
+hubercolumbian_150_opengrassland,hubercolumbian,open grassland,260,SAVANNA
+hubercolumbian_151_hill,hubercolumbian,hill,614,HILL
+hubercolumbian_152_tree,hubercolumbian,tree,906,TREE
+hubercolumbian_153_leaf,hubercolumbian,leaf,2250,LEAF (LEAFLIKE OBJECT)
+hubercolumbian_154_treeleaf,hubercolumbian,tree leaf,628,LEAF
+hubercolumbian_155_flower,hubercolumbian,flower,239,FLOWER
+hubercolumbian_156_fruit,hubercolumbian,fruit,1507,FRUIT
+hubercolumbian_157_sap,hubercolumbian,sap,345,SAP
+hubercolumbian_158_root,hubercolumbian,root,670,ROOT
+hubercolumbian_159_seed,hubercolumbian,seed,714,SEED
+hubercolumbian_160_stick,hubercolumbian,stick,1295,STICK
+hubercolumbian_161_grass,hubercolumbian,grass,606,GRASS
+hubercolumbian_162_cornmaize,hubercolumbian,"corn, maize",506,MAIZE
+hubercolumbian_163_manioc,hubercolumbian,manioc,925,CASSAVA
+hubercolumbian_165_tobacco,hubercolumbian,tobacco,974,TOBACCO
+hubercolumbian_166_cotton,hubercolumbian,cotton,1850,COTTON
+hubercolumbian_167_gourd,hubercolumbian,gourd,411,GOURD
+hubercolumbian_169_sweetpotato,hubercolumbian,sweet potato,159,SWEET POTATO
+hubercolumbian_171_chilipepper,hubercolumbian,chili pepper,919,CHILI PEPPER
+hubercolumbian_172_coca,hubercolumbian,coca,137,COCA
+hubercolumbian_174_plantain,hubercolumbian,plantain,399,PLANTAIN
+hubercolumbian_175_chontapalm,hubercolumbian,chonta palm,440,CHONTA PALM
+hubercolumbian_178_cane,hubercolumbian,cane,659,REED
+hubercolumbian_179_salt,hubercolumbian,salt,1274,SALT
+hubercolumbian_180_chicha,hubercolumbian,chicha,441,CHICHA
+hubercolumbian_181_one,hubercolumbian,one,1493,ONE
+hubercolumbian_182_two,hubercolumbian,two,1498,TWO
+hubercolumbian_183_three,hubercolumbian,three,492,THREE
+hubercolumbian_184_four,hubercolumbian,four,1500,FOUR
+hubercolumbian_185_five,hubercolumbian,five,493,FIVE
+hubercolumbian_190_ten,hubercolumbian,ten,1515,TEN
+hubercolumbian_191_first,hubercolumbian,first,728,FIRST
+hubercolumbian_192_last,hubercolumbian,last,1529,LAST (FINAL)
+hubercolumbian_193_rattle,hubercolumbian,rattle,300,RATTLE
+hubercolumbian_194_drum,hubercolumbian,drum,908,DRUM
+hubercolumbian_196_earornament,hubercolumbian,ear ornament,,
+hubercolumbian_198_shamanfolkhealer,hubercolumbian,"shaman, folk healer",394,SHAMAN (FOLK HEALER)
+hubercolumbian_199_chief,hubercolumbian,chief,301,CHIEFTAIN
+hubercolumbian_200_i,hubercolumbian,I,1209,I
+hubercolumbian_201_yousingular,hubercolumbian,you (singular),1215,THOU
+hubercolumbian_202_he,hubercolumbian,he,1211,HE
+hubercolumbian_203_she,hubercolumbian,she,1834,SHE
+hubercolumbian_204_it,hubercolumbian,it,169,IT
+hubercolumbian_205_we,hubercolumbian,we,1212,WE
+hubercolumbian_206_youplural,hubercolumbian,you (plural),1213,YOU
+hubercolumbian_207_they,hubercolumbian,they,817,THEY
+hubercolumbian_208_myhand,hubercolumbian,my hand,,
+hubercolumbian_209_yourhand,hubercolumbian,your hand,,
+hubercolumbian_210_hishand,hubercolumbian,his hand,,
+hubercolumbian_211_ourhands,hubercolumbian,our hands,,
+hubercolumbian_212_yourplurhands,hubercolumbian,your (plur.) hands,,
+hubercolumbian_213_theirhands,hubercolumbian,their hands,,
+hubercolumbian_220_big,hubercolumbian,big,1202,BIG
+hubercolumbian_221_small,hubercolumbian,small,1246,SMALL
+hubercolumbian_222_cold,hubercolumbian,cold,1287,COLD
+hubercolumbian_223_hot,hubercolumbian,hot,1286,HOT
+hubercolumbian_224_good,hubercolumbian,good,1035,GOOD
+hubercolumbian_225_bad,hubercolumbian,bad,1292,BAD
+hubercolumbian_226_white,hubercolumbian,white,1335,WHITE
+hubercolumbian_227_black,hubercolumbian,black,163,BLACK
+hubercolumbian_228_go,hubercolumbian,go!,,
+hubercolumbian_229_come,hubercolumbian,come!,,
+hubercolumbian_230_eat,hubercolumbian,eat!,,
+hubercolumbian_231_drink,hubercolumbian,drink!,,
+hubercolumbian_232_sleep,hubercolumbian,sleep!,,
+hubercolumbian_233_crownofhead,hubercolumbian,crown of head,1943,CROWN (OF HEAD)
+hubercolumbian_234_frontteethineisors,hubercolumbian,"front teeth, ineisors",442,FRONT TOOTH (INCISOR)
+hubercolumbian_235_tipoftongue,hubercolumbian,tip of tongue,443,TIP (OF TONGUE)
+hubercolumbian_236_longhair,hubercolumbian,long hair,444,LONG HAIR
+hubercolumbian_237_theneckregion,hubercolumbian,the neck region,1347,NAPE (OF NECK)
+hubercolumbian_238_adamsapple,hubercolumbian,adam's apple,802,ADAM'S APPLE
+hubercolumbian_239_upperback,hubercolumbian,upper back,445,UPPER BACK
+hubercolumbian_240_lowerarm,hubercolumbian,lower arm,446,LOWER ARM
+hubercolumbian_241_wrist,hubercolumbian,wrist,799,WRIST
+hubercolumbian_242_lowerleg,hubercolumbian,lower leg,447,LOWER LEG
+hubercolumbian_243_bodyhair,hubercolumbian,body hair,189,HAIR (BODY)
+hubercolumbian_244_stomach,hubercolumbian,stomach,819,STOMACH
+hubercolumbian_245_intestines,hubercolumbian,intestines,1991,INTESTINES
+hubercolumbian_246_oldwoman,hubercolumbian,old woman,907,OLD WOMAN
+hubercolumbian_247_cloudsatrest,hubercolumbian,clouds at rest,1489,CLOUD
+hubercolumbian_248_stormclouds,hubercolumbian,storm clouds,448,STORM CLOUDS
+hubercolumbian_249_cornfield,hubercolumbian,corn field,449,CORN FIELD
+hubercolumbian_250_stream,hubercolumbian,stream,947,STREAM
+hubercolumbian_251_pebbles,hubercolumbian,pebbles,961,PEBBLES
+hubercolumbian_252_hugerocks,hubercolumbian,huge rocks,3810,BOULDER
+hubercolumbian_253_path,hubercolumbian,path,2252,PATH
+hubercolumbian_255_shelter,hubercolumbian,shelter,1678,HUT
+hubercolumbian_256_this,hubercolumbian,this,1214,THIS
+hubercolumbian_257_that,hubercolumbian,that,78,THAT
+hubercolumbian_258_who,hubercolumbian,who,1235,WHO
+hubercolumbian_259_what,hubercolumbian,what,1236,WHAT
+hubercolumbian_260_not,hubercolumbian,not,1240,NOT
+hubercolumbian_261_all,hubercolumbian,all,98,ALL
+hubercolumbian_262_many,hubercolumbian,many,1198,MANY
+hubercolumbian_263_long,hubercolumbian,long,1203,LONG
+hubercolumbian_264_bark,hubercolumbian,bark,1204,BARK
+hubercolumbian_265_flesh,hubercolumbian,flesh,2615,FLESH OR MEAT
+hubercolumbian_267_greaseanimalfat,hubercolumbian,"grease, animal fat",1282,FAT (FROM ANIMALS)
+hubercolumbian_268_egg,hubercolumbian,egg,744,EGG
+hubercolumbian_269_horn,hubercolumbian,horn,1393,HORN (ANATOMY)
+hubercolumbian_270_feather,hubercolumbian,feather,1201,FEATHER
+hubercolumbian_271_fingernailclaw,hubercolumbian,"fingernail, claw",2128,CLAW OR NAIL
+hubercolumbian_272_belly,hubercolumbian,belly,1251,BELLY
+hubercolumbian_273_liver,hubercolumbian,liver,1224,LIVER
+hubercolumbian_274_drink,hubercolumbian,drink,1401,DRINK
+hubercolumbian_275_eat,hubercolumbian,eat,1336,EAT
+hubercolumbian_276_bite,hubercolumbian,bite,1403,BITE
+hubercolumbian_277_see,hubercolumbian,see,1409,SEE
+hubercolumbian_278_hear,hubercolumbian,hear,1408,HEAR
+hubercolumbian_279_know,hubercolumbian,know,1410,KNOW (SOMETHING)
+hubercolumbian_280_sleep,hubercolumbian,sleep,1585,SLEEP
+hubercolumbian_281_die,hubercolumbian,die,1494,DIE
+hubercolumbian_282_kill,hubercolumbian,kill,1417,KILL
+hubercolumbian_283_swim,hubercolumbian,swim,1439,SWIM
+hubercolumbian_284_fly,hubercolumbian,fly,1441,FLY (MOVE THROUGH AIR)
+hubercolumbian_285_walk,hubercolumbian,walk,1443,WALK
+hubercolumbian_286_come,hubercolumbian,come,1446,COME
+hubercolumbian_287_liedown,hubercolumbian,lie down,215,LIE DOWN
+hubercolumbian_288_sit,hubercolumbian,sit,1649,SIT DOWN
+hubercolumbian_289_stand,hubercolumbian,stand,570,STAND UP
+hubercolumbian_290_give,hubercolumbian,give,1447,GIVE
+hubercolumbian_291_say,hubercolumbian,say,1458,SAY
+hubercolumbian_292_burn,hubercolumbian,burn,2102,BURN
+hubercolumbian_293_mountain,hubercolumbian,mountain,639,MOUNTAIN
+hubercolumbian_294_red,hubercolumbian,red,156,RED
+hubercolumbian_295_green,hubercolumbian,green,1425,GREEN
+hubercolumbian_296_yellow,hubercolumbian,yellow,1424,YELLOW
+hubercolumbian_297_full,hubercolumbian,full,1429,FULL
+hubercolumbian_298_new,hubercolumbian,new,1231,NEW
+hubercolumbian_299_round,hubercolumbian,round,1395,ROUND
+hubercolumbian_300_dry,hubercolumbian,dry,1398,DRY
+hubercolumbian_301_name,hubercolumbian,name,1405,NAME
+hubercolumbian_302_how,hubercolumbian,how,1239,HOW
+hubercolumbian_303_when,hubercolumbian,when,1238,WHEN
+hubercolumbian_304_where,hubercolumbian,where,1237,WHERE
+hubercolumbian_305_here,hubercolumbian,here,136,HERE
+hubercolumbian_306_there,hubercolumbian,there,1937,THERE
+hubercolumbian_307_other,hubercolumbian,other,197,OTHER
+hubercolumbian_308_few,hubercolumbian,few,1242,FEW
+hubercolumbian_309_fog,hubercolumbian,fog,249,FOG
+hubercolumbian_310_flow,hubercolumbian,flow,2003,FLOW
+hubercolumbian_311_sea,hubercolumbian,sea,1474,SEA
+hubercolumbian_312_wet,hubercolumbian,wet,1726,WET
+hubercolumbian_313_wash,hubercolumbian,wash,1453,WASH
+hubercolumbian_314_worm,hubercolumbian,worm,1219,WORM
+hubercolumbian_316_wing,hubercolumbian,wing,1257,WING
+hubercolumbian_317_fur,hubercolumbian,fur,580,FUR
+hubercolumbian_318_navel,hubercolumbian,navel,1838,NAVEL
+hubercolumbian_319_saliva,hubercolumbian,saliva,1503,SALIVA
+hubercolumbian_319_milk,hubercolumbian,milk,635,MILK
+hubercolumbian_320_with,hubercolumbian,with,1340,WITH
+hubercolumbian_321_in,hubercolumbian,in,1460,IN
+hubercolumbian_322_at,hubercolumbian,at,1461,AT
+hubercolumbian_323_if,hubercolumbian,if,1459,IF
+hubercolumbian_324_ice,hubercolumbian,ice,617,ICE
+hubercolumbian_325_snow,hubercolumbian,snow,784,SNOW
+hubercolumbian_326_freeze,hubercolumbian,freeze,1431,FREEZE
+hubercolumbian_327_child,hubercolumbian,child,1304,CHILD (YOUNG HUMAN)
+hubercolumbian_328_dark,hubercolumbian,dark,706,DARK
+hubercolumbian_329_cut,hubercolumbian,cut,1432,CUT
+hubercolumbian_330_wide,hubercolumbian,wide,1243,WIDE
+hubercolumbian_331_narrow,hubercolumbian,narrow,1267,NARROW
+hubercolumbian_332_far,hubercolumbian,far,1406,FAR
+hubercolumbian_333_near,hubercolumbian,near,1942,NEAR
+hubercolumbian_334_thick,hubercolumbian,thick,1244,THICK
+hubercolumbian_335_thin,hubercolumbian,thin,2308,THIN
+hubercolumbian_336_short,hubercolumbian,short,1645,SHORT
+hubercolumbian_337_heavy,hubercolumbian,heavy,1210,HEAVY
+hubercolumbian_338_dull,hubercolumbian,dull,379,BLUNT
+hubercolumbian_339_sharp,hubercolumbian,sharp,1396,SHARP
+hubercolumbian_340_dirty,hubercolumbian,dirty,1230,DIRTY
+hubercolumbian_341_rotten,hubercolumbian,rotten,1728,ROTTEN
+hubercolumbian_342_smooth,hubercolumbian,smooth,1234,SMOOTH
+hubercolumbian_343_straight,hubercolumbian,straight,1404,STRAIGHT
+hubercolumbian_344_correct,hubercolumbian,correct,1725,CORRECT (RIGHT)
+hubercolumbian_345_left,hubercolumbian,left,244,LEFT
+hubercolumbian_346_right,hubercolumbian,right,1019,RIGHT
+hubercolumbian_347_oldman,hubercolumbian,old man,1229,OLD
+hubercolumbian_348_rub,hubercolumbian,rub,1449,RUB
+hubercolumbian_349_pull,hubercolumbian,pull,1455,PULL
+hubercolumbian_350_push,hubercolumbian,push,1452,PUSH
+hubercolumbian_351_throw,hubercolumbian,throw,1456,THROW
+hubercolumbian_352_hit,hubercolumbian,hit,353,STRIKE
+hubercolumbian_353_split,hubercolumbian,split,1437,SPLIT
+hubercolumbian_354_pierce,hubercolumbian,pierce,398,PIERCE
+hubercolumbian_355_dig,hubercolumbian,dig,1418,DIG
+hubercolumbian_356_tie,hubercolumbian,tie,1917,TIE
+hubercolumbian_357_sew,hubercolumbian,sew,1457,SEW
+hubercolumbian_358_fall,hubercolumbian,fall,1280,FALL
+hubercolumbian_359_swell,hubercolumbian,swell,1573,SWELL
+hubercolumbian_360_think,hubercolumbian,think,2271,THINK
+hubercolumbian_361_sing,hubercolumbian,sing,1261,SING
+hubercolumbian_362_smell,hubercolumbian,smell,1586,SMELL (PERCEIVE)
+hubercolumbian_363_vomit,hubercolumbian,vomit,1278,VOMIT
+hubercolumbian_364_suck,hubercolumbian,suck,1421,SUCK
+hubercolumbian_365_blow,hubercolumbian,blow,175,BLOW (OF WIND)
+hubercolumbian_366_fear,hubercolumbian,fear,1419,FEAR (BE AFRAID)
+hubercolumbian_367_tightensqueeze,hubercolumbian,"tighten, squeeze",1414,SQUEEZE
+hubercolumbian_368_hold,hubercolumbian,hold,1448,HOLD
+hubercolumbian_369_down,hubercolumbian,down,1326,DOWN
+hubercolumbian_370_up,hubercolumbian,up,1591,UP
+hubercolumbian_371_ripe,hubercolumbian,ripe,178,RIPE
+hubercolumbian_372_dust,hubercolumbian,dust,2,DUST
+hubercolumbian_373_alive,hubercolumbian,alive,1422,BE ALIVE
+hubercolumbian_374_rope,hubercolumbian,rope,1218,ROPE
+huntergatherer_1_1plexcl,huntergatherer,1pl.excl,1130,WE (EXCLUSIVE)
+huntergatherer_2_1plincl,huntergatherer,1pl.incl,1131,WE (INCLUSIVE)
+huntergatherer_3_1sg,huntergatherer,1sg,1209,I
+huntergatherer_4_2pl,huntergatherer,2pl,1213,YOU
+huntergatherer_5_2sg,huntergatherer,2sg,1215,THOU
+huntergatherer_6_3pl,huntergatherer,3pl,817,THEY
+huntergatherer_7_3sg,huntergatherer,3sg,262,HE OR SHE OR IT
+huntergatherer_8_above,huntergatherer,above,1741,ABOVE
+huntergatherer_9_again,huntergatherer,again,204,AGAIN
+huntergatherer_11_all,huntergatherer,all,98,ALL
+huntergatherer_12_and,huntergatherer,and,1577,AND
+huntergatherer_13_ankle,huntergatherer,ankle,803,ANKLE
+huntergatherer_14_armpit,huntergatherer,armpit,1886,ARMPIT
+huntergatherer_15_ash,huntergatherer,ash,646,ASH
+huntergatherer_18_at,huntergatherer,at,1461,AT
+huntergatherer_19_back,huntergatherer,back,1291,BACK
+huntergatherer_20_bad,huntergatherer,bad,1292,BAD
+huntergatherer_21_bark,huntergatherer,bark,1204,BARK
+huntergatherer_23_belly,huntergatherer,belly,1251,BELLY
+huntergatherer_24_below,huntergatherer,below,1485,BELOW OR UNDER
+huntergatherer_25_big,huntergatherer,big,1202,BIG
+huntergatherer_26_bite,huntergatherer,bite,1403,BITE
+huntergatherer_27_black,huntergatherer,black,163,BLACK
+huntergatherer_28_blood,huntergatherer,blood,946,BLOOD
+huntergatherer_29_blow,huntergatherer,blow,176,BLOW (WITH MOUTH)
+huntergatherer_31_boilpimple,huntergatherer,boil/pimple,793,BOIL (OF SKIN)
+huntergatherer_32_bone,huntergatherer,bone,1394,BONE
+huntergatherer_34_breast,huntergatherer,breast,1402,BREAST
+huntergatherer_35_breathe,huntergatherer,breathe,1407,BREATHE
+huntergatherer_36_burn,huntergatherer,burn,2102,BURN
+huntergatherer_37_chew,huntergatherer,chew,321,CHEW
+huntergatherer_38_child,huntergatherer,child,2099,CHILD
+huntergatherer_39_climb,huntergatherer,climb,1102,CLIMB
+huntergatherer_40_cloud,huntergatherer,cloud,1489,CLOUD
+huntergatherer_41_cold,huntergatherer,cold,1287,COLD
+huntergatherer_42_come,huntergatherer,come,1446,COME
+huntergatherer_43_cook,huntergatherer,cook,1100,COOK (SOMETHING)
+huntergatherer_44_correcttrue,huntergatherer,correct/true,1725,CORRECT (RIGHT)
+huntergatherer_45_count,huntergatherer,count,1420,COUNT
+huntergatherer_46_cry,huntergatherer,cry,1839,CRY
+huntergatherer_48_cuthack,huntergatherer,cut/hack,3889,CUT OR HACK
+huntergatherer_49_day,huntergatherer,day,1225,DAY (NOT NIGHT)
+huntergatherer_50_diebedead,huntergatherer,die/be dead,2101,BE DEAD OR DIE
+huntergatherer_51_dig,huntergatherer,dig,1418,DIG
+huntergatherer_53_dirty,huntergatherer,dirty,1230,DIRTY
+huntergatherer_55_drink,huntergatherer,drink,1401,DRINK
+huntergatherer_56_dry,huntergatherer,dry,1398,DRY
+huntergatherer_57_dullblunt,huntergatherer,dull/blunt,379,BLUNT
+huntergatherer_58_dust,huntergatherer,dust,2,DUST
+huntergatherer_59_ear,huntergatherer,ear,1247,EAR
+huntergatherer_60_earthsoil,huntergatherer,earth/soil,1228,EARTH (SOIL)
+huntergatherer_61_eat,huntergatherer,eat,1336,EAT
+huntergatherer_62_egg,huntergatherer,egg,744,EGG
+huntergatherer_63_eye,huntergatherer,eye,1248,EYE
+huntergatherer_64_faeces,huntergatherer,faeces,675,FAECES (EXCREMENT)
+huntergatherer_65_fall,huntergatherer,fall,1280,FALL
+huntergatherer_66_far,huntergatherer,far,1406,FAR
+huntergatherer_67_fatgrease,huntergatherer,fat/grease,323,FAT (ORGANIC SUBSTANCE)
+huntergatherer_68_father,huntergatherer,father,1217,FATHER
+huntergatherer_69_fear,huntergatherer,fear,1419,FEAR (BE AFRAID)
+huntergatherer_70_feather,huntergatherer,feather,1201,FEATHER
+huntergatherer_71_fingernail,huntergatherer,fingernail,1258,FINGERNAIL
+huntergatherer_72_fire,huntergatherer,fire,221,FIRE
+huntergatherer_73_fish,huntergatherer,fish,227,FISH
+huntergatherer_74_flow,huntergatherer,flow,2003,FLOW
+huntergatherer_76_flower,huntergatherer,flower,239,FLOWER
+huntergatherer_77_fly,huntergatherer,fly,1441,FLY (MOVE THROUGH AIR)
+huntergatherer_78_fog,huntergatherer,fog,249,FOG
+huntergatherer_79_foot,huntergatherer,foot,1301,FOOT
+huntergatherer_80_fruit,huntergatherer,fruit,1507,FRUIT
+huntergatherer_81_good,huntergatherer,good,1035,GOOD
+huntergatherer_82_green,huntergatherer,green,1425,GREEN
+huntergatherer_83_grow,huntergatherer,grow,479,GROW
+huntergatherer_84_hairofhead,huntergatherer,hair (of head),2648,HAIR (HEAD)
+huntergatherer_85_hand,huntergatherer,hand,1277,HAND
+huntergatherer_86_head,huntergatherer,head,1256,HEAD
+huntergatherer_87_hear,huntergatherer,hear,1408,HEAR
+huntergatherer_88_heart,huntergatherer,heart,1223,HEART
+huntergatherer_89_heavy,huntergatherer,heavy,1210,HEAVY
+huntergatherer_90_hide,huntergatherer,hide,2486,HIDE
+huntergatherer_91_hit,huntergatherer,hit,1433,HIT
+huntergatherer_93_hold,huntergatherer,hold,1448,HOLD
+huntergatherer_94_hot,huntergatherer,hot,1286,HOT
+huntergatherer_95_how,huntergatherer,how?,1239,HOW
+huntergatherer_96_if,huntergatherer,if,1459,IF
+huntergatherer_97_ininside,huntergatherer,in/inside,1606,INSIDE
+huntergatherer_98_intestines,huntergatherer,intestines,1991,INTESTINES
+huntergatherer_99_itch,huntergatherer,itch,3855,ITCH (CAUSE ITCHING OR FEEL ITCHY)
+huntergatherer_100_kill,huntergatherer,kill,1417,KILL
+huntergatherer_101_knowbeknowledgeable,huntergatherer,know/be knowledgeable,1410,KNOW (SOMETHING)
+huntergatherer_102_lake,huntergatherer,lake,624,LAKE
+huntergatherer_103_laugh,huntergatherer,laugh,1355,LAUGH
+huntergatherer_104_leaf,huntergatherer,leaf,628,LEAF
+huntergatherer_105_leftlefthand,huntergatherer,left/left hand,244,LEFT
+huntergatherer_106_legfoot,huntergatherer,leg/foot,2098,FOOT OR LEG
+huntergatherer_107_liedown,huntergatherer,lie down,215,LIE DOWN
+huntergatherer_108_lightning,huntergatherer,lightning,1654,LIGHTNING
+huntergatherer_109_livebealive,huntergatherer,live/be alive,1422,BE ALIVE
+huntergatherer_110_liver,huntergatherer,liver,1224,LIVER
+huntergatherer_111_long,huntergatherer,long,1203,LONG
+huntergatherer_113_louse,huntergatherer,louse,1392,LOUSE
+huntergatherer_114_lung,huntergatherer,lung,688,LUNG
+huntergatherer_115_manmale,huntergatherer,man/male,2106,MALE PERSON
+huntergatherer_116_meatflesh,huntergatherer,meat/flesh,2615,FLESH OR MEAT
+huntergatherer_117_moon,huntergatherer,moon,1313,MOON
+huntergatherer_118_mother,huntergatherer,mother,1216,MOTHER
+huntergatherer_119_mountainhill,huntergatherer,mountain/hill,2118,MOUNTAIN OR HILL
+huntergatherer_120_mouth,huntergatherer,mouth,674,MOUTH
+huntergatherer_121_name,huntergatherer,name,1405,NAME
+huntergatherer_122_nape,huntergatherer,nape,1347,NAPE (OF NECK)
+huntergatherer_123_nearclose,huntergatherer,near/close,1942,NEAR
+huntergatherer_124_neck,huntergatherer,neck,1333,NECK
+huntergatherer_125_new,huntergatherer,new,1231,NEW
+huntergatherer_126_night,huntergatherer,night,1233,NIGHT
+huntergatherer_127_nonot,huntergatherer,no/not,2279,NO OR NOT
+huntergatherer_128_nose,huntergatherer,nose,1221,NOSE
+huntergatherer_129_old,huntergatherer,old,1229,OLD
+huntergatherer_130_one,huntergatherer,one,1493,ONE
+huntergatherer_131_openuncover,huntergatherer,open/uncover,1156,OPEN
+huntergatherer_132_other,huntergatherer,other,197,OTHER
+huntergatherer_133_painpainfulsick,huntergatherer,pain/painful/sick,2103,PAINFUL OR SICK
+huntergatherer_134_personhumanbeing,huntergatherer,person/human being,683,PERSON
+huntergatherer_136_poundbeat,huntergatherer,pound/beat,2133,STRIKE OR BEAT
+huntergatherer_137_rain,huntergatherer,rain,658,RAIN (PRECIPITATION)
+huntergatherer_138_red,huntergatherer,red,156,RED
+huntergatherer_139_rightrighthand,huntergatherer,right/right hand,1019,RIGHT
+huntergatherer_140_roadpath,huntergatherer,road/path,2457,PATH OR ROAD
+huntergatherer_142_root,huntergatherer,root,670,ROOT
+huntergatherer_143_rotten,huntergatherer,rotten,1728,ROTTEN
+huntergatherer_144_sand,huntergatherer,sand,671,SAND
+huntergatherer_145_say,huntergatherer,say,1458,SAY
+huntergatherer_146_scratch,huntergatherer,scratch,1436,SCRATCH
+huntergatherer_147_see,huntergatherer,see,1409,SEE
+huntergatherer_148_sharp,huntergatherer,sharp,1396,SHARP
+huntergatherer_149_shoot,huntergatherer,shoot,1172,SHOOT
+huntergatherer_150_short,huntergatherer,short,1645,SHORT
+huntergatherer_151_shoulder,huntergatherer,shoulder,1482,SHOULDER
+huntergatherer_152_shyashamed,huntergatherer,shy/ashamed,3805,SHY OR ASHAMED
+huntergatherer_154_sit,huntergatherer,sit,1416,SIT
+huntergatherer_155_skin,huntergatherer,skin,763,SKIN
+huntergatherer_156_sky,huntergatherer,sky,1732,SKY
+huntergatherer_157_sleep,huntergatherer,sleep,1585,SLEEP
+huntergatherer_158_small,huntergatherer,small,1246,SMALL
+huntergatherer_160_smoke,huntergatherer,smoke,778,SMOKE (EXHAUST)
+huntergatherer_161_sniffsmell,huntergatherer,sniff/smell,1586,SMELL (PERCEIVE)
+huntergatherer_162_spit,huntergatherer,spit,1440,SPIT
+huntergatherer_163_split,huntergatherer,split,1437,SPLIT
+huntergatherer_164_squeeze,huntergatherer,squeeze,1414,SQUEEZE
+huntergatherer_165_stabpierce,huntergatherer,stab/pierce,1434,STAB
+huntergatherer_166_stand,huntergatherer,stand,1442,STAND
+huntergatherer_167_star,huntergatherer,star,1430,STAR
+huntergatherer_168_steal,huntergatherer,steal,713,STEAL
+huntergatherer_169_stickwood,huntergatherer,stick/wood,1295,STICK
+huntergatherer_170_stone,huntergatherer,stone,857,STONE
+huntergatherer_171_suck,huntergatherer,suck,1421,SUCK
+huntergatherer_172_sun,huntergatherer,sun,1343,SUN
+huntergatherer_173_sweat,huntergatherer,sweat,2458,PERSPIRE OR SWEAT
+huntergatherer_174_swell,huntergatherer,swell,1573,SWELL
+huntergatherer_175_swim,huntergatherer,swim,1439,SWIM
+huntergatherer_176_tail,huntergatherer,tail,1220,TAIL
+huntergatherer_177_that,huntergatherer,that,78,THAT
+huntergatherer_178_thick,huntergatherer,thick,1244,THICK
+huntergatherer_179_thin,huntergatherer,thin,2308,THIN
+huntergatherer_180_think,huntergatherer,think,2271,THINK
+huntergatherer_181_this,huntergatherer,this,1214,THIS
+huntergatherer_182_three,huntergatherer,three,492,THREE
+huntergatherer_183_throat,huntergatherer,throat,1346,THROAT
+huntergatherer_184_throw,huntergatherer,throw,1456,THROW
+huntergatherer_185_thunder,huntergatherer,thunder,1150,THUNDER
+huntergatherer_186_tieupfasten,huntergatherer,tie up/fasten,1094,FASTEN
+huntergatherer_187_tongue,huntergatherer,tongue,1205,TONGUE
+huntergatherer_188_tooth,huntergatherer,tooth,1380,TOOTH
+huntergatherer_190_turn,huntergatherer,turn,1588,TURN
+huntergatherer_191_two,huntergatherer,two,1498,TWO
+huntergatherer_192_vomit,huntergatherer,vomit,1278,VOMIT
+huntergatherer_193_walk,huntergatherer,walk,1443,WALK
+huntergatherer_194_water,huntergatherer,water,948,WATER
+huntergatherer_195_wet,huntergatherer,wet,1726,WET
+huntergatherer_196_what,huntergatherer,what?,1236,WHAT
+huntergatherer_197_when,huntergatherer,when?,1238,WHEN
+huntergatherer_198_where,huntergatherer,where?,1237,WHERE
+huntergatherer_199_white,huntergatherer,white,1335,WHITE
+huntergatherer_200_who,huntergatherer,who?,1235,WHO
+huntergatherer_201_wife,huntergatherer,wife,1199,WIFE
+huntergatherer_202_wind,huntergatherer,wind,960,WIND
+huntergatherer_203_wing,huntergatherer,wing,1257,WING
+huntergatherer_204_womanfemale,huntergatherer,woman/female,2105,FEMALE PERSON
+huntergatherer_205_work,huntergatherer,work,1086,WORK (ACTIVITY)
+huntergatherer_206_yawn,huntergatherer,yawn,1028,YAWN
+huntergatherer_207_yellow,huntergatherer,yellow,1424,YELLOW
+huntergatherer_2_acaipalm,huntergatherer,açai palm,2437,ACAI PALM
+huntergatherer_3_achioteanatto,huntergatherer,"achiote, anatto",349,ACHIOTE
+huntergatherer_5_agoutiblackagoutiblackrumpedagouti,huntergatherer,"agouti (black agouti, black-rumped agouti)",313,AGOUTI
+huntergatherer_6_alligatorblackcaiman,huntergatherer,"alligator, black caiman",1581,ALLIGATOR
+huntergatherer_7_amazondolphin,huntergatherer,amazon dolphin,,
+huntergatherer_8_amazontreegrape,huntergatherer,amazon tree-grape,,
+huntergatherer_10_angleworm,huntergatherer,angleworm,,
+huntergatherer_11_antgeneric,huntergatherer,ant (generic),587,ANT
+huntergatherer_12_anteater,huntergatherer,anteater,181,ANTEATER
+huntergatherer_15_arrowcanewildcane,huntergatherer,"arrow cane, wildcane",,
+huntergatherer_18_avocado,huntergatherer,avocado,3725,AVOCADO
+huntergatherer_22_bananaplantain,huntergatherer,"banana, plantain",,
+huntergatherer_27_bat,huntergatherer,bat,1793,BAT
+huntergatherer_28_beans,huntergatherer,beans,832,BEAN
+huntergatherer_36_bird,huntergatherer,bird,937,BIRD
+huntergatherer_40_blackpalm,huntergatherer,black palm,,
+huntergatherer_49_blowflyhousefly,huntergatherer,blowfly/housefly,1504,FLY (INSECT)
+huntergatherer_54_boa,huntergatherer,boa,,
+huntergatherer_56_bottlegourdvineorcalabashtree,huntergatherer,bottle-gourd (vine) or calabash (tree),,
+huntergatherer_60_brownwoollymonkey,huntergatherer,brown woolly monkey,,
+huntergatherer_62_bulletantlessergianthunterant,huntergatherer,"bullet ant, lesser giant hunter ant",,
+huntergatherer_68_butterflymoth,huntergatherer,"butterfly, moth",,
+huntergatherer_72_capybara,huntergatherer,capybara,314,CAPYBARA
+huntergatherer_79_centipede,huntergatherer,centipede,1974,CENTIPEDE
+huntergatherer_85_cipovine,huntergatherer,cipó vine,,
+huntergatherer_88_cockroach,huntergatherer,cockroach,1575,COCKROACH
+huntergatherer_89_collaredpeccary,huntergatherer,collared peccary,435,COLLARED PECCARY
+huntergatherer_92_cotton,huntergatherer,cotton,1850,COTTON
+huntergatherer_96_crab,huntergatherer,crab,2348,CRAB
+huntergatherer_105_deer,huntergatherer,deer,1936,DEER
+huntergatherer_109_dogcampdomestic,huntergatherer,"dog (camp, domestic)",2009,DOG
+huntergatherer_110_dogwildbushdog,huntergatherer,dog (wild; bush dog),2448,WILD DOG
+huntergatherer_112_dove,huntergatherer,dove,1853,DOVE
+huntergatherer_113_duck,huntergatherer,duck,1360,DUCK
+huntergatherer_118_electriceel,huntergatherer,electric eel,2443,ELECTRIC EEL
+huntergatherer_122_fishgeneric,huntergatherer,fish (generic),227,FISH
+huntergatherer_124_fishpoisonbarbasco,huntergatherer,"fish poison, barbasco",,
+huntergatherer_125_flea,huntergatherer,flea,232,FLEA
+huntergatherer_144_grass,huntergatherer,grass,606,GRASS
+huntergatherer_150_greategret,huntergatherer,great egret,,
+huntergatherer_157_guan,huntergatherer,guan,437,GUAN
+huntergatherer_159_hallucinogenicvinebanisteriumayahuasca,huntergatherer,"hallucinogenic vine, banisterium, ayahuasca",276,BANISTERIUM
+huntergatherer_160_hawk,huntergatherer,hawk,307,HAWK
+huntergatherer_162_honeybee,huntergatherer,honeybee,665,BEE
+huntergatherer_164_horse,huntergatherer,horse,615,HORSE
+huntergatherer_165_hotpepper,huntergatherer,hot pepper,919,CHILI PEPPER
+huntergatherer_166_howlermonkeyredhanded,huntergatherer,howler monkey (red-handed),433,HOWLER MONKEY
+huntergatherer_167_hummingbird,huntergatherer,hummingbird,1589,HUMMINGBIRD
+huntergatherer_169_iguana,huntergatherer,iguana,1578,IGUANA
+huntergatherer_170_inga,huntergatherer,inga,,
+huntergatherer_173_jaguar,huntergatherer,jaguar,1250,JAGUAR
+huntergatherer_179_kapok,huntergatherer,kapok,2499,KAPOK TREE
+huntergatherer_182_leafcutterant,huntergatherer,leaf-cutter ant,,
+huntergatherer_184_macaw,huntergatherer,macaw,1630,MACAW
+huntergatherer_186_maizecorn,huntergatherer,"maize, corn",506,MAIZE
+huntergatherer_189_mandicatfish,huntergatherer,mandi catfish,,
+huntergatherer_190_maniocbitterorgeneric,huntergatherer,manioc (bitter or generic),925,CASSAVA
+huntergatherer_191_maniocsweet,huntergatherer,manioc (sweet),,
+huntergatherer_196_miritipalm,huntergatherer,miriti palm,3811,MIRITI PALM
+huntergatherer_199_mosquito,huntergatherer,mosquito,1509,MOSQUITO
+huntergatherer_203_mouserat,huntergatherer,"mouse, rat",2139,MUROID (MOUSE OR RAT)
+huntergatherer_205_mushroom,huntergatherer,mushroom,641,MUSHROOM
+huntergatherer_215_opossum,huntergatherer,opossum,309,OPOSSUM
+huntergatherer_216_owllarge,huntergatherer,owl (large),735,OWL
+huntergatherer_217_pacalowland,huntergatherer,paca (lowland),316,PACA
+huntergatherer_222_parrot,huntergatherer,parrot,882,PARROT
+huntergatherer_225_peachpalmpejibayepalm,huntergatherer,"peach palm, pejibaye palm",,
+huntergatherer_234_pirana,huntergatherer,pirana,317,PIRANHA
+huntergatherer_239_potato,huntergatherer,potato,593,POTATO
+huntergatherer_240_potatosweetpotato,huntergatherer,"potato, sweet potato",159,SWEET POTATO
+huntergatherer_254_rubbertreesorva,huntergatherer,rubber tree (sorva),,
+huntergatherer_263_scorpion,huntergatherer,scorpion,1538,SCORPION
+huntergatherer_264_sejepalm,huntergatherer,seje palm,,
+huntergatherer_268_sloth,huntergatherer,sloth,2446,SLOTH
+huntergatherer_271_smalllizard,huntergatherer,small lizard,,
+huntergatherer_272_snail,huntergatherer,snail,1543,SNAIL
+huntergatherer_273_snakegeneric,huntergatherer,snake (generic),730,SNAKE
+huntergatherer_280_spider,huntergatherer,spider,843,SPIDER
+huntergatherer_284_squash,huntergatherer,squash,864,PUMPKIN
+huntergatherer_286_stingraygeneric,huntergatherer,stingray (generic),1910,STINGRAY
+huntergatherer_293_tapir,huntergatherer,tapir,312,TAPIR
+huntergatherer_296_termiteswhiteants,huntergatherer,"termites, white-ants",883,TERMITE
+huntergatherer_301_tinamou,huntergatherer,tinamou,3921,TINAMOU
+huntergatherer_303_tobacco,huntergatherer,tobacco,974,TOBACCO
+huntergatherer_305_tortoiseredfootyellowfootgiant,huntergatherer,"tortoise (red foot, yellow foot/giant)",895,TORTOISE
+huntergatherer_306_toucan,huntergatherer,toucan,308,TOUCAN
+huntergatherer_307_tree,huntergatherer,tree,906,TREE
+huntergatherer_309_tuftedcapuchinmonkey,huntergatherer,tufted capuchin monkey,,
+huntergatherer_312_ucuqui,huntergatherer,ucuqui,,
+huntergatherer_316_vulture,huntergatherer,vulture,1185,VULTURE
+huntergatherer_318_wasp,huntergatherer,wasp,1517,WASP
+huntergatherer_325_whitefrontedcapuchin,huntergatherer,white-fronted capuchin,,
+huntergatherer_326_whitefrontedspidermonkey,huntergatherer,white-fronted spider monkey,,
+huntergatherer_337_woodpecker,huntergatherer,woodpecker,2447,WOODPECKER
+huntergatherer_3_afterworldlandofdeadheaven,huntergatherer,"afterworld, land of dead, Heaven ",,
+huntergatherer_6_arrow,huntergatherer,arrow ,977,ARROW
+huntergatherer_9_axestoneaxe,huntergatherer,axe/stone axe ,677,AXE
+huntergatherer_14_basinbowl,huntergatherer,basin/bowl ,,
+huntergatherer_15_basketgeneral,huntergatherer,basket (general) ,1539,BASKET
+huntergatherer_18_bead,huntergatherer,bead ,1860,BEAD
+huntergatherer_20_bed,huntergatherer,bed ,1663,BED
+huntergatherer_21_benchseat,huntergatherer,"bench, seat ",,
+huntergatherer_29_bow,huntergatherer,bow ,994,BOW
+huntergatherer_31_broom,huntergatherer,broom ,245,BROOM
+huntergatherer_32_canoe,huntergatherer,canoe ,1970,CANOE
+huntergatherer_34_cat,huntergatherer,cat ,1208,CAT
+huntergatherer_35_chicken,huntergatherer,chicken ,1318,CHICKEN
+huntergatherer_36_chiefleader,huntergatherer,chief/leader ,301,CHIEFTAIN
+huntergatherer_40_clothing,huntergatherer,clothing ,1895,CLOTHES
+huntergatherer_41_club,huntergatherer,club ,1763,CLUB
+huntergatherer_45_cookfood,huntergatherer,cook food ,1100,COOK (SOMETHING)
+huntergatherer_53_dancegeneric,huntergatherer,dance (generic) ,3472,DANCE (MOVEMENT)
+huntergatherer_56_deitypowerfulspiritculturefigure,huntergatherer,deity/powerful spirit/culture figure ,3231,DEITY
+huntergatherer_60_dream,huntergatherer,dream ,2455,DREAMING OR DREAM
+huntergatherer_61_dream,huntergatherer,dream,1920,DREAM (SOMETHING)
+huntergatherer_64_drum,huntergatherer,drum ,908,DRUM
+huntergatherer_68_fan,huntergatherer,fan ,1971,FAN (OBJECT)
+huntergatherer_71_fencepalisade,huntergatherer,"fence, palisade ",1690,FENCE
+huntergatherer_72_fermenteddrink,huntergatherer,fermented drink ,,
+huntergatherer_77_fireplace,huntergatherer,fireplace,185,FIREPLACE
+huntergatherer_78_firewood,huntergatherer,firewood ,10,FIREWOOD
+huntergatherer_80_fishwithline,huntergatherer,fish (with line) ,2796,FISHING (WITH A HOOK)
+huntergatherer_83_fishpoison,huntergatherer,fish poison ,348,FISH POISON
+huntergatherer_84_fishingline,huntergatherer,fishing line ,19,FISHING LINE
+huntergatherer_85_fishtrap,huntergatherer,fishtrap ,389,FISH TRAP
+huntergatherer_88_flatbreadcassavabread,huntergatherer,"flat bread, cassava bread ",,
+huntergatherer_91_flourmealfrommanioc,huntergatherer,flour/meal from manioc ,,
+huntergatherer_92_flute,huntergatherer,flute ,777,FLUTE
+huntergatherer_94_gameanimal,huntergatherer,game animal ,,
+huntergatherer_97_ghostofdeadpersonevilspirit,huntergatherer,ghost (of dead person)/evil spirit ,,
+huntergatherer_99_gourddipperbowl,huntergatherer,gourd (dipper/bowl) ,,
+huntergatherer_100_grater,huntergatherer,grater ,,
+huntergatherer_101_grave,huntergatherer,grave ,1773,GRAVE
+huntergatherer_102_gridofsticksforsmokingmeatorplacingobjectsshelf,huntergatherer,grid of sticks for smoking meat or placing objects (shelf) ,,
+huntergatherer_103_griddleforcookingflatbread,huntergatherer,griddle for cooking flatbread ,,
+huntergatherer_105_gun,huntergatherer,gun ,1566,GUN
+huntergatherer_107_hammock,huntergatherer,hammock ,2019,HAMMOCK
+huntergatherer_108_hat,huntergatherer,hat ,771,HAT
+huntergatherer_112_honey,huntergatherer,honey ,942,HONEY
+huntergatherer_113_house,huntergatherer,house ,1252,HOUSE
+huntergatherer_115_hunt,huntergatherer,hunt ,1435,HUNT
+huntergatherer_120_knife,huntergatherer,knife ,1352,KNIFE
+huntergatherer_123_machete,huntergatherer,machete ,2680,MACHETE
+huntergatherer_128_mortar,huntergatherer,mortar ,224,MORTAR
+huntergatherer_134_paddleoar,huntergatherer,paddle/oar ,3318,OAR OR PADDLE
+huntergatherer_137_paper,huntergatherer,paper ,648,PAPER
+huntergatherer_138_pestle,huntergatherer,pestle ,225,PESTLE
+huntergatherer_142_plate,huntergatherer,plate ,480,PLATE
+huntergatherer_144_pot,huntergatherer,pot ,1462,POT
+huntergatherer_147_rattle,huntergatherer,rattle ,300,RATTLE
+huntergatherer_149_resin,huntergatherer,resin ,,
+huntergatherer_151_ropestring,huntergatherer,rope/string ,,
+huntergatherer_152_salt,huntergatherer,salt ,1274,SALT
+huntergatherer_153_school,huntergatherer,school ,673,SCHOOL
+huntergatherer_155_shamanhealer,huntergatherer,"shaman, healer ",394,SHAMAN (FOLK HEALER)
+huntergatherer_157_shoes,huntergatherer,shoes ,1381,SHOE
+huntergatherer_159_skirt,huntergatherer,skirt ,1600,SKIRT
+huntergatherer_161_soldier,huntergatherer,soldier ,1941,SOLDIER
+huntergatherer_163_songgeneric,huntergatherer,song (generic) ,1096,SONG
+huntergatherer_164_spear,huntergatherer,spear ,945,SPEAR
+huntergatherer_178_sugarcanesugar,huntergatherer,sugarcane/sugar ,146,SUGAR CANE
+huntergatherer_181_tattoo,huntergatherer,tattoo ,68,TATTOO
+huntergatherer_184_thatchroof,huntergatherer,thatch/roof ,2100,THATCH OR ROOF
+huntergatherer_187_tobacconative,huntergatherer,tobacco (native) ,,
+huntergatherer_193_venomfordartspoison,huntergatherer,"venom for darts, poison ",,
+huntergatherer_194_wax,huntergatherer,wax ,1931,BEESWAX
+huntergatherer_201_wovenstrainersieve,huntergatherer,woven strainer/sieve ,,
+idssegmented_1-100,idssegmented,world,965,WORLD
+idssegmented_1-210,idssegmented,"earth, land",626,LAND
+idssegmented_1-212,idssegmented,"earth=ground, soil",1228,EARTH (SOIL)
+idssegmented_1-213,idssegmented,dust,2,DUST
+idssegmented_1-214,idssegmented,mud,640,MUD
+idssegmented_1-215,idssegmented,sand,671,SAND
+idssegmented_1-220,idssegmented,"mountain, hill",2118,MOUNTAIN OR HILL
+idssegmented_1-222,idssegmented,"cliff, precipice",618,PRECIPICE
+idssegmented_1-230,idssegmented,"plain, field",652,PLAIN
+idssegmented_1-240,idssegmented,valley,921,VALLEY
+idssegmented_1-250,idssegmented,island,622,ISLAND
+idssegmented_1-260,idssegmented,mainland,166,MAINLAND
+idssegmented_1-270,idssegmented,shore,113,SHORE
+idssegmented_1-280,idssegmented,cave,1155,CAVE
+idssegmented_1-310,idssegmented,water,948,WATER
+idssegmented_1-320,idssegmented,sea,1474,SEA
+idssegmented_1-322,idssegmented,calm (of sea),3820,CALM (OF SEA)
+idssegmented_1-323,idssegmented,rough (of sea),259,ROUGH (OF SEA)
+idssegmented_1-324,idssegmented,foam,1768,FOAM
+idssegmented_1-329,idssegmented,ocean,645,OCEAN
+idssegmented_1-330,idssegmented,lake,624,LAKE
+idssegmented_1-340,idssegmented,"gulf, bay",663,BAY
+idssegmented_1-341,idssegmented,lagoon,623,LAGOON
+idssegmented_1-343,idssegmented,"headland, point",1662,CAPE
+idssegmented_1-350,idssegmented,wave,978,WAVE
+idssegmented_1-360,idssegmented,"river, stream, brook",3311,FLOWING BODY OF WATER
+idssegmented_1-362,idssegmented,whirlpool,1982,WHIRLPOOL
+idssegmented_1-370,idssegmented,"spring, well",2144,SPRING OR WELL
+idssegmented_1-380,idssegmented,swamp,1145,SWAMP
+idssegmented_1-390,idssegmented,waterfall,943,WATERFALL
+idssegmented_1-410,idssegmented,"woods, forest",420,FOREST
+idssegmented_1-420,idssegmented,tree (cf 08.600),906,TREE
+idssegmented_1-430,idssegmented,wood,1803,WOOD
+idssegmented_1-440,idssegmented,"stone, rock",2125,STONE OR ROCK
+idssegmented_1-450,idssegmented,earthquake,6,EARTHQUAKE
+idssegmented_1-510,idssegmented,sky,1732,SKY
+idssegmented_1-520,idssegmented,sun,1343,SUN
+idssegmented_1-530,idssegmented,moon,1313,MOON
+idssegmented_1-540,idssegmented,star,1430,STAR
+idssegmented_1-550,idssegmented,lightning,1654,LIGHTNING
+idssegmented_1-560,idssegmented,thunder,1150,THUNDER
+idssegmented_1-570,idssegmented,lightning (as striking),2007,BOLT (OF LIGHTNING)
+idssegmented_1-580,idssegmented,storm,858,STORM
+idssegmented_1-590,idssegmented,rainbow,1733,RAINBOW
+idssegmented_1-610,idssegmented,light (noun),630,LIGHT (RADIATION)
+idssegmented_1-620,idssegmented,darkness,11,DARKNESS
+idssegmented_1-630,idssegmented,"shade, shadow",1388,SHADE
+idssegmented_1-640,idssegmented,dew,1977,DEW
+idssegmented_1-710,idssegmented,air,27,AIR
+idssegmented_1-720,idssegmented,wind,960,WIND
+idssegmented_1-730,idssegmented,cloud,1489,CLOUD
+idssegmented_1-740,idssegmented,fog,249,FOG
+idssegmented_1-750,idssegmented,rain (noun),658,RAIN (PRECIPITATION)
+idssegmented_1-760,idssegmented,snow (noun),784,SNOW
+idssegmented_1-770,idssegmented,ice,617,ICE
+idssegmented_1-780,idssegmented,weather,952,WEATHER
+idssegmented_1-810,idssegmented,fire,221,FIRE
+idssegmented_1-820,idssegmented,flame (noun),889,FLAME
+idssegmented_1-830,idssegmented,smoke (noun),778,SMOKE (EXHAUST)
+idssegmented_1-840,idssegmented,ashes,646,ASH
+idssegmented_1-841,idssegmented,embers,67,EMBERS
+idssegmented_1-851,idssegmented,burn (vb trans),141,BURN (SOMETHING)
+idssegmented_1-852,idssegmented,burn (vb intrans),1428,BURNING
+idssegmented_1-860,idssegmented,"light, kindle, ignite",737,LIGHT (IGNITE)
+idssegmented_1-861,idssegmented,extinguish,127,EXTINGUISH
+idssegmented_1-870,idssegmented,match (noun),1133,MATCH
+idssegmented_1-880,idssegmented,firewood,10,FIREWOOD
+idssegmented_1-890,idssegmented,charcoal,1188,CHARCOAL
+idssegmented_2-100,idssegmented,"person, human being",683,PERSON
+idssegmented_2-210,idssegmented,man (vs. woman),1554,MAN
+idssegmented_2-220,idssegmented,woman,962,WOMAN
+idssegmented_2-230,idssegmented,male,2261,MALE (OF PERSON)
+idssegmented_2-240,idssegmented,female,2260,FEMALE (OF PERSON)
+idssegmented_2-250,idssegmented,boy,1366,BOY
+idssegmented_2-251,idssegmented,young man (adolescent),76,YOUNG MAN
+idssegmented_2-260,idssegmented,girl,1646,GIRL
+idssegmented_2-261,idssegmented,young woman (adolescent),77,YOUNG WOMAN
+idssegmented_2-270,idssegmented,child,1304,CHILD (YOUNG HUMAN)
+idssegmented_2-280,idssegmented,"infant, baby",1289,BABY
+idssegmented_2-310,idssegmented,husband,1200,HUSBAND
+idssegmented_2-320,idssegmented,wife,1199,WIFE
+idssegmented_2-330,idssegmented,marry,203,MARRY
+idssegmented_2-340,idssegmented,"marriage, wedding",3182,MARRIAGE OR WEDDING
+idssegmented_2-341,idssegmented,divorce,1134,DIVORCE
+idssegmented_2-350,idssegmented,father,1217,FATHER
+idssegmented_2-360,idssegmented,mother,1216,MOTHER
+idssegmented_2-370,idssegmented,parents,505,PARENTS
+idssegmented_2-380,idssegmented,married man,424,MARRIED MAN
+idssegmented_2-390,idssegmented,married woman,426,MARRIED WOMAN
+idssegmented_2-410,idssegmented,son,1620,SON
+idssegmented_2-420,idssegmented,daughter,1357,DAUGHTER
+idssegmented_2-430,idssegmented,offspring (son or daughter),1801,CHILD (DESCENDANT)
+idssegmented_2-440,idssegmented,brother,1262,BROTHER
+idssegmented_2-444,idssegmented,older brother,1759,OLDER BROTHER
+idssegmented_2-445,idssegmented,younger brother,1760,YOUNGER BROTHER
+idssegmented_2-450,idssegmented,sister,1263,SISTER
+idssegmented_2-454,idssegmented,older sister,1758,OLDER SISTER
+idssegmented_2-455,idssegmented,younger sister,1761,YOUNGER SISTER
+idssegmented_2-456,idssegmented,sibling,1640,SIBLING
+idssegmented_2-458,idssegmented,twins,1005,TWINS
+idssegmented_2-460,idssegmented,grandfather,1383,GRANDFATHER
+idssegmented_2-461,idssegmented,old man,406,OLD MAN
+idssegmented_2-470,idssegmented,grandmother,1496,GRANDMOTHER
+idssegmented_2-471,idssegmented,old woman,907,OLD WOMAN
+idssegmented_2-480,idssegmented,grandson,1618,GRANDSON
+idssegmented_2-490,idssegmented,granddaughter,1619,GRANDDAUGHTER
+idssegmented_2-510,idssegmented,uncle,1327,UNCLE
+idssegmented_2-511,idssegmented,mother's brother,2692,MATERNAL UNCLE (MOTHER'S BROTHER)
+idssegmented_2-512,idssegmented,father's brother,1985,PATERNAL UNCLE (FATHER'S BROTHER)
+idssegmented_2-520,idssegmented,aunt,1272,AUNT
+idssegmented_2-521,idssegmented,mother's sister,2693,MATERNAL AUNT (MOTHER'S SISTER)
+idssegmented_2-522,idssegmented,father's sister,2691,PATERNAL AUNT (FATHER'S SISTER)
+idssegmented_2-530,idssegmented,nephew,1063,NEPHEW
+idssegmented_2-540,idssegmented,niece,1642,NIECE
+idssegmented_2-550,idssegmented,cousin,1643,COUSIN
+idssegmented_2-560,idssegmented,ancestors,1669,ANCESTORS
+idssegmented_2-570,idssegmented,descendants,490,DESCENDANTS
+idssegmented_2-610,idssegmented,father-in-law (of a man),2255,FATHER-IN-LAW (OF MAN)
+idssegmented_2-611,idssegmented,father-in-law (of a woman),2254,FATHER-IN-LAW (OF WOMAN)
+idssegmented_2-620,idssegmented,mother-in-law (of a man),2257,MOTHER-IN-LAW (OF MAN)
+idssegmented_2-621,idssegmented,mother-in-law (of a woman),2256,MOTHER-IN-LAW (OF WOMAN)
+idssegmented_2-630,idssegmented,son-in-law (of a man),2267,SON-IN-LAW (OF MAN)
+idssegmented_2-631,idssegmented,son-in-law (of a woman),2266,SON-IN-LAW (OF WOMAN)
+idssegmented_2-640,idssegmented,daughter-in-law (of a man),2265,DAUGHTER-IN-LAW (OF MAN)
+idssegmented_2-641,idssegmented,daughter-in-law (of a woman),2264,DAUGHTER-IN-LAW (OF WOMAN)
+idssegmented_2-710,idssegmented,stepfather,237,STEPFATHER
+idssegmented_2-720,idssegmented,stepmother,236,STEPMOTHER
+idssegmented_2-730,idssegmented,stepson,1059,STEPSON
+idssegmented_2-740,idssegmented,stepdaughter,1058,STEPDAUGHTER
+idssegmented_2-750,idssegmented,orphan,1149,ORPHAN
+idssegmented_2-760,idssegmented,widow,1756,WIDOW
+idssegmented_2-770,idssegmented,widower,1981,WIDOWER
+idssegmented_2-810,idssegmented,"relatives, kinsmen",1644,RELATIVES
+idssegmented_2-820,idssegmented,family,194,FAMILY
+idssegmented_2-910,idssegmented,I,1209,I
+idssegmented_2-920,idssegmented,you (singular),1215,THOU
+idssegmented_2-930,idssegmented,he/she/it,262,HE OR SHE OR IT
+idssegmented_2-940,idssegmented,we,1212,WE
+idssegmented_2-941,idssegmented,we (inclusive),1131,WE (INCLUSIVE)
+idssegmented_2-942,idssegmented,we (exclusive),1130,WE (EXCLUSIVE)
+idssegmented_2-950,idssegmented,you (plural),1213,YOU
+idssegmented_2-960,idssegmented,they,817,THEY
+idssegmented_3-110,idssegmented,animal,619,ANIMAL
+idssegmented_3-120,idssegmented,male (adj),2263,MALE (OF ANIMAL)
+idssegmented_3-130,idssegmented,female (adj),2262,FEMALE (OF ANIMAL)
+idssegmented_3-150,idssegmented,livestock,631,LIVESTOCK
+idssegmented_3-160,idssegmented,pasture,649,PASTURE
+idssegmented_3-180,idssegmented,herdsman,263,HERDSMAN
+idssegmented_3-190,idssegmented,"stable, stall",851,STABLE
+idssegmented_3-200,idssegmented,cattle (bovine),1153,CATTLE
+idssegmented_3-210,idssegmented,bull,1008,BULL
+idssegmented_3-220,idssegmented,ox,1169,OX
+idssegmented_3-230,idssegmented,cow,1007,COW
+idssegmented_3-240,idssegmented,calf,1989,CALF
+idssegmented_3-250,idssegmented,sheep,1331,SHEEP
+idssegmented_3-260,idssegmented,ram,1344,RAM
+idssegmented_3-280,idssegmented,ewe,1345,EWE
+idssegmented_3-290,idssegmented,lamb,820,LAMB
+idssegmented_3-320,idssegmented,boar,1348,BOAR (MALE PIG)
+idssegmented_3-340,idssegmented,sow (2),1351,SOW (FEMALE PIG)
+idssegmented_3-350,idssegmented,pig,1337,PIG
+idssegmented_3-360,idssegmented,goat,1502,GOAT
+idssegmented_3-370,idssegmented,he-goat,2475,MALE GOAT
+idssegmented_3-380,idssegmented,kid,1972,YOUNG GOAT (KID)
+idssegmented_3-410,idssegmented,horse (equine),615,HORSE
+idssegmented_3-420,idssegmented,stallion,936,STALLION
+idssegmented_3-440,idssegmented,mare,938,MARE
+idssegmented_3-450,idssegmented,"foal, colt",1647,FOAL
+idssegmented_3-460,idssegmented,"ass, donkey",1862,DONKEY
+idssegmented_3-470,idssegmented,mule,890,MULE
+idssegmented_3-500,idssegmented,fowl,265,FOWL
+idssegmented_3-520,idssegmented,"cock, rooster",1511,ROOSTER
+idssegmented_3-540,idssegmented,hen,1514,HEN
+idssegmented_3-550,idssegmented,chicken,1318,CHICKEN
+idssegmented_3-560,idssegmented,goose,1187,GOOSE
+idssegmented_3-570,idssegmented,duck,1360,DUCK
+idssegmented_3-580,idssegmented,nest,539,NEST
+idssegmented_3-581,idssegmented,bird,937,BIRD
+idssegmented_3-583,idssegmented,heron,758,HERON
+idssegmented_3-584,idssegmented,eagle,1905,EAGLE
+idssegmented_3-585,idssegmented,hawk,307,HAWK
+idssegmented_3-586,idssegmented,vulture,1185,VULTURE
+idssegmented_3-591,idssegmented,bat,1793,BAT
+idssegmented_3-592,idssegmented,parrot,882,PARROT
+idssegmented_3-593,idssegmented,crow,913,CROW
+idssegmented_3-594,idssegmented,dove,1853,DOVE
+idssegmented_3-596,idssegmented,owl,735,OWL
+idssegmented_3-610,idssegmented,dog,2009,DOG
+idssegmented_3-614,idssegmented,rabbit,1136,RABBIT
+idssegmented_3-620,idssegmented,cat,1208,CAT
+idssegmented_3-622,idssegmented,opossum,309,OPOSSUM
+idssegmented_3-630,idssegmented,"mouse, rat",2139,MUROID (MOUSE OR RAT)
+idssegmented_3-650,idssegmented,fish,227,FISH
+idssegmented_3-652,idssegmented,fin (dorsal),213,FIN
+idssegmented_3-653,idssegmented,fishscale,266,SCALE
+idssegmented_3-654,idssegmented,gill,1916,GILL
+idssegmented_3-655,idssegmented,shell,598,SHELL
+idssegmented_3-662,idssegmented,"porpoise, dolphin",1479,DOLPHIN
+idssegmented_3-664,idssegmented,stingray,1910,STINGRAY
+idssegmented_3-665,idssegmented,freshwater eel,1013,FRESHWATER EEL
+idssegmented_3-710,idssegmented,wolf,522,WOLF
+idssegmented_3-720,idssegmented,lion,1386,LION
+idssegmented_3-730,idssegmented,bear,1820,BEAR
+idssegmented_3-740,idssegmented,fox,1312,FOX
+idssegmented_3-750,idssegmented,deer,1936,DEER
+idssegmented_3-760,idssegmented,monkey,1350,MONKEY
+idssegmented_3-811,idssegmented,louse,1392,LOUSE
+idssegmented_3-812,idssegmented,nit (louse egg),267,NIT
+idssegmented_3-813,idssegmented,flea,232,FLEA
+idssegmented_3-814,idssegmented,centipede,1974,CENTIPEDE
+idssegmented_3-815,idssegmented,scorpion,1538,SCORPION
+idssegmented_3-816,idssegmented,cockroach,1575,COCKROACH
+idssegmented_3-817,idssegmented,ant,587,ANT
+idssegmented_3-818,idssegmented,spider,843,SPIDER
+idssegmented_3-819,idssegmented,spider web,1065,SPIDER WEB
+idssegmented_3-820,idssegmented,bee,665,BEE
+idssegmented_3-821,idssegmented,beeswax,1931,BEESWAX
+idssegmented_3-822,idssegmented,beehive,88,BEEHIVE
+idssegmented_3-823,idssegmented,wasp,1517,WASP
+idssegmented_3-830,idssegmented,fly,1504,FLY (INSECT)
+idssegmented_3-831,idssegmented,"sandfly (midge), gnat",95,SANDFLY
+idssegmented_3-832,idssegmented,mosquito,1509,MOSQUITO
+idssegmented_3-840,idssegmented,worm,1219,WORM
+idssegmented_3-850,idssegmented,snake,730,SNAKE
+idssegmented_3-910,idssegmented,firefly,206,FIREFLY
+idssegmented_3-920,idssegmented,butterfly,1791,BUTTERFLY
+idssegmented_3-930,idssegmented,grasshopper,607,GRASSHOPPER
+idssegmented_3-940,idssegmented,snail,1543,SNAIL
+idssegmented_3-950,idssegmented,frog,503,FROG
+idssegmented_3-960,idssegmented,lizard,632,LIZARD
+idssegmented_3-970,idssegmented,"crocodile, alligator",1857,CROCODILE
+idssegmented_3-980,idssegmented,turtle,112,TURTLE
+idssegmented_4-110,idssegmented,body,1480,BODY
+idssegmented_4-120,idssegmented,"skin, hide",763,SKIN
+idssegmented_4-130,idssegmented,flesh,2259,FLESH
+idssegmented_4-140,idssegmented,hair (head),2648,HAIR (HEAD)
+idssegmented_4-142,idssegmented,beard,678,BEARD
+idssegmented_4-144,idssegmented,body hair,189,HAIR (BODY)
+idssegmented_4-145,idssegmented,pubic hair,36,PUBIC HAIR
+idssegmented_4-146,idssegmented,dandruff,576,DANDRUFF
+idssegmented_4-150,idssegmented,blood,946,BLOOD
+idssegmented_4-151,idssegmented,"vein, artery",525,BLOOD VESSEL
+idssegmented_4-160,idssegmented,bone,1394,BONE
+idssegmented_4-162,idssegmented,rib,801,RIB
+idssegmented_4-170,idssegmented,horn,1393,HORN (ANATOMY)
+idssegmented_4-180,idssegmented,tail,1220,TAIL
+idssegmented_4-190,idssegmented,back,1291,BACK
+idssegmented_4-191,idssegmented,spine,805,SPINE
+idssegmented_4-200,idssegmented,head,1256,HEAD
+idssegmented_4-201,idssegmented,"side of head, temple",1604,TEMPLES
+idssegmented_4-202,idssegmented,skull,1605,SKULL
+idssegmented_4-203,idssegmented,brain,1583,BRAIN
+idssegmented_4-204,idssegmented,face,1560,FACE
+idssegmented_4-205,idssegmented,forehead,123,FOREHEAD
+idssegmented_4-207,idssegmented,jaw,798,JAW
+idssegmented_4-208,idssegmented,cheek,1730,CHEEK
+idssegmented_4-209,idssegmented,chin,1510,CHIN
+idssegmented_4-210,idssegmented,eye,1248,EYE
+idssegmented_4-212,idssegmented,eyebrow,1173,EYEBROW
+idssegmented_4-213,idssegmented,eyelid,17,EYELID
+idssegmented_4-214,idssegmented,eyelash,1540,EYELASH
+idssegmented_4-215,idssegmented,blink,1655,BLINK
+idssegmented_4-220,idssegmented,ear,1247,EAR
+idssegmented_4-221,idssegmented,earlobe,18,EARLOBE
+idssegmented_4-222,idssegmented,earwax,32,EARWAX
+idssegmented_4-230,idssegmented,nose,1221,NOSE
+idssegmented_4-231,idssegmented,nostril,1178,NOSTRIL
+idssegmented_4-232,idssegmented,mucus (nasal),208,NASAL MUCUS (SNOT)
+idssegmented_4-240,idssegmented,mouth,674,MOUTH
+idssegmented_4-241,idssegmented,beak,73,BEAK
+idssegmented_4-250,idssegmented,lip,478,LIP
+idssegmented_4-260,idssegmented,tongue,1205,TONGUE
+idssegmented_4-270,idssegmented,tooth,1380,TOOTH
+idssegmented_4-271,idssegmented,gums,139,GUMS
+idssegmented_4-272,idssegmented,molartooth,1049,MOLAR TOOTH
+idssegmented_4-280,idssegmented,neck,1333,NECK
+idssegmented_4-281,idssegmented,nape of neck,1347,NAPE (OF NECK)
+idssegmented_4-290,idssegmented,throat,1346,THROAT
+idssegmented_4-300,idssegmented,shoulder,1482,SHOULDER
+idssegmented_4-301,idssegmented,shoulderblade,172,SHOULDERBLADE
+idssegmented_4-302,idssegmented,collarbone,1994,COLLARBONE
+idssegmented_4-310,idssegmented,arm,1673,ARM
+idssegmented_4-312,idssegmented,armpit,1886,ARMPIT
+idssegmented_4-320,idssegmented,elbow,981,ELBOW
+idssegmented_4-321,idssegmented,wrist,799,WRIST
+idssegmented_4-330,idssegmented,hand,1277,HAND
+idssegmented_4-331,idssegmented,palm of hand,1183,PALM OF HAND
+idssegmented_4-340,idssegmented,finger,1303,FINGER
+idssegmented_4-342,idssegmented,thumb,1781,THUMB
+idssegmented_4-344,idssegmented,fingernail,1258,FINGERNAIL
+idssegmented_4-345,idssegmented,claw,72,CLAW
+idssegmented_4-350,idssegmented,leg,1297,LEG
+idssegmented_4-351,idssegmented,thigh,471,UPPER LEG (THIGH)
+idssegmented_4-352,idssegmented,calf of leg,498,CALF OF LEG
+idssegmented_4-360,idssegmented,knee,1371,KNEE
+idssegmented_4-370,idssegmented,foot,1301,FOOT
+idssegmented_4-371,idssegmented,ankle,803,ANKLE
+idssegmented_4-372,idssegmented,heel,980,HEEL
+idssegmented_4-374,idssegmented,footprint,318,FOOTPRINT
+idssegmented_4-380,idssegmented,toe,1389,TOE
+idssegmented_4-392,idssegmented,wing,1257,WING
+idssegmented_4-393,idssegmented,feather,1201,FEATHER
+idssegmented_4-400,idssegmented,chest,1592,CHEST
+idssegmented_4-410,idssegmented,breast (of woman),1402,BREAST
+idssegmented_4-412,idssegmented,"nipple, teat",796,NIPPLE
+idssegmented_4-420,idssegmented,udder,154,UDDER
+idssegmented_4-430,idssegmented,navel,1838,NAVEL
+idssegmented_4-440,idssegmented,heart,1223,HEART
+idssegmented_4-441,idssegmented,lung,688,LUNG
+idssegmented_4-450,idssegmented,liver,1224,LIVER
+idssegmented_4-451,idssegmented,kidney,489,KIDNEY
+idssegmented_4-452,idssegmented,spleen,1744,SPLEEN
+idssegmented_4-460,idssegmented,stomach,819,STOMACH
+idssegmented_4-461,idssegmented,"intestines, guts",1991,INTESTINES
+idssegmented_4-462,idssegmented,waist,1681,WAIST
+idssegmented_4-463,idssegmented,hip,1745,HIP
+idssegmented_4-464,idssegmented,buttocks,834,BUTTOCKS
+idssegmented_4-470,idssegmented,womb,804,WOMB
+idssegmented_4-490,idssegmented,testicle,797,TESTICLES
+idssegmented_4-492,idssegmented,penis,1222,PENIS
+idssegmented_4-510,idssegmented,"breathe, breath",3183,BREATH OR BREATHE
+idssegmented_4-520,idssegmented,"yawn, gape",1028,YAWN
+idssegmented_4-521,idssegmented,hiccough,162,HICCOUGH
+idssegmented_4-530,idssegmented,cough,879,COUGH
+idssegmented_4-540,idssegmented,sneeze,1621,SNEEZE
+idssegmented_4-550,idssegmented,perspire,126,SWEAT (PERSPIRE)
+idssegmented_4-560,idssegmented,spit,1440,SPIT
+idssegmented_4-570,idssegmented,vomit,1278,VOMIT
+idssegmented_4-580,idssegmented,bite,1403,BITE
+idssegmented_4-590,idssegmented,lick,319,LICK
+idssegmented_4-591,idssegmented,dribble,268,DRIBBLE
+idssegmented_4-610,idssegmented,sleep,1585,SLEEP
+idssegmented_4-612,idssegmented,snore,1983,SNORE
+idssegmented_4-620,idssegmented,dream,1920,DREAM (SOMETHING)
+idssegmented_4-630,idssegmented,wake up,1602,WAKE UP
+idssegmented_4-640,idssegmented,break wind,1159,FART
+idssegmented_4-650,idssegmented,urinate,592,PISS
+idssegmented_4-660,idssegmented,defecate,676,SHIT (DEFECATE)
+idssegmented_4-670,idssegmented,have sexual intercourse,549,COPULATE
+idssegmented_4-680,idssegmented,shiver,52,SHIVER
+idssegmented_4-690,idssegmented,bathe,138,BATHE
+idssegmented_4-710,idssegmented,beget (of father),1152,BEGET
+idssegmented_4-720,idssegmented,born (to be),1090,BE BORN
+idssegmented_4-730,idssegmented,pregnant,1123,PREGNANT
+idssegmented_4-732,idssegmented,conceive,1087,CONCEIVE
+idssegmented_4-740,idssegmented,"live, living, life",3184,BE ALIVE OR LIFE
+idssegmented_4-750,idssegmented,"die, dead",2101,BE DEAD OR DIE
+idssegmented_4-751,idssegmented,drowned,3187,DROWNED
+idssegmented_4-760,idssegmented,kill,1417,KILL
+idssegmented_4-770,idssegmented,corpse,767,CORPSE
+idssegmented_4-780,idssegmented,bury (the dead),1719,BURY
+idssegmented_4-790,idssegmented,"grave, tomb",1773,GRAVE
+idssegmented_4-810,idssegmented,"strong, mighty, powerful",3188,MIGHTY OR POWERFUL OR STRONG
+idssegmented_4-820,idssegmented,weak,1601,WEAK
+idssegmented_4-830,idssegmented,"well, health",1364,HEALTHY
+idssegmented_4-840,idssegmented,"sick, sickness",1847,SICK
+idssegmented_4-841,idssegmented,fever,1534,FEVER
+idssegmented_4-842,idssegmented,goiter,1957,GOITER
+idssegmented_4-843,idssegmented,cold (catarrh),102,COMMON COLD (DISEASE)
+idssegmented_4-850,idssegmented,"wound, sore",1109,WOUND
+idssegmented_4-852,idssegmented,bruise,1148,BRUISE
+idssegmented_4-853,idssegmented,swelling,1903,SWELLING
+idssegmented_4-854,idssegmented,itch,148,ITCH
+idssegmented_4-855,idssegmented,blister,1584,BLISTER
+idssegmented_4-856,idssegmented,boil (noun),793,BOIL (OF SKIN)
+idssegmented_4-857,idssegmented,pus,1808,PUS
+idssegmented_4-858,idssegmented,scar,497,SCAR
+idssegmented_4-860,idssegmented,"cure, heal",499,CURE
+idssegmented_4-870,idssegmented,physician,597,PHYSICIAN
+idssegmented_4-880,idssegmented,"medicine, drug",1372,MEDICINE
+idssegmented_4-890,idssegmented,poison,655,POISON
+idssegmented_4-910,idssegmented,"tired, weary",1757,TIRED
+idssegmented_4-912,idssegmented,rest,168,REST
+idssegmented_4-920,idssegmented,lazy,1564,LAZY
+idssegmented_4-930,idssegmented,bald,1125,BALD
+idssegmented_4-940,idssegmented,lame,320,LAME
+idssegmented_4-950,idssegmented,deaf,996,DEAF
+idssegmented_4-960,idssegmented,mute,1666,MUTE
+idssegmented_4-970,idssegmented,blind,1653,BLIND
+idssegmented_4-980,idssegmented,intoxicated,1463,DRUNK
+idssegmented_4-990,idssegmented,"naked, bare",590,NAKED
+idssegmented_5-110,idssegmented,eat,1336,EAT
+idssegmented_5-120,idssegmented,food,256,FOOD
+idssegmented_5-121,idssegmented,cooked,269,COOKED
+idssegmented_5-122,idssegmented,raw,1959,RAW
+idssegmented_5-123,idssegmented,ripe,178,RIPE
+idssegmented_5-124,idssegmented,"green, unripe",1958,UNRIPE
+idssegmented_5-125,idssegmented,rotten,1728,ROTTEN
+idssegmented_5-130,idssegmented,drink,1401,DRINK
+idssegmented_5-140,idssegmented,hunger,1864,HUNGER
+idssegmented_5-141,idssegmented,famine,199,FAMINE
+idssegmented_5-150,idssegmented,thirst,848,THIRST
+idssegmented_5-160,idssegmented,suck,1421,SUCK
+idssegmented_5-180,idssegmented,chew,321,CHEW
+idssegmented_5-181,idssegmented,swallow,897,SWALLOW
+idssegmented_5-190,idssegmented,choke,129,CHOKE
+idssegmented_5-210,idssegmented,cook,1100,COOK (SOMETHING)
+idssegmented_5-220,idssegmented,boil (vb),792,BOIL (OF LIQUID)
+idssegmented_5-230,idssegmented,"roast, fry",2146,ROAST OR FRY
+idssegmented_5-240,idssegmented,bake,183,BAKE
+idssegmented_5-250,idssegmented,oven,1143,OVEN
+idssegmented_5-260,idssegmented,"pot, cooking vessel",3653,COOKING POT
+idssegmented_5-270,idssegmented,kettle,854,KETTLE
+idssegmented_5-280,idssegmented,pan,31,PAN
+idssegmented_5-310,idssegmented,dish,481,DISH
+idssegmented_5-320,idssegmented,plate,480,PLATE
+idssegmented_5-330,idssegmented,bowl,1530,BOWL
+idssegmented_5-340,idssegmented,"pitcher, jug",270,JUG
+idssegmented_5-350,idssegmented,"cup, drinking vessel",476,CUP
+idssegmented_5-370,idssegmented,spoon,1378,SPOON
+idssegmented_5-380,idssegmented,knife (2),3210,KNIFE (FOR EATING)
+idssegmented_5-390,idssegmented,fork (2),1302,FORK
+idssegmented_5-410,idssegmented,meal (a),1526,MEAL
+idssegmented_5-420,idssegmented,breakfast,1322,BREAKFAST
+idssegmented_5-430,idssegmented,lunch,768,LUNCH
+idssegmented_5-440,idssegmented,dinner,1833,DINNER (SUPPER)
+idssegmented_5-450,idssegmented,supper,1833,DINNER (SUPPER)
+idssegmented_5-460,idssegmented,peel,275,PEEL
+idssegmented_5-470,idssegmented,"sieve, strain",3448,SIEVE OR STRAIN
+idssegmented_5-480,idssegmented,scrape,1767,SCRAPE
+idssegmented_5-490,idssegmented,"stir, mix",2017,MIX
+idssegmented_5-510,idssegmented,bread,1368,BREAD
+idssegmented_5-530,idssegmented,dough,273,DOUGH
+idssegmented_5-540,idssegmented,knead,274,KNEAD
+idssegmented_5-550,idssegmented,"meal, flour",1594,FLOUR
+idssegmented_5-560,idssegmented,"crush, grind",1033,GRIND
+idssegmented_5-570,idssegmented,mill,636,MILL
+idssegmented_5-580,idssegmented,mortar (2),224,MORTAR
+idssegmented_5-590,idssegmented,pestle,225,PESTLE
+idssegmented_5-610,idssegmented,meat,634,MEAT
+idssegmented_5-630,idssegmented,sausage,1874,SAUSAGE
+idssegmented_5-640,idssegmented,"soup, broth",1547,SOUP
+idssegmented_5-660,idssegmented,bean,832,BEAN
+idssegmented_5-700,idssegmented,potato,593,POTATO
+idssegmented_5-710,idssegmented,fruit,1507,FRUIT
+idssegmented_5-712,idssegmented,bunch,1966,BUNCH
+idssegmented_5-760,idssegmented,grape,920,GRAPE
+idssegmented_5-770,idssegmented,nut,191,NUT
+idssegmented_5-790,idssegmented,oil,1484,OIL (ORGANIC SUBSTANCE)
+idssegmented_5-791,idssegmented,"grease, fat",323,FAT (ORGANIC SUBSTANCE)
+idssegmented_5-810,idssegmented,salt,1274,SALT
+idssegmented_5-820,idssegmented,pepper,1385,PEPPER
+idssegmented_5-821,idssegmented,chili pepper,919,CHILI PEPPER
+idssegmented_5-840,idssegmented,honey,942,HONEY
+idssegmented_5-850,idssegmented,sugar,862,SUGAR
+idssegmented_5-860,idssegmented,milk (noun),635,MILK
+idssegmented_5-870,idssegmented,milk (vb),93,DRAW MILK
+idssegmented_5-880,idssegmented,cheese,1569,CHEESE
+idssegmented_5-890,idssegmented,butter,1245,BUTTER
+idssegmented_5-900,idssegmented,"beverage, drink",731,BEVERAGE
+idssegmented_5-910,idssegmented,mead,941,MEAD
+idssegmented_5-920,idssegmented,wine,1524,WINE
+idssegmented_5-930,idssegmented,beer,1639,BEER
+idssegmented_5-940,idssegmented,fermented drink,404,ALCOHOL (FERMENTED DRINK)
+idssegmented_5-970,idssegmented,egg,744,EGG
+idssegmented_5-971,idssegmented,egg yolk,1556,YOLK
+idssegmented_6-110,idssegmented,put on (clothes),158,PUT ON
+idssegmented_6-120,idssegmented,"clothing, clothes",1895,CLOTHES
+idssegmented_6-210,idssegmented,cloth,1616,CLOTH
+idssegmented_6-220,idssegmented,wool,964,WOOL
+idssegmented_6-240,idssegmented,cotton,1850,COTTON
+idssegmented_6-250,idssegmented,silk,1641,SILK
+idssegmented_6-270,idssegmented,felt,325,FELT
+idssegmented_6-280,idssegmented,fur,580,FUR
+idssegmented_6-290,idssegmented,leather,629,LEATHER
+idssegmented_6-310,idssegmented,spin,121,SPIN
+idssegmented_6-320,idssegmented,spindle,277,SPINDLE
+idssegmented_6-330,idssegmented,weave,133,WEAVE
+idssegmented_6-340,idssegmented,loom,1787,LOOM
+idssegmented_6-350,idssegmented,sew,1457,SEW
+idssegmented_6-360,idssegmented,needle,1382,NEEDLE (FOR SEWING)
+idssegmented_6-370,idssegmented,awl,278,AWL
+idssegmented_6-380,idssegmented,thread,1161,THREAD
+idssegmented_6-390,idssegmented,dye,157,DYE
+idssegmented_6-410,idssegmented,cloak,326,CLOAK
+idssegmented_6-411,idssegmented,poncho,327,PONCHO
+idssegmented_6-420,idssegmented,woman's dress,474,DRESS
+idssegmented_6-430,idssegmented,coat,603,COAT
+idssegmented_6-440,idssegmented,shirt,1622,SHIRT
+idssegmented_6-450,idssegmented,collar,2012,COLLAR
+idssegmented_6-460,idssegmented,skirt,1600,SKIRT
+idssegmented_6-461,idssegmented,grass-skirt,328,GRASS-SKIRT
+idssegmented_6-480,idssegmented,trousers,809,TROUSERS
+idssegmented_6-490,idssegmented,"stocking, sock",329,STOCKING
+idssegmented_6-510,idssegmented,shoe,1381,SHOE
+idssegmented_6-520,idssegmented,boot,585,BOOT
+idssegmented_6-540,idssegmented,"shoemaker, cobbler",875,SHOEMAKER
+idssegmented_6-550,idssegmented,"hat, cap",2130,HEADGEAR
+idssegmented_6-570,idssegmented,"belt, girdle",772,BELT
+idssegmented_6-610,idssegmented,pocket,1851,POCKET
+idssegmented_6-620,idssegmented,button,757,BUTTON
+idssegmented_6-630,idssegmented,pin,64,PIN
+idssegmented_6-710,idssegmented,"ornament, adornment",917,ORNAMENT
+idssegmented_6-720,idssegmented,jewel,1029,JEWEL
+idssegmented_6-730,idssegmented,ring (for finger),1374,RING
+idssegmented_6-740,idssegmented,bracelet,1754,BRACELET
+idssegmented_6-750,idssegmented,necklace,1961,NECKLACE
+idssegmented_6-760,idssegmented,bead,1860,BEAD
+idssegmented_6-770,idssegmented,earring,770,EARRING
+idssegmented_6-780,idssegmented,"headband, headdress",3457,HEADBAND OR HEADDRESS
+idssegmented_6-810,idssegmented,"handkerchief, rag",332,RAG
+idssegmented_6-820,idssegmented,towel,1021,TOWEL
+idssegmented_6-910,idssegmented,comb,1475,COMB
+idssegmented_6-920,idssegmented,brush,1821,BRUSH
+idssegmented_6-921,idssegmented,braid,1043,BRAID
+idssegmented_6-930,idssegmented,razor,151,RAZOR
+idssegmented_6-940,idssegmented,ointment,1926,OINTMENT
+idssegmented_6-950,idssegmented,soap,788,SOAP
+idssegmented_6-960,idssegmented,mirror,1171,MIRROR
+idssegmented_7-110,idssegmented,"dwell, live",363,"DWELL (LIVE, RESIDE)"
+idssegmented_7-120,idssegmented,house,1252,HOUSE
+idssegmented_7-130,idssegmented,hut,1678,HUT
+idssegmented_7-131,idssegmented,garden-house,403,GARDEN-HOUSE
+idssegmented_7-140,idssegmented,tent,1316,TENT
+idssegmented_7-150,idssegmented,"yard, court",736,YARD
+idssegmented_7-170,idssegmented,cookhouse,334,COOKHOUSE
+idssegmented_7-180,idssegmented,meeting house,335,MEETING HOUSE
+idssegmented_7-210,idssegmented,room,1450,ROOM
+idssegmented_7-220,idssegmented,"door, gate",1567,DOOR
+idssegmented_7-221,idssegmented,"doorpost, jamb",80,DOORPOST
+idssegmented_7-230,idssegmented,lock (noun),1596,LOCK
+idssegmented_7-231,idssegmented,"latch, door-bolt",1012,LATCH
+idssegmented_7-240,idssegmented,key,1472,KEY
+idssegmented_7-250,idssegmented,window,1375,WINDOW
+idssegmented_7-260,idssegmented,floor,1632,FLOOR
+idssegmented_7-270,idssegmented,wall,933,WALL (OF HOUSE)
+idssegmented_7-310,idssegmented,fireplace,185,FIREPLACE
+idssegmented_7-370,idssegmented,ladder,1464,LADDER
+idssegmented_7-420,idssegmented,bed,1663,BED
+idssegmented_7-421,idssegmented,pillow,1044,PILLOW
+idssegmented_7-422,idssegmented,blanket,806,BLANKET
+idssegmented_7-430,idssegmented,chair,1476,CHAIR
+idssegmented_7-440,idssegmented,table,1775,TABLE
+idssegmented_7-450,idssegmented,"lamp, torch",2131,TORCH OR LAMP
+idssegmented_7-460,idssegmented,candle,1273,CANDLE
+idssegmented_7-470,idssegmented,shelf,745,SHELF
+idssegmented_7-480,idssegmented,trough,205,TROUGH
+idssegmented_7-510,idssegmented,roof,769,ROOF
+idssegmented_7-520,idssegmented,thatch,279,THATCH
+idssegmented_7-530,idssegmented,ridgepole,280,RIDGEPOLE
+idssegmented_7-540,idssegmented,rafter,829,RAFTER
+idssegmented_7-550,idssegmented,beam,1132,BEAM
+idssegmented_7-560,idssegmented,"post, pole",281,POST
+idssegmented_7-570,idssegmented,board,1227,BOARD
+idssegmented_7-580,idssegmented,arch,876,ARCH
+idssegmented_7-620,idssegmented,brick,1006,BRICK
+idssegmented_7-640,idssegmented,adobe,901,ADOBE
+idssegmented_8-110,idssegmented,farmer,979,FARMER
+idssegmented_8-120,idssegmented,field (for cultivation),212,FIELD
+idssegmented_8-130,idssegmented,garden,586,GARDEN
+idssegmented_8-150,idssegmented,"cultivate, till",1541,CULTIVATE
+idssegmented_8-160,idssegmented,fence,1690,FENCE
+idssegmented_8-170,idssegmented,ditch,2002,DITCH
+idssegmented_8-210,idssegmented,plow,1921,PLOUGH
+idssegmented_8-212,idssegmented,furrow,1794,FURROW
+idssegmented_8-220,idssegmented,dig,1418,DIG
+idssegmented_8-230,idssegmented,spade,1176,SPADE
+idssegmented_8-240,idssegmented,shovel,1901,SHOVEL
+idssegmented_8-270,idssegmented,rake,338,RAKE
+idssegmented_8-310,idssegmented,sow,748,SOW SEEDS
+idssegmented_8-311,idssegmented,seed,714,SEED
+idssegmented_8-320,idssegmented,"mow, reap",190,MOW
+idssegmented_8-330,idssegmented,"sickle, scythe",2132,SICKLE OR SCYTHE
+idssegmented_8-340,idssegmented,thresh,285,THRESH
+idssegmented_8-350,idssegmented,threshing-floor,223,THRESHING-FLOOR
+idssegmented_8-410,idssegmented,"crop, harvest",611,HARVEST
+idssegmented_8-420,idssegmented,"grain (barley, oats etc)",605,GRAIN
+idssegmented_8-430,idssegmented,wheat,1077,WHEAT
+idssegmented_8-470,idssegmented,"maize, corn",506,MAIZE
+idssegmented_8-480,idssegmented,rice,926,RICE
+idssegmented_8-510,idssegmented,grass,606,GRASS
+idssegmented_8-520,idssegmented,hay,342,HAY
+idssegmented_8-530,idssegmented,plant (noun),653,PLANT (VEGETATION)
+idssegmented_8-531,idssegmented,plant (vb),1486,PLANT (SOMETHING)
+idssegmented_8-540,idssegmented,root,670,ROOT
+idssegmented_8-550,idssegmented,branch,3223,BRANCH OR TWIG
+idssegmented_8-560,idssegmented,leaf,628,LEAF
+idssegmented_8-570,idssegmented,flower,239,FLOWER
+idssegmented_8-600,idssegmented,tree,906,TREE
+idssegmented_8-610,idssegmented,oak,644,OAK
+idssegmented_8-640,idssegmented,pine,1740,PINE
+idssegmented_8-660,idssegmented,acorn,968,ACORN
+idssegmented_8-670,idssegmented,vine,3769,GRAPEVINE
+idssegmented_8-680,idssegmented,tobacco,974,TOBACCO
+idssegmented_8-690,idssegmented,smoke (tobacco),1689,SMOKE (INHALE)
+idssegmented_8-691,idssegmented,pipe,1124,PIPE
+idssegmented_8-720,idssegmented,tree stump,241,TREE STUMP
+idssegmented_8-730,idssegmented,tree trunk,344,TREE TRUNK
+idssegmented_8-740,idssegmented,forked branch,409,FORKED BRANCH
+idssegmented_8-750,idssegmented,bark,1204,BARK
+idssegmented_8-760,idssegmented,sap,345,SAP
+idssegmented_8-810,idssegmented,palm tree,1181,PALM TREE
+idssegmented_8-820,idssegmented,coconut,970,COCONUT
+idssegmented_8-830,idssegmented,citrus fruit,1126,CITRUS FRUIT
+idssegmented_8-840,idssegmented,banana tree,1795,BANANA TREE
+idssegmented_8-910,idssegmented,sweet potato,159,SWEET POTATO
+idssegmented_8-912,idssegmented,yam,410,YAM
+idssegmented_8-920,idssegmented,"tapioca, manioc, cassava",925,CASSAVA
+idssegmented_8-930,idssegmented,gourd,411,GOURD
+idssegmented_8-931,idssegmented,"pumpkin, squash",864,PUMPKIN
+idssegmented_8-940,idssegmented,bamboo,1927,BAMBOO
+idssegmented_8-941,idssegmented,sugar cane,146,SUGAR CANE
+idssegmented_8-960,idssegmented,fish poison (root),348,FISH POISON
+idssegmented_8-970,idssegmented,nettle,33,NETTLE
+idssegmented_8-980,idssegmented,mushroom,641,MUSHROOM
+idssegmented_9-110,idssegmented,"do, make",2575,DO OR MAKE
+idssegmented_9-120,idssegmented,work,984,WORK (LABOUR)
+idssegmented_9-140,idssegmented,bend,2004,BEND
+idssegmented_9-150,idssegmented,fold,1470,FOLD
+idssegmented_9-160,idssegmented,"tie, bind",1917,TIE
+idssegmented_9-161,idssegmented,untie,352,UNTIE
+idssegmented_9-180,idssegmented,chain,1627,CHAIN
+idssegmented_9-190,idssegmented,"rope, cord",1218,ROPE
+idssegmented_9-192,idssegmented,knot (noun),760,KNOT
+idssegmented_9-210,idssegmented,"strike (hit, beat)",2133,STRIKE OR BEAT
+idssegmented_9-211,idssegmented,pound with fist,354,POUND
+idssegmented_9-220,idssegmented,cut,1432,CUT
+idssegmented_9-221,idssegmented,cut down,355,CUT DOWN
+idssegmented_9-222,idssegmented,"chop, hew",155,CHOP
+idssegmented_9-223,idssegmented,stab,3189,STAB TO DEATH
+idssegmented_9-230,idssegmented,knife,1352,KNIFE
+idssegmented_9-240,idssegmented,"scissors, shears",356,SHEARS
+idssegmented_9-250,idssegmented,ax,677,AXE
+idssegmented_9-251,idssegmented,adze,290,ADZE
+idssegmented_9-260,idssegmented,break,680,BREAK (DESTROY OR GET DESTROYED)
+idssegmented_9-261,idssegmented,broken,588,BROKEN
+idssegmented_9-270,idssegmented,split,1437,SPLIT
+idssegmented_9-280,idssegmented,tear,1735,TEAR (SHRED)
+idssegmented_9-290,idssegmented,"flay, skin",291,PULL OFF (SKIN)
+idssegmented_9-310,idssegmented,"rub, wipe",1449,RUB
+idssegmented_9-320,idssegmented,stretch,214,STRETCH
+idssegmented_9-330,idssegmented,pull,1455,PULL
+idssegmented_9-340,idssegmented,spread out,38,SPREAD OUT
+idssegmented_9-341,idssegmented,hang up,357,HANG UP
+idssegmented_9-342,idssegmented,press,1913,PRESS
+idssegmented_9-343,idssegmented,"squeeze, wring",1414,SQUEEZE
+idssegmented_9-350,idssegmented,pour,1487,POUR
+idssegmented_9-360,idssegmented,wash,1453,WASH
+idssegmented_9-370,idssegmented,sweep,230,SWEEP
+idssegmented_9-380,idssegmented,broom,245,BROOM
+idssegmented_9-430,idssegmented,carpenter,1042,CARPENTER
+idssegmented_9-440,idssegmented,build,1840,BUILD
+idssegmented_9-460,idssegmented,bore,1501,BORE
+idssegmented_9-461,idssegmented,hollow out,46,HOLLOW OUT
+idssegmented_9-480,idssegmented,saw,1948,SAW
+idssegmented_9-490,idssegmented,hammer,1481,HAMMER
+idssegmented_9-500,idssegmented,nail,502,NAIL (TOOL)
+idssegmented_9-560,idssegmented,glue,1069,GLUE
+idssegmented_9-600,idssegmented,"smith, blacksmith",1001,BLACKSMITH
+idssegmented_9-640,idssegmented,gold,1369,GOLD
+idssegmented_9-650,idssegmented,silver,759,SILVER
+idssegmented_9-660,idssegmented,"copper, bronze",3192,BRONZE OR COPPER
+idssegmented_9-670,idssegmented,iron,621,IRON
+idssegmented_9-690,idssegmented,"tin, tinplate",3217,TIN OR TINPLATE
+idssegmented_9-710,idssegmented,potter,359,POTTER
+idssegmented_9-720,idssegmented,mold (clay etc),289,MOLD
+idssegmented_9-730,idssegmented,clay,1399,CLAY
+idssegmented_9-740,idssegmented,glass,604,GLASS
+idssegmented_9-750,idssegmented,"weave, plait",3294,BRAID (VERB) OR WEAVE (BASKET)
+idssegmented_9-760,idssegmented,basket,1539,BASKET
+idssegmented_9-770,idssegmented,mat,195,MAT
+idssegmented_9-771,idssegmented,rug,292,RUG
+idssegmented_9-780,idssegmented,netbag,293,NETBAG
+idssegmented_9-790,idssegmented,fan (noun),1971,FAN (OBJECT)
+idssegmented_9-791,idssegmented,fan (vb),360,FAN (ACTION)
+idssegmented_9-810,idssegmented,carve,228,CARVE
+idssegmented_9-820,idssegmented,sculptor,914,SCULPTOR
+idssegmented_9-830,idssegmented,statue,1002,STATUE
+idssegmented_9-840,idssegmented,chisel,1979,CHISEL
+idssegmented_9-880,idssegmented,paint (noun),647,PAINT (PIGMENTS)
+idssegmented_9-890,idssegmented,paint (vb),2001,PAINTING
+idssegmented_10-110,idssegmented,move,765,MOVE
+idssegmented_10-120,idssegmented,turn over,1445,TURN (SOMETHING)
+idssegmented_10-130,idssegmented,turn around,1444,TURN AROUND
+idssegmented_10-140,idssegmented,"wind, wrap",1113,WRAP
+idssegmented_10-150,idssegmented,roll,827,ROLL
+idssegmented_10-160,idssegmented,drop (vb),2866,DROP (SOMETHING)
+idssegmented_10-170,idssegmented,twist,3199,TWIST (AROUND)
+idssegmented_10-210,idssegmented,rise,568,RISE (MOVE UPWARDS)
+idssegmented_10-220,idssegmented,"raise, lift",501,LIFT
+idssegmented_10-230,idssegmented,fall,1280,FALL
+idssegmented_10-240,idssegmented,drip,2253,DRIP (EMIT LIQUID)
+idssegmented_10-250,idssegmented,throw,1456,THROW
+idssegmented_10-252,idssegmented,catch (ball),702,CATCH
+idssegmented_10-260,idssegmented,shake,1909,SHAKE
+idssegmented_10-320,idssegmented,flow,2003,FLOW
+idssegmented_10-330,idssegmented,sink,1088,SINK (DESCEND)
+idssegmented_10-340,idssegmented,float,1574,FLOAT
+idssegmented_10-350,idssegmented,swim,1439,SWIM
+idssegmented_10-351,idssegmented,dive,119,DIVE
+idssegmented_10-352,idssegmented,splash,365,SPLASH
+idssegmented_10-370,idssegmented,fly (vb),1441,FLY (MOVE THROUGH AIR)
+idssegmented_10-380,idssegmented,blow,175,BLOW (OF WIND)
+idssegmented_10-410,idssegmented,"creep, crawl",3456,CRAWL OR CREEP
+idssegmented_10-412,idssegmented,kneel,66,KNEEL
+idssegmented_10-413,idssegmented,crouch,296,CROUCH
+idssegmented_10-420,idssegmented,"slide, slip",1324,SLIP
+idssegmented_10-430,idssegmented,"jump, leap",1829,JUMP
+idssegmented_10-431,idssegmented,kick,1135,KICK
+idssegmented_10-440,idssegmented,dance,1879,DANCE
+idssegmented_10-450,idssegmented,walk,1443,WALK
+idssegmented_10-451,idssegmented,limp,366,LIMP
+idssegmented_10-460,idssegmented,run,1519,RUN
+idssegmented_10-470,idssegmented,go,695,GO
+idssegmented_10-471,idssegmented,go up,705,GO UP (ASCEND)
+idssegmented_10-472,idssegmented,climb,1102,CLIMB
+idssegmented_10-473,idssegmented,go down,2014,GO DOWN (DESCEND)
+idssegmented_10-474,idssegmented,go out,1107,GO OUT
+idssegmented_10-480,idssegmented,come,1446,COME
+idssegmented_10-481,idssegmented,come back,581,COME BACK
+idssegmented_10-490,idssegmented,"go away, depart",1752,LEAVE
+idssegmented_10-491,idssegmented,disappear,485,DISAPPEAR
+idssegmented_10-510,idssegmented,flee,956,FLEE
+idssegmented_10-520,idssegmented,follow,1085,FOLLOW
+idssegmented_10-530,idssegmented,pursue,1047,PURSUE
+idssegmented_10-550,idssegmented,"reach, arrive",1387,ARRIVE
+idssegmented_10-560,idssegmented,approach,1778,APPROACH
+idssegmented_10-570,idssegmented,enter,749,ENTER
+idssegmented_10-610,idssegmented,carry (bear),700,CARRY
+idssegmented_10-612,idssegmented,carry-in-hand,412,CARRY IN HAND
+idssegmented_10-613,idssegmented,carry-on-shoulder,413,CARRY ON SHOULDER
+idssegmented_10-614,idssegmented,carry-on-head,414,CARRY ON HEAD
+idssegmented_10-615,idssegmented,carry-underarm,415,CARRY UNDER ARM
+idssegmented_10-620,idssegmented,bring,692,BRING
+idssegmented_10-630,idssegmented,send,1127,SEND
+idssegmented_10-640,idssegmented,lead (vb),43,LEAD (GUIDE)
+idssegmented_10-650,idssegmented,drive,741,DRIVE
+idssegmented_10-660,idssegmented,ride,367,RIDE
+idssegmented_10-670,idssegmented,"push, shove",1452,PUSH
+idssegmented_10-710,idssegmented,road,667,ROAD
+idssegmented_10-720,idssegmented,path,2252,PATH
+idssegmented_10-740,idssegmented,bridge,1011,BRIDGE
+idssegmented_10-750,idssegmented,"carriage, wagon, cart",122,CART
+idssegmented_10-760,idssegmented,wheel,710,WHEEL
+idssegmented_10-810,idssegmented,ship,740,SHIP
+idssegmented_10-830,idssegmented,boat,1844,BOAT
+idssegmented_10-831,idssegmented,canoe,1970,CANOE
+idssegmented_10-840,idssegmented,raft,1664,RAFT
+idssegmented_10-850,idssegmented,oar,3137,OAR
+idssegmented_10-851,idssegmented,paddle (noun),234,PADDLE
+idssegmented_10-852,idssegmented,row (vb),1849,ROW
+idssegmented_10-860,idssegmented,rudder,108,RUDDER
+idssegmented_10-880,idssegmented,sail (noun),786,SAILCLOTH
+idssegmented_10-890,idssegmented,anchor,1870,ANCHOR
+idssegmented_10-910,idssegmented,"harbor, port",610,PORT
+idssegmented_10-920,idssegmented,land (vb),1922,LAND (DESCEND)
+idssegmented_11-110,idssegmented,have,773,HAVE
+idssegmented_11-120,idssegmented,"own, possess",684,OWN
+idssegmented_11-130,idssegmented,take,1749,TAKE
+idssegmented_11-140,idssegmented,"seize, grasp",855,SEIZE
+idssegmented_11-150,idssegmented,hold,1448,HOLD
+idssegmented_11-160,idssegmented,"get, obtain",694,GET
+idssegmented_11-170,idssegmented,"keep, retain",1477,KEEP
+idssegmented_11-180,idssegmented,thing,738,THING
+idssegmented_11-210,idssegmented,give,1447,GIVE
+idssegmented_11-220,idssegmented,give back,85,GIVE BACK
+idssegmented_11-240,idssegmented,"preserve, look after",1997,PRESERVE
+idssegmented_11-250,idssegmented,"save, rescue",2008,RESCUE
+idssegmented_11-270,idssegmented,destroy,681,DESTROY
+idssegmented_11-280,idssegmented,"harm, injure, damage",3195,DAMAGE OR INJURE
+idssegmented_11-310,idssegmented,"seek, look for",1468,LOOK FOR
+idssegmented_11-320,idssegmented,find,719,FIND
+idssegmented_11-330,idssegmented,lose,3072,MISPLACE
+idssegmented_11-340,idssegmented,"release, let go",1095,LET GO OR SET FREE
+idssegmented_11-430,idssegmented,money,1559,MONEY
+idssegmented_11-440,idssegmented,coin,1867,COIN
+idssegmented_11-510,idssegmented,rich,712,RICH
+idssegmented_11-520,idssegmented,poor,1674,POOR
+idssegmented_11-530,idssegmented,beggar,1934,BEGGAR
+idssegmented_11-540,idssegmented,"avaricious, stingy",1774,STINGY
+idssegmented_11-610,idssegmented,lend,582,LEND
+idssegmented_11-620,idssegmented,borrow,1823,BORROW
+idssegmented_11-630,idssegmented,owe,369,OWE
+idssegmented_11-640,idssegmented,debt,1914,DEBT
+idssegmented_11-650,idssegmented,pay (vb),718,PAY
+idssegmented_11-660,idssegmented,"account, reckoning",1081,BILL
+idssegmented_11-690,idssegmented,"tax, tribute",873,TAX
+idssegmented_11-770,idssegmented,hire,3213,HIRE OR RENT
+idssegmented_11-780,idssegmented,wages,1122,WAGES
+idssegmented_11-790,idssegmented,earn,733,EARN
+idssegmented_11-810,idssegmented,buy,1869,BUY
+idssegmented_11-820,idssegmented,sell,1571,SELL
+idssegmented_11-830,idssegmented,"trade, barter",2135,TRADE OR BARTER
+idssegmented_11-840,idssegmented,merchant,1082,MERCHANT
+idssegmented_11-850,idssegmented,market (place),633,MARKET
+idssegmented_11-860,idssegmented,"store, shop",752,STORE
+idssegmented_11-870,idssegmented,price,657,PRICE
+idssegmented_11-880,idssegmented,"dear (costly, expensive)",1426,EXPENSIVE
+idssegmented_11-890,idssegmented,cheap,1887,CHEAP
+idssegmented_11-910,idssegmented,share (distribute),884,SHARE
+idssegmented_11-920,idssegmented,weigh,1098,WEIGH
+idssegmented_12-10,idssegmented,after,1685,AFTER
+idssegmented_12-11,idssegmented,behind,1686,BEHIND
+idssegmented_12-20,idssegmented,beside,1816,BESIDE
+idssegmented_12-30,idssegmented,"down, below",2094,DOWN OR BELOW
+idssegmented_12-40,idssegmented,before,1882,BEFORE
+idssegmented_12-41,idssegmented,front,1883,IN FRONT OF
+idssegmented_12-50,idssegmented,"inside, in",1606,INSIDE
+idssegmented_12-60,idssegmented,outside,762,OUTSIDE
+idssegmented_12-70,idssegmented,under,1485,BELOW OR UNDER
+idssegmented_12-80,idssegmented,"up, above",1591,UP
+idssegmented_12-110,idssegmented,place,723,PLACE (POSITION)
+idssegmented_12-120,idssegmented,put,998,PUT
+idssegmented_12-130,idssegmented,sit,1416,SIT
+idssegmented_12-140,idssegmented,lie down,215,LIE DOWN
+idssegmented_12-150,idssegmented,stand,1442,STAND
+idssegmented_12-160,idssegmented,"remain, stay",987,REMAIN
+idssegmented_12-170,idssegmented,"remains, left overs",838,REMAINS
+idssegmented_12-210,idssegmented,"collect, gather",7,GATHER
+idssegmented_12-212,idssegmented,pick up,371,PICK UP
+idssegmented_12-213,idssegmented,pile up,1576,PILE UP
+idssegmented_12-220,idssegmented,"join, unite",1743,JOIN
+idssegmented_12-230,idssegmented,separate,1359,SEPARATE
+idssegmented_12-232,idssegmented,divide,1119,DIVIDE
+idssegmented_12-240,idssegmented,open,1156,OPEN
+idssegmented_12-250,idssegmented,"shut, close",1046,SHUT
+idssegmented_12-260,idssegmented,cover,761,COVER
+idssegmented_12-270,idssegmented,"hide, conceal",602,HIDE (CONCEAL)
+idssegmented_12-310,idssegmented,high,1265,HIGH
+idssegmented_12-320,idssegmented,low,721,LOW
+idssegmented_12-330,idssegmented,top,1753,TOP
+idssegmented_12-340,idssegmented,bottom,690,BOTTOM
+idssegmented_12-350,idssegmented,end,742,END (OF SPACE)
+idssegmented_12-352,idssegmented,pointed,372,POINTED
+idssegmented_12-353,idssegmented,edge,863,EDGE
+idssegmented_12-360,idssegmented,side,682,SIDE
+idssegmented_12-370,idssegmented,"middle, center",3208,CENTER OR MIDDLE
+idssegmented_12-410,idssegmented,right (side),1019,RIGHT
+idssegmented_12-420,idssegmented,left (side),244,LEFT
+idssegmented_12-430,idssegmented,near (adv),1942,NEAR
+idssegmented_12-440,idssegmented,far (adv),1406,FAR
+idssegmented_12-450,idssegmented,east,1877,EAST
+idssegmented_12-460,idssegmented,west,1817,WEST
+idssegmented_12-470,idssegmented,north,1598,NORTH
+idssegmented_12-480,idssegmented,south,1595,SOUTH
+idssegmented_12-530,idssegmented,grow,479,GROW
+idssegmented_12-540,idssegmented,measure,1506,MEASURE
+idssegmented_12-541,idssegmented,"span, fathom",81,FATHOM
+idssegmented_12-550,idssegmented,"large, big",1202,BIG
+idssegmented_12-560,idssegmented,"small, little",1246,SMALL
+idssegmented_12-570,idssegmented,long,1203,LONG
+idssegmented_12-580,idssegmented,tall,711,TALL
+idssegmented_12-590,idssegmented,short,1645,SHORT
+idssegmented_12-610,idssegmented,"wide, broad",1243,WIDE
+idssegmented_12-620,idssegmented,narrow,1267,NARROW
+idssegmented_12-630,idssegmented,thick (in dimension),1244,THICK
+idssegmented_12-650,idssegmented,thin (in dimension),2249,THIN (OF SHAPE OF OBJECT)
+idssegmented_12-670,idssegmented,deep,1593,DEEP
+idssegmented_12-680,idssegmented,shallow,193,SHALLOW
+idssegmented_12-710,idssegmented,flat,1633,FLAT
+idssegmented_12-730,idssegmented,straight,1404,STRAIGHT
+idssegmented_12-740,idssegmented,crooked,297,CROOKED
+idssegmented_12-750,idssegmented,hook,1071,HOOK
+idssegmented_12-760,idssegmented,corner,192,CORNER
+idssegmented_12-770,idssegmented,cross,1367,CROSS
+idssegmented_12-780,idssegmented,square,850,SQUARE
+idssegmented_12-810,idssegmented,round,1395,ROUND
+idssegmented_12-820,idssegmented,circle,1467,CIRCLE
+idssegmented_12-830,idssegmented,"sphere, ball",1845,BALL
+idssegmented_12-840,idssegmented,line,1048,LINE
+idssegmented_12-850,idssegmented,hole,1667,HOLE
+idssegmented_12-920,idssegmented,"like, similar",1558,SIMILAR
+idssegmented_12-930,idssegmented,change,1264,CHANGE
+idssegmented_13-0,idssegmented,"zero, nothing",3198,NOTHING OR ZERO
+idssegmented_13-10,idssegmented,one,1493,ONE
+idssegmented_13-20,idssegmented,two,1498,TWO
+idssegmented_13-30,idssegmented,three,492,THREE
+idssegmented_13-40,idssegmented,four,1500,FOUR
+idssegmented_13-50,idssegmented,five,493,FIVE
+idssegmented_13-60,idssegmented,six,1703,SIX
+idssegmented_13-70,idssegmented,seven,1704,SEVEN
+idssegmented_13-80,idssegmented,eight,1705,EIGHT
+idssegmented_13-90,idssegmented,nine,1483,NINE
+idssegmented_13-100,idssegmented,ten,1515,TEN
+idssegmented_13-101,idssegmented,eleven,1706,ELEVEN
+idssegmented_13-102,idssegmented,twelve,1707,TWELVE
+idssegmented_13-103,idssegmented,fifteen,1709,FIFTEEN
+idssegmented_13-104,idssegmented,twenty,1710,TWENTY
+idssegmented_13-105,idssegmented,hundred,1634,HUNDRED
+idssegmented_13-106,idssegmented,thousand,1843,THOUSAND
+idssegmented_13-107,idssegmented,count,1420,COUNT
+idssegmented_13-140,idssegmented,"every, all",98,ALL
+idssegmented_13-150,idssegmented,"much, many",1198,MANY
+idssegmented_13-160,idssegmented,more,1992,MORE
+idssegmented_13-170,idssegmented,"little (quantity), few",1242,FEW
+idssegmented_13-180,idssegmented,enough,1881,ENOUGH
+idssegmented_13-181,idssegmented,some,1241,SOME
+idssegmented_13-190,idssegmented,"multitude, crowd",2023,CROWD
+idssegmented_13-210,idssegmented,full,1429,FULL
+idssegmented_13-220,idssegmented,empty,1624,EMPTY
+idssegmented_13-230,idssegmented,"part, piece",779,PART
+idssegmented_13-240,idssegmented,half,816,HALF
+idssegmented_13-330,idssegmented,"alone, only",1580,ONLY
+idssegmented_13-340,idssegmented,first,728,FIRST
+idssegmented_13-350,idssegmented,last,1529,LAST (FINAL)
+idssegmented_13-360,idssegmented,second,1384,SECOND
+idssegmented_13-370,idssegmented,pair,1888,PAIR
+idssegmented_13-380,idssegmented,two times,1546,TWICE
+idssegmented_13-420,idssegmented,third,1859,THIRD
+idssegmented_13-440,idssegmented,three times,417,THREE TIMES
+idssegmented_14-110,idssegmented,time,892,TIME
+idssegmented_14-120,idssegmented,age,1789,AGE
+idssegmented_14-130,idssegmented,new,1231,NEW
+idssegmented_14-140,idssegmented,young,1207,YOUNG
+idssegmented_14-150,idssegmented,old,1229,OLD
+idssegmented_14-160,idssegmented,early,672,EARLY
+idssegmented_14-170,idssegmented,late,477,LATE
+idssegmented_14-180,idssegmented,now,1376,NOW
+idssegmented_14-190,idssegmented,immediately,1963,IMMEDIATELY
+idssegmented_14-210,idssegmented,"swift, fast, quick",1631,FAST
+idssegmented_14-220,idssegmented,slow,701,SLOW
+idssegmented_14-230,idssegmented,"hasten, hurry",754,HURRY
+idssegmented_14-240,idssegmented,"retard, delay",425,BE LATE
+idssegmented_14-250,idssegmented,"begin, beginning",3447,BEGIN OR START
+idssegmented_14-252,idssegmented,"last, endure",1186,LAST (ENDURE)
+idssegmented_14-260,idssegmented,end (temporal),743,END (OF TIME)
+idssegmented_14-270,idssegmented,finish,1766,FINISH
+idssegmented_14-280,idssegmented,"cease, stop",1928,CEASE
+idssegmented_14-290,idssegmented,ready,790,READY
+idssegmented_14-310,idssegmented,always,1676,ALWAYS
+idssegmented_14-320,idssegmented,often,1852,OFTEN
+idssegmented_14-330,idssegmented,sometimes,1544,SOMETIMES
+idssegmented_14-331,idssegmented,soon,703,SOON
+idssegmented_14-332,idssegmented,long-time (for a),418,FOR A LONG TIME
+idssegmented_14-340,idssegmented,never,1656,NEVER
+idssegmented_14-350,idssegmented,again,204,AGAIN
+idssegmented_14-410,idssegmented,day,1225,DAY (NOT NIGHT)
+idssegmented_14-420,idssegmented,night,1233,NIGHT
+idssegmented_14-430,idssegmented,dawn,729,DAWN
+idssegmented_14-440,idssegmented,morning,1339,MORNING
+idssegmented_14-450,idssegmented,"noon, midday",12,MIDDAY
+idssegmented_14-451,idssegmented,afternoon,1807,AFTERNOON
+idssegmented_14-460,idssegmented,evening,1629,EVENING
+idssegmented_14-470,idssegmented,today,1283,TODAY
+idssegmented_14-480,idssegmented,tomorrow,1329,TOMORROW
+idssegmented_14-481,idssegmented,day-after-tomorrow,1179,DAY AFTER TOMORROW
+idssegmented_14-490,idssegmented,yesterday,1174,YESTERDAY
+idssegmented_14-491,idssegmented,day-before-yesterday,1180,DAY BEFORE YESTERDAY
+idssegmented_14-510,idssegmented,hour,1353,HOUR
+idssegmented_14-530,idssegmented,"clock, timepiece",1323,CLOCK
+idssegmented_14-610,idssegmented,week,1469,WEEK
+idssegmented_14-620,idssegmented,Sunday,1699,SUNDAY
+idssegmented_14-630,idssegmented,Monday,1697,MONDAY
+idssegmented_14-640,idssegmented,Tuesday,1695,TUESDAY
+idssegmented_14-650,idssegmented,Wednesday,1694,WEDNESDAY
+idssegmented_14-660,idssegmented,Thursday,1693,THURSDAY
+idssegmented_14-670,idssegmented,Friday,1692,FRIDAY
+idssegmented_14-680,idssegmented,Saturday,1700,SATURDAY
+idssegmented_14-710,idssegmented,month,1370,MONTH
+idssegmented_14-730,idssegmented,year,1226,YEAR
+idssegmented_14-740,idssegmented,winter,1471,WINTER
+idssegmented_14-750,idssegmented,spring,1537,SPRINGTIME
+idssegmented_14-760,idssegmented,summer,1342,SUMMER
+idssegmented_14-770,idssegmented,autumn,1276,AUTUMN
+idssegmented_14-780,idssegmented,season,691,SEASON
+idssegmented_15-210,idssegmented,smell (vb intrans),1587,SMELL (STINK)
+idssegmented_15-212,idssegmented,sniff,375,SNIFF
+idssegmented_15-220,idssegmented,smell (vb trans),1586,SMELL (PERCEIVE)
+idssegmented_15-250,idssegmented,"fragrant, good smelling",376,FRAGRANT
+idssegmented_15-260,idssegmented,"stinking, bad smelling",42,STINKING
+idssegmented_15-310,idssegmented,taste,21,TASTE (SOMETHING)
+idssegmented_15-350,idssegmented,sweet,717,SWEET
+idssegmented_15-360,idssegmented,salty,1091,SALTY
+idssegmented_15-370,idssegmented,bitter,887,BITTER
+idssegmented_15-380,idssegmented,"acid, sour",1906,SOUR
+idssegmented_15-390,idssegmented,brackish,70,BRACKISH
+idssegmented_15-410,idssegmented,hear,1408,HEAR
+idssegmented_15-420,idssegmented,listen,1608,LISTEN
+idssegmented_15-440,idssegmented,"sound, noise",1811,SOUND OR NOISE
+idssegmented_15-450,idssegmented,loud,377,LOUD
+idssegmented_15-460,idssegmented,"quiet, silence",3458,SILENCE
+idssegmented_15-510,idssegmented,see,1409,SEE
+idssegmented_15-520,idssegmented,"look, look at",1819,LOOK
+idssegmented_15-550,idssegmented,show,1039,SHOW
+idssegmented_15-560,idssegmented,shine,708,SHINE
+idssegmented_15-570,idssegmented,bright,679,BRIGHT
+idssegmented_15-620,idssegmented,light (in color),250,LIGHT (COLOR)
+idssegmented_15-630,idssegmented,dark (in color),706,DARK
+idssegmented_15-640,idssegmented,white,1335,WHITE
+idssegmented_15-650,idssegmented,black,163,BLACK
+idssegmented_15-660,idssegmented,red,156,RED
+idssegmented_15-670,idssegmented,blue,837,BLUE
+idssegmented_15-680,idssegmented,green,1425,GREEN
+idssegmented_15-690,idssegmented,yellow,1424,YELLOW
+idssegmented_15-710,idssegmented,touch,1892,TOUCH
+idssegmented_15-712,idssegmented,pinch,378,PINCH
+idssegmented_15-720,idssegmented,feel,1079,FEEL
+idssegmented_15-740,idssegmented,hard,1884,HARD
+idssegmented_15-750,idssegmented,soft,1856,SOFT
+idssegmented_15-760,idssegmented,rough,1923,ROUGH
+idssegmented_15-770,idssegmented,smooth,1234,SMOOTH
+idssegmented_15-780,idssegmented,sharp,1396,SHARP
+idssegmented_15-790,idssegmented,"blunt, dull",379,BLUNT
+idssegmented_15-810,idssegmented,heavy,1210,HEAVY
+idssegmented_15-820,idssegmented,light (in weight),1052,LIGHT (WEIGHT)
+idssegmented_15-830,idssegmented,"wet, damp",1726,WET
+idssegmented_15-840,idssegmented,dry,1398,DRY
+idssegmented_15-850,idssegmented,hot,1286,HOT
+idssegmented_15-851,idssegmented,warm,1232,WARM
+idssegmented_15-860,idssegmented,cold,1287,COLD
+idssegmented_15-870,idssegmented,clean,704,CLEAN
+idssegmented_15-880,idssegmented,"dirty, soiled",1230,DIRTY
+idssegmented_15-890,idssegmented,wrinkled,380,WRINKLED
+idssegmented_16-110,idssegmented,"soul, spirit",811,SOUL
+idssegmented_16-150,idssegmented,"surprised, astonished",1572,SURPRISED
+idssegmented_16-180,idssegmented,"good fortune, luck",720,GOOD LUCK
+idssegmented_16-190,idssegmented,"misfortune, bad luck",56,BAD LUCK
+idssegmented_16-230,idssegmented,"joyful, glad, happy",1495,HAPPY
+idssegmented_16-250,idssegmented,laugh,1355,LAUGH
+idssegmented_16-251,idssegmented,smile,1451,SMILE
+idssegmented_16-260,idssegmented,play,1413,PLAY
+idssegmented_16-270,idssegmented,love,923,LOVE
+idssegmented_16-290,idssegmented,kiss,578,KISS
+idssegmented_16-300,idssegmented,embrace,928,EMBRACE
+idssegmented_16-310,idssegmented,pain,1783,PAIN
+idssegmented_16-320,idssegmented,"grief, sorrow, sadness",1668,GRIEF
+idssegmented_16-330,idssegmented,"anxiety, worry",1000,ANXIETY
+idssegmented_16-340,idssegmented,"regret, be sorry",1875,REGRET
+idssegmented_16-350,idssegmented,pity,1141,PITY
+idssegmented_16-370,idssegmented,"cry, weep",1839,CRY
+idssegmented_16-380,idssegmented,tear (noun),1651,TEAR (OF EYE)
+idssegmented_16-390,idssegmented,groan,716,GROAN
+idssegmented_16-410,idssegmented,hate,1607,HATE
+idssegmented_16-420,idssegmented,anger,82,ANGER
+idssegmented_16-440,idssegmented,"envy, jealousy",40,ENVY
+idssegmented_16-450,idssegmented,shame (noun),1776,SHAME
+idssegmented_16-480,idssegmented,proud,174,PROUD
+idssegmented_16-510,idssegmented,dare,1779,DARE
+idssegmented_16-520,idssegmented,brave,3,BRAVE
+idssegmented_16-530,idssegmented,"fear, fright",781,FEAR (FRIGHT)
+idssegmented_16-540,idssegmented,danger,1810,DANGER
+idssegmented_16-620,idssegmented,"desire, want",1784,WANT
+idssegmented_16-622,idssegmented,choose,1750,CHOOSE
+idssegmented_16-630,idssegmented,hope,1092,HOPE
+idssegmented_16-650,idssegmented,faithful,100,FAITHFUL
+idssegmented_16-660,idssegmented,true,1657,TRUE
+idssegmented_16-670,idssegmented,"lie, tell lies",601,LIE (MISLEAD)
+idssegmented_16-680,idssegmented,deceit,13,DECEIT
+idssegmented_16-690,idssegmented,forgive,1528,FORGIVE
+idssegmented_16-710,idssegmented,good,1035,GOOD
+idssegmented_16-720,idssegmented,bad,1292,BAD
+idssegmented_16-730,idssegmented,"right, correct",1725,CORRECT (RIGHT)
+idssegmented_16-740,idssegmented,wrong,1390,WRONG
+idssegmented_16-760,idssegmented,fault,134,FAULT
+idssegmented_16-770,idssegmented,"mistake, error",1293,MISTAKE
+idssegmented_16-780,idssegmented,blame,381,BLAME
+idssegmented_16-790,idssegmented,praise,1687,PRAISE
+idssegmented_16-810,idssegmented,beautiful,1427,BEAUTIFUL
+idssegmented_16-820,idssegmented,ugly,1548,UGLY
+idssegmented_16-830,idssegmented,greedy,2018,GREEDY
+idssegmented_16-840,idssegmented,clever,1310,CLEVER
+idssegmented_17-110,idssegmented,mind,1562,MIND
+idssegmented_17-130,idssegmented,think (= reflect),1415,THINK (REFLECT)
+idssegmented_17-140,idssegmented,think (= be of the opinion),1513,THINK (BELIEVE)
+idssegmented_17-150,idssegmented,believe,1890,BELIEVE
+idssegmented_17-160,idssegmented,understand,1536,UNDERSTAND
+idssegmented_17-170,idssegmented,know,1410,KNOW (SOMETHING)
+idssegmented_17-171,idssegmented,guess,1932,GUESS
+idssegmented_17-172,idssegmented,imitate,117,IMITATE
+idssegmented_17-180,idssegmented,seem,1521,SEEM
+idssegmented_17-190,idssegmented,"idea, notion",1609,IDEA
+idssegmented_17-210,idssegmented,wise,698,WISE
+idssegmented_17-220,idssegmented,"foolish, stupid",1518,STUPID
+idssegmented_17-230,idssegmented,"insane, crazy",1899,MAD
+idssegmented_17-240,idssegmented,learn,504,LEARN
+idssegmented_17-242,idssegmented,study,1929,STUDY
+idssegmented_17-250,idssegmented,teach,709,TEACH
+idssegmented_17-260,idssegmented,pupil,753,PUPIL (STUDENT)
+idssegmented_17-270,idssegmented,teacher,1038,TEACHER
+idssegmented_17-280,idssegmented,school,673,SCHOOL
+idssegmented_17-310,idssegmented,remember,707,REMEMBER
+idssegmented_17-320,idssegmented,forget,1523,FORGET
+idssegmented_17-340,idssegmented,"clear, plain",989,CLEAR
+idssegmented_17-350,idssegmented,obscure,1764,OBSCURE
+idssegmented_17-360,idssegmented,secret,1121,SECRET
+idssegmented_17-370,idssegmented,"sure, certain",509,CERTAIN
+idssegmented_17-380,idssegmented,explain,1626,EXPLAIN
+idssegmented_17-410,idssegmented,"intention, purpose",1162,INTENTION
+idssegmented_17-420,idssegmented,cause,860,CAUSE
+idssegmented_17-430,idssegmented,doubt,1308,DOUBT
+idssegmented_17-441,idssegmented,betray,1902,BETRAY
+idssegmented_17-450,idssegmented,"need, necessity",643,NEED (NOUN)
+idssegmented_17-460,idssegmented,easy,686,EASY
+idssegmented_17-470,idssegmented,difficult,584,DIFFICULT
+idssegmented_17-480,idssegmented,"try, attempt",1812,TRY
+idssegmented_17-490,idssegmented,"way, manner",488,MANNER
+idssegmented_17-510,idssegmented,and,1577,AND
+idssegmented_17-520,idssegmented,because,1157,BECAUSE
+idssegmented_17-530,idssegmented,if,1459,IF
+idssegmented_17-540,idssegmented,or,1014,OR
+idssegmented_17-550,idssegmented,"yes, affirmative",1268,YES
+idssegmented_17-560,idssegmented,"no, negative",1269,NO
+idssegmented_17-610,idssegmented,how?,1239,HOW
+idssegmented_17-620,idssegmented,how many?,3450,HOW MANY PIECES
+idssegmented_17-630,idssegmented,how much?,531,HOW MUCH
+idssegmented_17-640,idssegmented,what?,1236,WHAT
+idssegmented_17-650,idssegmented,when?,1238,WHEN
+idssegmented_17-660,idssegmented,where?,1237,WHERE
+idssegmented_17-670,idssegmented,which?,727,WHICH
+idssegmented_17-680,idssegmented,who?,1235,WHO
+idssegmented_17-690,idssegmented,why?,1270,WHY
+idssegmented_18-110,idssegmented,voice,1363,VOICE
+idssegmented_18-120,idssegmented,sing,1261,SING
+idssegmented_18-130,idssegmented,"shout, cry out",715,SHOUT
+idssegmented_18-150,idssegmented,whisper,55,WHISPER
+idssegmented_18-160,idssegmented,mumble,128,MUMBLE
+idssegmented_18-170,idssegmented,whistle,1025,WHISTLE
+idssegmented_18-180,idssegmented,"shriek, screech",298,SHRIEK
+idssegmented_18-190,idssegmented,howl,526,HOWL
+idssegmented_18-210,idssegmented,"speak, talk",1623,SPEAK
+idssegmented_18-211,idssegmented,"stutter, stammer",1866,STUTTER
+idssegmented_18-220,idssegmented,say,1458,SAY
+idssegmented_18-221,idssegmented,tell story,1711,TELL
+idssegmented_18-222,idssegmented,speech (make a),1115,SPEECH
+idssegmented_18-230,idssegmented,silent (be),48,BE SILENT
+idssegmented_18-240,idssegmented,language,1307,LANGUAGE
+idssegmented_18-260,idssegmented,word,1599,WORD
+idssegmented_18-280,idssegmented,name,1405,NAME
+idssegmented_18-310,idssegmented,"ask (question, inquire)",1309,ASK (INQUIRE)
+idssegmented_18-320,idssegmented,answer,1275,ANSWER
+idssegmented_18-330,idssegmented,"admit, confess",2022,ADMIT
+idssegmented_18-340,idssegmented,deny,755,DENY
+idssegmented_18-350,idssegmented,"ask, request",1828,ASK (REQUEST)
+idssegmented_18-360,idssegmented,promise,1675,PROMISE
+idssegmented_18-370,idssegmented,refuse,49,REFUSE
+idssegmented_18-380,idssegmented,forbid,83,FORBID
+idssegmented_18-390,idssegmented,"rebuke, scold",299,SCOLD
+idssegmented_18-410,idssegmented,call (=summon),1084,CALL
+idssegmented_18-420,idssegmented,call (=name),180,CALL BY NAME
+idssegmented_18-430,idssegmented,announce,9,ANNOUNCE
+idssegmented_18-440,idssegmented,threaten,1192,THREATEN
+idssegmented_18-450,idssegmented,boast,101,BOAST
+idssegmented_18-510,idssegmented,write,1672,WRITE
+idssegmented_18-520,idssegmented,read,724,READ
+idssegmented_18-560,idssegmented,paper,648,PAPER
+idssegmented_18-570,idssegmented,pen,794,PEN
+idssegmented_18-610,idssegmented,book,963,BOOK
+idssegmented_18-710,idssegmented,flute,777,FLUTE
+idssegmented_18-720,idssegmented,drum,908,DRUM
+idssegmented_18-730,idssegmented,"horn, trumpet",2136,BRASS INSTRUMENT (HORN OR TRUMPET)
+idssegmented_18-740,idssegmented,rattle,300,RATTLE
+idssegmented_19-110,idssegmented,country,1300,COUNTRY
+idssegmented_19-120,idssegmented,one's native country,89,NATIVE COUNTRY
+idssegmented_19-150,idssegmented,"city, town",1391,TOWN
+idssegmented_19-160,idssegmented,village,930,VILLAGE
+idssegmented_19-170,idssegmented,boundary,1010,BOUNDARY
+idssegmented_19-210,idssegmented,people (populace),789,PEOPLE
+idssegmented_19-230,idssegmented,"tribe, clan",302,CLAN
+idssegmented_19-240,idssegmented,"chief, chieftain",301,CHIEFTAIN
+idssegmented_19-250,idssegmented,"staff, walking stick",1296,WALKING STICK
+idssegmented_19-310,idssegmented,"rule, govern",1846,RULE
+idssegmented_19-320,idssegmented,"king, ruler",1508,KING
+idssegmented_19-330,idssegmented,queen,1306,QUEEN
+idssegmented_19-370,idssegmented,"citizen, subject",1032,CITIZEN
+idssegmented_19-410,idssegmented,master,383,MASTER
+idssegmented_19-420,idssegmented,slave,812,SLAVE
+idssegmented_19-430,idssegmented,servant,255,SERVANT
+idssegmented_19-440,idssegmented,freeman,384,FREEMAN
+idssegmented_19-450,idssegmented,"command, order",1998,COMMAND
+idssegmented_19-460,idssegmented,obey,1635,OBEY
+idssegmented_19-470,idssegmented,"let, permit",3237,ALLOW OR PERMIT
+idssegmented_19-510,idssegmented,"friend, companion",1325,FRIEND
+idssegmented_19-520,idssegmented,enemy,1358,ENEMY
+idssegmented_19-540,idssegmented,neighbor,1332,NEIGHBOUR
+idssegmented_19-550,idssegmented,stranger,791,STRANGER
+idssegmented_19-560,idssegmented,guest,1782,GUEST
+idssegmented_19-570,idssegmented,host,1545,HOST
+idssegmented_19-580,idssegmented,"help, aid",1897,HELP
+idssegmented_19-590,idssegmented,"hinder, prevent",3201,HINDER OR PREVENT
+idssegmented_19-610,idssegmented,custom,1747,CUSTOM
+idssegmented_19-620,idssegmented,"strife, quarrel",1848,QUARREL
+idssegmented_19-630,idssegmented,"conspiracy, plot",2024,PLOT
+idssegmented_19-650,idssegmented,meet,1831,MEET
+idssegmented_19-720,idssegmented,prostitute,1610,PROSTITUTE
+idssegmented_20-110,idssegmented,fight (vb),1423,FIGHT
+idssegmented_20-130,idssegmented,"war, battle",579,BATTLE
+idssegmented_20-140,idssegmented,peace,1338,PEACE
+idssegmented_20-150,idssegmented,army,1561,ARMY
+idssegmented_20-170,idssegmented,soldier,1941,SOLDIER
+idssegmented_20-210,idssegmented,"weapons, arms",951,WEAPONS
+idssegmented_20-220,idssegmented,club,1763,CLUB
+idssegmented_20-222,idssegmented,battle-ax,386,BATTLE-AXE
+idssegmented_20-230,idssegmented,sling,387,SLING
+idssegmented_20-240,idssegmented,bow,994,BOW
+idssegmented_20-250,idssegmented,arrow,977,ARROW
+idssegmented_20-260,idssegmented,spear,945,SPEAR
+idssegmented_20-270,idssegmented,sword,1535,SWORD
+idssegmented_20-280,idssegmented,"gun, cannon",3203,CANNON OR GUN
+idssegmented_20-310,idssegmented,armor (defensive),1061,ARMOUR
+idssegmented_20-330,idssegmented,helmet,1680,HELMET
+idssegmented_20-340,idssegmented,shield,1064,SHIELD
+idssegmented_20-360,idssegmented,tower,1671,TOWER
+idssegmented_20-410,idssegmented,victory,783,VICTORY
+idssegmented_20-420,idssegmented,defeat,782,DEFEAT
+idssegmented_20-430,idssegmented,attack,722,ATTACK
+idssegmented_20-440,idssegmented,defend,1330,DEFEND
+idssegmented_20-450,idssegmented,retreat,421,RETREAT
+idssegmented_20-460,idssegmented,surrender,1696,SURRENDER
+idssegmented_20-470,idssegmented,"captive, prisoner",1072,PRISONER
+idssegmented_20-471,idssegmented,"guard, sentinel",1940,GUARD
+idssegmented_20-480,idssegmented,"booty, spoils",1022,BOOTY
+idssegmented_20-490,idssegmented,ambush,65,AMBUSH
+idssegmented_20-510,idssegmented,fisherman,1858,FISHERMAN
+idssegmented_20-520,idssegmented,fishhook,1074,FISHHOOK
+idssegmented_20-530,idssegmented,fishing line,19,FISHING LINE
+idssegmented_20-540,idssegmented,fishnet,388,FISHNET
+idssegmented_20-550,idssegmented,fish trap,389,FISH TRAP
+idssegmented_20-560,idssegmented,bait,2013,BAIT
+idssegmented_20-610,idssegmented,hunt,1435,HUNT
+idssegmented_20-620,idssegmented,shoot,1172,SHOOT
+idssegmented_20-630,idssegmented,miss (target),161,MISS (A TARGET)
+idssegmented_20-640,idssegmented,trap (noun),1075,TRAP (PITFALL)
+idssegmented_20-650,idssegmented,trap (vb),1170,TRAP (CATCH)
+idssegmented_21-110,idssegmented,law,1062,LAW
+idssegmented_21-160,idssegmented,judge (vb),1818,ADJUDICATE
+idssegmented_21-170,idssegmented,judgment,1067,JUDGMENT
+idssegmented_21-180,idssegmented,judge (noun),861,JUDGE
+idssegmented_21-210,idssegmented,plaintiff,2020,PLAINTIFF
+idssegmented_21-220,idssegmented,defendant,1034,DEFENDANT
+idssegmented_21-230,idssegmented,witness,1144,WITNESS
+idssegmented_21-240,idssegmented,swear,1939,SWEAR
+idssegmented_21-310,idssegmented,accuse,1814,ACCUSE
+idssegmented_21-320,idssegmented,condemn,484,CONDEMN
+idssegmented_21-330,idssegmented,convict (vb),983,CONVICT
+idssegmented_21-340,idssegmented,acquit,988,ACQUIT
+idssegmented_21-350,idssegmented,guilty,1682,GUILTY
+idssegmented_21-360,idssegmented,innocent,90,INNOCENT
+idssegmented_21-370,idssegmented,"penalty, punishment",390,PUNISHMENT
+idssegmented_21-380,idssegmented,fine,218,FINE (PENALTY)
+idssegmented_21-390,idssegmented,"prison, jail",1281,PRISON
+idssegmented_21-420,idssegmented,murder,845,MURDER
+idssegmented_21-430,idssegmented,adultery,902,ADULTERY
+idssegmented_21-440,idssegmented,rape,953,RAPE
+idssegmented_21-510,idssegmented,steal,713,STEAL
+idssegmented_21-520,idssegmented,thief,1160,THIEF
+idssegmented_22-110,idssegmented,religion,661,RELIGION
+idssegmented_22-120,idssegmented,God,1944,GOD
+idssegmented_22-130,idssegmented,"temple, church",911,TEMPLE
+idssegmented_22-140,idssegmented,altar,853,ALTAR
+idssegmented_22-150,idssegmented,"sacrifice, offering",1103,SACRIFICE
+idssegmented_22-160,idssegmented,worship,257,WORSHIP
+idssegmented_22-170,idssegmented,pray,24,PRAY
+idssegmented_22-180,idssegmented,priest,852,PRIEST
+idssegmented_22-190,idssegmented,"holy, sacred",1702,HOLY
+idssegmented_22-220,idssegmented,preach,304,PREACH
+idssegmented_22-230,idssegmented,bless,391,BLESS
+idssegmented_22-240,idssegmented,curse,8,CURSE
+idssegmented_22-260,idssegmented,fast (vb),303,ABSTAIN FROM FOOD
+idssegmented_22-310,idssegmented,heaven,1565,HEAVEN
+idssegmented_22-320,idssegmented,hell,878,HELL
+idssegmented_22-350,idssegmented,demon (evil spirit),1973,DEMON
+idssegmented_22-370,idssegmented,idol,1945,IDOL
+idssegmented_22-420,idssegmented,"magic, witchcraft, sorcery",392,MAGIC
+idssegmented_22-430,idssegmented,"sorcerer, witch",2137,MAGICIAN
+idssegmented_22-450,idssegmented,"ghost, phantom",1175,GHOST
+idssegmented_22-470,idssegmented,"omen, portent",107,OMEN
+joophonosemantic_1_fire,joophonosemantic,fire,221,FIRE
+joophonosemantic_2_nose,joophonosemantic,nose,1221,NOSE
+joophonosemantic_3_togo,joophonosemantic,to go,695,GO
+joophonosemantic_4_water,joophonosemantic,water,948,WATER
+joophonosemantic_5_mouth,joophonosemantic,mouth,674,MOUTH
+joophonosemantic_6_tongue,joophonosemantic,tongue,1205,TONGUE
+joophonosemantic_7_blood,joophonosemantic,blood,946,BLOOD
+joophonosemantic_8_bone,joophonosemantic,bone,1394,BONE
+joophonosemantic_9_2sgpronoun,joophonosemantic,2sg pronoun,1215,THOU
+joophonosemantic_10_root,joophonosemantic,root,670,ROOT
+joophonosemantic_11_tocome,joophonosemantic,to come,1446,COME
+joophonosemantic_12_breast,joophonosemantic,breast,1402,BREAST
+joophonosemantic_13_rain,joophonosemantic,rain,658,RAIN (PRECIPITATION)
+joophonosemantic_14_1sgpronoun,joophonosemantic,1sg pronoun,1209,I
+joophonosemantic_15_name,joophonosemantic,name,1405,NAME
+joophonosemantic_16_louse,joophonosemantic,louse,1392,LOUSE
+joophonosemantic_17_wing,joophonosemantic,wing,1257,WING
+joophonosemantic_18_fleshmeat,joophonosemantic,flesh/meat,2615,FLESH OR MEAT
+joophonosemantic_19_armhand,joophonosemantic,arm/hand,2121,ARM OR HAND
+joophonosemantic_20_fly,joophonosemantic,fly,1504,FLY (INSECT)
+joophonosemantic_21_night,joophonosemantic,night,1233,NIGHT
+joophonosemantic_22_ear,joophonosemantic,ear,1247,EAR
+joophonosemantic_23_neck,joophonosemantic,neck,1333,NECK
+joophonosemantic_24_far,joophonosemantic,far,1406,FAR
+joophonosemantic_25_todomake,joophonosemantic,to do/make,2575,DO OR MAKE
+joophonosemantic_26_house,joophonosemantic,house,1252,HOUSE
+joophonosemantic_27_stonerock,joophonosemantic,stone/rock,2125,STONE OR ROCK
+joophonosemantic_28_bitter,joophonosemantic,bitter,887,BITTER
+joophonosemantic_29_tosay,joophonosemantic,to say,1458,SAY
+joophonosemantic_30_tooth,joophonosemantic,tooth,1380,TOOTH
+joophonosemantic_31_hair,joophonosemantic,hair,1040,HAIR
+joophonosemantic_32_big,joophonosemantic,big,1202,BIG
+joophonosemantic_33_one,joophonosemantic,one,1493,ONE
+joophonosemantic_34_who,joophonosemantic,who?,1235,WHO
+joophonosemantic_35_3sgpronoun,joophonosemantic,3sg pronoun,262,HE OR SHE OR IT
+joophonosemantic_36_tohitbeat,joophonosemantic,to hit/beat,2133,STRIKE OR BEAT
+joophonosemantic_37_legfoot,joophonosemantic,leg/foot,2098,FOOT OR LEG
+joophonosemantic_38_horn,joophonosemantic,horn,1393,HORN (ANATOMY)
+joophonosemantic_39_this,joophonosemantic,this,1214,THIS
+joophonosemantic_40_fish,joophonosemantic,fish,227,FISH
+joophonosemantic_41_yesterday,joophonosemantic,yesterday,1174,YESTERDAY
+joophonosemantic_42_todrink,joophonosemantic,to drink,1401,DRINK
+joophonosemantic_43_black,joophonosemantic,black,163,BLACK
+joophonosemantic_44_navel,joophonosemantic,navel,1838,NAVEL
+joophonosemantic_45_tostand,joophonosemantic,to stand,1442,STAND
+joophonosemantic_46_tobite,joophonosemantic,to bite,1403,BITE
+joophonosemantic_47_back,joophonosemantic,back,1291,BACK
+joophonosemantic_48_wind,joophonosemantic,wind,960,WIND
+joophonosemantic_49_smoke,joophonosemantic,smoke,778,SMOKE (EXHAUST)
+joophonosemantic_50_what,joophonosemantic,what?,1236,WHAT
+joophonosemantic_51_childkinterm,joophonosemantic,child (kin term),1801,CHILD (DESCENDANT)
+joophonosemantic_52_egg,joophonosemantic,egg,744,EGG
+joophonosemantic_53_togive,joophonosemantic,to give,1447,GIVE
+joophonosemantic_54_new,joophonosemantic,new,1231,NEW
+joophonosemantic_55_toburnintr,joophonosemantic,to burn (intr.),1428,BURNING
+joophonosemantic_56_not,joophonosemantic,not,1240,NOT
+joophonosemantic_57_good,joophonosemantic,good,1035,GOOD
+joophonosemantic_58_toknow,joophonosemantic,to know,3626,KNOW
+joophonosemantic_59_knee,joophonosemantic,knee,1371,KNEE
+joophonosemantic_60_sand,joophonosemantic,sand,671,SAND
+joophonosemantic_61_tolaugh,joophonosemantic,to laugh,1355,LAUGH
+joophonosemantic_62_tohear,joophonosemantic,to hear,1408,HEAR
+joophonosemantic_63_soil,joophonosemantic,soil,1228,EARTH (SOIL)
+joophonosemantic_64_leaf,joophonosemantic,leaf,628,LEAF
+joophonosemantic_65_red,joophonosemantic,red,156,RED
+joophonosemantic_66_liver,joophonosemantic,liver,1224,LIVER
+joophonosemantic_67_tohide,joophonosemantic,to hide,2486,HIDE
+joophonosemantic_68_skinhide,joophonosemantic,skin/hide,763,SKIN
+joophonosemantic_69_tosuck,joophonosemantic,to suck,1421,SUCK
+joophonosemantic_70_tocarry,joophonosemantic,to carry,700,CARRY
+joophonosemantic_71_ant,joophonosemantic,ant,587,ANT
+joophonosemantic_72_heavy,joophonosemantic,heavy,1210,HEAVY
+joophonosemantic_73_totake,joophonosemantic,to take,1749,TAKE
+joophonosemantic_74_old,joophonosemantic,old,1229,OLD
+joophonosemantic_75_toeat,joophonosemantic,to eat,1336,EAT
+joophonosemantic_76_thigh,joophonosemantic,thigh,471,UPPER LEG (THIGH)
+joophonosemantic_77_thick,joophonosemantic,thick,1244,THICK
+joophonosemantic_78_long,joophonosemantic,long,1203,LONG
+joophonosemantic_79_toblow,joophonosemantic,to blow,175,BLOW (OF WIND)
+joophonosemantic_80_wood,joophonosemantic,wood,1803,WOOD
+joophonosemantic_81_torun,joophonosemantic,to run,1519,RUN
+joophonosemantic_82_tofall,joophonosemantic,to fall,1280,FALL
+joophonosemantic_83_eye,joophonosemantic,eye,1248,EYE
+joophonosemantic_84_ash,joophonosemantic,ash,646,ASH
+joophonosemantic_85_tail,joophonosemantic,tail,1220,TAIL
+joophonosemantic_86_dog,joophonosemantic,dog,2009,DOG
+joophonosemantic_87_tocryweep,joophonosemantic,to cry/weep,1839,CRY
+joophonosemantic_88_totie,joophonosemantic,to tie,1917,TIE
+joophonosemantic_89_tosee,joophonosemantic,to see,1409,SEE
+joophonosemantic_90_sweet,joophonosemantic,sweet,717,SWEET
+joophonosemantic_91_rope,joophonosemantic,rope,1218,ROPE
+joophonosemantic_92_shadeshadow,joophonosemantic,shade/shadow,1388,SHADE
+joophonosemantic_93_bird,joophonosemantic,bird,937,BIRD
+joophonosemantic_94_salt,joophonosemantic,salt,1274,SALT
+joophonosemantic_95_small,joophonosemantic,small,1246,SMALL
+joophonosemantic_96_wide,joophonosemantic,wide,1243,WIDE
+joophonosemantic_97_star,joophonosemantic,star,1430,STAR
+joophonosemantic_98_in,joophonosemantic,in,1460,IN
+joophonosemantic_99_hard,joophonosemantic,hard,1884,HARD
+joophonosemantic_100_tocrushgrind,joophonosemantic,to crush/grind,1033,GRIND
+northperulex_1_allofanumber,northperulex,all (of a number),98,ALL
+northperulex_2_and,northperulex,and,1577,AND
+northperulex_3_animal,northperulex,animal,619,ANIMAL
+northperulex_4_ashes,northperulex,ashes,646,ASH
+northperulex_5_at,northperulex,at,1461,AT
+northperulex_6_backpersons,northperulex,back (person's),1291,BACK
+northperulex_7_baddeleteriousorunsuitable,northperulex,bad (deleterious or unsuitable),1292,BAD
+northperulex_8_bark,northperulex,bark,1204,BARK
+northperulex_10_belly,northperulex,belly,1251,BELLY
+northperulex_12_big,northperulex,big,1202,BIG
+northperulex_13_bird,northperulex,bird,937,BIRD
+northperulex_14_tobite,northperulex,to bite,1403,BITE
+northperulex_15_black,northperulex,black,163,BLACK
+northperulex_16_blood,northperulex,blood,946,BLOOD
+northperulex_17_toblowofwind,northperulex,to blow (of wind),175,BLOW (OF WIND)
+northperulex_18_bone,northperulex,bone,1394,BONE
+northperulex_19_tobreathe,northperulex,to breathe,1407,BREATHE
+northperulex_20_toburnintrans,northperulex,to burn (intrans),1428,BURNING
+northperulex_21_childyoungpersonratherthanasrelationshipterm,northperulex,child (young person rather than as relationship term),1304,CHILD (YOUNG HUMAN)
+northperulex_22_cloud,northperulex,cloud,1489,CLOUD
+northperulex_24_tocome,northperulex,to come,1446,COME
+northperulex_25_tocount,northperulex,to count,1420,COUNT
+northperulex_26_tocut,northperulex,to cut,1432,CUT
+northperulex_27_dayoppositeofnightratherthantimemeasure,northperulex,day (opposite of night rather than time measure),1225,DAY (NOT NIGHT)
+northperulex_28_todie,northperulex,to die,1494,DIE
+northperulex_29_todig,northperulex,to dig,1418,DIG
+northperulex_30_dirty,northperulex,dirty,1230,DIRTY
+northperulex_31_dog,northperulex,dog,2009,DOG
+northperulex_32_todrink,northperulex,to drink,1401,DRINK
+northperulex_33_drysubstance,northperulex,dry (substance),1398,DRY
+northperulex_34_dullknife,northperulex,dull (knife),379,BLUNT
+northperulex_35_dust,northperulex,dust,2,DUST
+northperulex_36_ear,northperulex,ear,1247,EAR
+northperulex_37_earthsoil,northperulex,earth (soil),1228,EARTH (SOIL)
+northperulex_38_toeat,northperulex,to eat,1336,EAT
+northperulex_39_egg,northperulex,egg,744,EGG
+northperulex_40_eye,northperulex,eye,1248,EYE
+northperulex_41_tofalldropratherthantopple,northperulex,to fall (drop rather than topple),1280,FALL
+northperulex_42_far,northperulex,far,1406,FAR
+northperulex_43_fatorganicsubstance,northperulex,fat (organic substance),323,FAT (ORGANIC SUBSTANCE)
+northperulex_45_tofear,northperulex,to fear,1419,FEAR (BE AFRAID)
+northperulex_46_featherlargerfeathersratherthandown,northperulex,feather (larger feathers rather than down),1201,FEATHER
+northperulex_47_few,northperulex,few,1242,FEW
+northperulex_48_tofight,northperulex,to fight,1423,FIGHT
+northperulex_49_fire,northperulex,fire,221,FIRE
+northperulex_50_fish,northperulex,fish,227,FISH
+northperulex_51_five,northperulex,five,493,FIVE
+northperulex_52_tofloat,northperulex,to float,1574,FLOAT
+northperulex_53_toflow,northperulex,to flow,2003,FLOW
+northperulex_54_flower,northperulex,flower,239,FLOWER
+northperulex_55_tofly,northperulex,to fly,1441,FLY (MOVE THROUGH AIR)
+northperulex_56_fog,northperulex,fog,249,FOG
+northperulex_57_foot,northperulex,foot,1301,FOOT
+northperulex_59_tofreeze,northperulex,to freeze,1431,FREEZE
+northperulex_60_togive,northperulex,to give,1447,GIVE
+northperulex_61_good,northperulex,good,1035,GOOD
+northperulex_62_grass,northperulex,grass,606,GRASS
+northperulex_63_green,northperulex,green,1425,GREEN
+northperulex_65_hair,northperulex,hair,1040,HAIR
+northperulex_66_hand,northperulex,hand,1277,HAND
+northperulex_68_head,northperulex,head,1256,HEAD
+northperulex_69_tohear,northperulex,to hear,1408,HEAR
+northperulex_70_heart,northperulex,heart,1223,HEART
+northperulex_71_heavy,northperulex,heavy,1210,HEAVY
+northperulex_72_here,northperulex,here,136,HERE
+northperulex_73_tohit,northperulex,to hit,1433,HIT
+northperulex_74_toholdinhand,northperulex,to hold (in hand),1448,HOLD
+northperulex_75_how,northperulex,how,1239,HOW
+northperulex_76_tohuntgame,northperulex,to hunt (game),1435,HUNT
+northperulex_78_i,northperulex,I,1209,I
+northperulex_81_in,northperulex,in,1460,IN
+northperulex_82_tokill,northperulex,to kill,1417,KILL
+northperulex_83_toknowfacts,northperulex,to know (facts),1410,KNOW (SOMETHING)
+northperulex_84_lake,northperulex,lake,624,LAKE
+northperulex_85_tolaugh,northperulex,to laugh,1355,LAUGH
+northperulex_86_leaf,northperulex,leaf,628,LEAF
+northperulex_87_lefthand,northperulex,left (hand),244,LEFT
+northperulex_88_leg,northperulex,leg,1297,LEG
+northperulex_89_tolie,northperulex,to lie,1411,LIE (REST)
+northperulex_90_tolive,northperulex,to live,1422,BE ALIVE
+northperulex_91_liver,northperulex,liver,1224,LIVER
+northperulex_92_long,northperulex,long,1203,LONG
+northperulex_93_louse,northperulex,louse,1392,LOUSE
+northperulex_94_manmalehuman,northperulex,man (male human),2106,MALE PERSON
+northperulex_95_many,northperulex,many,1198,MANY
+northperulex_98_mountain,northperulex,mountain,639,MOUNTAIN
+northperulex_99_mouth,northperulex,mouth,674,MOUTH
+northperulex_100_name,northperulex,name,1405,NAME
+northperulex_101_narrow,northperulex,narrow,1267,NARROW
+northperulex_102_near,northperulex,near,1942,NEAR
+northperulex_103_neck,northperulex,neck,1333,NECK
+northperulex_104_new,northperulex,new,1231,NEW
+northperulex_105_night,northperulex,night,1233,NIGHT
+northperulex_106_nose,northperulex,nose,1221,NOSE
+northperulex_107_not,northperulex,not,1240,NOT
+northperulex_108_old,northperulex,old,1229,OLD
+northperulex_110_other,northperulex,other,197,OTHER
+northperulex_111_person,northperulex,person,683,PERSON
+northperulex_112_toplay,northperulex,to play,1413,PLAY
+northperulex_113_topull,northperulex,to pull,1455,PULL
+northperulex_114_topush,northperulex,to push,1452,PUSH
+northperulex_115_torain,northperulex,to rain,1253,RAIN (RAINING)
+northperulex_116_red,northperulex,red,156,RED
+northperulex_117_rightcorrect,northperulex,right (correct),1725,CORRECT (RIGHT)
+northperulex_118_righthand,northperulex,right (hand),1019,RIGHT
+northperulex_119_river,northperulex,river,666,RIVER
+northperulex_120_roadortrail,northperulex,road (or trail),667,ROAD
+northperulex_121_root,northperulex,root,670,ROOT
+northperulex_122_rope,northperulex,rope,1218,ROPE
+northperulex_123_rottenespeciallylog,northperulex,rotten (especially log),1728,ROTTEN
+northperulex_124_torub,northperulex,to rub,1449,RUB
+northperulex_125_salt,northperulex,salt,1274,SALT
+northperulex_126_sand,northperulex,sand,671,SAND
+northperulex_127_say,northperulex,say,1458,SAY
+northperulex_128_toscratchaswithfingernailstorelieveitch,northperulex,to scratch (as with fingernails to relieve itch),1436,SCRATCH
+northperulex_129_seaocean,northperulex,sea (ocean),1474,SEA
+northperulex_130_see,northperulex,see,1409,SEE
+northperulex_131_seed,northperulex,seed,714,SEED
+northperulex_132_tosew,northperulex,to sew,1457,SEW
+northperulex_133_sharpasknife,northperulex,sharp (as knife),1396,SHARP
+northperulex_134_short,northperulex,short,1645,SHORT
+northperulex_135_tosing,northperulex,to sing,1261,SING
+northperulex_136_sit,northperulex,sit,1416,SIT
+northperulex_138_sky,northperulex,sky,1732,SKY
+northperulex_139_sleep,northperulex,sleep,1585,SLEEP
+northperulex_140_small,northperulex,small,1246,SMALL
+northperulex_141_tosmellperceiveodor,northperulex,to smell (perceive odor),1586,SMELL (PERCEIVE)
+northperulex_142_smokeoffire,northperulex,smoke (of fire),778,SMOKE (EXHAUST)
+northperulex_143_smooth,northperulex,smooth,1234,SMOOTH
+northperulex_144_snake,northperulex,snake,730,SNAKE
+northperulex_145_snow,northperulex,snow,784,SNOW
+northperulex_146_some,northperulex,some,1241,SOME
+northperulex_147_tospit,northperulex,to spit,1440,SPIT
+northperulex_148_tosplit,northperulex,to split,1437,SPLIT
+northperulex_149_tosqueeze,northperulex,to squeeze,1414,SQUEEZE
+northperulex_150_tostaborstick,northperulex,to stab (or stick),1434,STAB
+northperulex_151_tostand,northperulex,to stand,1442,STAND
+northperulex_152_star,northperulex,star,1430,STAR
+northperulex_153_stickofwood,northperulex,stick (of wood),1295,STICK
+northperulex_154_stone,northperulex,stone,857,STONE
+northperulex_155_straight,northperulex,straight,1404,STRAIGHT
+northperulex_156_tosuck,northperulex,to suck,1421,SUCK
+northperulex_157_sun,northperulex,sun,1343,SUN
+northperulex_158_toswell,northperulex,to swell,1573,SWELL
+northperulex_159_toswim,northperulex,to swim,1439,SWIM
+northperulex_160_tail,northperulex,tail,1220,TAIL
+northperulex_161_that,northperulex,that,78,THAT
+northperulex_162_there,northperulex,there,1937,THERE
+northperulex_163_they,northperulex,they,817,THEY
+northperulex_164_thick,northperulex,thick,1244,THICK
+northperulex_165_thin,northperulex,thin,2308,THIN
+northperulex_166_tothink,northperulex,to think,2271,THINK
+northperulex_167_this,northperulex,this,1214,THIS
+northperulex_168_thou,northperulex,thou,1215,THOU
+northperulex_170_tothrow,northperulex,to throw,1456,THROW
+northperulex_171_totie,northperulex,to tie,1917,TIE
+northperulex_172_tongue,northperulex,tongue,1205,TONGUE
+northperulex_173_toothfrontratherthanmolar,northperulex,tooth (front rather than molar),1380,TOOTH
+northperulex_174_tree,northperulex,tree,906,TREE
+northperulex_177_tovomit,northperulex,to vomit,1278,VOMIT
+northperulex_178_towalk,northperulex,to walk,1443,WALK
+northperulex_180_towash,northperulex,to wash,1453,WASH
+northperulex_181_water,northperulex,water,948,WATER
+northperulex_182_we,northperulex,we,1212,WE
+northperulex_183_wet,northperulex,wet,1726,WET
+northperulex_184_what,northperulex,what?,1236,WHAT
+northperulex_185_when,northperulex,when?,1238,WHEN
+northperulex_186_where,northperulex,where?,1237,WHERE
+northperulex_187_white,northperulex,white,1335,WHITE
+northperulex_188_who,northperulex,who?,1235,WHO
+northperulex_189_wide,northperulex,wide,1243,WIDE
+northperulex_191_wind,northperulex,wind,960,WIND
+northperulex_192_wing,northperulex,wing,1257,WING
+northperulex_193_towipe,northperulex,to wipe,1454,WIPE
+northperulex_194_withaccompanying,northperulex,with (accompanying),1340,WITH
+northperulex_195_woman,northperulex,woman,962,WOMAN
+northperulex_196_woods,northperulex,woods,420,FOREST
+northperulex_197_worm,northperulex,worm,1219,WORM
+northperulex_198_ye,northperulex,ye,1213,YOU
+northperulex_199_year,northperulex,year,1226,YEAR
+northperulex_200_yellow,northperulex,yellow,1424,YELLOW
