@@ -11,3 +11,14 @@ worldwide_review_2026_10_29:
   preservation: Earlier lexical records/readings and native cognacy/evidence retained
     with exact reviewed semantic corrections. No unreviewed profile, historical IPA
     or new-language identity inferred.
+south_america_isolates_2026_11_04:
+  status: draft
+  report: ../../docs/SOUTH_AMERICA_ISOLATES_2026-11-04.md
+  ledger: ../../docs/south_america_isolates_2026-11-04_supplements.csv
+  primary: huntergatherer
+  forms: 371
+  concepts: 350
+  supported_core: 146
+  supplement_members:
+    hubercolumbian_Kamsa: 137
+  preservation: All release A records retained; gap fills only; source-scoped cognacy.

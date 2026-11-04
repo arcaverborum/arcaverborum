@@ -1,0 +1,36 @@
+av_id: tru-trumai
+name: Trumai
+review:
+  status: draft
+  reviewer: ''
+  date: '2026-11-04'
+quality:
+  forms_score: 1.0
+  cognates_score: 0.0
+  tier: bronze
+  pinned: false
+construction:
+  lexical_base:
+    source: idssegmented
+    source_language_id: ''
+    rationale: Reviewed additive construction; exact original source identities retained.
+  transcription:
+    strategy: source with explicit supplements
+  concepts:
+    mapping: reviewed
+    core_coverage: 142/161
+    ledger: docs/south_america_isolates_2026-11-04_supplements.csv
+  cognates:
+    source: source-scoped
+    notes: No cross-source inference; supplement cognacy stays in its own namespace.
+south_america_isolates_2026_11_04:
+  status: draft
+  report: ../../docs/SOUTH_AMERICA_ISOLATES_2026-11-04.md
+  ledger: ../../docs/south_america_isolates_2026-11-04_supplements.csv
+  primary: idssegmented
+  forms: 725
+  concepts: 605
+  supported_core: 142
+  supplement_members:
+    huntergatherer_382: 43
+  preservation: All release A records retained; gap fills only; source-scoped cognacy.

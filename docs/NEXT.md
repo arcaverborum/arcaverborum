@@ -1,9 +1,15 @@
 # Active expansion queue
 
-## ACTIVE — organization launch and schema-A release (2026-11-02)
+## ACTIVE — South American isolates (2026-11-04, reviewing)
 
-**Curation is frozen** until release `A` is published: do not start any data
-batch below. Execute the [organization launch plan](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/planning/ORG_LAUNCH_PLAN_2026-11-02.md)
+Requested by the user: extend coverage for South America, especially all its
+isolates. [Report](SOUTH_AMERICA_ISOLATES_2026-11-04.md). Track 1 (gap fills
+from snapshot sources: 5,913 forms in 12 constructions) is complete. Track 2
+(original sources for the 21 missing and 15 thin isolates) is in research.
+
+## Organization launch and schema-A release (2026-11-02)
+
+Release `A-2026-11-03` is published, so curation is no longer frozen. Execute the [organization launch plan](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/planning/ORG_LAUNCH_PLAN_2026-11-02.md)
 (clean repos in `arcaverborum`, three-tier licensing, accepted-inputs snapshot,
 editor governance, `arcaverborum.org` + `live.arcaverborum.org`, then MDPI *Data*).
 
