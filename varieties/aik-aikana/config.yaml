@@ -4,8 +4,9 @@ glottocode: aika1237
 family: Aikanã
 macroarea: South America
 sources:
-  transcription: huntergatherer
-  cognates: huntergatherer
+  transcription: gled
+  cognates: gled
+  source_language_id: gled_AIKANA
 extensions:
   transcriptions: false
   forms: false
@@ -16,6 +17,8 @@ scoring:
   forms_score: 0.5556
   cognates_score: 0.0
   tier: bronze
-pinned: false
+pinned: true
 registered_on: '2026-05-20'
-notes: 'auto: forms=huntergatherer (0.56)'
+notes: '2026-11-04 South American isolates batch 2. Primary change: GLED/ASJP AIKANA
+  list (41 forms) replaces a 1-record Hunter-Gatherer selection, preserved as a supplement.
+  DiACL rows (283, mixed notation and unresolved provenance) remain held.'

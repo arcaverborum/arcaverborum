@@ -1,0 +1,2 @@
+source,source_form_id,source_language_id,source_glottocode,evidence_sha256,expected_source_concepticon_id,concept_id,decision,mapping_decision,rationale,transcription_policy
+wiktionary,wikt_2843494,wikt_tdm,taru1236,3e6ec6f5f67ff10346c9aca2ac37f68011d8d658596f42f967164ff4e6e279cf,948,phy-water,admit,retain,Preserve previously accepted wiktionary lexical evidence and its accepted concept mapping as a separately attributed supplement during a primary change. Not a new semantic or cognate certification; the new primary's profile is not applied to it.,orthographic_only
