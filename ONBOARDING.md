@@ -79,6 +79,11 @@ source extension under `extensions/<dataset>/` (format and rules in
 [extensions/README.md](extensions/README.md)); the build reads it from git next
 to the snapshot intake. On the maintainer's full workspace, adding or removing
 an extension rebuilds the intake database once.
+A pull request that needs other rows of a dataset the snapshot already holds
+(for example IDS rows for a language that so far used another source) commits
+those whole groups as slice additions under `slices/lexibank/`
+([slices/README.md](slices/README.md)); a snapshot workspace adds them, and the
+full workspace checks them row for row.
 
 The maintainer's full pipeline (`build.py fetch` and `ingest` over all of
 Lexibank, GLED and Wiktionary) regenerates the intake from the original
