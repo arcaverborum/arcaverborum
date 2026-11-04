@@ -1,0 +1,211 @@
+{
+ "date": "2026-11-04",
+ "baseline": "A-2026-11-03",
+ "ledger": "docs/south_america_isolates_2026-11-04_batch3.csv",
+ "constructions": {
+  "gmo-santa-rosa-guamo": {
+   "forms_before": 0,
+   "forms_after": 179,
+   "concepts_before": 0,
+   "concepts_after": 154,
+   "core_before": 0,
+   "core_after": 63,
+   "status": {
+    "unclean": 178,
+    "resegmented": 1
+   }
+  },
+  "gmo-san-jose-guamo": {
+   "forms_before": 0,
+   "forms_after": 178,
+   "concepts_before": 0,
+   "concepts_after": 154,
+   "core_before": 0,
+   "core_after": 63,
+   "status": {
+    "unclean": 178
+   }
+  },
+  "gmo-guamo": {
+   "forms_before": 0,
+   "forms_after": 136,
+   "concepts_before": 0,
+   "concepts_after": 110,
+   "core_before": 0,
+   "core_after": 38,
+   "status": {
+    "unclean": 136
+   }
+  },
+  "jir-ayoman": {
+   "forms_before": 0,
+   "forms_after": 263,
+   "concepts_before": 0,
+   "concepts_after": 156,
+   "core_before": 0,
+   "core_after": 60,
+   "status": {
+    "unclean": 90,
+    "resegmented": 173
+   }
+  },
+  "jir-jirajara": {
+   "forms_before": 0,
+   "forms_after": 96,
+   "concepts_before": 0,
+   "concepts_after": 70,
+   "core_before": 0,
+   "core_after": 28,
+   "status": {
+    "unclean": 15,
+    "resegmented": 81
+   }
+  },
+  "jir-gayon": {
+   "forms_before": 0,
+   "forms_after": 72,
+   "concepts_before": 0,
+   "concepts_after": 50,
+   "core_before": 0,
+   "core_after": 26,
+   "status": {
+    "resegmented": 68,
+    "unclean": 4
+   }
+  },
+  "tmc-timote": {
+   "forms_before": 0,
+   "forms_after": 350,
+   "concepts_before": 0,
+   "concepts_after": 224,
+   "core_before": 0,
+   "core_after": 83,
+   "status": {
+    "unclean": 167,
+    "resegmented": 183
+   }
+  },
+  "aru-awake": {
+   "forms_before": 0,
+   "forms_after": 328,
+   "concepts_before": 0,
+   "concepts_after": 212,
+   "core_before": 0,
+   "core_after": 79,
+   "status": {
+    "unclean": 224,
+    "resegmented": 104
+   }
+  },
+  "axg-mato-grosso-arara": {
+   "forms_before": 0,
+   "forms_after": 246,
+   "concepts_before": 0,
+   "concepts_after": 91,
+   "core_before": 0,
+   "core_after": 31,
+   "status": {
+    "source": 221,
+    "unclean": 24,
+    "resegmented": 1
+   }
+  },
+  "ira-manoki": {
+   "forms_before": 0,
+   "forms_after": 652,
+   "concepts_before": 0,
+   "concepts_after": 357,
+   "core_before": 0,
+   "core_after": 100,
+   "status": {
+    "unclean": 144,
+    "resegmented": 508
+   }
+  },
+  "aru-arutani": {
+   "forms_before": 78,
+   "forms_after": 1139,
+   "concepts_before": 78,
+   "concepts_after": 540,
+   "core_before": 70,
+   "core_after": 132,
+   "status": {
+    "source": 1133,
+    "resegmented": 2,
+    "unclean": 4
+   }
+  },
+  "kan-kanoe": {
+   "forms_before": 263,
+   "forms_after": 1322,
+   "concepts_before": 205,
+   "concepts_after": 518,
+   "core_before": 113,
+   "core_after": 130,
+   "status": {
+    "source": 1209,
+    "resegmented": 113
+   }
+  },
+  "sap-sape": {
+   "forms_before": 78,
+   "forms_after": 191,
+   "concepts_before": 78,
+   "concepts_after": 178,
+   "core_before": 70,
+   "core_after": 92,
+   "status": {
+    "source": 78,
+    "unclean": 113
+   }
+  },
+  "mak-maku": {
+   "forms_before": 112,
+   "forms_after": 372,
+   "concepts_before": 100,
+   "concepts_after": 321,
+   "core_before": 75,
+   "core_after": 108,
+   "status": {
+    "source": 112,
+    "unclean": 260
+   }
+  },
+  "caa-canichana": {
+   "forms_before": 87,
+   "forms_after": 347,
+   "concepts_before": 87,
+   "concepts_after": 327,
+   "core_before": 70,
+   "core_after": 112,
+   "status": {
+    "source": 87,
+    "unclean": 260
+   }
+  },
+  "aew-aewa": {
+   "forms_before": 18,
+   "forms_after": 68,
+   "concepts_before": 18,
+   "concepts_after": 66,
+   "core_before": 17,
+   "core_after": 20,
+   "status": {
+    "source": 18,
+    "unclean": 50
+   }
+  },
+  "omu-omurano": {
+   "forms_before": 60,
+   "forms_after": 190,
+   "concepts_before": 60,
+   "concepts_after": 184,
+   "core_before": 54,
+   "core_after": 71,
+   "status": {
+    "source": 60,
+    "unclean": 130
+   }
+  }
+ }
+}

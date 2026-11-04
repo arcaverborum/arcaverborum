@@ -2,6 +2,7 @@
   "schema": 1,
   "licenses": {
     "CC-BY-4.0": ["https://creativecommons.org/licenses/by/4.0/", "CC-BY-4.0"],
+    "CC-BY-3.0": ["https://creativecommons.org/licenses/by/3.0/", "CC-BY-3.0"],
     "CC-BY-SA-4.0": ["https://creativecommons.org/licenses/by-sa/4.0/", "CC-BY-SA-4.0"],
     "CC-BY-NC-4.0": ["https://creativecommons.org/licenses/by-nc/4.0/", "CC-BY-NC-4.0"],
     "CC-BY-NC-SA-4.0": ["https://creativecommons.org/licenses/by-nc-sa/4.0/", "CC-BY-NC-SA-4.0"],
@@ -12,17 +13,17 @@
   "tiers": {
     "full": {
       "description": "Every accepted record, including sources whose redistribution terms are not declared (terms_status = missing_declaration).",
-      "allow": ["CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-NC-SA-4.0", "CC-BY-NC-ND-4.0", "GPL-3.0", "PDM-1.0"],
+      "allow": ["CC-BY-3.0", "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-NC-SA-4.0", "CC-BY-NC-ND-4.0", "GPL-3.0", "PDM-1.0"],
       "allow_missing_declaration": true
     },
     "redistributable": {
       "description": "Records whose source declares terms that allow redistribution of adapted data. NonCommercial (NC) and ShareAlike (SA) conditions apply to the rows that carry them; this tier is not free for commercial reuse as a whole.",
-      "allow": ["CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-NC-SA-4.0", "GPL-3.0", "PDM-1.0"],
+      "allow": ["CC-BY-3.0", "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-NC-SA-4.0", "GPL-3.0", "PDM-1.0"],
       "allow_missing_declaration": false
     },
     "by": {
-      "description": "Records under CC BY 4.0 or in the public domain only; attribution is the only condition.",
-      "allow": ["CC-BY-4.0", "PDM-1.0"],
+      "description": "Records under CC BY (3.0 or 4.0) or in the public domain only; attribution is the only condition.",
+      "allow": ["CC-BY-3.0", "CC-BY-4.0", "PDM-1.0"],
       "allow_missing_declaration": false
     }
   }

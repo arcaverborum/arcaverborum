@@ -1,0 +1,166 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss
+heath1883_1,Man,1554,MAN
+heath1883_2,Woman,962,WOMAN
+heath1883_3,Boy,1366,BOY
+heath1883_4,Girl,1646,GIRL
+heath1883_5,Infant,1289,BABY
+heath1883_6,My Father (said by Son),3906,FATHER (OF A MAN)
+heath1883_7,My Father (said by Daughter),3905,FATHER (OF A WOMAN)
+heath1883_8,My Mother (said by Son),3908,MOTHER (OF A MAN)
+heath1883_9,My Mother (said by Daughter),3907,MOTHER (OF A WOMAN)
+heath1883_10,My Husband,1200,HUSBAND
+heath1883_11,My Wife,1199,WIFE
+heath1883_12,My Son (said by Father),3779,SON (OF MALE EGO)
+heath1883_13,My Son (said by Mother),3939,SON OF WOMAN
+heath1883_14,My daughter(said by Father),3778,DAUGHTER (OF MALE EGO)
+heath1883_15,My daughter(said by Mother),3930,DAUGHTER (OF WOMAN)
+heath1883_16,My elder brother,1759,OLDER BROTHER
+heath1883_17,My younger brother,1760,YOUNGER BROTHER
+heath1883_18,My elder sister,1758,OLDER SISTER
+heath1883_19,My younger sister,1761,YOUNGER SISTER
+heath1883_20,An Indian,,
+heath1883_21,People,789,PEOPLE
+heath1883_22,Head,1256,HEAD
+heath1883_23,Hair,1040,HAIR
+heath1883_24,Face,1560,FACE
+heath1883_25,Forehead,123,FOREHEAD
+heath1883_26,Ear,1247,EAR
+heath1883_27,Eye,1248,EYE
+heath1883_28,Nose,1221,NOSE
+heath1883_29,Mouth,674,MOUTH
+heath1883_30,Tongue,1205,TONGUE
+heath1883_31,Teeth,1380,TOOTH
+heath1883_32,Beard,678,BEARD
+heath1883_33,Neck,1333,NECK
+heath1883_34,Arm,1673,ARM
+heath1883_35,Hand,1277,HAND
+heath1883_36,Fingers,1303,FINGER
+heath1883_37,Thumb,1781,THUMB
+heath1883_38,Nails,1258,FINGERNAIL
+heath1883_39,Body,1480,BODY
+heath1883_40,Chest,1592,CHEST
+heath1883_41,Belly,1251,BELLY
+heath1883_42,Female breasts,1402,BREAST
+heath1883_43,Leg,1297,LEG
+heath1883_44,Foot,1301,FOOT
+heath1883_45,Toes,1389,TOE
+heath1883_46,Bone,1394,BONE
+heath1883_47,Heart,1223,HEART
+heath1883_48,Blood,946,BLOOD
+heath1883_49,"Town, village",,
+heath1883_50,Chief,301,CHIEFTAIN
+heath1883_51,Friend,1325,FRIEND
+heath1883_52,House,1252,HOUSE
+heath1883_53,Kettle,,
+heath1883_54,Bow,994,BOW
+heath1883_55,Arrow,977,ARROW
+heath1883_56,Knife,1352,KNIFE
+heath1883_57,Canoe,1970,CANOE
+heath1883_58,Tobacco,974,TOBACCO
+heath1883_59,Sky,1732,SKY
+heath1883_60,Sun,1343,SUN
+heath1883_61,Moon,1313,MOON
+heath1883_62,Star,1430,STAR
+heath1883_63,Day,,
+heath1883_64,Night,1233,NIGHT
+heath1883_65,Morning,1339,MORNING
+heath1883_66,Evening,1629,EVENING
+heath1883_67,Wind,960,WIND
+heath1883_68,Thunder,1150,THUNDER
+heath1883_69,Lightning,1654,LIGHTNING
+heath1883_70,Rain,658,RAIN (PRECIPITATION)
+heath1883_71,Fire,221,FIRE
+heath1883_72,Water,948,WATER
+heath1883_73,Earth—Land,3603,EARTH OR LAND
+heath1883_74,River,666,RIVER
+heath1883_75,Lake,624,LAKE
+heath1883_76,Prairie,,
+heath1883_77,Island,622,ISLAND
+heath1883_78,Stone—rock,2125,STONE OR ROCK
+heath1883_79,Salt,1274,SALT
+heath1883_80,Iron,621,IRON
+heath1883_81,Forest,420,FOREST
+heath1883_82,Tree,906,TREE
+heath1883_83,Wood,1803,WOOD
+heath1883_84,Leaf,628,LEAF
+heath1883_85,Bark,1204,BARK
+heath1883_86,Grass,606,GRASS
+heath1883_87,Maize,506,MAIZE
+heath1883_88,Squash,,
+heath1883_89,Flesh—meat,2615,FLESH OR MEAT
+heath1883_90,Dog,2009,DOG
+heath1883_91,Fox,,
+heath1883_92,Deer,1936,DEER
+heath1883_93,Fly,1504,FLY (INSECT)
+heath1883_94,Snake,730,SNAKE
+heath1883_95,Rattlesnake,871,RATTLESNAKE
+heath1883_96,Bird,937,BIRD
+heath1883_97,Egg,744,EGG
+heath1883_98,Feathers,1201,FEATHER
+heath1883_99,Wing,1257,WING
+heath1883_100,Duck,1360,DUCK
+heath1883_101,Turkey,2386,TURKEY
+heath1883_102,Pigeon,,
+heath1883_103,Fish,227,FISH
+heath1883_104,Name,1405,NAME
+heath1883_105,White,1335,WHITE
+heath1883_106,Black,163,BLACK
+heath1883_107,Red,156,RED
+heath1883_108,Light blue,3604,LIGHT BLUE
+heath1883_109,Yellow,1424,YELLOW
+heath1883_110,Light green,,
+heath1883_111,Great—large,1202,BIG
+heath1883_112,Small—little,1246,SMALL
+heath1883_113,Strong,785,STRONG
+heath1883_114,Old,1229,OLD
+heath1883_115,Young,1207,YOUNG
+heath1883_116,Good,1035,GOOD
+heath1883_117,Bad,1292,BAD
+heath1883_118,Dead,1625,DEAD
+heath1883_119,Alive,1422,BE ALIVE
+heath1883_120,Cold,1287,COLD
+heath1883_121,Warm—hot,2272,HOT OR WARM
+heath1883_122,T,1209,I
+heath1883_123,Thou,1215,THOU
+heath1883_124,He,1211,HE
+heath1883_125,We,1212,WE
+heath1883_126,Ye,1213,YOU
+heath1883_127,They,817,THEY
+heath1883_128,This,1214,THIS
+heath1883_129,That,78,THAT
+heath1883_130,All,98,ALL
+heath1883_131,Many—much,,
+heath1883_132,Who,1235,WHO
+heath1883_133,Far,1406,FAR
+heath1883_134,Near,1942,NEAR
+heath1883_135,Here,136,HERE
+heath1883_136,There,1937,THERE
+heath1883_137,To-day,1283,TODAY
+heath1883_138,Yesterday,1174,YESTERDAY
+heath1883_139,To-morrow,1329,TOMORROW
+heath1883_140,Yes,1268,YES
+heath1883_141,No,1269,NO
+heath1883_142,One,1493,ONE
+heath1883_143,Two,1498,TWO
+heath1883_144,Three,492,THREE
+heath1883_145,To Eat,1336,EAT
+heath1883_146,To Drink,1401,DRINK
+heath1883_147,To Run,1519,RUN
+heath1883_148,To Dance,1879,DANCE
+heath1883_149,To Sing,1261,SING
+heath1883_150,To Sleep,1585,SLEEP
+heath1883_151,To Speak,1623,SPEAK
+heath1883_152,To See,1409,SEE
+heath1883_153,To Love,923,LOVE
+heath1883_154,To Kill,1417,KILL
+heath1883_155,To Sit,1416,SIT
+heath1883_156,To Stand,1442,STAND
+heath1883_157,To Go,695,GO
+heath1883_158,To Come,1446,COME
+heath1883_159,To Walk,1443,WALK
+heath1883_160,To Work,984,WORK (LABOUR)
+heath1883_161,To Steal,713,STEAL
+heath1883_162,To Lie,,
+heath1883_163,To Give,1447,GIVE
+heath1883_164,To Laugh,1355,LAUGH
+heath1883_165,To Cry,1839,CRY

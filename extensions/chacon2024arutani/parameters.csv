@@ -1,0 +1,983 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss
+chacon2024arutani_1,colocar | put,998,PUT
+chacon2024arutani_2,"negativo; não | negative; no, not",1240,NOT
+chacon2024arutani_3,ninguém | nobody,3887,NOBODY
+chacon2024arutani_4,"acabar, não ter | run out, not have",,
+chacon2024arutani_5,primeiro | first,728,FIRST
+chacon2024arutani_6,avião | airplane,1597,AIRPLANE
+chacon2024arutani_7,dente | tooth,1380,TOOTH
+chacon2024arutani_8,dentes molares e caninos | molar and canine teeth,,
+chacon2024arutani_9,dentes incisivos (os dentes da frente) | incisors (front teeth),442,FRONT TOOTH (INCISOR)
+chacon2024arutani_10,esmagar | crush,1520,CRUSH
+chacon2024arutani_11,"ficar ou estar de pé | stand, be standing",1442,STAND
+chacon2024arutani_12,papagaio de cabeça roxa | purple-headed parrot,,
+chacon2024arutani_13,cocho para caxiri ou massa de mandioca | trough for manioc beer or manioc mash,,
+chacon2024arutani_14,"abrir cocho, talhar um cocho | carve a trough",,
+chacon2024arutani_15,"descer, afundar | descend, sink",,
+chacon2024arutani_16,por do sol | sunset,2295,SUNSET
+chacon2024arutani_17,água | water,948,WATER
+chacon2024arutani_18,"rio, igarapé | river, stream",,
+chacon2024arutani_19,chuva | rain,658,RAIN (PRECIPITATION)
+chacon2024arutani_20,"porto | port, landing place",,
+chacon2024arutani_21,ariranha | giant otter,,
+chacon2024arutani_22,afogar-se | drown,1904,DROWN
+chacon2024arutani_23,alagar canoa | flood a canoe,,
+chacon2024arutani_24,chover | rain (verb),1253,RAIN (RAINING)
+chacon2024arutani_25,"ter sede, querer água | be thirsty, want water",3474,BE THIRSTY
+chacon2024arutani_26,nuvem | cloud,1489,CLOUD
+chacon2024arutani_27,braço de rio | river branch,,
+chacon2024arutani_28,jatobá | jatobá (tree),,
+chacon2024arutani_29,"tubeŕrculo, espécie de batata doce | tuber, kind of sweet potato",,
+chacon2024arutani_30,lagarta comestível | edible caterpillar,,
+chacon2024arutani_31,pai vocativo e referencial | father (vocative and referential),1217,FATHER
+chacon2024arutani_32,flechar; atirar flecha; matar flechando | shoot with arrows; shoot an arrow; kill with arrows,,
+chacon2024arutani_33,"furar, entrar | pierce, enter",,
+chacon2024arutani_34,galho | branch,1531,BRANCH
+chacon2024arutani_35,caminho | path,2252,PATH
+chacon2024arutani_36,"pegada, rastro | footprint, track",318,FOOTPRINT
+chacon2024arutani_37,"suave | soft, gentle (of speech)",,
+chacon2024arutani_38,cansado | tired,1757,TIRED
+chacon2024arutani_39,fino ou achatado | thin or flat,,
+chacon2024arutani_40,trovão | thunder,1150,THUNDER
+chacon2024arutani_41,canto | song,1096,SONG
+chacon2024arutani_42,cantar | sing,1261,SING
+chacon2024arutani_43,dançar | dance,1879,DANCE
+chacon2024arutani_44,curica | curica parrot,,
+chacon2024arutani_45,papagaio grande | big parrot,,
+chacon2024arutani_46,folha | leaf,628,LEAF
+chacon2024arutani_47,ausência | absence,,
+chacon2024arutani_48,empurrar | push,1452,PUSH
+chacon2024arutani_49,"derrubar | fell, knock down",,
+chacon2024arutani_50,"mãe, vocativo e referencial | mother (vocative and referential)",1216,MOTHER
+chacon2024arutani_51,"tia, irmã da mãe | aunt, mother's sister",171,MOTHER'S SISTER
+chacon2024arutani_52,língua materna | mother tongue,,
+chacon2024arutani_53,"tia, irmã mais nova da mãe | aunt, mother's younger sister",,
+chacon2024arutani_54,bunda | buttocks,834,BUTTOCKS
+chacon2024arutani_55,fogo | fire,221,FIRE
+chacon2024arutani_56,lenha | firewood,10,FIREWOOD
+chacon2024arutani_57,apagar o fogo | put out the fire,127,EXTINGUISH
+chacon2024arutani_58,luz | light,630,LIGHT (RADIATION)
+chacon2024arutani_59,carvão | charcoal,1188,CHARCOAL
+chacon2024arutani_60,isqueiro (lit. ”líquido de fogo”) | lighter,3092,LIGHTER
+chacon2024arutani_61,acender; atear; fazer fogo | light; set fire; make a fire,,
+chacon2024arutani_62,quebrar lenha | split firewood,,
+chacon2024arutani_63,cinzas | ashes,646,ASH
+chacon2024arutani_64,fruta da família do cacau; peludinha com polpa que comemos a parte que envolve o caroço | fruit of the cacao family,,
+chacon2024arutani_65,lagarta | caterpillar,2247,CATERPILLAR
+chacon2024arutani_66,"pai, vocativo e referencial | father (vocative and referential)",1217,FATHER
+chacon2024arutani_67,comer | eat,1336,EAT
+chacon2024arutani_68,tomar yekuana | take yekuana,,
+chacon2024arutani_69,morder | bite,1403,BITE
+chacon2024arutani_70,beber | drink,1401,DRINK
+chacon2024arutani_71,"tio paterno, mais novo que o pai | paternal uncle, younger than father",2174,PATERNAL UNCLE (FATHER'S YOUNGER BROTHER)
+chacon2024arutani_72,"falecidos, mortos | the deceased, the dead",,
+chacon2024arutani_73,quebrar | break,,
+chacon2024arutani_74,"pegar | take, grab",,
+chacon2024arutani_75,fraco | weak,1601,WEAK
+chacon2024arutani_76,"sem efeito, sem pressão, referindo-se ao caxiri | without effect, flat (of manioc beer)",,
+chacon2024arutani_77,"tiritar, tremer | shiver, tremble",,
+chacon2024arutani_78,"tirar, arrancar | pull out, uproot",,
+chacon2024arutani_79,"caba, marimbondo, vespa | wasp",1517,WASP
+chacon2024arutani_80,colher | spoon,1378,SPOON
+chacon2024arutani_81,atravessaar o rio | cross the river,,
+chacon2024arutani_82,cogumelo | mushroom,641,MUSHROOM
+chacon2024arutani_83,caracol | snail,1543,SNAIL
+chacon2024arutani_84,caramujo | snail,1543,SNAIL
+chacon2024arutani_85,fechar com algo | close with something,,
+chacon2024arutani_86,cerca | fence,1690,FENCE
+chacon2024arutani_87,piranha | piranha,317,PIRANHA
+chacon2024arutani_88,tipo de ingá | kind of ingá (plant),,
+chacon2024arutani_89,pirandirá | pirandirá (fish),,
+chacon2024arutani_90,cara roxo | purple yam,,
+chacon2024arutani_91,jogar fora | throw away,3696,THROW AWAY
+chacon2024arutani_92,caxiri de cará roxo | purple-yam manioc beer,,
+chacon2024arutani_93,sombra | shadow,2275,SHADOW
+chacon2024arutani_94,braza | embers,67,EMBERS
+chacon2024arutani_95,espécie de pica-pau | kind of woodpecker,,
+chacon2024arutani_96,"chutar, dar um ponta pé | kick",1135,KICK
+chacon2024arutani_97,"traíra | traíra (fish, Hoplias)",,
+chacon2024arutani_98,quente | hot,1286,HOT
+chacon2024arutani_99,"suar, transpirar | sweat",126,SWEAT (PERSPIRE)
+chacon2024arutani_100,doce | sweet,717,SWEET
+chacon2024arutani_101,assim | thus,,
+chacon2024arutani_102,porque | because,1157,BECAUSE
+chacon2024arutani_103,"curare, veneno para flecha | curare, arrow poison",,
+chacon2024arutani_104,espécie de mosca | kind of fly,,
+chacon2024arutani_105,listrado | striped,,
+chacon2024arutani_106,aquele que está ali | the one over there,,
+chacon2024arutani_107,perto | near,1942,NEAR
+chacon2024arutani_108,estreito | narrow,1267,NARROW
+chacon2024arutani_109,longe | far,1406,FAR
+chacon2024arutani_110,"um espaço amplo, grande | a wide, large space",,
+chacon2024arutani_111,girino | tadpole,3979,TADPOLE
+chacon2024arutani_112,torto | crooked,297,CROOKED
+chacon2024arutani_113,"direito, reto | straight",1404,STRAIGHT
+chacon2024arutani_114,arroz | rice,926,RICE
+chacon2024arutani_115,pé de alguma árvore | base of a tree,,
+chacon2024arutani_116,fisgar ; ???? | hook (fish); ????,,
+chacon2024arutani_117,molhado | wet,1726,WET
+chacon2024arutani_118,pirapitinga | pirapitinga (fish),,
+chacon2024arutani_119,"piscar o olho | wink, blink",,
+chacon2024arutani_120,"lama, lamacento | mud, muddy",640,MUD
+chacon2024arutani_121,preparar barro | prepare clay,,
+chacon2024arutani_122,sangue-suga | leech,2273,LEECH
+chacon2024arutani_123,ir embora | go away,1752,LEAVE
+chacon2024arutani_124,formiga (termo genérico) | ant,587,ANT
+chacon2024arutani_125,cará | yam,410,YAM
+chacon2024arutani_126,pentear-se | comb one's hair,2070,COMB (VERB)
+chacon2024arutani_127,fezes | feces,,
+chacon2024arutani_128,"defecar, fazer cocô | defecate",676,SHIT (DEFECATE)
+chacon2024arutani_129,açúcar | sugar,862,SUGAR
+chacon2024arutani_130,mãe (termo referencial) | mother,1216,MOTHER
+chacon2024arutani_131,irmã mais velha (vocativo) | older sister (vocative),1758,OLDER SISTER
+chacon2024arutani_132,mostrar | show,1039,SHOW
+chacon2024arutani_133,tia materna (termo de referência) | maternal aunt,171,MOTHER'S SISTER
+chacon2024arutani_134,"esfregar | scrub, rub",1449,RUB
+chacon2024arutani_135,irmã mais velha | older sister,1758,OLDER SISTER
+chacon2024arutani_136,ralar | grate,3114,GRATE (SOMETHING)
+chacon2024arutani_137,lua | moon,1313,MOON
+chacon2024arutani_138,lua-cheia | full moon,3690,FULL MOON
+chacon2024arutani_139,"Canção-Grande, espécie de ave | Canção-Grande, kind of bird",,
+chacon2024arutani_140,morrer | die,1494,DIE
+chacon2024arutani_141,"azul, verde | blue, green",2382,BLUE OR GREEN
+chacon2024arutani_142,roxo | purple,2452,PURPLE
+chacon2024arutani_143,amarelo | yellow,1424,YELLOW
+chacon2024arutani_144,verde-claro | light green,3605,LIGHT GREEN
+chacon2024arutani_145,verde-escuro | dark green,3795,DARK GREEN
+chacon2024arutani_146,devagar | slowly,2165,SLOWLY
+chacon2024arutani_147,intestino | intestines,1991,INTESTINES
+chacon2024arutani_148,esconder | hide,2486,HIDE
+chacon2024arutani_149,cuspir | spit,1440,SPIT
+chacon2024arutani_150,soluço | hiccup,162,HICCOUGH
+chacon2024arutani_151,"enfiar | insert, thread",3071,INSERT
+chacon2024arutani_152,brigar | fight,1423,FIGHT
+chacon2024arutani_153,cigarra | cicada,2353,CICADA
+chacon2024arutani_154,amanhã | tomorrow,1329,TOMORROW
+chacon2024arutani_155,quando | when,1238,WHEN
+chacon2024arutani_156,areia | sand,671,SAND
+chacon2024arutani_157,"jovem, moça | young woman, girl",77,YOUNG WOMAN
+chacon2024arutani_158,jiboia | boa constrictor,,
+chacon2024arutani_159,arco-íris | rainbow,1733,RAINBOW
+chacon2024arutani_160,sucuri | anaconda,896,ANACONDA (WATER BOA)
+chacon2024arutani_161,"viver, morar, estar em um lugar; | live, dwell, stay in a place",363,"DWELL (LIVE, RESIDE)"
+chacon2024arutani_162,Sururina | little tinamou,,
+chacon2024arutani_163,"abóbora | pumpkin, squash",864,PUMPKIN
+chacon2024arutani_164,miçanga | glass bead,1860,BEAD
+chacon2024arutani_165,"bracelete, pulseira | bracelet",1754,BRACELET
+chacon2024arutani_166,vir | come,1446,COME
+chacon2024arutani_167,"voltar | return, come back",581,COME BACK
+chacon2024arutani_168,chegar | arrive,1387,ARRIVE
+chacon2024arutani_169,espécie de peixe | kind of fish,,
+chacon2024arutani_170,"Fruta comestível do mato. Vermelha, doce, parece com pimenta olho de peixe | edible forest fruit (red, sweet)",,
+chacon2024arutani_171,ubim | ubim palm,,
+chacon2024arutani_172,cobrir | cover,761,COVER
+chacon2024arutani_173,"fazer arder | make burn, sting",,
+chacon2024arutani_174,peido | fart,1159,FART
+chacon2024arutani_175,poraquê | electric eel,2443,ELECTRIC EEL
+chacon2024arutani_176,venha cá! | come here!,3555,COME HERE
+chacon2024arutani_177,venha cá | come here,3555,COME HERE
+chacon2024arutani_178,jacamim (Jacamim-Cinza) | trumpeter (bird),,
+chacon2024arutani_179,porco queixada | white-lipped peccary,436,WHITE-LIPPED PECCARY
+chacon2024arutani_180,abraçar | embrace,928,EMBRACE
+chacon2024arutani_181,"agarrar, segurar | grab, hold",,
+chacon2024arutani_182,"possuir, ter | possess, have",773,HAVE
+chacon2024arutani_183,"ali, em tal lugar | there, in such a place",1937,THERE
+chacon2024arutani_184,destruir | destroy,681,DESTROY
+chacon2024arutani_185,construir | build,1840,BUILD
+chacon2024arutani_186,casa | house,1252,HOUSE
+chacon2024arutani_187,casa de alguém | someone's house,,
+chacon2024arutani_188,fluir | flow,2003,FLOW
+chacon2024arutani_189,"levar | take, carry away",,
+chacon2024arutani_190,carregar | carry,700,CARRY
+chacon2024arutani_191,"possuir, ter consigo, carregar | possess, have with oneself, carry",,
+chacon2024arutani_192,"devolver, levar de volta | give back, take back",,
+chacon2024arutani_193,sim | yes,1268,YES
+chacon2024arutani_194,de novo | again,204,AGAIN
+chacon2024arutani_195,"esse, aquele (distante do falante) | that (far from speaker)",78,THAT
+chacon2024arutani_196,bêbado | drunk,1463,DRUNK
+chacon2024arutani_197,arroto | burp,2789,BURP
+chacon2024arutani_198,toma! | take it!,,
+chacon2024arutani_199,"terra, barro | earth, clay",1228,EARTH (SOIL)
+chacon2024arutani_200,pegar do chão | pick up from the ground,,
+chacon2024arutani_201,barro | mud,640,MUD
+chacon2024arutani_202,"pousar | alight, land",1922,LAND (DESCEND)
+chacon2024arutani_203,buraco na terra | hole in the ground,,
+chacon2024arutani_204,poeira | dust,2,DUST
+chacon2024arutani_205,chibé | chibé (manioc flour drink),,
+chacon2024arutani_206,grilo | cricket,2354,CRICKET
+chacon2024arutani_207,ter fome | be hungry,1533,BE HUNGRY
+chacon2024arutani_208,moquear | smoke-roast,,
+chacon2024arutani_209,panela | pot,1462,POT
+chacon2024arutani_210,"argila, panela de barro | clay, clay pot",,
+chacon2024arutani_211,jacaré | caiman,2438,CAIMAN
+chacon2024arutani_212,fígado | liver,1224,LIVER
+chacon2024arutani_213,sangue | blood,946,BLOOD
+chacon2024arutani_214,cru | raw,1959,RAW
+chacon2024arutani_215,sangrar | bleed,3615,BLEED
+chacon2024arutani_216,"bater, dar uma pancada | hit, strike a blow",1433,HIT
+chacon2024arutani_217,carapana | mosquito,1509,MOSQUITO
+chacon2024arutani_218,crescer | grow,479,GROW
+chacon2024arutani_219,costas | back,1291,BACK
+chacon2024arutani_220,coluna | spine,805,SPINE
+chacon2024arutani_221,parte superior da coluna vertebral | upper part of the spine,,
+chacon2024arutani_222,"cônjugue, marido | spouse, husband",,
+chacon2024arutani_223,esposa | wife,1199,WIFE
+chacon2024arutani_224,casar com | marry,203,MARRY
+chacon2024arutani_225,"afim, pessoa com quem se pode casar | affine, person one may marry",,
+chacon2024arutani_226,interior de algo | inside of something,1606,INSIDE
+chacon2024arutani_227,talhar canoa | carve a canoe,,
+chacon2024arutani_228,"o interior da boca, a cavidade bucal | inside of the mouth, oral cavity",,
+chacon2024arutani_229,ir | go,695,GO
+chacon2024arutani_230,sair (para caçar) | go out (to hunt),,
+chacon2024arutani_231,andar | walk,1443,WALK
+chacon2024arutani_232,sair | go out,1107,GO OUT
+chacon2024arutani_233,espíritos | spirits,53,SPIRIT
+chacon2024arutani_234,bicho que vive dentro de um poço que faz redemoinhos e suga as pessoas para o fundo | creature living in a whirlpool pool,,
+chacon2024arutani_235,nome | name,1405,NAME
+chacon2024arutani_236,pajé | shaman,394,SHAMAN (FOLK HEALER)
+chacon2024arutani_237,fazer pajelança | perform shamanic healing,,
+chacon2024arutani_238,termo vocativo usado entre avós e netos | vocative between grandparents and grandchildren,,
+chacon2024arutani_239,sobrinho | nephew,1063,NEPHEW
+chacon2024arutani_240,"neto, genro dele | grandson, his son-in-law",,
+chacon2024arutani_241,bacaba | bacaba palm,,
+chacon2024arutani_242,patauá | patauá palm,,
+chacon2024arutani_243,pilão | mortar,224,MORTAR
+chacon2024arutani_244,novelo | ball of thread,,
+chacon2024arutani_245,mutum | curassow,315,CURASSOW
+chacon2024arutani_246,espécie de mutum | kind of curassow,,
+chacon2024arutani_247,tipo de cucura grande (lit. ”olho de mutum”) | kind of big cucura fruit,,
+chacon2024arutani_248,roça | swidden field,,
+chacon2024arutani_249,matar | kill,1417,KILL
+chacon2024arutani_250,"bater | hit, beat",1433,HIT
+chacon2024arutani_251,pescar | fish (verb),2638,FISHING
+chacon2024arutani_252,instrumento usado para matar algo | instrument for killing,,
+chacon2024arutani_253,vento | wind,960,WIND
+chacon2024arutani_254,matar com timbo | kill with fish poison,,
+chacon2024arutani_255,fugir | flee,956,FLEE
+chacon2024arutani_256,correr | run,1519,RUN
+chacon2024arutani_257,nadar | swim,1439,SWIM
+chacon2024arutani_258,voar | fly,1441,FLY (MOVE THROUGH AIR)
+chacon2024arutani_259,cabeceira | headwaters,2672,HEADWATERS
+chacon2024arutani_260,"porque, por isso, pois | because, therefore",,
+chacon2024arutani_261,cair | fall,1280,FALL
+chacon2024arutani_262,ninho | nest,539,NEST
+chacon2024arutani_263,"Você, Tu (pronome da 2a pessoa do singular) | you (singular)",1215,THOU
+chacon2024arutani_264,vocês | you (plural),1213,YOU
+chacon2024arutani_265,sonhar | dream,2374,DREAM
+chacon2024arutani_266,cana | sugar cane,,
+chacon2024arutani_267,caldo de cana | sugar cane juice,,
+chacon2024arutani_268,olho | eye,1248,EYE
+chacon2024arutani_269,"caroço | fruit stone, pit",,
+chacon2024arutani_270,pálpebras | eyelids,17,EYELID
+chacon2024arutani_271,cílios | eyelashes,1540,EYELASH
+chacon2024arutani_272,lágrima | tear,1651,TEAR (OF EYE)
+chacon2024arutani_273,cego | blind,1653,BLIND
+chacon2024arutani_274,o ponto negro dentro íris | pupil of the eye,1658,PUPIL
+chacon2024arutani_275,teu pai | your father,,
+chacon2024arutani_276,cabeça | head,1256,HEAD
+chacon2024arutani_277,"cérebro, miolos | brain",1583,BRAIN
+chacon2024arutani_278,cabelo | hair,1040,HAIR
+chacon2024arutani_279,calma! | calm down!,,
+chacon2024arutani_280,acordar | wake up,1602,WAKE UP
+chacon2024arutani_281,mascar | chew,321,CHEW
+chacon2024arutani_282,vocês dois | you two,2111,YOU TWO
+chacon2024arutani_283,canoa | canoe,1970,CANOE
+chacon2024arutani_284,pedaço de canoa usado como cocho | piece of canoe used as a trough,,
+chacon2024arutani_285,árvore para se fazer canoa | tree for making canoes,,
+chacon2024arutani_286,árvore boa para se fzer canoa | good tree for making canoes,,
+chacon2024arutani_287,"canaimé, inimigos | kanaimé, enemies",,
+chacon2024arutani_288,testa | forehead,123,FOREHEAD
+chacon2024arutani_289,sobrancelha | eyebrow,1173,EYEBROW
+chacon2024arutani_290,mastigar | chew,321,CHEW
+chacon2024arutani_291,xexéu | yellow-rumped cacique,,
+chacon2024arutani_292,neblina | fog,249,FOG
+chacon2024arutani_293,ponta | tip,2992,TIP (OF OBJECT)
+chacon2024arutani_294,Quantificador usado para quantidades maiores ou igual a 3 | quantifier for quantities of three or more,,
+chacon2024arutani_295,"galinha | chicken, hen",1318,CHICKEN
+chacon2024arutani_296,"rapidamente, rápido | quickly, fast",3365,QUICKLY
+chacon2024arutani_297,açaí | açaí,,
+chacon2024arutani_298,palmeira de açaí | açaí palm,,
+chacon2024arutani_299,cacho de açaí | açaí bunch,,
+chacon2024arutani_300,amolado | sharpened,,
+chacon2024arutani_301,"afiar, amolar | sharpen",251,SHARPEN (SOMETHING)
+chacon2024arutani_302,irmã mais nova | younger sister,1761,YOUNGER SISTER
+chacon2024arutani_303,mulher | woman,962,WOMAN
+chacon2024arutani_304,ave ”pai-da-moça” | crested oropendola,,
+chacon2024arutani_305,casada | married (woman),,
+chacon2024arutani_306,menina | girl,1646,GIRL
+chacon2024arutani_307,beiju de goma | starch flatbread,,
+chacon2024arutani_308,goma | manioc starch,,
+chacon2024arutani_309,barata | cockroach,1575,COCKROACH
+chacon2024arutani_310,irmã mais nova de alguém | someone's younger sister,,
+chacon2024arutani_311,vagina | vagina,1836,VAGINA
+chacon2024arutani_312,"queixo, boxexa | chin, cheek",,
+chacon2024arutani_313,queixo | chin,1510,CHIN
+chacon2024arutani_314,espécie de ingá | kind of ingá,,
+chacon2024arutani_315,manicuera | manicuera (sweet manioc drink),,
+chacon2024arutani_316,irmã(o) mais novo(a) | younger sibling,427,YOUNGER SIBLING
+chacon2024arutani_317,"brincadeira | game, play",2467,GAME
+chacon2024arutani_318,"esperto, hábil | clever, skilled",1310,CLEVER
+chacon2024arutani_319,brincar | play,1413,PLAY
+chacon2024arutani_320,respeitoso | respectful,,
+chacon2024arutani_321,grosso | thick,1244,THICK
+chacon2024arutani_322,martim-pescador | kingfisher,2444,KINGFISHER
+chacon2024arutani_323,pedaços47;peças de algum bicho ou coisa | pieces of an animal or thing,,
+chacon2024arutani_324,macaxeira | sweet manioc,,
+chacon2024arutani_325,barriga | belly,1251,BELLY
+chacon2024arutani_326,onça | jaguar,1250,JAGUAR
+chacon2024arutani_327,gato | cat,1208,CAT
+chacon2024arutani_328,"sussuarana, onça parda | puma",1891,PUMA
+chacon2024arutani_329,pintura facial | face paint,,
+chacon2024arutani_330,em frente | in front,1883,IN FRONT OF
+chacon2024arutani_331,tamanduá-bandeira | giant anteater,,
+chacon2024arutani_332,Este | this,1214,THIS
+chacon2024arutani_333,este aqui | this one here,,
+chacon2024arutani_334,aqui | here,136,HERE
+chacon2024arutani_335,nós dois (lit. ”junto com este”) | we two,2634,WE TWO
+chacon2024arutani_336,voltar a trabalhar | go back to work,,
+chacon2024arutani_337,lá | there,1937,THERE
+chacon2024arutani_338,"pouco | few, little",1242,FEW
+chacon2024arutani_339,um | one,1493,ONE
+chacon2024arutani_340,sozinho | alone,1964,ALONE
+chacon2024arutani_341,pênis | penis,1222,PENIS
+chacon2024arutani_342,capim | grass,606,GRASS
+chacon2024arutani_343,rede | hammock,2019,HAMMOCK
+chacon2024arutani_344,corda-de-rede | hammock rope,,
+chacon2024arutani_345,irmão mais novo | younger brother,1760,YOUNGER BROTHER
+chacon2024arutani_346,"o passado, antigo | the past, ancient",,
+chacon2024arutani_347,"avô dele, sogro dele | his grandfather, his father-in-law",,
+chacon2024arutani_348,frio | cold,1287,COLD
+chacon2024arutani_349,pessoa | person,683,PERSON
+chacon2024arutani_350,louva-deus | praying mantis,3279,MANTIS
+chacon2024arutani_351,cobra-cega | worm lizard,,
+chacon2024arutani_352,espírito de gente e de seu duplo animal | spirit of a person and of its animal double,,
+chacon2024arutani_353,alma | soul,811,SOUL
+chacon2024arutani_354,ralo | grater,,
+chacon2024arutani_355,"remo | paddle, oar",3318,OAR OR PADDLE
+chacon2024arutani_356,gente | people,789,PEOPLE
+chacon2024arutani_357,esperar | wait,1590,WAIT (FOR)
+chacon2024arutani_358,"urina, xixi | urine",1142,URINE
+chacon2024arutani_359,"fazer xixi, urinar | urinate",,
+chacon2024arutani_360,cortar em pedaços | cut into pieces,,
+chacon2024arutani_361,pequeno | small,1246,SMALL
+chacon2024arutani_362,"tio materno, sogro | maternal uncle, father-in-law",2387,UNCLE OR FATHER-IN-LAW
+chacon2024arutani_363,sou forte ou alto | I am strong or loud,,
+chacon2024arutani_364,"louco, maluco | crazy",,
+chacon2024arutani_365,dois | two,1498,TWO
+chacon2024arutani_366,coração | heart,1223,HEART
+chacon2024arutani_367,rio abaixo | downriver,,
+chacon2024arutani_368,rito de iniciação | initiation rite,,
+chacon2024arutani_369,vassoura | broom,245,BROOM
+chacon2024arutani_370,lima para amolar | file for sharpening,3407,FILE (TOOL)
+chacon2024arutani_371,inhame | yam,410,YAM
+chacon2024arutani_372,cobra (termo genérico) | snake,730,SNAKE
+chacon2024arutani_373,cobra papagaio | emerald tree boa,,
+chacon2024arutani_374,jararaca | jararaca (pit viper),,
+chacon2024arutani_375,cobra coral | coral snake,2240,CORAL SNAKE
+chacon2024arutani_376,pesado | heavy,1210,HEAVY
+chacon2024arutani_377,leve | light (in weight),1052,LIGHT (WEIGHT)
+chacon2024arutani_378,"no meio, entre duas coisas | in the middle, between two things",,
+chacon2024arutani_379,tossir | cough,879,COUGH
+chacon2024arutani_380,gripe | flu,,
+chacon2024arutani_381,assoar o catarro; ? | blow out phlegm; ?,,
+chacon2024arutani_382,catarro | phlegm,3061,PHLEGM
+chacon2024arutani_383,língua | language,1307,LANGUAGE
+chacon2024arutani_384,palavra | word,1599,WORD
+chacon2024arutani_385,obedecer | obey,1635,OBEY
+chacon2024arutani_386,ouvir; escutar | hear; listen,3862,HEAR OR LISTEN
+chacon2024arutani_387,"compreender, aprender | understand, learn",,
+chacon2024arutani_388,aprender | learn,504,LEARN
+chacon2024arutani_389,companheiro | companion,3978,COMPANION
+chacon2024arutani_390,três | three,492,THREE
+chacon2024arutani_391,quatro | four,1500,FOUR
+chacon2024arutani_392,ajudar | help,1897,HELP
+chacon2024arutani_393,nariz | nose,1221,NOSE
+chacon2024arutani_394,narina | nostril,1178,NOSTRIL
+chacon2024arutani_395,assoar o nariz | blow one's nose,2679,BLOW (WITH NOSE)
+chacon2024arutani_396,Sanhaço-Coroa Preta-Amarela | white-winged shrike-tanager,,
+chacon2024arutani_397,esquilo | squirrel,1628,SQUIRREL
+chacon2024arutani_398,"quati-puru, esquilo | squirrel",1628,SQUIRREL
+chacon2024arutani_399,assobiar | whistle,1025,WHISTLE
+chacon2024arutani_400,filho | son,1620,SON
+chacon2024arutani_401,ontem | yesterday,1174,YESTERDAY
+chacon2024arutani_402,sobrinho filho do irmão | nephew (brother's son),,
+chacon2024arutani_403,saia de miçangas | bead skirt,,
+chacon2024arutani_404,sumir | disappear,485,DISAPPEAR
+chacon2024arutani_405,esquecer-se | forget,1523,FORGET
+chacon2024arutani_406,se perder | get lost,423,GET LOST
+chacon2024arutani_407,desamolado | blunt,379,BLUNT
+chacon2024arutani_408,capivara | capybara,314,CAPYBARA
+chacon2024arutani_409,buriti | buriti palm,,
+chacon2024arutani_410,buriti | buriti fruit,,
+chacon2024arutani_411,antepassados | ancestors,1669,ANCESTORS
+chacon2024arutani_412,pele | skin,763,SKIN
+chacon2024arutani_413,"casca | bark, peel, shell",,
+chacon2024arutani_414,tipoia para carregar nenem | baby sling,3946,BABY SLING
+chacon2024arutani_415,"antepassados, ancestrais | ancestors",1669,ANCESTORS
+chacon2024arutani_416,casco | hoof,152,HOOF
+chacon2024arutani_417,velho | old,,
+chacon2024arutani_418,"ancião, velho | old man, elder",406,OLD MAN
+chacon2024arutani_419,vovô | grandpa,1383,GRANDFATHER
+chacon2024arutani_420,"chefe, capitão, tuxaua, cacique | chief, captain, tuxaua, cacique",2394,CHIEF
+chacon2024arutani_421,piolho | louse,1392,LOUSE
+chacon2024arutani_422,mutuca | horsefly,3262,HORSEFLY
+chacon2024arutani_423,lêndia | nit,267,NIT
+chacon2024arutani_424,"filhote | young (of animal), offspring",,
+chacon2024arutani_425,ovo | egg,744,EGG
+chacon2024arutani_426,filho de alguém | someone's child,,
+chacon2024arutani_427,semente | seed,714,SEED
+chacon2024arutani_428,cortar | cut,1432,CUT
+chacon2024arutani_429,estômago | stomach,819,STOMACH
+chacon2024arutani_430,dor de estômago | stomach ache,,
+chacon2024arutani_431,aracu-de-pau | aracu-de-pau (fish),,
+chacon2024arutani_432,tamanduá-mirim | southern tamandua,,
+chacon2024arutani_433,damorida | damorida (pepper stew),,
+chacon2024arutani_434,tucupi preto | black tucupi,,
+chacon2024arutani_435,espécie de aranha | kind of spider,,
+chacon2024arutani_436,lábio | lip,478,LIP
+chacon2024arutani_437,"beira, borda | edge, border",863,EDGE
+chacon2024arutani_438,beira ou margem de um rio | bank of a river,3310,SHORE OR BANK
+chacon2024arutani_439,"barbante, linha | string, thread",362,STRING
+chacon2024arutani_440,fiar algodão | spin cotton,121,SPIN
+chacon2024arutani_441,barba | beard,678,BEARD
+chacon2024arutani_442,meio do rio | middle of the river,,
+chacon2024arutani_443,anzol | fishhook,1074,FISHHOOK
+chacon2024arutani_444,camarão | shrimp,2349,SHRIMP
+chacon2024arutani_445,tatu | armadillo,1885,ARMADILLO
+chacon2024arutani_446,tatu canastra | giant armadillo,,
+chacon2024arutani_447,cajuí | cajuí (wild cashew),,
+chacon2024arutani_448,inajá | inajá palm,,
+chacon2024arutani_449,chorar | cry,1839,CRY
+chacon2024arutani_450,triste | sad,699,SAD
+chacon2024arutani_451,pontiagudo | pointed,372,POINTED
+chacon2024arutani_452,madeira boa para se fazer canoa (existe principalmente na venezuela) | wood good for making canoes,,
+chacon2024arutani_453,descascar | peel,275,PEEL
+chacon2024arutani_454,cochichar | whisper,55,WHISPER
+chacon2024arutani_455,cuatá | spider monkey,434,SPIDER MONKEY
+chacon2024arutani_456,preguiça | sloth,2446,SLOTH
+chacon2024arutani_457,vermelho | red,156,RED
+chacon2024arutani_458,laranja | orange (colour),3328,ORANGE (COLOR)
+chacon2024arutani_459,banana | banana,868,BANANA
+chacon2024arutani_460,folha de bananeira | banana leaf,,
+chacon2024arutani_461,casca de banana | banana peel,,
+chacon2024arutani_462,mingau de banana | banana porridge,,
+chacon2024arutani_463,banana meio-amarga | half-bitter banana,,
+chacon2024arutani_464,banana-comprida bastante consumida quanddo preparada na braza | long banana,,
+chacon2024arutani_465,jacaré-açu | black caiman,,
+chacon2024arutani_466,espécie de passarinho que canta ”koroxira” | kind of small bird,,
+chacon2024arutani_467,Tapicuru-de-Cara Pelada | bare-faced ibis,,
+chacon2024arutani_468,pulga | flea,232,FLEA
+chacon2024arutani_469,"planta que parece com o café, come-se apenas o caroço | plant resembling coffee",,
+chacon2024arutani_470,perna | leg,1297,LEG
+chacon2024arutani_471,"caiarara, papa-mel | tayra",3941,TAYRA (EIRA BARBARA)
+chacon2024arutani_472,cipó de fruta comestível | liana with edible fruit,,
+chacon2024arutani_473,matrinxã | matrinxã (fish),,
+chacon2024arutani_474,abanar | fan,360,FAN (ACTION)
+chacon2024arutani_475,espalhar | spread out,38,SPREAD OUT
+chacon2024arutani_476,"espécie de ave, pombinha ou juriti | kind of bird, dove",,
+chacon2024arutani_477,"caldo, liquido | broth, liquid",,
+chacon2024arutani_478,leite | milk,635,MILK
+chacon2024arutani_479,mel | honey,942,HONEY
+chacon2024arutani_480,seio | breast,1402,BREAST
+chacon2024arutani_481,abelha | bee,665,BEE
+chacon2024arutani_482,cera | wax,3942,WAX
+chacon2024arutani_483,mamar | suckle,2472,"SUCKLE (BREASTFEED, NURSE)"
+chacon2024arutani_484,mamilo | nipple,796,NIPPLE
+chacon2024arutani_485,cavar | dig,1418,DIG
+chacon2024arutani_486,cheio | full,1429,FULL
+chacon2024arutani_487,querer | want,1784,WANT
+chacon2024arutani_488,peixe (genérico) | fish (generic),227,FISH
+chacon2024arutani_489,curimatã | curimatã (fish),,
+chacon2024arutani_490,piraputanga | piraputanga (fish),,
+chacon2024arutani_491,queimar | burn,2102,BURN
+chacon2024arutani_492,taioba | taioba (plant),,
+chacon2024arutani_493,não maduro | unripe,1958,UNRIPE
+chacon2024arutani_494,brotar | sprout,2076,SPROUT (VERB)
+chacon2024arutani_495,umbigo | navel,1838,NAVEL
+chacon2024arutani_496,parte do lombar e rabo | lower back and tail region,,
+chacon2024arutani_497,bacia | pelvis,,
+chacon2024arutani_498,corda | rope,1218,ROPE
+chacon2024arutani_499,"agitar, balançar | shake, swing",1909,SHAKE
+chacon2024arutani_500,"apagar, extingui-se | go out, be extinguished",2209,BECOME EXTINGUISHED
+chacon2024arutani_501,carangueijo | crab,2348,CRAB
+chacon2024arutani_502,estar com raiva | be angry,2223,BE ANGRY
+chacon2024arutani_503,vara de pescar | fishing rod,,
+chacon2024arutani_504,boto-rosa | Amazon river dolphin,1479,DOLPHIN
+chacon2024arutani_505,palmeira da qual se faz zarabatana | palm from which blowguns are made,,
+chacon2024arutani_506,zarabatana | blowgun,432,BLOWGUN
+chacon2024arutani_507,derrubar cortando | fell by cutting,463,FELL (A TREE)
+chacon2024arutani_508,"verde, não maduro | green, unripe",1958,UNRIPE
+chacon2024arutani_509,"lagartixa | gecko, small lizard",,
+chacon2024arutani_510,flor | flower,239,FLOWER
+chacon2024arutani_511,grande | big,1202,BIG
+chacon2024arutani_512,besouro | beetle,2242,BEETLE
+chacon2024arutani_513,muchiva | muchiva,,
+chacon2024arutani_514,tucumã | tucumã palm,,
+chacon2024arutani_515,espécie de passarinho | kind of small bird,,
+chacon2024arutani_516,melancia (lit. parecido à cabaça) | watermelon,2766,WATERMELON
+chacon2024arutani_517,cabaça | gourd,411,GOURD
+chacon2024arutani_518,bico | beak,73,BEAK
+chacon2024arutani_519,"ave preta, bico encurvado, se parece com um corvo | black bird resembling a crow",,
+chacon2024arutani_520,flecha | arrow,977,ARROW
+chacon2024arutani_521,cana do mato (lit. ”árvore” de flecha) | wild cane,,
+chacon2024arutani_522,arco | bow,994,BOW
+chacon2024arutani_523,corda do arco-e-flecha | bowstring,2119,BOW STRING
+chacon2024arutani_524,joaninha | ladybug,3139,LADYBUG
+chacon2024arutani_525,espirrar | sneeze,1621,SNEEZE
+chacon2024arutani_526,carretel (peça no tear para fiar o algodão) | spool (for spinning cotton),,
+chacon2024arutani_527,algodão | cotton,1850,COTTON
+chacon2024arutani_528,espécie de planta | kind of plant,,
+chacon2024arutani_529,mole | soft,1856,SOFT
+chacon2024arutani_530,quem | who,1235,WHO
+chacon2024arutani_531,martelo | hammer,1481,HAMMER
+chacon2024arutani_532,Eu | I,1209,I
+chacon2024arutani_533,dual inclusivo | dual inclusive,2637,WE TWO (INCLUSIVE)
+chacon2024arutani_534,"minha esposa, meu marido | my wife, my husband",,
+chacon2024arutani_535,minha neta | my granddaughter,,
+chacon2024arutani_536,onde; cadê | where,1237,WHERE
+chacon2024arutani_537,como | how,,
+chacon2024arutani_538,porta | door,1567,DOOR
+chacon2024arutani_539,"meu avô, meu sogro | my grandfather, my father-in-law",,
+chacon2024arutani_540,mandioca | manioc,927,MANIOC
+chacon2024arutani_541,massa ralada da mandioca | grated manioc mash,,
+chacon2024arutani_542,farinha | manioc flour,324,MANIOC FLOUR
+chacon2024arutani_543,meu filho | my son,,
+chacon2024arutani_544,meus filhos | my children,,
+chacon2024arutani_545,minha nora (esposa do filho) | my daughter-in-law,,
+chacon2024arutani_546,agulha | needle,1382,NEEDLE (FOR SEWING)
+chacon2024arutani_547,meu pai | my father,,
+chacon2024arutani_548,meus pais | my parents,,
+chacon2024arutani_549,"membro superior (braços, mãos e dedos) | upper limb (arm, hand and fingers)",2121,ARM OR HAND
+chacon2024arutani_550,braço | arm,1673,ARM
+chacon2024arutani_551,"dedo anelar (próximo ao mindinho, ”seu vzinho”) | ring finger",,
+chacon2024arutani_552,dedo indicador | index finger,,
+chacon2024arutani_553,dedo do meio | middle finger,3387,MIDDLE FINGER
+chacon2024arutani_554,cotuvelo | elbow,981,ELBOW
+chacon2024arutani_555,dedão da mão | thumb,1781,THUMB
+chacon2024arutani_556,ante-braço | forearm,446,LOWER ARM
+chacon2024arutani_557,pulso | wrist,799,WRIST
+chacon2024arutani_558,dedo mindinho | little finger,2774,LITTLE FINGER
+chacon2024arutani_559,dedo | finger,1303,FINGER
+chacon2024arutani_560,mão (inclui dedos) | hand (including fingers),1277,HAND
+chacon2024arutani_561,dedos das mãos | fingers,1303,FINGER
+chacon2024arutani_562,minha irmã mais velha (termo referencial) | my older sister,,
+chacon2024arutani_563,nós inclusivo | we (inclusive),1131,WE (INCLUSIVE)
+chacon2024arutani_564,roça de maniva | manioc garden,,
+chacon2024arutani_565,maniva | manioc stem cutting,,
+chacon2024arutani_566,nós | we,1212,WE
+chacon2024arutani_567,o quê | what,1236,WHAT
+chacon2024arutani_568,por que | why,1270,WHY
+chacon2024arutani_569,peneira | sieve,86,SIEVE
+chacon2024arutani_570,trazer | bring,692,BRING
+chacon2024arutani_571,entrar | enter,749,ENTER
+chacon2024arutani_572,sapo | toad,894,TOAD
+chacon2024arutani_573,anta | tapir,312,TAPIR
+chacon2024arutani_574,"caruru, alga de cachoeiras | riverweed, rapids alga",,
+chacon2024arutani_575,"meu cunhado, minha cunhada | my brother-in-law, my sister-in-law",,
+chacon2024arutani_576,mamão | papaya,2445,PAPAYA
+chacon2024arutani_577,pium | pium (biting blackfly),,
+chacon2024arutani_578,irmã mais velha dele (termo referencial) | his older sister,,
+chacon2024arutani_579,maracá; chocalho | maraca; rattle,300,RATTLE
+chacon2024arutani_580,maracanã | maracanã macaw,,
+chacon2024arutani_581,rã (termo genérico) | frog,503,FROG
+chacon2024arutani_582,espécie de rã comestível | kind of edible frog,,
+chacon2024arutani_583,cobra-cipó | vine snake,,
+chacon2024arutani_584,"mala, maleta | suitcase",,
+chacon2024arutani_585,rir | laugh,,
+chacon2024arutani_586,caxiri | manioc beer,,
+chacon2024arutani_587,morcego | bat,1793,BAT
+chacon2024arutani_588,ave (espécie) | kind of bird,,
+chacon2024arutani_589,Juruti-Piranga | ruddy quail-dove,,
+chacon2024arutani_590,faca | knife,1352,KNIFE
+chacon2024arutani_591,planta comestível com uma fruta pretinha | edible plant with small black fruit,,
+chacon2024arutani_592,minha neta; nora; minha sorinha | my granddaughter; daughter-in-law; my niece,,
+chacon2024arutani_593,beliscar | pinch,378,PINCH
+chacon2024arutani_594,arranhar | scratch,1436,SCRATCH
+chacon2024arutani_595,ter medo | be afraid,1419,FEAR (BE AFRAID)
+chacon2024arutani_596,assustar | frighten,252,FRIGHTEN
+chacon2024arutani_597,relampejar | flash with lightning,,
+chacon2024arutani_598,"ficar bravo, valente, violento, | get angry, brave, violent",,
+chacon2024arutani_599,estar alegre | be happy,1495,HAPPY
+chacon2024arutani_600,minha mãe | my mother,,
+chacon2024arutani_601,capinar | weed (verb),,
+chacon2024arutani_602,fora | outside,762,OUTSIDE
+chacon2024arutani_603,escorpião | scorpion,1538,SCORPION
+chacon2024arutani_604,jacundá | pike cichlid,,
+chacon2024arutani_605,ir embora de volta | go back,,
+chacon2024arutani_606,"família, familiares consanguíneos, grupo étnico | family, kin, ethnic group",,
+chacon2024arutani_607,homem | man,1554,MAN
+chacon2024arutani_608,casado | married (man),,
+chacon2024arutani_609,meu irmão mais velho | my older brother,,
+chacon2024arutani_610,abiú | abiu fruit,,
+chacon2024arutani_611,"parece com abiú, grande, amarelo, mole, bem doce | tree resembling abiu",,
+chacon2024arutani_612,minha filha | my daughter,,
+chacon2024arutani_613,"cauda, rabo | tail",1220,TAIL
+chacon2024arutani_614,cutiaia | acouchi,,
+chacon2024arutani_615,milho | maize,,
+chacon2024arutani_616,plantar milho | plant maize,,
+chacon2024arutani_617,banana-inajá | banana-inajá,,
+chacon2024arutani_618,pessoa negra | black person,,
+chacon2024arutani_619,avarento | stingy,,
+chacon2024arutani_620,preguiça | laziness,,
+chacon2024arutani_621,carne | meat,634,MEAT
+chacon2024arutani_622,"lembrar com tristeza, estar com saudades | remember with sadness, miss",,
+chacon2024arutani_623,estar triste | be sad,699,SAD
+chacon2024arutani_624,ter saudades | miss (someone),,
+chacon2024arutani_625,preocupado | worried,,
+chacon2024arutani_626,osso | bone,1394,BONE
+chacon2024arutani_627,pedra | stone,857,STONE
+chacon2024arutani_628,"chapa, forno | griddle, oven",,
+chacon2024arutani_629,base de barro para chapa | clay base for the griddle,,
+chacon2024arutani_630,"serra, tepui, chapada | mountain range, tepui, plateau",,
+chacon2024arutani_631,timbó | timbó (fish poison),348,FISH POISON
+chacon2024arutani_632,pé de jatobá | jatobá tree,,
+chacon2024arutani_633,motor | motor,110,MOTOR
+chacon2024arutani_634,buraco | hole,1667,HOLE
+chacon2024arutani_635,esquecer | forget,1523,FORGET
+chacon2024arutani_636,"para, finalidade | for, purpose",,
+chacon2024arutani_637,se; quando; condição | if; when; condition,,
+chacon2024arutani_638,também | also,,
+chacon2024arutani_639,bonito | pretty,1427,BEAUTIFUL
+chacon2024arutani_640,sentar | sit,1416,SIT
+chacon2024arutani_641,agachar-se | squat,3163,SQUAT
+chacon2024arutani_642,encostar-se | lean against,,
+chacon2024arutani_643,margem do rio | river bank,3310,SHORE OR BANK
+chacon2024arutani_644,"banco | bench, stool",,
+chacon2024arutani_645,procurar | look for,1468,LOOK FOR
+chacon2024arutani_646,se tornar | become,1990,BECOME
+chacon2024arutani_647,embrulhar | wrap,1113,WRAP
+chacon2024arutani_648,abano para fogo | fire fan,,
+chacon2024arutani_649,tipiti | tipiti (manioc press),,
+chacon2024arutani_650,"estar enfadado, sem ter nada o que fazer | be bored, have nothing to do",,
+chacon2024arutani_651,banana sapo | banana-sapo (banana variety),,
+chacon2024arutani_652,banana (especie) | kind of banana,,
+chacon2024arutani_653,crianças | children,,
+chacon2024arutani_654,"cunhado, cunhada | brother-in-law, sister-in-law",,
+chacon2024arutani_655,"cunhado dela, dele | his/her brother-in-law",,
+chacon2024arutani_656,pupunha | peach palm,,
+chacon2024arutani_657,palmeira marajá | marajá palm,,
+chacon2024arutani_658,vagalume | firefly,206,FIREFLY
+chacon2024arutani_659,lagarta de fogo | fire caterpillar,,
+chacon2024arutani_660,zogue-zogue | titi monkey,,
+chacon2024arutani_661,cozinhar | cook,1100,COOK (SOMETHING)
+chacon2024arutani_662,"criança; bebê, nenê | child; baby",,
+chacon2024arutani_663,mulher grávida | pregnant woman,,
+chacon2024arutani_664,"mata, floresta | forest, woods",420,FOREST
+chacon2024arutani_665,"comunidade | community, village",,
+chacon2024arutani_666,"lavrado, capinzal, capim | savanna, grassland, grass",,
+chacon2024arutani_667,cachoeira (ou corredeira) | waterfall (or rapids),,
+chacon2024arutani_668,abano para virar beiju | fan for flipping cassava bread,,
+chacon2024arutani_669,irmão (termo referencial) | brother (referential),1262,BROTHER
+chacon2024arutani_670,urubu | vulture,1185,VULTURE
+chacon2024arutani_671,"pelo, cabelo | hair, fur",2678,HAIR OR FUR
+chacon2024arutani_672,calvo | bald,1125,BALD
+chacon2024arutani_673,espécie de árvore | kind of tree,,
+chacon2024arutani_674,borboleta | butterfly,1791,BUTTERFLY
+chacon2024arutani_675,sol | sun,1343,SUN
+chacon2024arutani_676,pimenta | chili pepper,919,CHILI PEPPER
+chacon2024arutani_677,"apimentado | peppery, hot",,
+chacon2024arutani_678,massa seca de ma ndioca | dry manioc mash,,
+chacon2024arutani_679,juquitaia | juquitaia (chili powder),,
+chacon2024arutani_680,espinho | thorn,124,THORN
+chacon2024arutani_681,casa (forma possuída) | house (possessed form),,
+chacon2024arutani_682,"fazer | make, do",2575,DO OR MAKE
+chacon2024arutani_683,voltar | return,,
+chacon2024arutani_684,abacaxi | pineapple,2440,PINEAPPLE
+chacon2024arutani_685,misturar | mix,2017,MIX
+chacon2024arutani_686,árvore com qual se faz tintura escura | tree yielding a dark dye,,
+chacon2024arutani_687,arpão | harpoon,,
+chacon2024arutani_688,copaíba | copaiba tree,,
+chacon2024arutani_689,esteira para deitar beiju depois de pronto | mat for cassava bread,,
+chacon2024arutani_690,peixe da família do poraquê | fish related to the electric eel,,
+chacon2024arutani_691,Araçari-Mulato | curl-crested aracari,,
+chacon2024arutani_692,palito | matches,,
+chacon2024arutani_693,jundiá | jundiá catfish,,
+chacon2024arutani_694,jacaretinga | jacaretinga,,
+chacon2024arutani_695,assar | roast,,
+chacon2024arutani_696,"portar, usar | carry, wear",,
+chacon2024arutani_697,pescoço | neck,1333,NECK
+chacon2024arutani_698,"dinheiro, moeda | money, coin",1559,MONEY
+chacon2024arutani_699,"chumbo e por extensão arma para duelos feita de chumbo | lead (sinker), and by extension a lead weapon for duels",,
+chacon2024arutani_700,espécie de pulga grande | kind of big flea,,
+chacon2024arutani_701,cuxiú | bearded saki (cuxiú),,
+chacon2024arutani_702,pendurar-se | hang (oneself on something),,
+chacon2024arutani_703,pendurado | hanging,,
+chacon2024arutani_704,cuia | calabash bowl,,
+chacon2024arutani_705,roupa | clothes,1895,CLOTHES
+chacon2024arutani_706,botão | button,757,BUTTON
+chacon2024arutani_707,mapinguari; espírito | mapinguari; spirit,,
+chacon2024arutani_708,cucura | Amazon grape (cucura),,
+chacon2024arutani_709,vidro | glass,604,GLASS
+chacon2024arutani_710,Pipira-Garganta Preta e Rabadilha Amarela | kind of tanager,,
+chacon2024arutani_711,estragado | spoiled,569,SPOIL (BECOME SPOILED)
+chacon2024arutani_712,"cansado, com sono | tired, sleepy",,
+chacon2024arutani_713,ruim | bad,1292,BAD
+chacon2024arutani_714,colher (utensí́lio) | spoon (utensil),1378,SPOON
+chacon2024arutani_715,espingarda | shotgun,1566,GUN
+chacon2024arutani_716,espécie de loiro (árvore) | kind of laurel tree,,
+chacon2024arutani_717,tacuara | tacuara bamboo,,
+chacon2024arutani_718,bambu | bamboo,1927,BAMBOO
+chacon2024arutani_719,"mexer, tocar, manusear | move, touch, handle",,
+chacon2024arutani_720,dizer; falar; contar | say; speak; tell,,
+chacon2024arutani_721,pedir | ask for,1828,ASK (REQUEST)
+chacon2024arutani_722,acusar | accuse,1814,ACCUSE
+chacon2024arutani_723,conversar | converse,,
+chacon2024arutani_724,cantar de pássaro | sing (of a bird),,
+chacon2024arutani_725,falar | speak,1623,SPEAK
+chacon2024arutani_726,"comprar, pedir | buy, ask for",,
+chacon2024arutani_727,"anunciar, avisar às pessoas | announce, let people know",,
+chacon2024arutani_728,parecer | seem,1521,SEEM
+chacon2024arutani_729,dar | give,1447,GIVE
+chacon2024arutani_730,branco | white,1335,WHITE
+chacon2024arutani_731,rosa | pink,3446,PINK
+chacon2024arutani_732,pacu-pemba | rusty-margined guan,,
+chacon2024arutani_733,pergunta | ask,1309,ASK (INQUIRE)
+chacon2024arutani_734,cantar e dançar | sing and dance,,
+chacon2024arutani_735,"limão | lime, lemon",,
+chacon2024arutani_736,gritar | shout,715,SHOUT
+chacon2024arutani_737,inambu | tinamou,3921,TINAMOU
+chacon2024arutani_738,inambuzinho | small tinamou,,
+chacon2024arutani_739,Tucano-de-Bico Preto | channel-billed toucan,,
+chacon2024arutani_740,espécie de gavião | kind of hawk,,
+chacon2024arutani_741,"harpia, gavião-real | harpy eagle",,
+chacon2024arutani_742,"zagaia | lance, javelin",,
+chacon2024arutani_743,Tucano ou Tucanuçu | toucan,308,TOUCAN
+chacon2024arutani_744,adorno ou enfeite feiito de penas de tucao | ornament made of toucan feathers,,
+chacon2024arutani_745,veado | deer,1936,DEER
+chacon2024arutani_746,chapeu | hat,771,HAT
+chacon2024arutani_747,cocar | feather headdress,331,HEADDRESS
+chacon2024arutani_748,Pica-Pauzinho-Anão | little woodpecker,,
+chacon2024arutani_749,tambor | drum,908,DRUM
+chacon2024arutani_750,ingá | ingá,,
+chacon2024arutani_751,"rato | rat, mouse",2139,MUROID (MOUSE OR RAT)
+chacon2024arutani_752,"axila, sovaco | armpit",1886,ARMPIT
+chacon2024arutani_753,sal | salt,1274,SALT
+chacon2024arutani_754,baixo | low,2191,LOW (HEIGHT)
+chacon2024arutani_755,curto | short,1645,SHORT
+chacon2024arutani_756,"agora, já | now, already",1376,NOW
+chacon2024arutani_757,agora | now,1376,NOW
+chacon2024arutani_758,cutia | agouti,313,AGOUTI
+chacon2024arutani_759,cujubim | blue-throated piping guan,,
+chacon2024arutani_760,"fazer | do, make",2575,DO OR MAKE
+chacon2024arutani_761,porco-espinho | porcupine,2510,PORCUPINE
+chacon2024arutani_762,"ter sono, dormir | be sleepy, sleep",,
+chacon2024arutani_763,preto | black,163,BLACK
+chacon2024arutani_764,sujo | dirty,1230,DIRTY
+chacon2024arutani_765,"maduro, referindo-se a frutas que escurecem quando maduras | ripe (of fruits that darken when ripe)",,
+chacon2024arutani_766,lilás | lilac,,
+chacon2024arutani_767,"vovó, sogra (vocativo) | grandma, mother-in-law (vocative)",,
+chacon2024arutani_768,"avó, sogra, tia paterna | grandmother, mother-in-law, paternal aunt",,
+chacon2024arutani_769,avó ou sogra de alguém | someone's grandmother or mother-in-law,,
+chacon2024arutani_770,peixe cabeça-vermelha | red-headed fish,,
+chacon2024arutani_771,paca | paca,316,PACA
+chacon2024arutani_772,Inhambu-Açu | great tinamou,,
+chacon2024arutani_773,boca | mouth,674,MOUTH
+chacon2024arutani_774,saliva | saliva,1503,SALIVA
+chacon2024arutani_775,estar pousado | be perched,,
+chacon2024arutani_776,forte | strong,785,STRONG
+chacon2024arutani_777,peixe família do mandi | fish of the mandi family,,
+chacon2024arutani_778,se aproximar | approach,1778,APPROACH
+chacon2024arutani_779,mentir | lie,601,LIE (MISLEAD)
+chacon2024arutani_780,enganar | deceive,3230,DECEIVE
+chacon2024arutani_781,adulto | adult,3635,ADULT
+chacon2024arutani_782,faz tempo; antigamente | long ago; formerly,373,LONG AGO
+chacon2024arutani_783,último | last,1529,LAST (FINAL)
+chacon2024arutani_784,gaguejar | stutter,1866,STUTTER
+chacon2024arutani_785,face | face,1560,FACE
+chacon2024arutani_786,beijar | kiss,578,KISS
+chacon2024arutani_787,ombro | shoulder,1482,SHOULDER
+chacon2024arutani_788,arara | macaw,1630,MACAW
+chacon2024arutani_789,arara-azul | blue macaw,,
+chacon2024arutani_790,arara-vermelha | red macaw,,
+chacon2024arutani_791,cuiu-cuiu ou mandi esp | cuiu-cuiu or mandi catfish,,
+chacon2024arutani_792,Iraúna-Grande | giant cowbird,,
+chacon2024arutani_793,bom | good,1035,GOOD
+chacon2024arutani_794,novo | new,1231,NEW
+chacon2024arutani_795,"correto, verdade | correct, true",,
+chacon2024arutani_796,espécie de árvore com frutas comestíveis | kind of tree with edible fruit,,
+chacon2024arutani_797,bacurau | nightjar (bacurau),,
+chacon2024arutani_798,"depois, agora não | later, not now",,
+chacon2024arutani_799,"claro | clear, bright",,
+chacon2024arutani_800,amarrar; armar rede | tie; hang a hammock,,
+chacon2024arutani_801,coçar | scratch (an itch),,
+chacon2024arutani_802,árvore (espécie com frutas comestíveis) | tree with edible fruit,,
+chacon2024arutani_803,fruta de tayay árvore (espécie) | fruit of the tayay tree,,
+chacon2024arutani_804,deus | god,1944,GOD
+chacon2024arutani_805,terminar de fazer algo | finish doing something,1766,FINISH
+chacon2024arutani_806,deitado | lying down,,
+chacon2024arutani_807,beija-flor | hummingbird,1589,HUMMINGBIRD
+chacon2024arutani_808,deitar na rede | lie in a hammock,,
+chacon2024arutani_809,cheirar; sentir cheiro | smell; perceive a smell,1586,SMELL (PERCEIVE)
+chacon2024arutani_810,"chupar, sugar; sugar | suck",1421,SUCK
+chacon2024arutani_811,está bem | it's all right,,
+chacon2024arutani_812,estar dentro | be inside,,
+chacon2024arutani_813,chegar de volta | come back,,
+chacon2024arutani_814,"brancos, não indígenas | white people, non-indigenous people",,
+chacon2024arutani_815,cidade | city,2547,CITY
+chacon2024arutani_816,"desitir, largar de mão | give up, let go",,
+chacon2024arutani_817,"expulsar, botar para fora | expel, throw out",,
+chacon2024arutani_818,estar no rio referindo-se a umc objeto | be in the river (of an object),,
+chacon2024arutani_819,"muito | very, much",,
+chacon2024arutani_820,empilhar | pile up,1576,PILE UP
+chacon2024arutani_821,"bravo, valente | angry, brave",,
+chacon2024arutani_822,ferrar | sting,571,STING
+chacon2024arutani_823,pus | pus,1808,PUS
+chacon2024arutani_824,cachorro | dog,2009,DOG
+chacon2024arutani_825,espremer | squeeze,1414,SQUEEZE
+chacon2024arutani_826,trocar | exchange,2509,EXCHANGE
+chacon2024arutani_827,espécie de mandi | kind of mandi catfish,,
+chacon2024arutani_828,gema de ovo | egg yolk,1556,YOLK
+chacon2024arutani_829,bacuri | bacuri fruit,,
+chacon2024arutani_830,ester cheio | be full,,
+chacon2024arutani_831,japu | olive oropendola,,
+chacon2024arutani_832,chifre | horn,1393,HORN (ANATOMY)
+chacon2024arutani_833,"de noite, quando está escuro | at night, when it is dark",,
+chacon2024arutani_834,"cozido, preparado | cooked, prepared",269,COOKED
+chacon2024arutani_835,irmão mais velho | older brother,1759,OLDER BROTHER
+chacon2024arutani_836,irmão mais velho (vocativo) | older brother (vocative),1759,OLDER BROTHER
+chacon2024arutani_837,inchar | swell,1573,SWELL
+chacon2024arutani_838,estar empanzinado | be stuffed,,
+chacon2024arutani_839,"por extensão de inchar, indica o estado de bananas maduras, quando crescem e incham no cacho | ripe and swollen (of bananas)",,
+chacon2024arutani_840,besouro de chifre | horned beetle,,
+chacon2024arutani_841,tabaco | tobacco,974,TOBACCO
+chacon2024arutani_842,gordura | fat,323,FAT (ORGANIC SUBSTANCE)
+chacon2024arutani_843,"azeite, óleo | olive oil, oil",,
+chacon2024arutani_844,engordar | get fat,,
+chacon2024arutani_845,mascar tabaco | chew tobacco,,
+chacon2024arutani_846,"cigarro, tabaco | cigarette, tobacco",,
+chacon2024arutani_847,doer | hurt,2561,HURT (SENSE PAIN)
+chacon2024arutani_848,"arder | burn, sting",,
+chacon2024arutani_849,tomar | take,1749,TAKE
+chacon2024arutani_850,bater com pau | beat with a stick,,
+chacon2024arutani_851,azul claro | light blue,3604,LIGHT BLUE
+chacon2024arutani_852,sapo cururu | cururu toad,,
+chacon2024arutani_853,garça | heron,758,HERON
+chacon2024arutani_854,ipeque | sungrebe,,
+chacon2024arutani_855,tocar | touch,1892,TOUCH
+chacon2024arutani_856,rio acima | upriver,,
+chacon2024arutani_857,vomitar | vomit,1278,VOMIT
+chacon2024arutani_858,existir | exist,,
+chacon2024arutani_859,a si próprio (reflexivo) | oneself (reflexive),,
+chacon2024arutani_860,tapiri | tapiri (shelter),,
+chacon2024arutani_861,"cuiu-cuiu, espécie de peixe | cuiu-cuiu, kind of fish",,
+chacon2024arutani_862,lavar | wash,1453,WASH
+chacon2024arutani_863,"tirar algo de um lugar, pegar algo de aalgum lugar, colher uma fruta | take something from a place, pick a fruit",,
+chacon2024arutani_864,costurar | sew,1457,SEW
+chacon2024arutani_865,"espetar, furar | pierce, prick",398,PIERCE
+chacon2024arutani_866,sogro | father-in-law,1055,FATHER-IN-LAW
+chacon2024arutani_867,Alma-de-Gato | squirrel cuckoo,,
+chacon2024arutani_868,sorva | sorva (tree),,
+chacon2024arutani_869,guariba | howler monkey,433,HOWLER MONKEY
+chacon2024arutani_870,filha | daughter,1357,DAUGHTER
+chacon2024arutani_871,borrachudo | blackfly (borrachudo),,
+chacon2024arutani_872,acabar | finish,2115,CEASE OR FINISH
+chacon2024arutani_873,pronto | ready,,
+chacon2024arutani_874,amassar | knead,274,KNEAD
+chacon2024arutani_875,moer | grind,1033,GRIND
+chacon2024arutani_876,irmã(o) mais nova(o) | younger sibling,427,YOUNGER SIBLING
+chacon2024arutani_877,aquele | that,78,THAT
+chacon2024arutani_878,ali | there,1937,THERE
+chacon2024arutani_879,orelha | ear,1247,EAR
+chacon2024arutani_880,ouvido | inner ear,,
+chacon2024arutani_881,brinco | earring,770,EARRING
+chacon2024arutani_882,"pronto, ok, está bem | ready, OK, all right",,
+chacon2024arutani_883,peneirar | sieve (verb),3448,SIEVE OR STRAIN
+chacon2024arutani_884,"namorar, fazer sexo | court, have sex",,
+chacon2024arutani_885,ter relações sexuais | have sexual relations,,
+chacon2024arutani_886,mamori | mamori,,
+chacon2024arutani_887,doente | sick,1847,SICK
+chacon2024arutani_888,adoecer | fall sick,2327,BECOME SICK
+chacon2024arutani_889,machado | axe,677,AXE
+chacon2024arutani_890,tomar | drink,1401,DRINK
+chacon2024arutani_891,"neto, sobrinho | grandson, nephew",,
+chacon2024arutani_892,viúvo | widower,1981,WIDOWER
+chacon2024arutani_893,"surgir, aparecer, mostrar-se | emerge, appear, show oneself",1076,EMERGE (APPEAR)
+chacon2024arutani_894,puxar | pull,1455,PULL
+chacon2024arutani_895,queimar um cocho ou canoa | burn a trough or canoe,,
+chacon2024arutani_896,"romper-se | break, burst",,
+chacon2024arutani_897,vestir algo | put on (clothing),,
+chacon2024arutani_898,outro | other,197,OTHER
+chacon2024arutani_899,lado oposto | opposite side,,
+chacon2024arutani_900,"ao lado, em outro lugar | beside, elsewhere",,
+chacon2024arutani_901,afastar-se ao dar licença para alguém se sentar ao lado | move aside to let someone sit,,
+chacon2024arutani_902,"eles, os outros | they, the others",,
+chacon2024arutani_903,urucum | annatto,,
+chacon2024arutani_904,rasgar | tear,1735,TEAR (SHRED)
+chacon2024arutani_905,peidar | fart,1159,FART
+chacon2024arutani_906,"neta, nora | granddaughter, daughter-in-law",,
+chacon2024arutani_907,"subir, escalar | go up, climb",1102,CLIMB
+chacon2024arutani_908,"fumaça, nuvem | smoke, cloud",,
+chacon2024arutani_909,árvore | tree,906,TREE
+chacon2024arutani_910,fruta | fruit,1507,FRUIT
+chacon2024arutani_911,"tábua | board, plank",,
+chacon2024arutani_912,folha de árvore | tree leaf,628,LEAF
+chacon2024arutani_913,"bastão, bengala | staff, walking stick",,
+chacon2024arutani_914,esteio ou o tronco para se fazer coluna de uma casa | post or trunk for a house pillar,,
+chacon2024arutani_915,casca de árvore | tree bark,1204,BARK
+chacon2024arutani_916,entrecasca usada para fazer canoas descartáveis | inner bark used for disposable canoes,,
+chacon2024arutani_917,queimar roça | burn a swidden field,3539,BURN LAND
+chacon2024arutani_918,tronco | tree trunk,344,TREE TRUNK
+chacon2024arutani_919,espécie de loiro | kind of laurel tree,,
+chacon2024arutani_920,pulmão | lung,688,LUNG
+chacon2024arutani_921,pente | comb,1475,COMB
+chacon2024arutani_922,pé | foot,1301,FOOT
+chacon2024arutani_923,pegada | footprint,318,FOOTPRINT
+chacon2024arutani_924,tornozelo | ankle,803,ANKLE
+chacon2024arutani_925,dedos do pé | toes,1389,TOE
+chacon2024arutani_926,alto | tall,711,TALL
+chacon2024arutani_927,cumprido | long,1203,LONG
+chacon2024arutani_928,sabão | soap,788,SOAP
+chacon2024arutani_929,podre | rotten,1728,ROTTEN
+chacon2024arutani_930,fedido | stinking,,
+chacon2024arutani_931,"fedor, podre | stench, rotten",,
+chacon2024arutani_932,vivo | alive,1422,BE ALIVE
+chacon2024arutani_933,feder a podre | stink of rot,,
+chacon2024arutani_934,bora! | let's go!,,
+chacon2024arutani_935,catetu | collared peccary,435,COLLARED PECCARY
+chacon2024arutani_936,banana casca-verde; banana casa-verde | green-peel banana,,
+chacon2024arutani_937,cachorro-do-mato | crab-eating fox,,
+chacon2024arutani_938,banda da costela | side of the ribs,,
+chacon2024arutani_939,pacu | pacu (fish),,
+chacon2024arutani_940,espátula | spatula,,
+chacon2024arutani_941,pó | powder,3368,POWDER
+chacon2024arutani_942,cutiara | kind of agouti,,
+chacon2024arutani_943,"cesto, aturá | basket, carrying basket",1539,BASKET
+chacon2024arutani_944,xamaxim | xamaxim (carrying basket),,
+chacon2024arutani_945,ave que anda na beira do rio e faz cocacaca | bird walking on river banks,,
+chacon2024arutani_946,araguaí | white-eyed parakeet,,
+chacon2024arutani_947,jacuraru; teiú; tiu | tegu lizard,,
+chacon2024arutani_948,"comestível pelos macacos, parece com abiú | tree with fruit eaten by monkeys",,
+chacon2024arutani_949,duro | hard,,
+chacon2024arutani_950,seco | dry,,
+chacon2024arutani_951,vá | go!,,
+chacon2024arutani_952,"capemba, casca verde superior de palmeiras | palm spathe",,
+chacon2024arutani_953,paxiúba | paxiúba palm,,
+chacon2024arutani_954,cupim | termite,883,TERMITE
+chacon2024arutani_955,cascavel | rattlesnake,871,RATTLESNAKE
+chacon2024arutani_956,surucucu | bushmaster,,
+chacon2024arutani_957,subir carregando | climb carrying something,,
+chacon2024arutani_958,acima | above,,
+chacon2024arutani_959,"verme, minhoca | worm, earthworm",1219,WORM
+chacon2024arutani_960,carrapato | tick,1527,TICK
+chacon2024arutani_961,carrapato menorzinho | small tick,,
+chacon2024arutani_962,peito | chest,1592,CHEST
+chacon2024arutani_963,facão | machete,2680,MACHETE
+chacon2024arutani_964,"escroto, ovo do saco de um homem | scrotum, testicle",2834,SCROTUM
+chacon2024arutani_965,cupuaçu do mato | wild cupuaçu,,
+chacon2024arutani_966,unha | nail,3306,NAIL
+chacon2024arutani_967,jirau | jirau (raised platform),,
+chacon2024arutani_968,flautinha com dois tubos | double-tubed flute,,
+chacon2024arutani_969,garganta | throat,1346,THROAT
+chacon2024arutani_970,desenhar | draw,,
+chacon2024arutani_971,comida | food,256,FOOD
+chacon2024arutani_972,nuca | nape,1347,NAPE (OF NECK)
+chacon2024arutani_973,marajá-açú | marajá-açú palm,,
+chacon2024arutani_974,beiju | cassava bread,407,MANIOC BREAD
+chacon2024arutani_975,mingau de mandioca | manioc porridge,,
+chacon2024arutani_976,carcassa | carcass,1770,CARCASS
+chacon2024arutani_977,trabalhar | work,1086,WORK (ACTIVITY)
+chacon2024arutani_978,banana-cumprida | long banana,,
+chacon2024arutani_979,cipó | liana,2388,LIANA
+chacon2024arutani_980,verdadeiro | true,1657,TRUE
+chacon2024arutani_981,banhar-se | bathe,138,BATHE
+chacon2024arutani_982,passarinho (termo genérico) | small bird (generic),,

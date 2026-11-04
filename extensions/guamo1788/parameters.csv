@@ -1,0 +1,314 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss
+guamo1788_1,Dios | God,1944,GOD
+guamo1788_2,Padre | father,1217,FATHER
+guamo1788_3,Madre | mother,1216,MOTHER
+guamo1788_4,Hijo | son,1620,SON
+guamo1788_5,Hija | daughter,1357,DAUGHTER
+guamo1788_6,Hermanc | brother,1262,BROTHER
+guamo1788_7,Hermana | sister,1263,SISTER
+guamo1788_8,Marido | husband,1200,HUSBAND
+guamo1788_9,"Muger | woman, wife",,
+guamo1788_10,Doncella | maiden,,
+guamo1788_11,Mozo | young man,,
+guamo1788_12,Niño | child,1304,CHILD (YOUNG HUMAN)
+guamo1788_13,Hombre | man,1554,MAN
+guamo1788_14,Gentes | people,789,PEOPLE
+guamo1788_15,Cabeza | head,1256,HEAD
+guamo1788_16,Cara | face,1560,FACE
+guamo1788_17,Nariz | nose,1221,NOSE
+guamo1788_18,Narices | nostrils,1178,NOSTRIL
+guamo1788_19,Ojo | eye,1248,EYE
+guamo1788_20,Cejas | eyebrows,1173,EYEBROW
+guamo1788_21,Pestañas | eyelashes,1540,EYELASH
+guamo1788_22,Oreja | ear,1247,EAR
+guamo1788_23,Frente | forehead,123,FOREHEAD
+guamo1788_24,Cabellos | hair (of the head),1040,HAIR
+guamo1788_25,Mexillas | cheeks,1730,CHEEK
+guamo1788_26,Boca | mouth,674,MOUTH
+guamo1788_27,Garganta | throat,1346,THROAT
+guamo1788_28,Labios | lips,478,LIP
+guamo1788_29,Dientes | teeth,1380,TOOTH
+guamo1788_30,Lengua | tongue,1205,TONGUE
+guamo1788_31,Barba | beard,678,BEARD
+guamo1788_32,Cuello | neck,1333,NECK
+guamo1788_33,Hombro | shoulder,1482,SHOULDER
+guamo1788_34,Codo | elbow,981,ELBOW
+guamo1788_35,Mano | hand,1277,HAND
+guamo1788_36,Brazo | arm,1673,ARM
+guamo1788_37,Dedos | fingers,1303,FINGER
+guamo1788_38,Uñas | nails,1258,FINGERNAIL
+guamo1788_39,"Pecho | chest, breast",1592,CHEST
+guamo1788_40,Vientre | belly,1251,BELLY
+guamo1788_41,Espalda | back,1291,BACK
+guamo1788_42,Pie | foot,1301,FOOT
+guamo1788_43,Rodilla | knee,1371,KNEE
+guamo1788_44,Corazon | heart,1223,HEART
+guamo1788_45,Estómago | stomach,819,STOMACH
+guamo1788_46,Sangre | blood,946,BLOOD
+guamo1788_47,Leche | milk,635,MILK
+guamo1788_48,Piel | skin,763,SKIN
+guamo1788_49,"Carne | flesh, meat",2615,FLESH OR MEAT
+guamo1788_50,Hueso | bone,1394,BONE
+guamo1788_51,Oido | hearing (sense),,
+guamo1788_52,Vista | sight (sense),,
+guamo1788_53,Ver | to see,1409,SEE
+guamo1788_54,Gusto | taste (sense),,
+guamo1788_55,Olfato | smell (sense),,
+guamo1788_56,Oler | to smell,1586,SMELL (PERCEIVE)
+guamo1788_57,Tacto | touch (sense),,
+guamo1788_58,Voz | voice,1363,VOICE
+guamo1788_59,Hablar | to speak,1623,SPEAK
+guamo1788_60,Palabra | word,1599,WORD
+guamo1788_61,Nombrar | to name,,
+guamo1788_62,Gritar | to shout,715,SHOUT
+guamo1788_63,"Grito | shout, cry (n.)",,
+guamo1788_64,Ruido | noise,1182,NOISE
+guamo1788_65,Ahullido | howl,,
+guamo1788_66,Llorar | to weep,1839,CRY
+guamo1788_67,Reir | to laugh,1355,LAUGH
+guamo1788_68,Cantar | to sing,1261,SING
+guamo1788_69,Estornudar | to sneeze,1621,SNEEZE
+guamo1788_70,Temblar | to tremble,52,SHIVER
+guamo1788_71,Suspirar | to sigh,,
+guamo1788_72,Bostezar | to yawn,1028,YAWN
+guamo1788_73,Silvar | to whistle,1025,WHISTLE
+guamo1788_74,Echarse | to lie down,215,LIE DOWN
+guamo1788_75,"Para (tu) | stop! (you, sg.)",,
+guamo1788_76,Yr | to go,695,GO
+guamo1788_77,"Ve (tu) | go! (you, sg.)",,
+guamo1788_78,Vete | go away!,,
+guamo1788_79,Dormir | to sleep,1585,SLEEP
+guamo1788_80,"Sueño | sleep, dream",,
+guamo1788_81,Saltar | to jump,1829,JUMP
+guamo1788_82,Tener | to have,773,HAVE
+guamo1788_83,Correr | to run,1519,RUN
+guamo1788_84,Bailar | to dance,1879,DANCE
+guamo1788_85,Mamar | to suckle,,
+guamo1788_86,Amor | love,3834,LOVE (AFFECTION)
+guamo1788_87,Tristeza | sadness,3854,SADNESS
+guamo1788_88,Dolor | pain,1783,PAIN
+guamo1788_89,"Trabajo | work, toil",984,WORK (LABOUR)
+guamo1788_90,Perezoso | lazy,1564,LAZY
+guamo1788_91,Yo | I,1209,I
+guamo1788_92,Tu | you (sg.),1215,THOU
+guamo1788_93,"Aquel | that one, he",2642,HE OR SHE
+guamo1788_94,Nosotros | we,1212,WE
+guamo1788_95,Vosotros | you (pl.),1213,YOU
+guamo1788_96,"Aquellos | those, they",817,THEY
+guamo1788_97,Yo soy | I am,,
+guamo1788_98,Tu eres | you are (sg.),,
+guamo1788_99,El es | he is,,
+guamo1788_100,Nosotros somos | we are,,
+guamo1788_101,Vosotros sois | you are (pl.),,
+guamo1788_102,Aquellos son | they are,,
+guamo1788_103,Fue | was,,
+guamo1788_104,Comer | to eat,1336,EAT
+guamo1788_105,Yo como | I eat,,
+guamo1788_106,Tu comes | you eat (sg.),,
+guamo1788_107,Aquel come | he eats,,
+guamo1788_108,Beber | to drink,1401,DRINK
+guamo1788_109,Tomar | to take,1749,TAKE
+guamo1788_110,Sacudir (golpear) | to shake (to strike),,
+guamo1788_111,Llover | to rain,1253,RAIN (RAINING)
+guamo1788_112,Echar | to throw,1456,THROW
+guamo1788_113,Desgarrar | to tear,1735,TEAR (SHRED)
+guamo1788_114,"Da (tu) | give! (you, sg.)",,
+guamo1788_115,Cortar | to cut,1432,CUT
+guamo1788_116,Ocultar | to hide,602,HIDE (CONCEAL)
+guamo1788_117,Fuerza | strength,202,STRENGTH
+guamo1788_118,Parir | to give birth,1195,GIVE BIRTH
+guamo1788_119,Familia | family,194,FAMILY
+guamo1788_120,Matrimonio | marriage,,
+guamo1788_121,Viuda | widow,1756,WIDOW
+guamo1788_122,Vivir | to live,2309,LIVE
+guamo1788_123,Vida | life,210,LIFE
+guamo1788_124,Estatura | stature,,
+guamo1788_125,Alma | soul,811,SOUL
+guamo1788_126,Morir | to die,1494,DIE
+guamo1788_127,Muerte | death,910,DEATH
+guamo1788_128,Viejo | old,,
+guamo1788_129,Joven | young,1207,YOUNG
+guamo1788_130,Dar | to give,1447,GIVE
+guamo1788_131,Grande | big,1202,BIG
+guamo1788_132,Pequeño | small,1246,SMALL
+guamo1788_133,"Alto | high, tall",2790,HIGH OR TALL
+guamo1788_134,"Baxo | low, short",721,LOW
+guamo1788_135,Frio | cold,1287,COLD
+guamo1788_136,Caliente | hot,1286,HOT
+guamo1788_137,Sano | healthy,1364,HEALTHY
+guamo1788_138,Bueno | good,1035,GOOD
+guamo1788_139,Malvado | wicked,,
+guamo1788_140,Capaz | capable,,
+guamo1788_141,"Agudo | sharp, pointed",1396,SHARP
+guamo1788_142,Redondo | round,1395,ROUND
+guamo1788_143,"Ligero | light (in weight), quick",1052,LIGHT (WEIGHT)
+guamo1788_144,Pesado | heavy,1210,HEAVY
+guamo1788_145,Fuerte | strong,785,STRONG
+guamo1788_146,Delgado | thin,2308,THIN
+guamo1788_147,Grueso | thick,1244,THICK
+guamo1788_148,Ancho | wide,1243,WIDE
+guamo1788_149,Presto | quick,1631,FAST
+guamo1788_150,Blanco | white,1335,WHITE
+guamo1788_151,Negro | black,163,BLACK
+guamo1788_152,Encarnado | red,156,RED
+guamo1788_153,Verde | green,1425,GREEN
+guamo1788_154,Azul | blue,837,BLUE
+guamo1788_155,Sol | sun,1343,SUN
+guamo1788_156,Luna | moon,1313,MOON
+guamo1788_157,Estrella | star,1430,STAR
+guamo1788_158,Cielo | sky,1732,SKY
+guamo1788_159,Niebla | fog,249,FOG
+guamo1788_160,Nube | cloud,1489,CLOUD
+guamo1788_161,Arco Iris | rainbow,1733,RAINBOW
+guamo1788_162,Rayo | thunderbolt,,
+guamo1788_163,Ayre | air,27,AIR
+guamo1788_164,Viento | wind,960,WIND
+guamo1788_165,Huracan | hurricane,,
+guamo1788_166,Vapor | vapour,1193,STEAM
+guamo1788_167,Rocio | dew,1977,DEW
+guamo1788_168,Trueno | thunder,1150,THUNDER
+guamo1788_169,Relámpago | lightning,1654,LIGHTNING
+guamo1788_170,Helada | frost,2034,FROST
+guamo1788_171,Hielo | ice,617,ICE
+guamo1788_172,Fuego | fire,221,FIRE
+guamo1788_173,"Lumbre | fire, light",,
+guamo1788_174,"Sombra | shade, shadow",,
+guamo1788_175,Sombrio | shady,,
+guamo1788_176,Dia | day,1225,DAY (NOT NIGHT)
+guamo1788_177,Noche | night,1233,NIGHT
+guamo1788_178,Mañana | morning,1339,MORNING
+guamo1788_179,"Tarde | afternoon, evening",,
+guamo1788_180,Verano | summer (dry season),,
+guamo1788_181,Hibierno | winter (rainy season),,
+guamo1788_182,Semana | week,1469,WEEK
+guamo1788_183,Año | year,1226,YEAR
+guamo1788_184,Tiempo | time,892,TIME
+guamo1788_185,"Tierra | earth, land",3603,EARTH OR LAND
+guamo1788_186,Agua | water,948,WATER
+guamo1788_187,Mar | sea,1474,SEA
+guamo1788_188,Rio | river,666,RIVER
+guamo1788_189,Lago | lake,624,LAKE
+guamo1788_190,Olas | waves,978,WAVE
+guamo1788_191,Islas | islands,622,ISLAND
+guamo1788_192,Arena | sand,671,SAND
+guamo1788_193,Polvo | dust,2,DUST
+guamo1788_194,Cieno | mud,640,MUD
+guamo1788_195,Montaña | mountain,639,MOUNTAIN
+guamo1788_196,Profundidad | depth,2534,DEPTH
+guamo1788_197,Altura | height,2985,HEIGHT
+guamo1788_198,Anchura | width,,
+guamo1788_199,Agugero | hole,1667,HOLE
+guamo1788_200,Cueva | cave,1155,CAVE
+guamo1788_201,Piedra | stone,857,STONE
+guamo1788_202,Plata | silver,759,SILVER
+guamo1788_203,Cobre | copper,1825,COPPER
+guamo1788_204,Hierro | iron,621,IRON
+guamo1788_205,Estaño | tin,893,TIN (METAL)
+guamo1788_206,Plomo | lead (metal),627,LEAD (CHEMICAL ELEMENT)
+guamo1788_207,Sal | salt,1274,SALT
+guamo1788_208,Cal | lime (mineral),2540,LIME (MATERIAL)
+guamo1788_209,Veneno | poison,655,POISON
+guamo1788_210,"Yerva | grass, herb",606,GRASS
+guamo1788_211,Arbol | tree,906,TREE
+guamo1788_212,Leña | firewood,10,FIREWOOD
+guamo1788_213,Palo (Raiz) | stick (root),,
+guamo1788_214,Tronco | trunk,776,TRUNK OF TREE
+guamo1788_215,Corteza | bark,1204,BARK
+guamo1788_216,Rama | branch,1531,BRANCH
+guamo1788_217,Oja | leaf,628,LEAF
+guamo1788_218,Flor | flower,239,FLOWER
+guamo1788_219,Fruta | fruit,1507,FRUIT
+guamo1788_220,Semilla | seed,714,SEED
+guamo1788_221,Cebolla | onion,2366,ONION
+guamo1788_222,"Campo | field, countryside",212,FIELD
+guamo1788_223,Sembrar | to sow,748,SOW SEEDS
+guamo1788_224,Pescado | fish,227,FISH
+guamo1788_225,Cangrejo | crab,2348,CRAB
+guamo1788_226,Serpiente | snake,730,SNAKE
+guamo1788_227,Rana | frog,503,FROG
+guamo1788_228,Gusano | worm,1219,WORM
+guamo1788_229,Mosca | fly,1504,FLY (INSECT)
+guamo1788_230,Mosquito | mosquito,1509,MOSQUITO
+guamo1788_231,Hormiga | ant,587,ANT
+guamo1788_232,Araña | spider,843,SPIDER
+guamo1788_233,Abeja | bee,665,BEE
+guamo1788_234,Miel | honey,942,HONEY
+guamo1788_235,Buei | ox,1169,OX
+guamo1788_236,Vaca | cow,1007,COW
+guamo1788_237,Ternera | calf,1989,CALF
+guamo1788_238,Cuerno | horn,1393,HORN (ANATOMY)
+guamo1788_239,Caballo | horse,615,HORSE
+guamo1788_240,Asno | donkey,1862,DONKEY
+guamo1788_241,Cerdo | pig,1337,PIG
+guamo1788_242,Perro | dog,2009,DOG
+guamo1788_243,Gato | cat,1208,CAT
+guamo1788_244,Leon | lion,1386,LION
+guamo1788_245,Oso | bear,1820,BEAR
+guamo1788_246,Lobo | wolf,522,WOLF
+guamo1788_247,Zorra | fox,1312,FOX
+guamo1788_248,Liebre | hare,1190,HARE
+guamo1788_249,Raton | mouse,1491,MOUSE
+guamo1788_250,Gallina | hen,1514,HEN
+guamo1788_251,Gallo | rooster,1511,ROOSTER
+guamo1788_252,Pato | duck,1360,DUCK
+guamo1788_253,Pichon | young pigeon,,
+guamo1788_254,Aguila | eagle,1905,EAGLE
+guamo1788_255,Páxaro | bird,937,BIRD
+guamo1788_256,Golondrina | swallow (bird),3077,SWALLOW (BIRD)
+guamo1788_257,Pluma | feather,1201,FEATHER
+guamo1788_258,Huevo | egg,744,EGG
+guamo1788_259,Nido | nest,539,NEST
+guamo1788_260,Pastor | herdsman,263,HERDSMAN
+guamo1788_261,Casa | house,1252,HOUSE
+guamo1788_262,Choza | hut,1678,HUT
+guamo1788_263,Tienda | tent,1316,TENT
+guamo1788_264,Puerta | door,1567,DOOR
+guamo1788_265,Ciudad | town,1391,TOWN
+guamo1788_266,Medida | measure,,
+guamo1788_267,Cuchillo | knife,1352,KNIFE
+guamo1788_268,Mesa | table,1775,TABLE
+guamo1788_269,Banco | bench,2584,BENCH
+guamo1788_270,Navio | ship,740,SHIP
+guamo1788_271,Vestido | clothing,1895,CLOTHES
+guamo1788_272,Media | stocking,,
+guamo1788_273,Zapato | shoe,1381,SHOE
+guamo1788_274,Gorro | cap,1288,CAP
+guamo1788_275,"Faja | sash, belt",772,BELT
+guamo1788_276,Seda | silk,1641,SILK
+guamo1788_277,Algodon | cotton,1850,COTTON
+guamo1788_278,Comida | food,256,FOOD
+guamo1788_279,Crudo | raw,1959,RAW
+guamo1788_280,Cocer | to cook,1100,COOK (SOMETHING)
+guamo1788_281,Vino | wine,1524,WINE
+guamo1788_282,"Manteca | butter, lard",,
+guamo1788_283,Pan | bread,1368,BREAD
+guamo1788_284,Dinero | money,1559,MONEY
+guamo1788_285,Ladron | thief,1160,THIEF
+guamo1788_286,Guerra | war,935,WAR
+guamo1788_287,Soldado | soldier,1941,SOLDIER
+guamo1788_288,"Lanza | lance, spear",945,SPEAR
+guamo1788_289,"Señor | lord, master",,
+guamo1788_290,Rey | king,1508,KING
+guamo1788_291,Si | yes,1268,YES
+guamo1788_292,Lexos | far,1406,FAR
+guamo1788_293,Allá | there,1937,THERE
+guamo1788_294,Hoy | today,1283,TODAY
+guamo1788_295,Como | how,1239,HOW
+guamo1788_296,Qué | what,1236,WHAT
+guamo1788_297,Con quien | with whom,,
+guamo1788_298,"Baxo | under, below",1485,BELOW OR UNDER
+guamo1788_299,Número | number,1356,NUMBER
+guamo1788_300,Dos | two,1498,TWO
+guamo1788_301,Quatro | four,1500,FOUR
+guamo1788_302,Mañana | tomorrow,1329,TOMORROW
+guamo1788_303,Ayer | yesterday,1174,YESTERDAY
+guamo1788_304,Guardia | guard,1940,GUARD
+guamo1788_305,Escribir | to write,1672,WRITE
+guamo1788_306,No | no,1269,NO
+guamo1788_307,Cerca | near,1942,NEAR
+guamo1788_308,Aquí | here,136,HERE
+guamo1788_309,Mil | thousand,1843,THOUSAND
+guamo1788_310,Tres | three,492,THREE
+guamo1788_311,Quien | who,1235,WHO
+guamo1788_312,Uno | one,1493,ONE
+guamo1788_313,Cinco | five,493,FIVE
