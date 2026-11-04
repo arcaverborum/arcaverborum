@@ -1,0 +1,24 @@
+av_id: jir-jirajara
+name: Jirajara
+glottocode: jira1249
+family: Jirajaran
+macroarea: South America
+sources:
+  transcription: jahn1927
+  cognates: jahn1927
+  source_language_id: jahn1927_jirajara
+extensions:
+  transcriptions: false
+  forms: false
+  cognates: false
+  concept_map: false
+  profile: false
+scoring:
+  forms_score: 0.0
+  cognates_score: 0.0
+  tier: copper
+pinned: true
+registered_on: '2026-11-04'
+notes: '2026-11-04 South American isolates batch 3. First Jirajara construction: Jahn
+  1927 (Siquisique list after Párraga c. 1880). Written-only: the source spelling
+  is kept; no reading inferred.'

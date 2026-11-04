@@ -4,8 +4,9 @@ glottocode: kano1245
 family: Kanoê
 macroarea: South America
 sources:
-  transcription: johanssonsoundsymbolic
-  cognates: johanssonsoundsymbolic
+  transcription: bacelar2010kanoe
+  cognates: bacelar2010kanoe
+  source_language_id: kanoe
 extensions:
   transcriptions: false
   forms: false
@@ -16,6 +17,9 @@ scoring:
   forms_score: 0.8848
   cognates_score: 0.0
   tier: bronze
-pinned: false
+pinned: true
 registered_on: '2026-05-20'
-notes: 'auto: forms=johanssonsoundsymbolic (0.88)'
+notes: '2026-11-04 South American isolates batch 3. Quality-led primary change: Bacelar''s
+  Kanoê comparative tables (Etnolinguistica.Org, CC BY 3.0), Segments from the IPA
+  phonetic column, replace Johansson et al.''s 263 forms, which are preserved as attributed
+  supplements.'

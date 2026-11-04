@@ -1,0 +1,325 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss
+tessmann1930_1,Zunge | tongue,1205,TONGUE
+tessmann1930_2,Zahn | tooth,1380,TOOTH
+tessmann1930_3,Auge | eye,1248,EYE
+tessmann1930_4,Ohr | ear,1247,EAR
+tessmann1930_5,Kopf | head,1256,HEAD
+tessmann1930_6,Hand | hand,1277,HAND
+tessmann1930_7,Wasser | water,948,WATER
+tessmann1930_8,Feuer | fire,221,FIRE
+tessmann1930_9,Sonne | sun,1343,SUN
+tessmann1930_10,Mond | moon,1313,MOON
+tessmann1930_11,Erde (Erdboden) | earth (ground),,
+tessmann1930_12,Stein | stone,857,STONE
+tessmann1930_13,Haus (Wohn-) | house (dwelling),1252,HOUSE
+tessmann1930_14,Topf (Koch-) | pot (cooking),3653,COOKING POT
+tessmann1930_15,Kanu | canoe,1970,CANOE
+tessmann1930_16,Mann | man,1554,MAN
+tessmann1930_17,Frau | woman,962,WOMAN
+tessmann1930_18,Huhn | chicken,1318,CHICKEN
+tessmann1930_19,Jaguar | jaguar,1250,JAGUAR
+tessmann1930_20,Tapir | tapir,312,TAPIR
+tessmann1930_21,Kaiman | caiman,2438,CAIMAN
+tessmann1930_22,Stock | stick,1295,STICK
+tessmann1930_23,Maniok | manioc,925,CASSAVA
+tessmann1930_24,Mais | maize,506,MAIZE
+tessmann1930_25,Plante | plantain,399,PLANTAIN
+tessmann1930_26,eins | one,1493,ONE
+tessmann1930_27,zwei | two,1498,TWO
+tessmann1930_28,drei | three,492,THREE
+tessmann1930_29,weiß | white,1335,WHITE
+tessmann1930_30,schwarz | black,163,BLACK
+tessmann1930_31,rot | red,156,RED
+tessmann1930_32,Penis | penis,1222,PENIS
+tessmann1930_33,Gesäß | buttocks,834,BUTTOCKS
+tessmann1930_34,Anus | anus,1935,ANUS
+tessmann1930_35,Vulva | vulva,1837,VULVA
+tessmann1930_36,Lendentuch | loincloth,1965,LOINCLOTH
+tessmann1930_37,Ringe | rings (ornaments),,
+tessmann1930_38,Bixa | annatto (Bixa),,
+tessmann1930_39,yanamuca L. | yanamuca (local name of a dye plant),,
+tessmann1930_40,Stützpfähle | support posts,,
+tessmann1930_41,Firstpfette | ridge purlin,,
+tessmann1930_42,Sparren | rafters,829,RAFTER
+tessmann1930_43,Wand | wall,933,WALL (OF HOUSE)
+tessmann1930_44,Türen | doors,1567,DOOR
+tessmann1930_45,"Lepidocaryum Tessmannii (irapay L.) | irapay palm, Lepidocaryum tessmannii",,
+tessmann1930_46,Unterkunftshütten | shelter huts,,
+tessmann1930_47,Hängematten | hammocks,2019,HAMMOCK
+tessmann1930_48,Decke | blanket,806,BLANKET
+tessmann1930_49,Feuerfächer | fire fan,,
+tessmann1930_50,Besen | broom,245,BROOM
+tessmann1930_51,Brücke | bridge,1011,BRIDGE
+tessmann1930_52,Hühner | chickens,1318,CHICKEN
+tessmann1930_53,Nichtalkoholische Getränke | non-alcoholic drinks,,
+tessmann1930_54,"Oenocarpus bataua | patauá palm, Oenocarpus bataua",,
+tessmann1930_55,"Mauritia flexuosa | moriche palm, Mauritia flexuosa",3811,MIRITI PALM
+tessmann1930_56,"Euterpe | açaí palm, Euterpe",,
+tessmann1930_57,Tephrosia | Tephrosia (fish-poison plant),,
+tessmann1930_58,Clibadium | Clibadium (fish-poison plant),,
+tessmann1930_59,Reusen | fish traps (weirs),389,FISH TRAP
+tessmann1930_60,Angel | fishhook,1074,FISHHOOK
+tessmann1930_61,Speer | spear,945,SPEAR
+tessmann1930_62,Schlagfalle | deadfall trap,,
+tessmann1930_63,Zugfalle | snare trap,,
+tessmann1930_64,Banane | banana,868,BANANA
+tessmann1930_65,Yams | yam,410,YAM
+tessmann1930_66,Süßkartoffel | sweet potato,159,SWEET POTATO
+tessmann1930_67,"Makabo | macabo (cocoyam, Xanthosoma)",,
+tessmann1930_68,Solanacee mit eßbaren Früchten | solanaceous plant with edible fruits,,
+tessmann1930_69,Guilelma-Palme | peach palm (Guilielma),3919,PEACH PALM
+tessmann1930_70,Steinaxt | stone axe,,
+tessmann1930_71,Eisenaxt | iron axe,,
+tessmann1930_72,Pflanzstock | planting stick,3155,DIBBLE STICK
+tessmann1930_73,Zuckerrohr | sugar cane,146,SUGAR CANE
+tessmann1930_74,Wein von reifen Planten | wine (fermented drink) from ripe plantains,,
+tessmann1930_75,Maniokmassato | manioc masato,,
+tessmann1930_76,Guilelmamassato | peach-palm masato,,
+tessmann1930_77,Kaapitrank | kaapi drink (ayahuasca),,
+tessmann1930_78,Capsicumpfeffer | capsicum pepper,919,CHILI PEPPER
+tessmann1930_79,"Stampfer | pounder, stamper",,
+tessmann1930_80,Wieger | rocker (rocking pestle),,
+tessmann1930_81,ausgehöhlter Stamm | hollowed-out trunk,,
+tessmann1930_82,kleine Tonschalen | small clay bowls,,
+tessmann1930_83,Kalebassen | calabashes,,
+tessmann1930_84,Holz des Kakaobaumes | wood of the cacao tree,,
+tessmann1930_85,"Bambus, paca L. | bamboo, paca (local)",,
+tessmann1930_86,"Schnüre | cords, strings",,
+tessmann1930_87,"Astrocaryum (aff.) vulgare (chambira) | chambira palm, Astrocaryum aff. vulgare",,
+tessmann1930_88,Baumwolle | cotton,1850,COTTON
+tessmann1930_89,Spindel | spindle,277,SPINDLE
+tessmann1930_90,Baumwollfaden | cotton thread,,
+tessmann1930_91,Körbe | baskets,1539,BASKET
+tessmann1930_92,Carloduvica trigona | Carludovica trigona (plant),,
+tessmann1930_93,"Krüge | jugs, jars",,
+tessmann1930_94,große Töpfe | large pots,,
+tessmann1930_95,Eßnäpfe | eating bowls,,
+tessmann1930_96,"Gräben | ditches, trenches",2002,DITCH
+tessmann1930_97,Längsflöte | end-blown flute,,
+tessmann1930_98,Seele | soul,811,SOUL
+tessmann1930_99,Zauberer | sorcerer,823,SORCERER
+tessmann1930_100,"Hauch | breath, puff",,
+tessmann1930_101,Eunectes-Schlange | Eunectes snake (anaconda),896,ANACONDA (WATER BOA)
+tessmann1930_102,"Cyperus spec., piripiri L. | Cyperus sp., piripiri (local)",,
+tessmann1930_103,Häuptling | chief,301,CHIEFTAIN
+tessmann1930_104,Coitieren | to copulate,549,COPULATE
+tessmann1930_105,Uneheliche Kinder | illegitimate children,,
+tessmann1930_106,Witwen | widows,1756,WIDOW
+tessmann1930_107,Witwer | widower,1981,WIDOWER
+tessmann1930_108,Nabelschnur | umbilical cord,2663,UMBILICAL CORD
+tessmann1930_109,"Nachgeburt | afterbirth, placenta",3388,PLACENTA
+tessmann1930_110,Tragband | carrying band (tumpline),,
+tessmann1930_111,Hund | dog,2009,DOG
+tessmann1930_112,Tabak | tobacco,974,TOBACCO
+tessmann1930_113,Haar | hair,1040,HAIR
+tessmann1930_114,Schnurrbart | moustache,1165,MOUSTACHE
+tessmann1930_115,"Backenbart | side whiskers, sideburns",,
+tessmann1930_116,Stirn | forehead,123,FOREHEAD
+tessmann1930_117,Brauen | eyebrows,1173,EYEBROW
+tessmann1930_118,Wimpern | eyelashes,1540,EYELASH
+tessmann1930_119,Nase | nose,1221,NOSE
+tessmann1930_120,Mund | mouth,674,MOUTH
+tessmann1930_121,Kinn | chin,1510,CHIN
+tessmann1930_122,Hals | neck,1333,NECK
+tessmann1930_123,Rücken | back,1291,BACK
+tessmann1930_124,Schulter | shoulder,1482,SHOULDER
+tessmann1930_125,Arm (mit Hand) | arm (including hand),2121,ARM OR HAND
+tessmann1930_126,Finger | finger,1303,FINGER
+tessmann1930_127,Nagel | nail (finger- or toenail),,
+tessmann1930_128,"Brust | chest, breast",,
+tessmann1930_129,Rippe | rib,801,RIB
+tessmann1930_130,Brustwarze | nipple,796,NIPPLE
+tessmann1930_131,weibl. Brust | female breast,1402,BREAST
+tessmann1930_132,Bauch | belly,1251,BELLY
+tessmann1930_133,Nabel | navel,1838,NAVEL
+tessmann1930_134,Hoden | testicles,797,TESTICLES
+tessmann1930_135,Oberschenkel | thigh,471,UPPER LEG (THIGH)
+tessmann1930_136,Knie | knee,1371,KNEE
+tessmann1930_137,Fuß | foot,1301,FOOT
+tessmann1930_138,Ferse | heel,980,HEEL
+tessmann1930_139,Zehe | toe,1389,TOE
+tessmann1930_140,Haut | skin,763,SKIN
+tessmann1930_141,Knochen | bone,1394,BONE
+tessmann1930_142,Blut | blood,946,BLOOD
+tessmann1930_143,Atem | breath,870,BREATH
+tessmann1930_144,Leute | people,789,PEOPLE
+tessmann1930_145,Ehemann | husband,1200,HUSBAND
+tessmann1930_146,Ehefrau | wife,1199,WIFE
+tessmann1930_147,Knabe | boy,1366,BOY
+tessmann1930_148,Mädchen | girl,1646,GIRL
+tessmann1930_149,Speise | food,256,FOOD
+tessmann1930_150,"Fleisch | meat, flesh",2615,FLESH OR MEAT
+tessmann1930_151,Fisch | fish,227,FISH
+tessmann1930_152,Himmel | sky,1732,SKY
+tessmann1930_153,Vollmond | full moon,3690,FULL MOON
+tessmann1930_154,"Mond, zunehm. | moon, waxing",,
+tessmann1930_155,Stern | star,1430,STAR
+tessmann1930_156,Blitz | lightning,1654,LIGHTNING
+tessmann1930_157,Donner | thunder,1150,THUNDER
+tessmann1930_158,Regen | rain,658,RAIN (PRECIPITATION)
+tessmann1930_159,Wind | wind,960,WIND
+tessmann1930_160,Nacht | night,1233,NIGHT
+tessmann1930_161,Tag | day,,
+tessmann1930_162,"Monat, (s. 10) | month (see no. 10)",1370,MONTH
+tessmann1930_163,Sandbank | sandbank,,
+tessmann1930_164,Hügel | hill,614,HILL
+tessmann1930_165,Wald | forest,420,FOREST
+tessmann1930_166,"Pflanzung | plantation, garden plot",,
+tessmann1930_167,"Weg | path, way",2252,PATH
+tessmann1930_168,Baum | tree,906,TREE
+tessmann1930_169,Holz | wood,1803,WOOD
+tessmann1930_170,Liane | liana,2388,LIANA
+tessmann1930_171,Blatt | leaf,628,LEAF
+tessmann1930_172,Wurzel | root,670,ROOT
+tessmann1930_173,Heller Kapuzineraffe | light (white-fronted) capuchin monkey,,
+tessmann1930_174,Dunkler Kapuzineraffe | dark (brown) capuchin monkey,,
+tessmann1930_175,"Saimiri (frailecito) | squirrel monkey, Saimiri (frailecito)",,
+tessmann1930_176,Brüllaffe | howler monkey,433,HOWLER MONKEY
+tessmann1930_177,Wollaffe (choro) | woolly monkey (choro),,
+tessmann1930_178,Spinnenaffe | spider monkey,434,SPIDER MONKEY
+tessmann1930_179,Nachtaffe (musmuqui) | night monkey (musmuqui),,
+tessmann1930_180,Fledermaus | bat,1793,BAT
+tessmann1930_181,Puma | puma,1891,PUMA
+tessmann1930_182,Tigerkatze (tigrillo) | tiger cat (tigrillo),,
+tessmann1930_183,Buschhund | bush dog,,
+tessmann1930_184,Nasenbär(achuni) | coati (achuni),2389,COATI (COATIMUNDI)
+tessmann1930_185,Otter | otter,15,OTTER
+tessmann1930_186,"Delphin (buféo) | dolphin (bufeo, river dolphin)",,
+tessmann1930_187,Seekuh | manatee,,
+tessmann1930_188,Reh | deer (Reh),,
+tessmann1930_189,Weißbartpekari | white-lipped peccary,436,WHITE-LIPPED PECCARY
+tessmann1930_190,Halsbandpekari | collared peccary,435,COLLARED PECCARY
+tessmann1930_191,Wasserschwein (ronsoco) | capybara (ronsoco),314,CAPYBARA
+tessmann1930_192,Aguti | agouti,313,AGOUTI
+tessmann1930_193,Paka (majás) | paca (majás),316,PACA
+tessmann1930_194,Gr. Ameisenbär | giant anteater,,
+tessmann1930_195,Faultier | sloth,2446,SLOTH
+tessmann1930_196,Kl. Gürteltier (carachupa) | small armadillo (carachupa),,
+tessmann1930_197,Hahn | rooster,1511,ROOSTER
+tessmann1930_198,Ei | egg,744,EGG
+tessmann1930_199,"Ara macao | scarlet macaw, Ara macao",,
+tessmann1930_200,"Ara chloroptera | red-and-green macaw, Ara chloroptera",3938,RED-AND-GREEN MACAW
+tessmann1930_201,"Ararauna | blue-and-yellow macaw, Ara ararauna",3927,BLUE-AND-YELLOW MACAW
+tessmann1930_202,Papagei | parrot,882,PARROT
+tessmann1930_203,Hokko | curassow,315,CURASSOW
+tessmann1930_204,"Penelope jacutinga | guan, Penelope jacutinga",,
+tessmann1930_205,"Penelope jacuacu (pucacunga L.) | guan, Penelope jacuacu (pucacunga, local)",,
+tessmann1930_206,"Arapaima (paiche L.) | arapaima (paiche, local)",,
+tessmann1930_207,Riesenwels (súngaro) | giant catfish (súngaro),,
+tessmann1930_208,Landschildkröte | land tortoise,895,TORTOISE
+tessmann1930_209,Flußschildkröte | river turtle,,
+tessmann1930_210,Schlange | snake,730,SNAKE
+tessmann1930_211,"Eunectes (boa) | anaconda, Eunectes (boa)",896,ANACONDA (WATER BOA)
+tessmann1930_212,Wespe | wasp,1517,WASP
+tessmann1930_213,"Milbe (isangüe) | mite (isangüe, chigger)",,
+tessmann1930_214,"Mücke | mosquito, gnat",,
+tessmann1930_215,"Dinoponeraameise (isula) | Dinoponera ant (isula, giant ant)",,
+tessmann1930_216,"Ding, Sache | thing",738,THING
+tessmann1930_217,Feuerholz | firewood,10,FIREWOOD
+tessmann1930_218,Asche | ash,646,ASH
+tessmann1930_219,Rauch | smoke,778,SMOKE (EXHAUST)
+tessmann1930_220,hart | hard,1884,HARD
+tessmann1930_221,weich | soft,1856,SOFT
+tessmann1930_222,lang | long,1203,LONG
+tessmann1930_223,kurz | short,1645,SHORT
+tessmann1930_224,groß | big,1202,BIG
+tessmann1930_225,klein | small,1246,SMALL
+tessmann1930_226,alt | old,1229,OLD
+tessmann1930_227,"hübsch | pretty, beautiful",1427,BEAUTIFUL
+tessmann1930_228,häßlich | ugly,1548,UGLY
+tessmann1930_229,kalt | cold,1287,COLD
+tessmann1930_230,heiß | hot,1286,HOT
+tessmann1930_231,heute | today,1283,TODAY
+tessmann1930_232,gestern | yesterday,1174,YESTERDAY
+tessmann1930_233,morgen | tomorrow,1329,TOMORROW
+tessmann1930_234,hier | here,136,HERE
+tessmann1930_235,dort | there,1937,THERE
+tessmann1930_236,ja | yes,1268,YES
+tessmann1930_237,nein | no,1269,NO
+tessmann1930_238,viele | many,1198,MANY
+tessmann1930_239,"wenig | little, few",,
+tessmann1930_240,vier | four,1500,FOUR
+tessmann1930_241,fünf | five,493,FIVE
+tessmann1930_242,sechs | six,1703,SIX
+tessmann1930_243,sieben | seven,1704,SEVEN
+tessmann1930_244,acht | eight,1705,EIGHT
+tessmann1930_245,neun | nine,1483,NINE
+tessmann1930_246,zehn | ten,1515,TEN
+tessmann1930_247,gut (?) | good (?),,
+tessmann1930_248,schlecht (?) | bad (?),,
+tessmann1930_249,Sohle (?) | sole (of the foot) (?),,
+tessmann1930_250,Sohn | son,1620,SON
+tessmann1930_251,mein Sohn | my son,,
+tessmann1930_252,Messer aus Stein oder Eisen | knife (of stone or iron),1352,KNIFE
+tessmann1930_253,Beil aus Stein oder Eisen | axe (of stone or iron),677,AXE
+tessmann1930_254,Nadel | needle,1382,NEEDLE (FOR SEWING)
+tessmann1930_255,Hemd | shirt,1622,SHIRT
+tessmann1930_256,"Flinte | shotgun, musket",1566,GUN
+tessmann1930_257,Pulver (?) | gunpowder (?),,
+tessmann1930_258,Milch | milk,635,MILK
+tessmann1930_259,Kuh | cow,1007,COW
+tessmann1930_260,"Spinne, bissig | spider, biting",,
+tessmann1930_261,rein (?) | clean (?),,
+tessmann1930_262,schmutzig (?) | dirty (?),,
+tessmann1930_263,Löwenäffchen (pichico) | tamarin (pichico),,
+tessmann1930_264,Leptodactylusfrosch | Leptodactylus frog,,
+tessmann1930_265,essen (Form ?) | to eat (form uncertain),,
+tessmann1930_266,schlafen (Form ?) | to sleep (form uncertain),,
+tessmann1930_267,töten (Form ?) | to kill (form uncertain),,
+tessmann1930_268,Genipa | genipa (Genipa americana),3920,GENIPA
+tessmann1930_269,Stäbchenkamm | stick comb,,
+tessmann1930_270,Anbau | annex (house extension),,
+tessmann1930_271,Die drei Pfetten | the three purlins,,
+tessmann1930_272,sämtliche Pfettenstützen | all the purlin supports,,
+tessmann1930_273,Dachsparren | roof rafters,829,RAFTER
+tessmann1930_274,Matten | mats,195,MAT
+tessmann1930_275,Moskitonetz | mosquito net,2795,MOSQUITO NET
+tessmann1930_276,"Ruder | paddles, oars",3318,OAR OR PADDLE
+tessmann1930_277,"Getränk | drink, beverage",,
+tessmann1930_278,Mauritiagetränk | Mauritia (palm) drink,,
+tessmann1930_279,Honig | honey,942,HONEY
+tessmann1930_280,Angeln | fishhooks,1074,FISHHOOK
+tessmann1930_281,Blasrohr | blowgun,432,BLOWGUN
+tessmann1930_282,Visier | sight (of the blowgun),,
+tessmann1930_283,Pfeilchen | small (blowgun) darts,,
+tessmann1930_284,Gift | poison,655,POISON
+tessmann1930_285,Bogen und Pfeile | bow and arrows,,
+tessmann1930_286,Speere | spears,945,SPEAR
+tessmann1930_287,Erdnuß | peanut,595,GROUNDNUT (PEANUT)
+tessmann1930_288,Süßkartoffeln | sweet potatoes,159,SWEET POTATO
+tessmann1930_289,Sicana | Sicana (cassabanana),,
+tessmann1930_290,"Solanum spec. (cocona L.) | Solanum sp. (cocona, local)",,
+tessmann1930_291,Guilelmapalme | peach palm (Guilielma),3919,PEACH PALM
+tessmann1930_292,"Steinäxte, Eisenäxte | stone axes, iron axes",,
+tessmann1930_293,Saft | juice,1499,JUICE
+tessmann1930_294,Maisrauschgetränk | intoxicating maize drink (maize beer),,
+tessmann1930_295,Zigarren | cigars,4019,CIGAR
+tessmann1930_296,Tabaksaft | tobacco juice,,
+tessmann1930_297,Salz | salt,1274,SALT
+tessmann1930_298,Holzlöffeln | wooden spoons,,
+tessmann1930_299,Kalebassen bzw. Baumkalebassen | calabashes or tree calabashes,,
+tessmann1930_300,"Astrocaryum (aff.) vulgare (chambira L.) | chambira palm, Astrocaryum aff. vulgare",,
+tessmann1930_301,Aufbewahrungskörbe | storage baskets,,
+tessmann1930_302,Tragkörbe | carrying baskets,,
+tessmann1930_303,Keulen | clubs,1763,CLUB
+tessmann1930_304,Doppelfelltrommel | double-headed drum,,
+tessmann1930_305,Längsflöten | end-blown flutes,,
+tessmann1930_306,Brummkreisel | humming top,,
+tessmann1930_307,Schnurrscheibe | buzzer disc (whirligig),,
+tessmann1930_308,Maishüllblätterbällen | balls made of maize husks,,
+tessmann1930_309,Schleuder | sling,,
+tessmann1930_310,Tauspiele | rope games,,
+tessmann1930_311,Ringkampf | wrestling match,,
+tessmann1930_312,Zaubermasse | magic substance,,
+tessmann1930_313,"Stacheln | thorns, spines",,
+tessmann1930_314,ich bin verzaubert | I am bewitched,,
+tessmann1930_315,Kaapi | kaapi (ayahuasca),,
+tessmann1930_316,Kauz | small owl,,
+tessmann1930_317,Medizinen | medicines,1372,MEDICINE
+tessmann1930_318,Cyperus spec. | Cyperus sp.,,
+tessmann1930_319,gut | good,1035,GOOD
+tessmann1930_320,Onanieren | to masturbate,,
+tessmann1930_321,Cohabitare in anum | anal intercourse,,
+tessmann1930_322,anus | anus,1935,ANUS
+tessmann1930_323,cohabitare cum femina | intercourse with a woman,,
+tessmann1930_324,Witwe | widow,1756,WIDOW

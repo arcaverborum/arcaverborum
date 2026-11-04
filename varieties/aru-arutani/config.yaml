@@ -4,8 +4,9 @@ glottocode: arut1244
 family: Arutani
 macroarea: South America
 sources:
-  transcription: huntergatherer
-  cognates: huntergatherer
+  transcription: chacon2024arutani
+  cognates: chacon2024arutani
+  source_language_id: arutani
 extensions:
   transcriptions: false
   forms: false
@@ -16,6 +17,8 @@ scoring:
   forms_score: 0.8632
   cognates_score: 0.0
   tier: bronze
-pinned: false
+pinned: true
 registered_on: '2026-05-20'
-notes: 'auto: forms=huntergatherer (0.86)'
+notes: '2026-11-04 South American isolates batch 3. Quality-led primary change: Chacon,
+  Rosés Labrada et al. 2024 Arutani dictionary (CC BY 4.0) with printed IPA replaces
+  the 78-form Hunter-Gatherer list, whose rows are preserved as attributed supplements.'

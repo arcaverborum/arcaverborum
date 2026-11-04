@@ -1,0 +1,1072 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss
+bacelar2010kanoe_1,cabeça | head,1256,HEAD
+bacelar2010kanoe_2,testa | forehead,123,FOREHEAD
+bacelar2010kanoe_3,orelha | ear,1247,EAR
+bacelar2010kanoe_4,olho | eye,1248,EYE
+bacelar2010kanoe_5,nariz | nose,1221,NOSE
+bacelar2010kanoe_6,boca | mouth,674,MOUTH
+bacelar2010kanoe_7,língua | tongue,1205,TONGUE
+bacelar2010kanoe_8,dente | tooth,1380,TOOTH
+bacelar2010kanoe_9,saliva | saliva,1503,SALIVA
+bacelar2010kanoe_10,rosto | face,1560,FACE
+bacelar2010kanoe_11,cabelo | hair (of the head),2648,HAIR (HEAD)
+bacelar2010kanoe_12,bigode | moustache,1165,MOUSTACHE
+bacelar2010kanoe_13,barba | beard,678,BEARD
+bacelar2010kanoe_14,pescoço | neck,1333,NECK
+bacelar2010kanoe_15,braço | arm,1673,ARM
+bacelar2010kanoe_16,mão | hand,1277,HAND
+bacelar2010kanoe_17,palma/mão | palm (of the hand),1183,PALM OF HAND
+bacelar2010kanoe_18,unha | nail (finger or toe),1896,FINGERNAIL OR TOENAIL
+bacelar2010kanoe_19,dedo/ mão | finger,1303,FINGER
+bacelar2010kanoe_20,ombro | shoulder,1482,SHOULDER
+bacelar2010kanoe_21,clavícula | collarbone,1994,COLLARBONE
+bacelar2010kanoe_22,axila | armpit,1886,ARMPIT
+bacelar2010kanoe_23,cotovelo | elbow,981,ELBOW
+bacelar2010kanoe_24,ventre barriga | belly,1251,BELLY
+bacelar2010kanoe_25,sangue | blood,946,BLOOD
+bacelar2010kanoe_26,colo | lap / bosom,,
+bacelar2010kanoe_27,crânio | skull,1605,SKULL
+bacelar2010kanoe_28,rugas | wrinkles,2294,WRINKLE
+bacelar2010kanoe_29,ossos do rosto | facial bones,,
+bacelar2010kanoe_30,dorso da orelha | back of the ear,,
+bacelar2010kanoe_31,canal auricular | ear canal,,
+bacelar2010kanoe_32,ponta da orelha | tip of the ear,,
+bacelar2010kanoe_33,furo na orelha | ear-piercing hole,,
+bacelar2010kanoe_34,sobrancelhas | eyebrows,1173,EYEBROW
+bacelar2010kanoe_35,cílios | eyelashes,1540,EYELASH
+bacelar2010kanoe_36,pálpebra | eyelid,17,EYELID
+bacelar2010kanoe_37,globo ocular | eyeball,3807,EYEBALL
+bacelar2010kanoe_38,pupila | pupil (of the eye),1658,PUPIL
+bacelar2010kanoe_39,lágrima | tear,1651,TEAR (OF EYE)
+bacelar2010kanoe_40,remela | eye discharge (sleep),,
+bacelar2010kanoe_41,ponta do nariz | tip of the nose,,
+bacelar2010kanoe_42,narina | nostril,1178,NOSTRIL
+bacelar2010kanoe_43,pêlo nasal | nasal hair,,
+bacelar2010kanoe_44,furo intra nasal | nasal piercing hole,,
+bacelar2010kanoe_45,bochecha | cheek,1730,CHEEK
+bacelar2010kanoe_46,costeleta | sideburn,,
+bacelar2010kanoe_47,furo supralabial | piercing hole above the lip,,
+bacelar2010kanoe_48,furo infralabial | piercing hole below the lip,,
+bacelar2010kanoe_49,arcada dentária | dental arch,,
+bacelar2010kanoe_50,lábios | lips,478,LIP
+bacelar2010kanoe_51,garganta | throat,1346,THROAT
+bacelar2010kanoe_52,dorso do pescoço | nape of the neck,1347,NAPE (OF NECK)
+bacelar2010kanoe_53,pomo-de-Adão | Adam's apple,802,ADAM'S APPLE
+bacelar2010kanoe_54,queixo | chin,1510,CHIN
+bacelar2010kanoe_55,voz | voice,1363,VOICE
+bacelar2010kanoe_56,voz grave | deep voice,,
+bacelar2010kanoe_57,voz aguda | high-pitched voice,,
+bacelar2010kanoe_58,esqueleto | skeleton,2668,SKELETON
+bacelar2010kanoe_59,corpo | body,1480,BODY
+bacelar2010kanoe_60,pele | skin,763,SKIN
+bacelar2010kanoe_61,costas | back,1291,BACK
+bacelar2010kanoe_62,coluna vertebral | spinal column,805,SPINE
+bacelar2010kanoe_63,espinha dorsal | backbone,805,SPINE
+bacelar2010kanoe_64,nervo | nerve,2626,NERVE
+bacelar2010kanoe_65,"tórax | thorax, chest",1592,CHEST
+bacelar2010kanoe_66,músculos peitorais | pectoral muscles,,
+bacelar2010kanoe_67,costela | rib,801,RIB
+bacelar2010kanoe_68,pêlos axilares | armpit hair,,
+bacelar2010kanoe_69,cheiro corporal | body odour,,
+bacelar2010kanoe_70,pêlo peitoral | chest hair,,
+bacelar2010kanoe_71,osso | bone,1394,BONE
+bacelar2010kanoe_72,pulmão | lung,688,LUNG
+bacelar2010kanoe_73,estômago | stomach,819,STOMACH
+bacelar2010kanoe_74,fígado | liver,1224,LIVER
+bacelar2010kanoe_75,rim | kidney,489,KIDNEY
+bacelar2010kanoe_76,gordura | fat,323,FAT (ORGANIC SUBSTANCE)
+bacelar2010kanoe_77,"seio, mama | breast",1402,BREAST
+bacelar2010kanoe_78,mamilo | nipple,796,NIPPLE
+bacelar2010kanoe_79,"carne | flesh, meat (body part)",2259,FLESH
+bacelar2010kanoe_80,coração | heart,1223,HEART
+bacelar2010kanoe_81,veia | vein,1924,VEIN
+bacelar2010kanoe_82,veia grande | large vein,,
+bacelar2010kanoe_83,cintura | waist,1681,WAIST
+bacelar2010kanoe_84,quadris | hips,1745,HIP
+bacelar2010kanoe_85,umbigo | navel,1838,NAVEL
+bacelar2010kanoe_86,bacia | pelvis,,
+bacelar2010kanoe_87,osso da bacia | hip bone,2820,HIP BONE
+bacelar2010kanoe_88,virilha | groin,,
+bacelar2010kanoe_89,pêlo da virilha | pubic hair,36,PUBIC HAIR
+bacelar2010kanoe_90,bexiga | bladder,1746,BLADDER
+bacelar2010kanoe_91,urina | urine,1142,URINE
+bacelar2010kanoe_92,pênis | penis,1222,PENIS
+bacelar2010kanoe_93,pênis de criança | child's penis,,
+bacelar2010kanoe_94,prepúcio | foreskin,,
+bacelar2010kanoe_95,glande | glans penis,,
+bacelar2010kanoe_96,escroto | scrotum,2834,SCROTUM
+bacelar2010kanoe_97,testículo | testicle,797,TESTICLES
+bacelar2010kanoe_98,esperma | sperm,2283,SEMEN
+bacelar2010kanoe_99,útero | uterus,804,WOMB
+bacelar2010kanoe_100,cordão umbilical | umbilical cord,2663,UMBILICAL CORD
+bacelar2010kanoe_101,placenta | placenta,3388,PLACENTA
+bacelar2010kanoe_102,vagina | vagina,1836,VAGINA
+bacelar2010kanoe_103,clitóris | clitoris,3257,CLITORIS
+bacelar2010kanoe_104,lábios vaginais | labia,,
+bacelar2010kanoe_105,bunda | buttocks,834,BUTTOCKS
+bacelar2010kanoe_106,ânus | anus,1935,ANUS
+bacelar2010kanoe_107,fezes | faeces,675,FAECES (EXCREMENT)
+bacelar2010kanoe_108,"peido, flatulência | fart, flatulence",1159,FART
+bacelar2010kanoe_109,osso do braço | arm bone,,
+bacelar2010kanoe_110,bíceps | biceps,,
+bacelar2010kanoe_111,tríceps | triceps,,
+bacelar2010kanoe_112,antebraço | forearm,,
+bacelar2010kanoe_113,punho | wrist,799,WRIST
+bacelar2010kanoe_114,dedo grande | big finger,,
+bacelar2010kanoe_115,dedo polegar | thumb,1781,THUMB
+bacelar2010kanoe_116,dedo mínimo | little finger,2774,LITTLE FINGER
+bacelar2010kanoe_117,unha do dedo/mão | fingernail,1258,FINGERNAIL
+bacelar2010kanoe_118,cotovelo | elbow (listed among the leg terms),,
+bacelar2010kanoe_119,"perna coxa | leg, thigh",,
+bacelar2010kanoe_120,músculo da coxa | thigh muscle,,
+bacelar2010kanoe_121,fêmur | femur,,
+bacelar2010kanoe_122,"tíbia osso da canela | tibia, shinbone",,
+bacelar2010kanoe_123,canela | shin,186,SHIN
+bacelar2010kanoe_124,joelho | knee,1371,KNEE
+bacelar2010kanoe_125,tornozelo | ankle,803,ANKLE
+bacelar2010kanoe_126,maleólo tibial | tibial malleolus,,
+bacelar2010kanoe_127,calcanhar | heel,980,HEEL
+bacelar2010kanoe_128,pé | foot,1301,FOOT
+bacelar2010kanoe_129,pé direto | right foot,,
+bacelar2010kanoe_130,pé esquerdo | left foot,,
+bacelar2010kanoe_131,dedo do pé | toe,1389,TOE
+bacelar2010kanoe_132,unha do dedo / pé | toenail,2662,TOENAIL
+bacelar2010kanoe_133,sola do pé | sole of the foot,2666,SOLE (FOOT)
+bacelar2010kanoe_134,calo no pé | callus on the foot,,
+bacelar2010kanoe_135,suor | sweat,125,SWEAT (SUBSTANCE)
+bacelar2010kanoe_136,Homem | man,1554,MAN
+bacelar2010kanoe_137,Mulher | woman,962,WOMAN
+bacelar2010kanoe_138,açúcar | sugar,862,SUGAR
+bacelar2010kanoe_139,algodão | cotton,1850,COTTON
+bacelar2010kanoe_140,arroz | rice,926,RICE
+bacelar2010kanoe_141,café (veg.) | coffee (plant),,
+bacelar2010kanoe_142,café (fruta) | coffee (fruit),,
+bacelar2010kanoe_143,café (bebida) | coffee (drink),1299,COFFEE
+bacelar2010kanoe_144,abacaxi | pineapple,2440,PINEAPPLE
+bacelar2010kanoe_145,abóbora | pumpkin,864,PUMPKIN
+bacelar2010kanoe_146,amendoim | peanut,2364,PEANUT
+bacelar2010kanoe_147,banana | banana,868,BANANA
+bacelar2010kanoe_148,batata-doce | sweet potato,159,SWEET POTATO
+bacelar2010kanoe_149,cana-de-açúcar | sugar cane,146,SUGAR CANE
+bacelar2010kanoe_150,cará | yam (cará),410,YAM
+bacelar2010kanoe_151,açaí(palma) | açaí (palm),,
+bacelar2010kanoe_152,açaí (coco) | açaí (fruit),,
+bacelar2010kanoe_153,açaí (suco) | açaí (juice),,
+bacelar2010kanoe_154,beiju | manioc flatbread (beiju),407,MANIOC BREAD
+bacelar2010kanoe_155,bola de seringa | rubber ball,,
+bacelar2010kanoe_156,cabaça | gourd,411,GOURD
+bacelar2010kanoe_157,castanha-do-pará | Brazil nut,3928,BRAZIL NUT
+bacelar2010kanoe_158,chicha de macaxeira | sweet-manioc chicha,,
+bacelar2010kanoe_159,macaxeira | sweet manioc (macaxeira),,
+bacelar2010kanoe_160,chicha de bananna | banana chicha,,
+bacelar2010kanoe_161,chicha de milho | maize chicha,,
+bacelar2010kanoe_162,caucho | caucho (rubber tree),,
+bacelar2010kanoe_163,látex de caucho | caucho latex,,
+bacelar2010kanoe_164,espiga de milho | ear of maize,,
+bacelar2010kanoe_165,farinha | flour,1594,FLOUR
+bacelar2010kanoe_166,farinha de mandioca | manioc flour,324,MANIOC FLOUR
+bacelar2010kanoe_167,farinha de milho | maize flour,,
+bacelar2010kanoe_168,fava | broad bean,,
+bacelar2010kanoe_169,feijão | bean,832,BEAN
+bacelar2010kanoe_170,milho | maize,506,MAIZE
+bacelar2010kanoe_171,pamonha de milho | maize pamonha,,
+bacelar2010kanoe_172,palha de milho | maize husk,3686,CORN HUSK
+bacelar2010kanoe_173,"mamão, papaya | papaya",2445,PAPAYA
+bacelar2010kanoe_174,mel | honey,942,HONEY
+bacelar2010kanoe_175,"pau, vara | stick, pole",1295,STICK
+bacelar2010kanoe_176,árvore | tree,906,TREE
+bacelar2010kanoe_177,pão | bread,1368,BREAD
+bacelar2010kanoe_178,paxiúba | paxiúba palm,,
+bacelar2010kanoe_179,pimenta | pepper,919,CHILI PEPPER
+bacelar2010kanoe_180,pimenta malagueta | malagueta pepper,,
+bacelar2010kanoe_181,taquara | taquara (bamboo),,
+bacelar2010kanoe_182,bambu | bamboo,1927,BAMBOO
+bacelar2010kanoe_183,tucumã | tucumã palm,,
+bacelar2010kanoe_184,fio de algodão | cotton thread,,
+bacelar2010kanoe_185,mandioca | manioc,927,MANIOC
+bacelar2010kanoe_186,"pauzinho, varinha | small stick, twig",,
+bacelar2010kanoe_187,urucum | annatto (urucum),,
+bacelar2010kanoe_188,"mato, bosque | woods, bush",,
+bacelar2010kanoe_189,fruto fruta | fruit,1507,FRUIT
+bacelar2010kanoe_190,folha | leaf,628,LEAF
+bacelar2010kanoe_191,madeira | wood,1803,WOOD
+bacelar2010kanoe_192,varinha | small stick,,
+bacelar2010kanoe_193,espinho | thorn,124,THORN
+bacelar2010kanoe_194,raiz | root,670,ROOT
+bacelar2010kanoe_195,"roça, plantação | swidden, plantation",,
+bacelar2010kanoe_196,caju | cashew,2441,CASHEW
+bacelar2010kanoe_197,maracujá | passion fruit,,
+bacelar2010kanoe_198,melancia | watermelon,2766,WATERMELON
+bacelar2010kanoe_199,goiaba | guava,3981,GUAVA
+bacelar2010kanoe_200,biribá | biribá (fruit),,
+bacelar2010kanoe_201,pama | pama (fruit),,
+bacelar2010kanoe_202,água | water,948,WATER
+bacelar2010kanoe_203,arco-íris | rainbow,1733,RAINBOW
+bacelar2010kanoe_204,areia | sand,671,SAND
+bacelar2010kanoe_205,argila | clay,1399,CLAY
+bacelar2010kanoe_206,barro | mud,640,MUD
+bacelar2010kanoe_207,barro podre | rotten mud,,
+bacelar2010kanoe_208,brasa | embers,67,EMBERS
+bacelar2010kanoe_209,cachoeira | waterfall,943,WATERFALL
+bacelar2010kanoe_210,calor | heat,612,HEAT
+bacelar2010kanoe_211,caminho | path,2252,PATH
+bacelar2010kanoe_212,cascalho | gravel,3028,GRAVEL
+bacelar2010kanoe_213,carvão | charcoal,1188,CHARCOAL
+bacelar2010kanoe_214,céu | sky,1732,SKY
+bacelar2010kanoe_215,claridade | brightness,,
+bacelar2010kanoe_216,chuva | rain,658,RAIN (PRECIPITATION)
+bacelar2010kanoe_217,dia | day,1225,DAY (NOT NIGHT)
+bacelar2010kanoe_218,estrela | star,1430,STAR
+bacelar2010kanoe_219,estrela cadente | shooting star,2835,SHOOTING STAR
+bacelar2010kanoe_220,fogo | fire,221,FIRE
+bacelar2010kanoe_221,floresta | forest,420,FOREST
+bacelar2010kanoe_222,fonte | spring (water source),2144,SPRING OR WELL
+bacelar2010kanoe_223,frio | cold,1287,COLD
+bacelar2010kanoe_224,fumaça | smoke,778,SMOKE (EXHAUST)
+bacelar2010kanoe_225,"mato, capoeira | bush, secondary growth",,
+bacelar2010kanoe_226,"igarapé, córrego | stream, creek",947,STREAM
+bacelar2010kanoe_227,"lago, lagoa | lake, lagoon",624,LAKE
+bacelar2010kanoe_228,lua | moon,1313,MOON
+bacelar2010kanoe_229,luz | light,630,LIGHT (RADIATION)
+bacelar2010kanoe_230,"monte | hill, mount",,
+bacelar2010kanoe_231,margem de rio | riverbank,3463,RIVERBANK
+bacelar2010kanoe_232,montanha | mountain,639,MOUNTAIN
+bacelar2010kanoe_233,noite | night,1233,NIGHT
+bacelar2010kanoe_234,nuvem | cloud,1489,CLOUD
+bacelar2010kanoe_235,pedra | stone,857,STONE
+bacelar2010kanoe_236,pedra de moer | grinding stone,2459,GRINDSTONE
+bacelar2010kanoe_237,raio | lightning (bolt),1654,LIGHTNING
+bacelar2010kanoe_238,relãmpago | lightning (flash),1654,LIGHTNING
+bacelar2010kanoe_239,ribeirão | creek,,
+bacelar2010kanoe_240,rio | river,666,RIVER
+bacelar2010kanoe_241,serra | mountain range,,
+bacelar2010kanoe_242,cinza | ash,646,ASH
+bacelar2010kanoe_243,sal | salt,1274,SALT
+bacelar2010kanoe_244,sol | sun,1343,SUN
+bacelar2010kanoe_245,"solo,chão | ground, floor",2159,GROUND
+bacelar2010kanoe_246,"terra | earth, soil",1228,EARTH (SOIL)
+bacelar2010kanoe_247,"terra, fazenda | land, farm",,
+bacelar2010kanoe_248,trovão | thunder,1150,THUNDER
+bacelar2010kanoe_249,vento | wind,960,WIND
+bacelar2010kanoe_250,"tempo | time, weather",,
+bacelar2010kanoe_251,"lugar,espaço | place, space",723,PLACE (POSITION)
+bacelar2010kanoe_252,anta | tapir,312,TAPIR
+bacelar2010kanoe_253,ariranha | giant otter,,
+bacelar2010kanoe_254,cachorro doméstico | domestic dog,2009,DOG
+bacelar2010kanoe_255,cachorro do mato | bush dog,,
+bacelar2010kanoe_256,coelho | rabbit,1136,RABBIT
+bacelar2010kanoe_257,caititu | collared peccary,435,COLLARED PECCARY
+bacelar2010kanoe_258,capivara | capybara,314,CAPYBARA
+bacelar2010kanoe_259,cutia | agouti,313,AGOUTI
+bacelar2010kanoe_260,gambá | opossum,309,OPOSSUM
+bacelar2010kanoe_261,gato | cat,1208,CAT
+bacelar2010kanoe_262,lobinho-d'água | small otter (lobinho-d'água),,
+bacelar2010kanoe_263,lontra | otter,15,OTTER
+bacelar2010kanoe_264,maracajá | margay (maracajá),,
+bacelar2010kanoe_265,macaco | monkey,1350,MONKEY
+bacelar2010kanoe_266,macaco-aranha | spider monkey,434,SPIDER MONKEY
+bacelar2010kanoe_267,macaco-bugio | howler monkey (bugio),433,HOWLER MONKEY
+bacelar2010kanoe_268,macaco-cuxiú | bearded saki (cuxiú),,
+bacelar2010kanoe_269,macaco-de-cheiro | squirrel monkey,,
+bacelar2010kanoe_270,macaco-guariba | howler monkey (guariba),433,HOWLER MONKEY
+bacelar2010kanoe_271,macao-prego | capuchin monkey,439,CEBUS MONKEY
+bacelar2010kanoe_272,macaco-preto | black monkey (macaco-preto),,
+bacelar2010kanoe_273,macaco-taruacu | taruacu monkey,,
+bacelar2010kanoe_274,macaco-zogue-zogue | titi monkey (zogue-zogue),,
+bacelar2010kanoe_275,mico | marmoset (mico),,
+bacelar2010kanoe_276,morcego | bat,1793,BAT
+bacelar2010kanoe_277,mucura | opossum (mucura),309,OPOSSUM
+bacelar2010kanoe_278,onça | jaguar,1250,JAGUAR
+bacelar2010kanoe_279,onça pintada | spotted jaguar,,
+bacelar2010kanoe_280,onça preta | black jaguar,,
+bacelar2010kanoe_281,onça suçuarana | puma,,
+bacelar2010kanoe_282,paca | paca,316,PACA
+bacelar2010kanoe_283,"papa-mel irara | tayra (papa-mel, irara)",,
+bacelar2010kanoe_284,"porco | pig, peccary (porco)",,
+bacelar2010kanoe_285,preguiça | sloth,2446,SLOTH
+bacelar2010kanoe_286,quati | coati,2389,COATI (COATIMUNDI)
+bacelar2010kanoe_287,quatipuru | squirrel (quatipuru),1628,SQUIRREL
+bacelar2010kanoe_288,rato | rat,1490,RAT
+bacelar2010kanoe_289,ratão-do-banhado | marsh rat,,
+bacelar2010kanoe_290,raposinha-do-mato | small fox (raposinha-do-mato),,
+bacelar2010kanoe_291,serelepe | squirrel (serelepe),1628,SQUIRREL
+bacelar2010kanoe_292,tamanduá | anteater,181,ANTEATER
+bacelar2010kanoe_293,tamanduá-bandeira | giant anteater,,
+bacelar2010kanoe_294,tamanduá-mirim | lesser anteater (tamandua),,
+bacelar2010kanoe_295,tatu | armadillo,1885,ARMADILLO
+bacelar2010kanoe_296,tatu-bola | three-banded armadillo,,
+bacelar2010kanoe_297,tatu-canastra | giant armadillo,,
+bacelar2010kanoe_298,tatu-galinha | nine-banded armadillo,,
+bacelar2010kanoe_299,tatu-peludo | hairy armadillo,,
+bacelar2010kanoe_300,tatu-quinze-quilos | armadillo sp. ('fifteen-kilo armadillo'),,
+bacelar2010kanoe_301,veado | deer,1936,DEER
+bacelar2010kanoe_302,veado campeiro | pampas deer,,
+bacelar2010kanoe_303,veado roxo | brocket deer (veado roxo),,
+bacelar2010kanoe_304,calango | lizard (calango),632,LIZARD
+bacelar2010kanoe_305,calango verde | green lizard,,
+bacelar2010kanoe_306,"camaleão | chameleon (camaleão, a large lizard)",,
+bacelar2010kanoe_307,cobra | snake,730,SNAKE
+bacelar2010kanoe_308,cobra cascavel | rattlesnake,871,RATTLESNAKE
+bacelar2010kanoe_309,cobra-cipó | vine snake,,
+bacelar2010kanoe_310,cobra jararaca | jararaca (pit viper),,
+bacelar2010kanoe_311,cobra jibóia | boa constrictor,,
+bacelar2010kanoe_312,cobra sucuri | anaconda,,
+bacelar2010kanoe_313,cobra-urutu | urutu (pit viper),,
+bacelar2010kanoe_314,iguana | iguana,1578,IGUANA
+bacelar2010kanoe_315,jacaré | caiman,2438,CAIMAN
+bacelar2010kanoe_316,jacaré-açu | black caiman (jacaré-açu),,
+bacelar2010kanoe_317,jacaré-papo-amarelo | broad-snouted caiman,,
+bacelar2010kanoe_318,jabuti | tortoise,895,TORTOISE
+bacelar2010kanoe_319,lagartixa | gecko,,
+bacelar2010kanoe_320,perereca | tree frog,,
+bacelar2010kanoe_321,perereca verde | green tree frog,,
+bacelar2010kanoe_322,rã | frog,503,FROG
+bacelar2010kanoe_323,sapo | toad,894,TOAD
+bacelar2010kanoe_324,sapo-boi | toad sp. (sapo-boi),,
+bacelar2010kanoe_325,sapo-cururu | cane toad (sapo-cururu),,
+bacelar2010kanoe_326,"sapo grande, gia | big frog (gia)",,
+bacelar2010kanoe_327,girino | tadpole,3979,TADPOLE
+bacelar2010kanoe_328,salamandra | salamander,,
+bacelar2010kanoe_329,tracajá | river turtle (tracajá),,
+bacelar2010kanoe_330,teiú | tegu lizard,,
+bacelar2010kanoe_331,águia | eagle,1905,EAGLE
+bacelar2010kanoe_332,amarelinho | amarelinho (bird),,
+bacelar2010kanoe_333,anambé | anambé (cotinga bird),,
+bacelar2010kanoe_334,andorinha | swallow,897,SWALLOW
+bacelar2010kanoe_335,anu branco | white ani (guira cuckoo),,
+bacelar2010kanoe_336,anu-preto | smooth-billed ani,,
+bacelar2010kanoe_337,anhuma | horned screamer (anhuma),,
+bacelar2010kanoe_338,aracuã-do-pantanal | chaco chachalaca (aracuã-do-pantanal),,
+bacelar2010kanoe_339,araçari-letrado | lettered aracari,,
+bacelar2010kanoe_340,araçari-mulato | aracari sp. (araçari-mulato),,
+bacelar2010kanoe_341,araçari-minhoca | aracari sp. (araçari-minhoca),,
+bacelar2010kanoe_342,araçari-poca | aracari sp. (araçari-poca),,
+bacelar2010kanoe_343,araçari-miudinho | aracari sp. (araçari-miudinho),,
+bacelar2010kanoe_344,aracuã | chachalaca (aracuã),,
+bacelar2010kanoe_345,arapaçu | woodcreeper (arapaçu),,
+bacelar2010kanoe_346,arapapá | boat-billed heron (arapapá),,
+bacelar2010kanoe_347,araponga | bellbird (araponga),,
+bacelar2010kanoe_348,araponguinha | small bellbird (araponguinha),,
+bacelar2010kanoe_349,arara | macaw,1630,MACAW
+bacelar2010kanoe_350,arara-amarela | yellow macaw (arara-amarela),,
+bacelar2010kanoe_351,arara-azul | hyacinth macaw (arara-azul),,
+bacelar2010kanoe_352,arara-canindé | blue-and-yellow macaw,,
+bacelar2010kanoe_353,arara-do-bico-gde | large-billed macaw (arara-do-bico-gde),,
+bacelar2010kanoe_354,ararajuba | golden parakeet (ararajuba),,
+bacelar2010kanoe_355,arara-vermelha | red macaw,,
+bacelar2010kanoe_356,ararinha-vermelha | small red macaw,,
+bacelar2010kanoe_357,ariramba | jacamar (ariramba),,
+bacelar2010kanoe_358,azulão | blue grosbeak (azulão),,
+bacelar2010kanoe_359,bacurau | nightjar (bacurau),,
+bacelar2010kanoe_360,bacurau-branco | nightjar sp. (bacurau-branco),,
+bacelar2010kanoe_361,bacurau-barrado | nightjar sp. (bacurau-barrado),,
+bacelar2010kanoe_362,batuíra | plover (batuíra),,
+bacelar2010kanoe_363,beija-flor | hummingbird,1589,HUMMINGBIRD
+bacelar2010kanoe_364,beija-flor carijó | hummingbird sp. (beija-flor carijó),,
+bacelar2010kanoe_365,beija-flor roxo | hummingbird sp. (beija-flor roxo),,
+bacelar2010kanoe_366,beija-flor tesoura | swallow-tailed hummingbird,,
+bacelar2010kanoe_367,bem-te-vi | great kiskadee (bem-te-vi),,
+bacelar2010kanoe_368,bico-de-brasa | bico-de-brasa (bird),,
+bacelar2010kanoe_369,cabeça-seca | cabeça-seca (stork),,
+bacelar2010kanoe_370,caburé | pygmy owl (caburé),,
+bacelar2010kanoe_371,cãcã | laughing falcon (cãcã),,
+bacelar2010kanoe_372,cambacica | bananaquit (cambacica),,
+bacelar2010kanoe_373,cambaxirra | wren (cambaxirra),,
+bacelar2010kanoe_374,canário | canary (canário),,
+bacelar2010kanoe_375,canário-do-brejo | canário-do-brejo (bird),,
+bacelar2010kanoe_376,canário-do-campo | canário-do-campo (bird),,
+bacelar2010kanoe_377,capitão | capitão (bird),,
+bacelar2010kanoe_378,caracará | caracara,,
+bacelar2010kanoe_379,cardeal | cardinal (cardeal),,
+bacelar2010kanoe_380,chincoã | chincoã (cuckoo),,
+bacelar2010kanoe_381,choca d'água | choca d'água (bird),,
+bacelar2010kanoe_382,coruja-diabo | coruja-diabo (owl sp.),,
+bacelar2010kanoe_383,chorão | chorão (bird),,
+bacelar2010kanoe_384,cigana | hoatzin (cigana),,
+bacelar2010kanoe_385,coleiro | seedeater (coleiro),,
+bacelar2010kanoe_386,coleiro-do-brejo | coleiro-do-brejo (bird),,
+bacelar2010kanoe_387,colhereiro | roseate spoonbill (colhereiro),,
+bacelar2010kanoe_388,corruíra | house wren (corruíra),,
+bacelar2010kanoe_389,coruja | owl,735,OWL
+bacelar2010kanoe_390,coruja-buraqueira | burrowing owl,,
+bacelar2010kanoe_391,coruja-da-mata | owl sp. (coruja-da-mata),,
+bacelar2010kanoe_392,coruja-do-campo | owl sp. (coruja-do-campo),,
+bacelar2010kanoe_393,coruja-de-igreja | barn owl (coruja-de-igreja),,
+bacelar2010kanoe_394,cotinga | cotinga,,
+bacelar2010kanoe_395,cujubim | piping guan (cujubim),,
+bacelar2010kanoe_396,cuitelo | cuitelo (bird),,
+bacelar2010kanoe_397,cuitelinho | cuitelinho (bird),,
+bacelar2010kanoe_398,curica | curica (parrot),,
+bacelar2010kanoe_399,curicaca | buff-necked ibis (curicaca),,
+bacelar2010kanoe_400,curió | curió (seedeater),,
+bacelar2010kanoe_401,dançador | manakin (dançador),,
+bacelar2010kanoe_402,ema | rhea (ema),,
+bacelar2010kanoe_403,encontro | encontro (bird),,
+bacelar2010kanoe_404,estalador | estalador (bird),,
+bacelar2010kanoe_405,falcão | falcon,,
+bacelar2010kanoe_406,formigueiro | antbird (formigueiro),,
+bacelar2010kanoe_407,frango d´água | crake (frango d'água),,
+bacelar2010kanoe_408,freirinha | freirinha (bird),,
+bacelar2010kanoe_409,frifrió | frifrió (bird),,
+bacelar2010kanoe_410,"galinha | chicken, hen (galinha)",1318,CHICKEN
+bacelar2010kanoe_411,galo | rooster,1511,ROOSTER
+bacelar2010kanoe_412,"garça | heron, egret",758,HERON
+bacelar2010kanoe_413,garça-branca pequena | small white egret,,
+bacelar2010kanoe_414,garça real | great egret (garça real),,
+bacelar2010kanoe_415,garrinha | garrinha (bird),,
+bacelar2010kanoe_416,gaturamo | euphonia (gaturamo),,
+bacelar2010kanoe_417,gavião | hawk,307,HAWK
+bacelar2010kanoe_418,gavião indaié | hawk sp. (gavião indaié),,
+bacelar2010kanoe_419,gavião papa-pinto | hawk sp. (gavião papa-pinto),,
+bacelar2010kanoe_420,gavião pega-cobra | hawk sp. (gavião pega-cobra),,
+bacelar2010kanoe_421,inhanbu | tinamou,3921,TINAMOU
+bacelar2010kanoe_422,inhanbu-açu | tinamou sp. (inhambu-açu),,
+bacelar2010kanoe_423,inhanbu-carijó | tinamou sp. (inhambu-carijó),,
+bacelar2010kanoe_424,inhanbu-galinha | tinamou sp. (inhambu-galinha),,
+bacelar2010kanoe_425,inhambu-chintã | tinamou sp. (inhambu-chintã),,
+bacelar2010kanoe_426,inhambu-preto | tinamou sp. (inhambu-preto),,
+bacelar2010kanoe_427,jaburu | jabiru stork,,
+bacelar2010kanoe_428,jacamim | trumpeter (jacamim),,
+bacelar2010kanoe_429,jacu | guan (jacu),,
+bacelar2010kanoe_430,jacumirim | guan sp. (jacumirim),,
+bacelar2010kanoe_431,jacupemba | guan sp. (jacupemba),,
+bacelar2010kanoe_432,jacu piranga | guan sp. (jacu piranga),,
+bacelar2010kanoe_433,jandaia | conure (jandaia),,
+bacelar2010kanoe_434,jaó | undulated tinamou (jaó),,
+bacelar2010kanoe_435,juriti | dove (juriti),,
+bacelar2010kanoe_436,juriti-azul | dove sp. (juriti-azul),,
+bacelar2010kanoe_437,joão-pinto | joão-pinto (bird),,
+bacelar2010kanoe_438,juruva | motmot (juruva),,
+bacelar2010kanoe_439,juruviara | vireo (juruviara),,
+bacelar2010kanoe_440,lavadeira | water-tyrant (lavadeira),,
+bacelar2010kanoe_441,limpa-folha | foliage-gleaner (limpa-folha),,
+bacelar2010kanoe_442,maçarico | sandpiper (maçarico),,
+bacelar2010kanoe_443,macuco | tinamou (macuco),,
+bacelar2010kanoe_444,macuquinho | macuquinho (bird),,
+bacelar2010kanoe_445,maguari | maguari stork,,
+bacelar2010kanoe_446,maracanã | macaw sp. (maracanã),,
+bacelar2010kanoe_447,maria-cavaleira | maria-cavaleira (flycatcher),,
+bacelar2010kanoe_448,maria-branca | maria-branca (bird),,
+bacelar2010kanoe_449,maria-irré | maria-irré (bird),,
+bacelar2010kanoe_450,mariquita | mariquita (warbler),,
+bacelar2010kanoe_451,maritaca | parrot sp. (maritaca),,
+bacelar2010kanoe_452,marreca-ananaí | teal sp. (marreca-ananaí),,
+bacelar2010kanoe_453,marreca-asa-branca | white-winged teal (marreca-asa-branca),,
+bacelar2010kanoe_454,mutum | curassow,315,CURASSOW
+bacelar2010kanoe_455,mutum-açu | curassow sp. (mutum-açu),,
+bacelar2010kanoe_456,mutum-cavalo | curassow sp. (mutum-cavalo),,
+bacelar2010kanoe_457,mutum-preto | curassow sp. (mutum-preto),,
+bacelar2010kanoe_458,neinei | neinei (flycatcher),,
+bacelar2010kanoe_459,nhandu | rhea (nhandu),,
+bacelar2010kanoe_460,papa-capim | seedeater (papa-capim),,
+bacelar2010kanoe_461,papa-formigas | antbird (papa-formigas),,
+bacelar2010kanoe_462,papagainho | small parrot (papagainho),,
+bacelar2010kanoe_463,papagaio galego | parrot sp. (papagaio galego),,
+bacelar2010kanoe_464,papagaio-verdadeiro | parrot sp. (papagaio-verdadeiro),,
+bacelar2010kanoe_465,papa-lagarta | cuckoo sp. (papa-lagarta),,
+bacelar2010kanoe_466,papa-moscas | flycatcher (papa-moscas),,
+bacelar2010kanoe_467,pardal | sparrow (pardal),,
+bacelar2010kanoe_468,pássaro-preto | blackbird (pássaro-preto),,
+bacelar2010kanoe_469,pato | duck,1360,DUCK
+bacelar2010kanoe_470,pato-do-mato | Muscovy duck (pato-do-mato),,
+bacelar2010kanoe_471,pato-de-crista | comb duck (pato-de-crista),,
+bacelar2010kanoe_472,passarinho | small bird (passarinho),,
+bacelar2010kanoe_473,peixe-frito | peixe-frito (bird),,
+bacelar2010kanoe_474,perdiz | partridge (perdiz),,
+bacelar2010kanoe_475,periquitão | parakeet sp. (periquitão),,
+bacelar2010kanoe_476,periquito | parakeet,886,PARAKEET
+bacelar2010kanoe_477,periquito-comum | parakeet sp. (periquito-comum),,
+bacelar2010kanoe_478,periquito-rei | parakeet sp. (periquito-rei),,
+bacelar2010kanoe_479,piaçoca | jacana (piaçoca),,
+bacelar2010kanoe_480,pia-pouco | pia-pouco (bird),,
+bacelar2010kanoe_481,pica-pau | woodpecker,2447,WOODPECKER
+bacelar2010kanoe_482,pintarroxo | pintarroxo (bird),,
+bacelar2010kanoe_483,pintassilgo | goldfinch (pintassilgo),,
+bacelar2010kanoe_484,pintinho | chick (pintinho),,
+bacelar2010kanoe_485,pinto-d'água | pinto-d'água (crake),,
+bacelar2010kanoe_486,pipira | pipira (tanager),,
+bacelar2010kanoe_487,"pomba | dove, pigeon (pomba)",1853,DOVE
+bacelar2010kanoe_488,pomba-galega | pigeon sp. (pomba-galega),,
+bacelar2010kanoe_489,pomba-pedrês | pigeon sp. (pomba-pedrês),,
+bacelar2010kanoe_490,pomba-verdadeira | pigeon sp. (pomba-verdadeira),,
+bacelar2010kanoe_491,quero-quero | southern lapwing (quero-quero),,
+bacelar2010kanoe_492,rabilonga | rabilonga (bird),,
+bacelar2010kanoe_493,rapazinho | rapazinho (puffbird),,
+bacelar2010kanoe_494,rapazinho-dos-velhos | puffbird sp. (rapazinho-dos-velhos),,
+bacelar2010kanoe_495,rapazinho-estriado | puffbird sp. (rapazinho-estriado),,
+bacelar2010kanoe_496,rola | ground dove (rola),,
+bacelar2010kanoe_497,rola fogo-apagou | ground dove sp. (rola fogo-apagou),,
+bacelar2010kanoe_498,rola-azul | ground dove sp. (rola-azul),,
+bacelar2010kanoe_499,rola-primavera | ground dove sp. (rola-primavera),,
+bacelar2010kanoe_500,rolinha-branca | ground dove sp. (rolinha-branca),,
+bacelar2010kanoe_501,rolinha-primavera | ground dove sp. (rolinha-primavera),,
+bacelar2010kanoe_502,rolinha-pedrês | ground dove sp. (rolinha-pedrês),,
+bacelar2010kanoe_503,rolinha-vermelha | ground dove sp. (rolinha-vermelha),,
+bacelar2010kanoe_504,sabacu | sabacu (heron),,
+bacelar2010kanoe_505,sabiá | thrush (sabiá),,
+bacelar2010kanoe_506,Sabiá-do-campo | thrush sp. (sabiá-do-campo),,
+bacelar2010kanoe_507,sabiá-laranjeira | rufous-bellied thrush (sabiá-laranjeira),,
+bacelar2010kanoe_508,sabiá-pardo | thrush sp. (sabiá-pardo),,
+bacelar2010kanoe_509,sabiá-pimenta | thrush sp. (sabiá-pimenta),,
+bacelar2010kanoe_510,saci | saci (cuckoo),,
+bacelar2010kanoe_511,saí | honeycreeper (saí),,
+bacelar2010kanoe_512,saí-amarelo | honeycreeper sp. (saí-amarelo),,
+bacelar2010kanoe_513,saí-bicudo | honeycreeper sp. (saí-bicudo),,
+bacelar2010kanoe_514,saí-de-fogo | honeycreeper sp. (saí-de-fogo),,
+bacelar2010kanoe_515,saíra | tanager (saíra),,
+bacelar2010kanoe_516,saíra-açu | tanager sp. (saíra-açu),,
+bacelar2010kanoe_517,saíra-canário | tanager sp. (saíra-canário),,
+bacelar2010kanoe_518,saíra cara-suja | tanager sp. (saíra cara-suja),,
+bacelar2010kanoe_519,saíra-militar | tanager sp. (saíra-militar),,
+bacelar2010kanoe_520,saíra-sete-cores | tanager sp. (saíra-sete-cores),,
+bacelar2010kanoe_521,saíra-fogo | tanager sp. (saíra-fogo),,
+bacelar2010kanoe_522,saíra-verde | tanager sp. (saíra-verde),,
+bacelar2010kanoe_523,sanã | crake (sanã),,
+bacelar2010kanoe_524,sanã-carijó | crake sp. (sanã-carijó),,
+bacelar2010kanoe_525,sanhaço | tanager (sanhaço),,
+bacelar2010kanoe_526,sanhaço-azul | tanager sp. (sanhaço-azul),,
+bacelar2010kanoe_527,saracura | wood-rail (saracura),,
+bacelar2010kanoe_528,saracura-carijó | wood-rail sp. (saracura-carijó),,
+bacelar2010kanoe_529,saracura-sanã | wood-rail sp. (saracura-sanã),,
+bacelar2010kanoe_530,saripoca | saripoca (toucanet),,
+bacelar2010kanoe_531,sebinho | sebinho (bird),,
+bacelar2010kanoe_532,socó | heron sp. (socó),,
+bacelar2010kanoe_533,socó-boi | tiger heron (socó-boi),,
+bacelar2010kanoe_534,socó-mirim | heron sp. (socó-mirim),,
+bacelar2010kanoe_535,socó-pulador | heron sp. (socó-pulador),,
+bacelar2010kanoe_536,subideira | woodcreeper (subideira),,
+bacelar2010kanoe_537,suindara | barn owl (suindara),,
+bacelar2010kanoe_538,suiriri | kingbird (suiriri),,
+bacelar2010kanoe_539,surucuá | trogon (surucuá),,
+bacelar2010kanoe_540,surucuá-açu | trogon sp. (surucuá-açu),,
+bacelar2010kanoe_541,sucucuá-amarelo | trogon sp. (sucucuá-amarelo),,
+bacelar2010kanoe_542,surina | surina (bird),,
+bacelar2010kanoe_543,tabaco-bom | tabaco-bom (bird),,
+bacelar2010kanoe_544,tachã | southern screamer (tachã),,
+bacelar2010kanoe_545,tangará | manakin (tangará),,
+bacelar2010kanoe_546,taperá | swift (taperá),,
+bacelar2010kanoe_547,tem-tem | tem-tem (bird),,
+bacelar2010kanoe_548,tempera-viola | tempera-viola (bird),,
+bacelar2010kanoe_549,tesoura | fork-tailed flycatcher (tesoura),,
+bacelar2010kanoe_550,tesourão | frigatebird / large fork-tailed bird (tesourão),,
+bacelar2010kanoe_551,téu-téu | lapwing (téu-téu),,
+bacelar2010kanoe_552,tico-tico | sparrow (tico-tico),,
+bacelar2010kanoe_553,tiê | tanager (tiê),,
+bacelar2010kanoe_554,tiê-sangue | tanager sp. (tiê-sangue),,
+bacelar2010kanoe_555,tietinga | tietinga (bird),,
+bacelar2010kanoe_556,tinguá | tinguá (bird),,
+bacelar2010kanoe_557,tinguaçu | tinguaçu (bird),,
+bacelar2010kanoe_558,tiom-tiom | tiom-tiom (bird),,
+bacelar2010kanoe_559,trinca-ferro | saltator (trinca-ferro),,
+bacelar2010kanoe_560,tuvira | tuvira (bird),,
+bacelar2010kanoe_561,tiziu | blue-black grassquit (tiziu),,
+bacelar2010kanoe_562,tovaca | antshrike (tovaca),,
+bacelar2010kanoe_563,tovaquinha | small antshrike (tovaquinha),,
+bacelar2010kanoe_564,tucano | toucan,308,TOUCAN
+bacelar2010kanoe_565,tucano-de-bico-preto | toucan sp. (black-billed),,
+bacelar2010kanoe_566,tucano-de-bico-verde | toucan sp. (green-billed),,
+bacelar2010kanoe_567,tucano-de-peito-amar. | toucan sp. (yellow-breasted),,
+bacelar2010kanoe_568,tucano-de-peito-branc | toucan sp. (white-breasted),,
+bacelar2010kanoe_569,tuidara | tuidara (owl),,
+bacelar2010kanoe_570,tuim | parrotlet (tuim),,
+bacelar2010kanoe_571,udu | motmot (udu),,
+bacelar2010kanoe_572,uru-coroado | wood-quail sp. (uru-coroado),,
+bacelar2010kanoe_573,uiraçu | harpy eagle (uiraçu),,
+bacelar2010kanoe_574,uirapuru | wren (uirapuru),,
+bacelar2010kanoe_575,uirapuru-verdadeiro | wren sp. (uirapuru-verdadeiro),,
+bacelar2010kanoe_576,uirapuru-cigarra | wren sp. (uirapuru-cigarra),,
+bacelar2010kanoe_577,uru | wood-quail (uru),,
+bacelar2010kanoe_578,urubu | vulture (urubu),1185,VULTURE
+bacelar2010kanoe_579,urubu-rei | king vulture,,
+bacelar2010kanoe_580,urubuzinho | small vulture (urubuzinho),,
+bacelar2010kanoe_581,urutau | potoo (urutau),,
+bacelar2010kanoe_582,urutaurana | potoo sp. (urutaurana),,
+bacelar2010kanoe_583,xexéu | cacique (xexéu),,
+bacelar2010kanoe_584,"viúva | widow (viúva, bird)",,
+bacelar2010kanoe_585,vivi | vivi (bird),,
+bacelar2010kanoe_586,zabelê | tinamou sp. (zabelê),,
+bacelar2010kanoe_587,asa | wing,1257,WING
+bacelar2010kanoe_588,bico | beak,73,BEAK
+bacelar2010kanoe_589,pena | feather,1201,FEATHER
+bacelar2010kanoe_590,ovo | egg,744,EGG
+bacelar2010kanoe_591,rabo | tail,1220,TAIL
+bacelar2010kanoe_592,abelha | bee,665,BEE
+bacelar2010kanoe_593,abelha-iraxim | bee sp. (abelha-iraxim),,
+bacelar2010kanoe_594,abelha-bijurí | bee sp. (abelha-bijurí),,
+bacelar2010kanoe_595,abelha caga-fogo | bee sp. (abelha caga-fogo),,
+bacelar2010kanoe_596,abelha-canudo | bee sp. (abelha-canudo),,
+bacelar2010kanoe_597,abelha-irapuã | bee sp. (abelha-irapuã),,
+bacelar2010kanoe_598,abelha-jataí | bee sp. (abelha-jataí),,
+bacelar2010kanoe_599,abelha-lambe-olhos | bee sp. (abelha-lambe-olhos),,
+bacelar2010kanoe_600,abelha-mamangaba | carpenter bee (mamangaba),,
+bacelar2010kanoe_601,abelha sanharó | bee sp. (abelha sanharó),,
+bacelar2010kanoe_602,abelha tibuna | bee sp. (abelha tibuna),,
+bacelar2010kanoe_603,aranha | spider,843,SPIDER
+bacelar2010kanoe_604,ovo de aranha | spider egg,,
+bacelar2010kanoe_605,teia de aranha | spider web,1065,SPIDER WEB
+bacelar2010kanoe_606,aranha-d'água | water spider,,
+bacelar2010kanoe_607,aranhaçu | large spider (aranhaçu),,
+bacelar2010kanoe_608,aranha-caranguejeira | tarantula (aranha-caranguejeira),3886,TARANTULA
+bacelar2010kanoe_609,barata | cockroach,1575,COCKROACH
+bacelar2010kanoe_610,barata-do-mato | wood cockroach,,
+bacelar2010kanoe_611,barbeiro | kissing bug (barbeiro),,
+bacelar2010kanoe_612,besouro | beetle,2242,BEETLE
+bacelar2010kanoe_613,bicho-de-fruta | fruit grub,,
+bacelar2010kanoe_614,bicho-de-patauá | patauá-palm grub,,
+bacelar2010kanoe_615,bicho-de-pé | chigoe flea (bicho-de-pé),,
+bacelar2010kanoe_616,bicho-pau | stick insect,,
+bacelar2010kanoe_617,bicho-pau-alado | winged stick insect,,
+bacelar2010kanoe_618,bicho-pau áptero | wingless stick insect,,
+bacelar2010kanoe_619,borboleta | butterfly,1791,BUTTERFLY
+bacelar2010kanoe_620,borboleta-bruxa | moth sp. (borboleta-bruxa),,
+bacelar2010kanoe_621,crisálida | chrysalis,,
+bacelar2010kanoe_622,borboleta-monarca | monarch butterfly,,
+bacelar2010kanoe_623,borboleta-pintada | painted butterfly,,
+bacelar2010kanoe_624,borrachudo | blackfly (borrachudo),,
+bacelar2010kanoe_625,caba | wasp (caba),1517,WASP
+bacelar2010kanoe_626,caba-cega | wasp sp. (caba-cega),,
+bacelar2010kanoe_627,caba-chapéu | wasp sp. (caba-chapéu),,
+bacelar2010kanoe_628,cabamirim | wasp sp. (cabamirim),,
+bacelar2010kanoe_629,cabatatu | wasp sp. (cabatatu),,
+bacelar2010kanoe_630,caçunun-guçu | wasp sp. (caçununguçu),,
+bacelar2010kanoe_631,caracol | snail (caracol),1543,SNAIL
+bacelar2010kanoe_632,carapanã mosquito | mosquito (carapanã),1509,MOSQUITO
+bacelar2010kanoe_633,caramujo | snail (caramujo),,
+bacelar2010kanoe_634,caranguejo | crab,2348,CRAB
+bacelar2010kanoe_635,caranguejo de-rio | river crab,,
+bacelar2010kanoe_636,carrapatinho | small tick,,
+bacelar2010kanoe_637,carrapato | tick,1527,TICK
+bacelar2010kanoe_638,carrapato-estrela | tick sp. (carrapato-estrela),,
+bacelar2010kanoe_639,carrapato-de-cavalo | horse tick,,
+bacelar2010kanoe_640,carapato-de-macaco | monkey tick,,
+bacelar2010kanoe_641,caruncho-de-madeira | woodworm,,
+bacelar2010kanoe_642,casulo de inseto | insect cocoon,,
+bacelar2010kanoe_643,cigarra | cicada,2353,CICADA
+bacelar2010kanoe_644,"cigarrinha | small cicada, leafhopper",,
+bacelar2010kanoe_645,cigarra grande | large cicada,,
+bacelar2010kanoe_646,"coró, bicho de coco | palm grub (coró)",,
+bacelar2010kanoe_647,cupim | termite,883,TERMITE
+bacelar2010kanoe_648,embuá | millipede (embuá),,
+bacelar2010kanoe_649,escorpião | scorpion,1538,SCORPION
+bacelar2010kanoe_650,ferrão de inseto | insect sting,,
+bacelar2010kanoe_651,formiga | ant,587,ANT
+bacelar2010kanoe_652,formiga-cabaça | ant sp. (formiga-cabaça),,
+bacelar2010kanoe_653,formiga-lavapés | fire ant (formiga-lavapés),,
+bacelar2010kanoe_654,formiga-quemquém | leaf-cutter ant sp. (quemquém),,
+bacelar2010kanoe_655,formiga saca-saia | ant sp. (formiga saca-saia),,
+bacelar2010kanoe_656,formiga taioca | ant sp. (formiga taioca),,
+bacelar2010kanoe_657,tormiga taciba | ant sp. (formiga taciba),,
+bacelar2010kanoe_658,formica tocandira | bullet ant (tocandira),,
+bacelar2010kanoe_659,formiga-vermelha-e-preta | red-and-black ant,,
+bacelar2010kanoe_660,formigueiro | anthill,1873,ANTHILL
+bacelar2010kanoe_661,gahanhoto | grasshopper,607,GRASSHOPPER
+bacelar2010kanoe_662,"gafanhoto verde, esperança | katydid (gafanhoto verde, esperança)",,
+bacelar2010kanoe_663,"içá, tanajura | leaf-cutter ant queen (içá, tanajura)",,
+bacelar2010kanoe_664,jequitirana mbóia | lantern fly (jequitiranaboia),,
+bacelar2010kanoe_665,"lacraia, centopéia | centipede",1974,CENTIPEDE
+bacelar2010kanoe_666,lagarta-de-casulo | bagworm (lagarta-de-casulo),,
+bacelar2010kanoe_667,lagarta-de-folha | leaf caterpillar,,
+bacelar2010kanoe_668,lagarta-de-fogo | stinging caterpillar (lagarta-de-fogo),,
+bacelar2010kanoe_669,lagarta mede-palmo | inchworm,,
+bacelar2010kanoe_670,lagarta-vermelha | red caterpillar,,
+bacelar2010kanoe_671,larva de formiga | ant larva,,
+bacelar2010kanoe_672,"lavadeira, libélula | dragonfly",2352,DRAGONFLY
+bacelar2010kanoe_673,lesma | slug,,
+bacelar2010kanoe_674,lombriga | roundworm (lombriga),,
+bacelar2010kanoe_675,marimbondo | wasp (marimbondo),,
+bacelar2010kanoe_676,marimbondo-caçador | wasp sp. (marimbondo-caçador),,
+bacelar2010kanoe_677,marimbondo-chapéu | wasp sp. (marimbondo-chapéu),,
+bacelar2010kanoe_678,minhoca | earthworm,2350,EARTHWORM
+bacelar2010kanoe_679,minhocuçu | giant earthworm,,
+bacelar2010kanoe_680,mosca | fly,1504,FLY (INSECT)
+bacelar2010kanoe_681,mosca varejeira | blowfly,,
+bacelar2010kanoe_682,"mosquitinho | small mosquito, gnat",,
+bacelar2010kanoe_683,mumbuca | mumbuca (bee),,
+bacelar2010kanoe_684,mutuca | horsefly (mutuca),3262,HORSEFLY
+bacelar2010kanoe_685,pecevejo | bedbug,,
+bacelar2010kanoe_686,piolho | louse,1392,LOUSE
+bacelar2010kanoe_687,piolho-de-cabeça | head louse,310,HEAD LOUSE
+bacelar2010kanoe_688,"piolho dos vegetais, pulgão | aphid",,
+bacelar2010kanoe_689,camarão-de-água-doce | freshwater shrimp,2349,SHRIMP
+bacelar2010kanoe_690,"pium,borrachudinho | small blackfly (pium)",,
+bacelar2010kanoe_691,pulga | flea,232,FLEA
+bacelar2010kanoe_692,saúva | leaf-cutter ant (saúva),,
+bacelar2010kanoe_693,tanajura | leaf-cutter ant queen (tanajura),,
+bacelar2010kanoe_694,"tataíra,abelha-de-fogo | fire bee (tataíra)",,
+bacelar2010kanoe_695,"tatarana, sussarana | stinging caterpillar (tatarana)",,
+bacelar2010kanoe_696,"tiririca, cupim alado | winged termite (tiririca)",,
+bacelar2010kanoe_697,"tocandira tucandeira | bullet ant (tocandira, tucandeira)",,
+bacelar2010kanoe_698,tatuzinho | pill bug (tatuzinho),,
+bacelar2010kanoe_699,vagalume | firefly,206,FIREFLY
+bacelar2010kanoe_700,verme | worm,1219,WORM
+bacelar2010kanoe_701,vespa | wasp,1517,WASP
+bacelar2010kanoe_702,vespa-cega | wasp sp. (vespa-cega),,
+bacelar2010kanoe_703,zangão | drone bee,,
+bacelar2010kanoe_704,"zunga, bicho-de-pé | chigoe flea (zunga, bicho-de-pé)",,
+bacelar2010kanoe_705,asa da borboleta | butterfly's wing,,
+bacelar2010kanoe_706,corpo da borboleta | butterfly's body,,
+bacelar2010kanoe_707,olho da borboleta | butterfly's eye,,
+bacelar2010kanoe_708,tromba da borboleta | butterfly's proboscis,,
+bacelar2010kanoe_709,bunda da borboleta | butterfly's abdomen,,
+bacelar2010kanoe_710,"acará, cará | cichlid (acará, cará)",,
+bacelar2010kanoe_711,acará-bandeira | angelfish (acará-bandeira),,
+bacelar2010kanoe_712,acará-disco | discus fish (acará-disco),,
+bacelar2010kanoe_713,acará-pirambocaia | cichlid sp. (acará-pirambocaia),,
+bacelar2010kanoe_714,acará-tonto | cichlid sp. (acará-tonto),,
+bacelar2010kanoe_715,acará-peba | cichlid sp. (acará-peba),,
+bacelar2010kanoe_716,acará-pixuna | cichlid sp. (acará-pixuna),,
+bacelar2010kanoe_717,anari-cascudo | armoured catfish (anari-cascudo),,
+bacelar2010kanoe_718,"apapá,sardinhão | fish sp. (apapá, sardinhão)",,
+bacelar2010kanoe_719,"aramacá, soia | fish sp. (aramacá, soia)",,
+bacelar2010kanoe_720,arraia | stingray,,
+bacelar2010kanoe_721,arraia-de-ferrão | stingray sp. (arraia-de-ferrão),,
+bacelar2010kanoe_722,bacu-de-pedra | catfish sp. (bacu-de-pedra),,
+bacelar2010kanoe_723,bagre | catfish (bagre),,
+bacelar2010kanoe_724,bagrinho-rocador | small catfish (bagrinho-rocador),,
+bacelar2010kanoe_725,bajurqui | fish sp. (bajurqui),,
+bacelar2010kanoe_726,boca-de-garrafa | fish sp. (boca-de-garrafa),,
+bacelar2010kanoe_727,borboleta | fish sp. (borboleta),,
+bacelar2010kanoe_728,cabeçudo | fish sp. (cabeçudo),,
+bacelar2010kanoe_729,camboatã amarelo | fish sp. (camboatã amarelo),,
+bacelar2010kanoe_730,canana-capeta | fish sp. (canana-capeta),,
+bacelar2010kanoe_731,candiru | candiru (catfish),,
+bacelar2010kanoe_732,cangati | catfish sp. (cangati),,
+bacelar2010kanoe_733,cangati-de pedra | catfish sp. (cangati-de-pedra),,
+bacelar2010kanoe_734,cangati-de-madeira | catfish sp. (cangati-de-madeira),,
+bacelar2010kanoe_735,caranha | fish sp. (caranha),,
+bacelar2010kanoe_736,cari-chicote | catfish sp. (cari-chicote),,
+bacelar2010kanoe_737,carito | fish sp. (carito),,
+bacelar2010kanoe_738,cachimbo | fish sp. (cachimbo),,
+bacelar2010kanoe_739,cascudo | armoured catfish (cascudo),,
+bacelar2010kanoe_740,cascudo-barbado | armoured catfish sp. (cascudo-barbado),,
+bacelar2010kanoe_741,cascudo-bugio | armoured catfish sp. (cascudo-bugio),,
+bacelar2010kanoe_742,"cascudo-preto, lajeiro | armoured catfish sp. (cascudo-preto, lajeiro)",,
+bacelar2010kanoe_743,cuiú-cuiú | catfish sp. (cuiú-cuiú),,
+bacelar2010kanoe_744,curimbatá | fish sp. (curimbatá),,
+bacelar2010kanoe_745,"jacundá, peixe-sabão | pike cichlid (jacundá, peixe-sabão)",,
+bacelar2010kanoe_746,jacundá-coroa | pike cichlid sp. (jacundá-coroa),,
+bacelar2010kanoe_747,jacundá-pinima | pike cichlid sp. (jacundá-pinima),,
+bacelar2010kanoe_748,jaraqui | fish sp. (jaraqui),,
+bacelar2010kanoe_749,jaú | catfish sp. (jaú),,
+bacelar2010kanoe_750,jaju | fish sp. (jaju),,
+bacelar2010kanoe_751,jatuarana | fish sp. (jatuarana),,
+bacelar2010kanoe_752,joana-guensa | fish sp. (joana-guensa),,
+bacelar2010kanoe_753,"jurupoca,braço-de-moça | catfish sp. (jurupoca, braço-de-moça)",,
+bacelar2010kanoe_754,lambari | small characin (lambari),,
+bacelar2010kanoe_755,mandi | catfish sp. (mandi),,
+bacelar2010kanoe_756,mandi-preto | catfish sp. (mandi-preto),,
+bacelar2010kanoe_757,mandi-amarelo | catfish sp. (mandi-amarelo),,
+bacelar2010kanoe_758,mandi-bandeira | catfish sp. (mandi-bandeira),,
+bacelar2010kanoe_759,mandi-chorão | catfish sp. (mandi-chorão),,
+bacelar2010kanoe_760,mandubé | catfish sp. (mandubé),,
+bacelar2010kanoe_761,mandubi | catfish sp. (mandubi),,
+bacelar2010kanoe_762,mapará | catfish sp. (mapará),,
+bacelar2010kanoe_763,matrinchã | fish sp. (matrinchã),,
+bacelar2010kanoe_764,pacu | pacu (fish),,
+bacelar2010kanoe_765,pacupeba | pacu sp. (pacupeba),,
+bacelar2010kanoe_766,pacu-mirim | pacu sp. (pacu-mirim),,
+bacelar2010kanoe_767,pacu-prata | pacu sp. (pacu-prata),,
+bacelar2010kanoe_768,palmito | fish sp. (palmito),,
+bacelar2010kanoe_769,peixe-lenha | fish sp. (peixe-lenha),,
+bacelar2010kanoe_770,peixe-porco | fish sp. (peixe-porco),,
+bacelar2010kanoe_771,pescada | croaker (pescada),,
+bacelar2010kanoe_772,pescada-amarela | croaker sp. (pescada-amarela),,
+bacelar2010kanoe_773,piau-cobra | fish sp. (piau-cobra),,
+bacelar2010kanoe_774,piau | fish sp. (piau),,
+bacelar2010kanoe_775,piaba | small fish (piaba),,
+bacelar2010kanoe_776,piracanjuva | fish sp. (piracanjuva),,
+bacelar2010kanoe_777,piraíba | catfish sp. (piraíba),,
+bacelar2010kanoe_778,pirambóia | lungfish (pirambóia),,
+bacelar2010kanoe_779,piramutaba | catfish sp. (piramutaba),,
+bacelar2010kanoe_780,piranha | piranha,,
+bacelar2010kanoe_781,piranha vermelha | red piranha,,
+bacelar2010kanoe_782,piranha-doce | piranha sp. (piranha-doce),,
+bacelar2010kanoe_783,pirapetinga | fish sp. (pirapetinga),,
+bacelar2010kanoe_784,pirapitinga | fish sp. (pirapitinga),,
+bacelar2010kanoe_785,pirarara | redtail catfish (pirarara),,
+bacelar2010kanoe_786,pirarucu | arapaima (pirarucu),,
+bacelar2010kanoe_787,surubim | catfish sp. (surubim),,
+bacelar2010kanoe_788,tambaqui | tambaqui (fish),,
+bacelar2010kanoe_789,tamboatá | armoured catfish sp. (tamboatá),,
+bacelar2010kanoe_790,tamoatá | armoured catfish sp. (tamoatá),,
+bacelar2010kanoe_791,traíra | trahira (traíra),,
+bacelar2010kanoe_792,tucunaré | peacock bass (tucunaré),,
+bacelar2010kanoe_793,escama de peixe | fish scale,266,SCALE
+bacelar2010kanoe_794,nadadeiras | fins,213,FIN
+bacelar2010kanoe_795,rabo de peixe | fish tail,,
+bacelar2010kanoe_796,espinho de peixe | fish bone,,
+bacelar2010kanoe_797,olho de peixe | fish eye,,
+bacelar2010kanoe_798,boca de peixe | fish mouth,,
+bacelar2010kanoe_799,carne de peixe | fish meat,,
+bacelar2010kanoe_800,ovo de peixe | fish roe,,
+bacelar2010kanoe_801,flecha | arrow,977,ARROW
+bacelar2010kanoe_802,arco de flecha | bow,994,BOW
+bacelar2010kanoe_803,linha do arco de flecha | bowstring,,
+bacelar2010kanoe_804,ponta da flecha | arrowhead,,
+bacelar2010kanoe_805,bico de flecha para pássaros | arrow point for birds,,
+bacelar2010kanoe_806,bico de flecha para peixes | arrow point for fish,,
+bacelar2010kanoe_807,terçado | machete (terçado),2680,MACHETE
+bacelar2010kanoe_808,faca | knife,1352,KNIFE
+bacelar2010kanoe_809,facão | machete (facão),2680,MACHETE
+bacelar2010kanoe_810,anzol | fishhook,1074,FISHHOOK
+bacelar2010kanoe_811,linha de anzol | fishing line,19,FISHING LINE
+bacelar2010kanoe_812,"marico, embornal | shoulder bag (marico, embornal)",,
+bacelar2010kanoe_813,cesto dorsal masculino | men's back-basket,,
+bacelar2010kanoe_814,cesto dorsal feminino | women's back-basket,,
+bacelar2010kanoe_815,peneira | sieve,86,SIEVE
+bacelar2010kanoe_816,ralador | grater,,
+bacelar2010kanoe_817,abanador | fan,1971,FAN (OBJECT)
+bacelar2010kanoe_818,prato | plate,480,PLATE
+bacelar2010kanoe_819,pilão | mortar,224,MORTAR
+bacelar2010kanoe_820,mão-de-pilão | pestle,225,PESTLE
+bacelar2010kanoe_821,caneco | mug,,
+bacelar2010kanoe_822,copo | cup,476,CUP
+bacelar2010kanoe_823,panela grande | big pot,,
+bacelar2010kanoe_824,panela pequena | small pot,,
+bacelar2010kanoe_825,caldeirão | cauldron,,
+bacelar2010kanoe_826,tampa de panela | pot lid,,
+bacelar2010kanoe_827,garrafa térmica | thermos flask,,
+bacelar2010kanoe_828,filtro para água | water filter,,
+bacelar2010kanoe_829,galão de plástico | plastic jerrycan,,
+bacelar2010kanoe_830,garfo | fork,1302,FORK
+bacelar2010kanoe_831,colher | spoon,1378,SPOON
+bacelar2010kanoe_832,concha | ladle,2657,LADLE
+bacelar2010kanoe_833,frigideira | frying pan,,
+bacelar2010kanoe_834,fogão | stove,859,STOVE
+bacelar2010kanoe_835,trempe para moquenhar | trivet for smoking (moquém),,
+bacelar2010kanoe_836,lenha | firewood,10,FIREWOOD
+bacelar2010kanoe_837,fósforos | matches,1133,MATCH
+bacelar2010kanoe_838,cuia | gourd bowl (cuia),,
+bacelar2010kanoe_839,esteira | mat,195,MAT
+bacelar2010kanoe_840,mesa | table,1775,TABLE
+bacelar2010kanoe_841,banco | bench,2584,BENCH
+bacelar2010kanoe_842,rede | hammock,2019,HAMMOCK
+bacelar2010kanoe_843,cobertor | blanket,806,BLANKET
+bacelar2010kanoe_844,mosquiteiro | mosquito net,2795,MOSQUITO NET
+bacelar2010kanoe_845,toalha masculina | man's towel,,
+bacelar2010kanoe_846,toalha feminina | woman's towel,,
+bacelar2010kanoe_847,calça | trousers,809,TROUSERS
+bacelar2010kanoe_848,calção | shorts,,
+bacelar2010kanoe_849,camisa | shirt,1622,SHIRT
+bacelar2010kanoe_850,camiseta | T-shirt,,
+bacelar2010kanoe_851,blusa | blouse,,
+bacelar2010kanoe_852,cueca | underpants,,
+bacelar2010kanoe_853,roupa | clothes,1895,CLOTHES
+bacelar2010kanoe_854,sapato | shoe,1381,SHOE
+bacelar2010kanoe_855,chinelo de dedo | flip-flop,,
+bacelar2010kanoe_856,correia do chinelo | flip-flop strap,,
+bacelar2010kanoe_857,cinturão | belt,772,BELT
+bacelar2010kanoe_858,chapéu | hat,771,HAT
+bacelar2010kanoe_859,aba de chapéu | hat brim,,
+bacelar2010kanoe_860,brinco | earring,770,EARRING
+bacelar2010kanoe_861,botoque nasal | nose plug,,
+bacelar2010kanoe_862,botoque labial | lip plug,,
+bacelar2010kanoe_863,colar de dente de macaco | monkey-tooth necklace,,
+bacelar2010kanoe_864,colar de conchas | shell necklace,,
+bacelar2010kanoe_865,colar de sementes | seed necklace,,
+bacelar2010kanoe_866,colar de porco-espínho | porcupine-quill necklace,,
+bacelar2010kanoe_867,grinalda de fibra de buriti | buriti-fibre garland,,
+bacelar2010kanoe_868,bracelete com rabicho pingente | bracelet with pendant tassel,,
+bacelar2010kanoe_869,pulseira de rabo de tatu | armadillo-tail bracelet,,
+bacelar2010kanoe_870,pulseira de sementes de tucumã | tucumã-seed bracelet,,
+bacelar2010kanoe_871,pulseira de dente de macaco | monkey-tooth bracelet,,
+bacelar2010kanoe_872,tanga de fibra buriti | buriti-fibre loincloth,,
+bacelar2010kanoe_873,tornozeleira | anklet,,
+bacelar2010kanoe_874,cachimbo para rapé | snuff pipe,,
+bacelar2010kanoe_875,rapé | snuff,,
+bacelar2010kanoe_876,taboca p/ aspirar rapé | bamboo tube for inhaling snuff,,
+bacelar2010kanoe_877,flauta de 4 frutos | four-fruit flute,,
+bacelar2010kanoe_878,cochalho | rattle,300,RATTLE
+bacelar2010kanoe_879,flauta-pã | panpipe,,
+bacelar2010kanoe_880,urna funerária | funerary urn,,
+bacelar2010kanoe_881,pente | comb,1475,COMB
+bacelar2010kanoe_882,aldeia | village,930,VILLAGE
+bacelar2010kanoe_883,pátio da aldeia | village plaza,,
+bacelar2010kanoe_884,"maloca, casa moradia | communal house, dwelling (maloca)",1252,HOUSE
+bacelar2010kanoe_885,porta da maloca | door of the maloca,,
+bacelar2010kanoe_886,cobertura de maloca | roofing of the maloca,,
+bacelar2010kanoe_887,esteio | post,281,POST
+bacelar2010kanoe_888,caibro | rafter,829,RAFTER
+bacelar2010kanoe_889,"jirau | platform, rack (jirau)",,
+bacelar2010kanoe_890,galinheiro | chicken coop,,
+bacelar2010kanoe_891,escada | ladder,1464,LADDER
+bacelar2010kanoe_892,ponte | bridge,1011,BRIDGE
+bacelar2010kanoe_893,"canoa, barco | canoe, boat",,
+bacelar2010kanoe_894,remo | paddle,234,PADDLE
+bacelar2010kanoe_895,"porto | port, landing",610,PORT
+bacelar2010kanoe_896,baía | bay,663,BAY
+bacelar2010kanoe_897,barreiro | salt lick (barreiro),,
+bacelar2010kanoe_898,tocaia | hunting blind (tocaia),,
+bacelar2010kanoe_899,festa | festival,131,FESTIVAL
+bacelar2010kanoe_900,dança | dance,1879,DANCE
+bacelar2010kanoe_901,casamento | wedding,1259,WEDDING
+bacelar2010kanoe_902,pajelança | shamanic ritual,,
+bacelar2010kanoe_903,espírito | spirit,53,SPIRIT
+bacelar2010kanoe_904,alma | soul,811,SOUL
+bacelar2010kanoe_905,machado de pedra | stone axe,,
+bacelar2010kanoe_906,machado de ferro | iron axe,,
+bacelar2010kanoe_907,foice | sickle,341,SICKLE
+bacelar2010kanoe_908,enxada | hoe,284,HOE
+bacelar2010kanoe_909,serrote | saw,1948,SAW
+bacelar2010kanoe_910,martelo | hammer,1481,HAMMER
+bacelar2010kanoe_911,prego | nail (tool),502,NAIL (TOOL)
+bacelar2010kanoe_912,tesoura | scissors,1328,SCISSORS
+bacelar2010kanoe_913,agulha | needle,1382,NEEDLE (FOR SEWING)
+bacelar2010kanoe_914,agulha de osso de macaco | monkey-bone needle,,
+bacelar2010kanoe_915,novelo de linha de algodão | ball of cotton thread,,
+bacelar2010kanoe_916,botão | button,757,BUTTON
+bacelar2010kanoe_917,"barbante, cordão | string, cord",362,STRING
+bacelar2010kanoe_918,corda | rope,1218,ROPE
+bacelar2010kanoe_919,espelho | mirror,1171,MIRROR
+bacelar2010kanoe_920,espingarda | shotgun,1566,GUN
+bacelar2010kanoe_921,bala | bullet,1114,BULLET
+bacelar2010kanoe_922,cartucho | cartridge,,
+bacelar2010kanoe_923,espoleta | percussion cap,,
+bacelar2010kanoe_924,chumbinho | shot (pellets),,
+bacelar2010kanoe_925,pólvora | gunpowder,1798,GUNPOWDER
+bacelar2010kanoe_926,bicicleta | bicycle,747,BICYCLE
+bacelar2010kanoe_927,motocicleta | motorcycle,,
+bacelar2010kanoe_928,automóvel | car,1111,CAR
+bacelar2010kanoe_929,jeep | jeep,,
+bacelar2010kanoe_930,avião | airplane,1597,AIRPLANE
+bacelar2010kanoe_931,tabaco | tobacco,974,TOBACCO
+bacelar2010kanoe_932,cigarro | cigarette,969,CIGARETTE
+bacelar2010kanoe_933,cachaça | sugar-cane spirit (cachaça),,
+bacelar2010kanoe_934,cerveja | beer,1639,BEER
+bacelar2010kanoe_935,vinho | wine,,
+bacelar2010kanoe_936,vinho de patauá | patauá-palm drink,,
+bacelar2010kanoe_937,vinho de buriti | buriti-palm drink,,
+bacelar2010kanoe_938,vinho de açaí | açaí drink,,
+bacelar2010kanoe_939,papel | paper,648,PAPER
+bacelar2010kanoe_940,plástico | plastic,,
+bacelar2010kanoe_941,tecido | cloth,1616,CLOTH
+bacelar2010kanoe_942,couro | leather,629,LEATHER
+bacelar2010kanoe_943,"fio, linha de algodão | cotton thread",,
+bacelar2010kanoe_944,abanador de fogo | fire fan,,
+bacelar2010kanoe_945,tacape | war club,,
+bacelar2010kanoe_946,moquém de peixe | fish smoking rack,,
+bacelar2010kanoe_947,armadilha | trap,,
+bacelar2010kanoe_948,arapuca para pássaros | bird trap,,
+bacelar2010kanoe_949,balsa | raft,1664,RAFT
+bacelar2010kanoe_950,batucada | drumming,,
+bacelar2010kanoe_951,"corno, chifre | horn",1393,HORN (ANATOMY)
+bacelar2010kanoe_952,vassoura | broom,245,BROOM
+bacelar2010kanoe_953,cera | wax,3942,WAX
+bacelar2010kanoe_954,"breu | resin, pitch (breu)",664,RESIN
+bacelar2010kanoe_955,calo | callus,,
+bacelar2010kanoe_956,chá-de-folha | leaf tea,,
+bacelar2010kanoe_957,dor | pain,1783,PAIN
+bacelar2010kanoe_958,doença | disease,1986,DISEASE
+bacelar2010kanoe_959,febre | fever,1534,FEVER
+bacelar2010kanoe_960,ferida | wound,1109,WOUND
+bacelar2010kanoe_961,gripe | flu,,
+bacelar2010kanoe_962,malária | malaria,3059,MALARIA
+bacelar2010kanoe_963,remédio | medicine,1372,MEDICINE
+bacelar2010kanoe_964,veneno | poison,655,POISON
+bacelar2010kanoe_965,avô | grandfather,1383,GRANDFATHER
+bacelar2010kanoe_966,avó | grandmother,1496,GRANDMOTHER
+bacelar2010kanoe_967,pai | father,1217,FATHER
+bacelar2010kanoe_968,mãe | mother,1216,MOTHER
+bacelar2010kanoe_969,Pai! (vocat) | Father! (vocative),,
+bacelar2010kanoe_970,Mãe! (vocat) | Mother! (vocative),,
+bacelar2010kanoe_971,"bebê, neném | baby",1289,BABY
+bacelar2010kanoe_972,filho | son,1620,SON
+bacelar2010kanoe_973,filho mais velho | eldest son,,
+bacelar2010kanoe_974,filho mais novo | youngest son,,
+bacelar2010kanoe_975,filha mais velha | eldest daughter,,
+bacelar2010kanoe_976,filha mais nova | youngest daughter,,
+bacelar2010kanoe_977,filho de criação | foster son,,
+bacelar2010kanoe_978,filha de criação | foster daughter,,
+bacelar2010kanoe_979,irmão | brother,1262,BROTHER
+bacelar2010kanoe_980,irmão mais velho | older brother,1759,OLDER BROTHER
+bacelar2010kanoe_981,irmão mais novo | younger brother,1760,YOUNGER BROTHER
+bacelar2010kanoe_982,irmã | sister,1263,SISTER
+bacelar2010kanoe_983,irmã mais velha | older sister,1758,OLDER SISTER
+bacelar2010kanoe_984,irmã mais nova | younger sister,1761,YOUNGER SISTER
+bacelar2010kanoe_985,irmão de criação | foster brother,,
+bacelar2010kanoe_986,irmã de criação | foster sister,,
+bacelar2010kanoe_987,enteado | stepson,1059,STEPSON
+bacelar2010kanoe_988,enteada | stepdaughter,1058,STEPDAUGHTER
+bacelar2010kanoe_989,tio | uncle,1327,UNCLE
+bacelar2010kanoe_990,tia | aunt,1272,AUNT
+bacelar2010kanoe_991,primo | male cousin,,
+bacelar2010kanoe_992,prima | female cousin,,
+bacelar2010kanoe_993,meu sobrinho | my nephew,,
+bacelar2010kanoe_994,minha sobrinha | my niece,,
+bacelar2010kanoe_995,meu neto | my grandson,,
+bacelar2010kanoe_996,minha neta | my granddaughter,,
+bacelar2010kanoe_997,meu marido | my husband,,
+bacelar2010kanoe_998,minha mulher | my wife,,
+bacelar2010kanoe_999,sogro | father-in-law,1055,FATHER-IN-LAW
+bacelar2010kanoe_1000,sogra | mother-in-law,1050,MOTHER-IN-LAW
+bacelar2010kanoe_1001,genro | son-in-law,1056,SON-IN-LAW
+bacelar2010kanoe_1002,nora | daughter-in-law,1057,DAUGHTER-IN-LAW
+bacelar2010kanoe_1003,"homem,gente pessoa | man, people, person",,
+bacelar2010kanoe_1004,cunhado | brother-in-law,2314,BROTHER-IN-LAW
+bacelar2010kanoe_1005,cunhada | sister-in-law,2317,SISTER-IN-LAW
+bacelar2010kanoe_1006,criança | child,1304,CHILD (YOUNG HUMAN)
+bacelar2010kanoe_1007,criançada | group of children,,
+bacelar2010kanoe_1008,rapaz | young man,76,YOUNG MAN
+bacelar2010kanoe_1009,rapazeada | group of young men,,
+bacelar2010kanoe_1010,menino | boy,1366,BOY
+bacelar2010kanoe_1011,menina | girl,1646,GIRL
+bacelar2010kanoe_1012,moça | young woman,77,YOUNG WOMAN
+bacelar2010kanoe_1013,"mocinha | little girl, young girl",,
+bacelar2010kanoe_1014,"homem, macho, marido, masc | man, male, husband, masculine",,
+bacelar2010kanoe_1015,"mulher,fêmea, esposa,femin. | woman, female, wife, feminine",,
+bacelar2010kanoe_1016,"macho, masculino | male, masculine",1553,MALE
+bacelar2010kanoe_1017,"fêmea, feminino | female, feminine",1551,FEMALE
+bacelar2010kanoe_1018,ontem | yesterday,1174,YESTERDAY
+bacelar2010kanoe_1019,hoje | today,1283,TODAY
+bacelar2010kanoe_1020,agora | now,1376,NOW
+bacelar2010kanoe_1021,depois | afterwards,,
+bacelar2010kanoe_1022,de dia | by day,,
+bacelar2010kanoe_1023,à noite | at night,,
+bacelar2010kanoe_1024,aqui | here,136,HERE
+bacelar2010kanoe_1025,perto | near,1942,NEAR
+bacelar2010kanoe_1026,neste lugar | in this place,,
+bacelar2010kanoe_1027,lá | there,1937,THERE
+bacelar2010kanoe_1028,"longe, distante | far, distant",1406,FAR
+bacelar2010kanoe_1029,naquele lugar | in that place,,
+bacelar2010kanoe_1030,já (tempo decorrido) | already (elapsed time),2576,ALREADY
+bacelar2010kanoe_1031,eu | I,1209,I
+bacelar2010kanoe_1032,"tu, você | you (singular)",1215,THOU
+bacelar2010kanoe_1033,ele | he,1211,HE
+bacelar2010kanoe_1034,nós | we,1212,WE
+bacelar2010kanoe_1035,"vós,vocês | you (plural)",1213,YOU
+bacelar2010kanoe_1036,eles | they,817,THEY
+bacelar2010kanoe_1037,ela | she,1834,SHE
+bacelar2010kanoe_1038,elas | they (feminine),,
+bacelar2010kanoe_1039,você e eu | you and I,,
+bacelar2010kanoe_1040,vocês e eu | you (pl.) and I,,
+bacelar2010kanoe_1041,eu e outro | I and another,,
+bacelar2010kanoe_1042,eu e outros | I and others,,
+bacelar2010kanoe_1043,outro | other,197,OTHER
+bacelar2010kanoe_1044,"meu, minha, meus, minhas | my",2090,MY
+bacelar2010kanoe_1045,"de você, , teu, tua,teus,tuas | your (singular)",732,YOUR (SINGULAR)
+bacelar2010kanoe_1046,"dele, dela | his, her",2092,HIS OR HER
+bacelar2010kanoe_1047,"nosso, nossa, nossos, nossas | our",780,OUR
+bacelar2010kanoe_1048,de vocês | your (plural),2274,YOUR (PLURAL)
+bacelar2010kanoe_1049,"deles, delas | their",2400,THEIR
+bacelar2010kanoe_1050,"quem, alguém | who, someone",,
+bacelar2010kanoe_1051,"algo, alguma coisa | something",,
+bacelar2010kanoe_1052,outro | other (masc.),,
+bacelar2010kanoe_1053,outra | other (fem.),,
+bacelar2010kanoe_1054,outros | others (masc.),,
+bacelar2010kanoe_1055,outras | others (fem.),,
+bacelar2010kanoe_1056,Quem? | Who?,1235,WHO
+bacelar2010kanoe_1057,De quem? | Whose?,,
+bacelar2010kanoe_1058,O quê? Que? | What?,1236,WHAT
+bacelar2010kanoe_1059,"este, este, estes, estas, isto | this",1214,THIS
+bacelar2010kanoe_1060,um | one,1493,ONE
+bacelar2010kanoe_1061,dois | two,1498,TWO
+bacelar2010kanoe_1062,três | three,492,THREE
+bacelar2010kanoe_1063,quatro | four,1500,FOUR
+bacelar2010kanoe_1064,cinco | five,493,FIVE
+bacelar2010kanoe_1065,seis | six,1703,SIX
+bacelar2010kanoe_1066,sete | seven,1704,SEVEN
+bacelar2010kanoe_1067,oito | eight,1705,EIGHT
+bacelar2010kanoe_1068,nove | nine,1483,NINE
+bacelar2010kanoe_1069,dez | ten,1515,TEN
+bacelar2010kanoe_1070,quinze | fifteen,1709,FIFTEEN
+bacelar2010kanoe_1071,vinte | twenty,1710,TWENTY

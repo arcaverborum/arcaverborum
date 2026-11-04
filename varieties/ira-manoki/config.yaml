@@ -1,0 +1,24 @@
+av_id: ira-manoki
+name: Manoki
+glottocode: iran1264
+family: Irántxe-Münkü
+macroarea: South America
+sources:
+  transcription: pereira1964irantxe
+  cognates: pereira1964irantxe
+  source_language_id: pereira1964irantxe_irantxe
+extensions:
+  transcriptions: false
+  forms: false
+  cognates: false
+  concept_map: false
+  profile: false
+scoring:
+  forms_score: 0.0
+  cognates_score: 0.0
+  tier: copper
+pinned: true
+registered_on: '2026-11-04'
+notes: '2026-11-04 South American isolates batch 3. First Manoki construction: Pereira
+  1964 vocabulary (Cravari river speakers; CC BY 3.0 as displayed by the journal).
+  Written-only: the source spelling is kept; no reading inferred.'

@@ -1,0 +1,25 @@
+av_id: aru-awake
+name: Awake
+glottocode: awak1251
+family: Arutani
+macroarea: South America
+sources:
+  transcription: kochgrunberg1928
+  cognates: kochgrunberg1928
+  source_language_id: kochgrunberg1928_Auake
+extensions:
+  transcriptions: false
+  forms: false
+  cognates: false
+  concept_map: false
+  profile: false
+scoring:
+  forms_score: 0.0
+  cognates_score: 0.0
+  tier: copper
+pinned: true
+registered_on: '2026-11-04'
+notes: '2026-11-04 South American isolates batch 3. Historical Auaké (Awake) sample:
+  Koch-Grünberg 1928, vol. IV pp. 308-313 (recorded 1911-13), in his phonetic notation.
+  Separate from the modern Arutani construction. Written-only: the source spelling
+  is kept; no reading inferred.'

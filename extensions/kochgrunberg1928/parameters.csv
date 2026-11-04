@@ -1,0 +1,509 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss
+kochgrunberg1928_1,Zunge | tongue,1205,TONGUE
+kochgrunberg1928_2,Mund | mouth,674,MOUTH
+kochgrunberg1928_3,Lippen | lips,478,LIP
+kochgrunberg1928_4,Zahn | tooth,1380,TOOTH
+kochgrunberg1928_5,Nase | nose,1221,NOSE
+kochgrunberg1928_6,Nasenloch | nostril,1178,NOSTRIL
+kochgrunberg1928_7,Auge | eye,1248,EYE
+kochgrunberg1928_8,Ohr | ear,1247,EAR
+kochgrunberg1928_9,Ohrloch als Gehörgang | ear hole (as auditory canal),,
+kochgrunberg1928_10,Stirn | forehead,123,FOREHEAD
+kochgrunberg1928_11,Kopf | head,1256,HEAD
+kochgrunberg1928_12,Kopfhaar | head hair,2648,HAIR (HEAD)
+kochgrunberg1928_13,Arm | arm,1673,ARM
+kochgrunberg1928_14,Hand | hand,1277,HAND
+kochgrunberg1928_15,Finger | finger,1303,FINGER
+kochgrunberg1928_16,Kleinfinger | little finger,2774,LITTLE FINGER
+kochgrunberg1928_17,Fingernagel | fingernail,1258,FINGERNAIL
+kochgrunberg1928_18,Oberschenkel | thigh,471,UPPER LEG (THIGH)
+kochgrunberg1928_19,Unterschenkel | lower leg,447,LOWER LEG
+kochgrunberg1928_20,Knie | knee,1371,KNEE
+kochgrunberg1928_21,Fuß | foot,1301,FOOT
+kochgrunberg1928_22,Zehennagel | toenail,2662,TOENAIL
+kochgrunberg1928_23,"Brust, männl. | breast, male (chest)",,
+kochgrunberg1928_24,"Brustwarze, männl. | nipple, male",,
+kochgrunberg1928_25,"Brust, weibl. | breast, female",1402,BREAST
+kochgrunberg1928_26,"Brustwarze, weibl. | nipple, female",,
+kochgrunberg1928_27,Bauch | belly,1251,BELLY
+kochgrunberg1928_28,Nabel | navel,1838,NAVEL
+kochgrunberg1928_29,Gesäß | buttocks,834,BUTTOCKS
+kochgrunberg1928_30,Penis | penis,1222,PENIS
+kochgrunberg1928_31,Vagina | vagina,1836,VAGINA
+kochgrunberg1928_32,Anus | anus,1935,ANUS
+kochgrunberg1928_33,Haut | skin,763,SKIN
+kochgrunberg1928_34,Knochen | bone,1394,BONE
+kochgrunberg1928_35,Blut | blood,946,BLOOD
+kochgrunberg1928_36,Speichel | saliva,1503,SALIVA
+kochgrunberg1928_37,Urin | urine,1142,URINE
+kochgrunberg1928_38,Schweiß | sweat,125,SWEAT (SUBSTANCE)
+kochgrunberg1928_39,Träne | tear (of the eye),1651,TEAR (OF EYE)
+kochgrunberg1928_40,"Kot | faeces, excrement",675,FAECES (EXCREMENT)
+kochgrunberg1928_41,Atem | breath,870,BREATH
+kochgrunberg1928_42,Flügel | wing,1257,WING
+kochgrunberg1928_43,Flosse | fin,213,FIN
+kochgrunberg1928_44,Wasser | water,948,WATER
+kochgrunberg1928_45,Fluß | river,666,RIVER
+kochgrunberg1928_46,Feuer | fire,221,FIRE
+kochgrunberg1928_47,Brennholz | firewood,10,FIREWOOD
+kochgrunberg1928_48,Himmel | sky,1732,SKY
+kochgrunberg1928_49,Regen | rain,658,RAIN (PRECIPITATION)
+kochgrunberg1928_50,Wind | wind,960,WIND
+kochgrunberg1928_51,Blitz | lightning,1654,LIGHTNING
+kochgrunberg1928_52,Donner | thunder,1150,THUNDER
+kochgrunberg1928_53,Regenbogen | rainbow,1733,RAINBOW
+kochgrunberg1928_54,Sonne | sun,1343,SUN
+kochgrunberg1928_55,"Schatten | shadow, shade",,
+kochgrunberg1928_56,Tag | day,,
+kochgrunberg1928_57,Nacht | night,1233,NIGHT
+kochgrunberg1928_58,Mond | moon,1313,MOON
+kochgrunberg1928_59,Stern | star,1430,STAR
+kochgrunberg1928_60,Venus | Venus (planet),,
+kochgrunberg1928_61,Plejaden | Pleiades,,
+kochgrunberg1928_62,"Erdboden | ground, soil",,
+kochgrunberg1928_63,"Weg | path, way",2252,PATH
+kochgrunberg1928_64,Berg | mountain,639,MOUNTAIN
+kochgrunberg1928_65,Wald | forest,420,FOREST
+kochgrunberg1928_66,Sandbank | sandbank,,
+kochgrunberg1928_67,Feiner Sand | fine sand,,
+kochgrunberg1928_68,Stein | stone,857,STONE
+kochgrunberg1928_69,Dorf | village,930,VILLAGE
+kochgrunberg1928_70,Haus | house,1252,HOUSE
+kochgrunberg1928_71,"Pflanzung | plantation, garden plot",,
+kochgrunberg1928_72,Sitzschemel | seat stool,2058,STOOL
+kochgrunberg1928_73,Hängematte | hammock,2019,HAMMOCK
+kochgrunberg1928_74,Tuch | cloth,1616,CLOTH
+kochgrunberg1928_75,Spindel | spindle,277,SPINDLE
+kochgrunberg1928_76,Baumwolle | cotton,1850,COTTON
+kochgrunberg1928_77,Fischnetz | fishing net,388,FISHNET
+kochgrunberg1928_78,Tragkorb | carrying basket,,
+kochgrunberg1928_79,Korbwanne | basket tray (shallow basket),,
+kochgrunberg1928_80,Deckelkörbchen für Kleinkram | small lidded basket for odds and ends,,
+kochgrunberg1928_81,Matte | mat,195,MAT
+kochgrunberg1928_82,Reibebrett | grater board,,
+kochgrunberg1928_83,Preßschlauch für Maniokmasse | press tube for manioc mash (tipiti),,
+kochgrunberg1928_84,Quirlhölzer zum Feuerreiben | twirling sticks for making fire (fire drill),,
+kochgrunberg1928_85,Kalabasse | calabash,,
+kochgrunberg1928_86,Flaschenkürbis | bottle gourd,,
+kochgrunberg1928_87,Kochtopf | cooking pot,3653,COOKING POT
+kochgrunberg1928_88,"Beil | axe, hatchet",677,AXE
+kochgrunberg1928_89,Messer | knife,1352,KNIFE
+kochgrunberg1928_90,Einbaum | dugout canoe,2189,DUGOUT
+kochgrunberg1928_91,"Ruder | paddle, oar",3318,OAR OR PADDLE
+kochgrunberg1928_92,Bogen | bow,994,BOW
+kochgrunberg1928_93,Pfeil | arrow,977,ARROW
+kochgrunberg1928_94,Keule | club,1763,CLUB
+kochgrunberg1928_95,Blasrohr | blowgun,432,BLOWGUN
+kochgrunberg1928_96,Köcher | quiver,995,QUIVER (FOR ARROWS)
+kochgrunberg1928_97,Giftpfeilchen | small poison dart,,
+kochgrunberg1928_98,Pfeilgift | arrow poison,,
+kochgrunberg1928_99,"Angel | fishhook, fishing tackle",,
+kochgrunberg1928_100,"Gewehr | gun, rifle",1566,GUN
+kochgrunberg1928_101,Pulver | gunpowder,1798,GUNPOWDER
+kochgrunberg1928_102,Schrot | shot (lead pellets),,
+kochgrunberg1928_103,Hüftschnur | hip cord,,
+kochgrunberg1928_104,Schamschurz des Mannes | man's pubic apron,,
+kochgrunberg1928_105,Schamschurz der Frau | woman's pubic apron,,
+kochgrunberg1928_106,Kleider | clothes,1895,CLOTHES
+kochgrunberg1928_107,Sandalen | sandals,4034,SANDALS
+kochgrunberg1928_108,Kamm | comb,1475,COMB
+kochgrunberg1928_109,Federkrone | feather crown,,
+kochgrunberg1928_110,Tanztrommel | dance drum,,
+kochgrunberg1928_111,Querpfeife | transverse flute,,
+kochgrunberg1928_112,Knochenpfeife | bone flute,,
+kochgrunberg1928_113,"Mensch | human being, person",683,PERSON
+kochgrunberg1928_114,Leute | people,789,PEOPLE
+kochgrunberg1928_115,Mann | man,1554,MAN
+kochgrunberg1928_116,Ehemann | husband,1200,HUSBAND
+kochgrunberg1928_117,Vater | father,1217,FATHER
+kochgrunberg1928_118,Mutter | mother,1216,MOTHER
+kochgrunberg1928_119,Schwiegermutter | mother-in-law,1050,MOTHER-IN-LAW
+kochgrunberg1928_120,Kind | child,1304,CHILD (YOUNG HUMAN)
+kochgrunberg1928_121,Sohn | son,1620,SON
+kochgrunberg1928_122,Älterer Bruder | older brother,1759,OLDER BROTHER
+kochgrunberg1928_123,Jüngerer Bruder | younger brother,1760,YOUNGER BROTHER
+kochgrunberg1928_124,Schwager | brother-in-law,2314,BROTHER-IN-LAW
+kochgrunberg1928_125,Ältere Schwester | older sister,1758,OLDER SISTER
+kochgrunberg1928_126,Jüngere Schwester | younger sister,1761,YOUNGER SISTER
+kochgrunberg1928_127,Weib | woman,962,WOMAN
+kochgrunberg1928_128,Gattin | wife,1199,WIFE
+kochgrunberg1928_129,Tochter | daughter,1357,DAUGHTER
+kochgrunberg1928_130,Oheim | uncle,1327,UNCLE
+kochgrunberg1928_131,Tante | aunt,1272,AUNT
+kochgrunberg1928_132,Greis | old man,406,OLD MAN
+kochgrunberg1928_133,Greisin | old woman,907,OLD WOMAN
+kochgrunberg1928_134,Großvater | grandfather,1383,GRANDFATHER
+kochgrunberg1928_135,Großmutter | grandmother,1496,GRANDMOTHER
+kochgrunberg1928_136,Häuptling | chief,301,CHIEFTAIN
+kochgrunberg1928_137,Freund | friend,1325,FRIEND
+kochgrunberg1928_138,Weißer | white man (white person),2839,WHITE MAN
+kochgrunberg1928_139,"Zauberarzt | medicine man, shaman",394,SHAMAN (FOLK HEALER)
+kochgrunberg1928_140,Tabak | tobacco,974,TOBACCO
+kochgrunberg1928_141,Tabakpfeife | tobacco pipe,1124,PIPE
+kochgrunberg1928_142,Stammesheros | tribal (culture) hero,,
+kochgrunberg1928_143,Wasserdämon | water demon,,
+kochgrunberg1928_144,Stimme | voice,1363,VOICE
+kochgrunberg1928_145,Kanaime | kanaimé (avenging sorcerer/spirit),,
+kochgrunberg1928_146,"Affe, Cebus | monkey, Cebus (capuchin)",,
+kochgrunberg1928_147,Brüllaffe | howler monkey,433,HOWLER MONKEY
+kochgrunberg1928_148,Fledermaus | bat,1793,BAT
+kochgrunberg1928_149,Jaguar | jaguar,1250,JAGUAR
+kochgrunberg1928_150,Savannenhirsch | savanna deer,,
+kochgrunberg1928_151,Waldhirsch | forest deer,,
+kochgrunberg1928_152,Fischotter | otter,15,OTTER
+kochgrunberg1928_153,Tapir | tapir,312,TAPIR
+kochgrunberg1928_154,Capivara | capybara (capivara),314,CAPYBARA
+kochgrunberg1928_155,Aguti | agouti,313,AGOUTI
+kochgrunberg1928_156,Paca | paca,316,PACA
+kochgrunberg1928_157,Kl. Wildschwein | small wild pig (peccary),,
+kochgrunberg1928_158,Gr. Wildschwein | large wild pig (peccary),,
+kochgrunberg1928_159,Faultier | sloth,2446,SLOTH
+kochgrunberg1928_160,Cuati | coati (cuati),2389,COATI (COATIMUNDI)
+kochgrunberg1928_161,Gr. Ameisenbär | giant anteater,,
+kochgrunberg1928_162,Kl. Ameisenbär | lesser anteater,,
+kochgrunberg1928_163,Hund | dog,2009,DOG
+kochgrunberg1928_164,Gürteltier | armadillo,1885,ARMADILLO
+kochgrunberg1928_165,Gr. Gürteltier | large armadillo,,
+kochgrunberg1928_166,Vogel | bird,937,BIRD
+kochgrunberg1928_167,Vogelei | bird's egg,,
+kochgrunberg1928_168,Arara | macaw (arara),1630,MACAW
+kochgrunberg1928_169,"Periquito, sehr klein | parakeet (periquito), very small",,
+kochgrunberg1928_170,Periquito | parakeet (periquito),886,PARAKEET
+kochgrunberg1928_171,Papagei | parrot,882,PARROT
+kochgrunberg1928_172,"Hokko, Crax | curassow, Crax",315,CURASSOW
+kochgrunberg1928_173,Jacu | guan (jacu),437,GUAN
+kochgrunberg1928_174,Cujubim | piping guan (cujubim),,
+kochgrunberg1928_175,Aasgeier | carrion vulture,1185,VULTURE
+kochgrunberg1928_176,Ente | duck,1360,DUCK
+kochgrunberg1928_177,"Taube | pigeon, dove",1853,DOVE
+kochgrunberg1928_178,Haushuhn | domestic chicken,1318,CHICKEN
+kochgrunberg1928_179,Fisch | fish,227,FISH
+kochgrunberg1928_180,Rochen | ray (stingray),,
+kochgrunberg1928_181,Piranya | piranha,317,PIRANHA
+kochgrunberg1928_182,Alligator | alligator (caiman),,
+kochgrunberg1928_183,Flußschildkröte | river turtle,,
+kochgrunberg1928_184,Landschildkröte | land tortoise,895,TORTOISE
+kochgrunberg1928_185,Schlange | snake,730,SNAKE
+kochgrunberg1928_186,Klapperschlange | rattlesnake,871,RATTLESNAKE
+kochgrunberg1928_187,Anaconda | anaconda,896,ANACONDA (WATER BOA)
+kochgrunberg1928_188,Boa constrictor | boa constrictor,,
+kochgrunberg1928_189,Frosch | frog,503,FROG
+kochgrunberg1928_190,Eidechse | lizard,632,LIZARD
+kochgrunberg1928_191,Ameise | ant,587,ANT
+kochgrunberg1928_192,Termite | termite,883,TERMITE
+kochgrunberg1928_193,Mosquito | mosquito,1509,MOSQUITO
+kochgrunberg1928_194,Biene | bee,665,BEE
+kochgrunberg1928_195,Honig | honey,942,HONEY
+kochgrunberg1928_196,Schmetterling | butterfly,1791,BUTTERFLY
+kochgrunberg1928_197,"Pium | pium (blackfly, Simulium)",,
+kochgrunberg1928_198,Laus | louse,1392,LOUSE
+kochgrunberg1928_199,Floh | flea,232,FLEA
+kochgrunberg1928_200,Spinne | spider,843,SPIDER
+kochgrunberg1928_201,"Krebs | crab, crayfish",,
+kochgrunberg1928_202,Baum | tree,906,TREE
+kochgrunberg1928_203,Blatt | leaf,628,LEAF
+kochgrunberg1928_204,Wurzel | root,670,ROOT
+kochgrunberg1928_205,"Samen, Frucht | seed, fruit",,
+kochgrunberg1928_206,"Blüte | blossom, flower",239,FLOWER
+kochgrunberg1928_207,Mais | maize,506,MAIZE
+kochgrunberg1928_208,Maniok | manioc,925,CASSAVA
+kochgrunberg1928_209,Maniokfladen | manioc flatbread,407,MANIOC BREAD
+kochgrunberg1928_210,Kaschiri | kaschiri (manioc beer),,
+kochgrunberg1928_211,Banane | banana,868,BANANA
+kochgrunberg1928_212,Batate | sweet potato,159,SWEET POTATO
+kochgrunberg1928_213,"Cara, Inyame | yam (cará, inhame)",410,YAM
+kochgrunberg1928_214,Pfeffer | pepper (capsicum),,
+kochgrunberg1928_215,Bohne | bean,832,BEAN
+kochgrunberg1928_216,Zuckerrohr | sugar cane,146,SUGAR CANE
+kochgrunberg1928_217,Ananas | pineapple,2440,PINEAPPLE
+kochgrunberg1928_218,"Urucu | urucu (annatto, Bixa orellana)",,
+kochgrunberg1928_219,"Carayuru | carayuru (red dye plant, Arrabidaea chica)",,
+kochgrunberg1928_220,Genipapo | genipap (Genipa americana),3920,GENIPA
+kochgrunberg1928_221,"Kürbis | pumpkin, squash",864,PUMPKIN
+kochgrunberg1928_222,Fischgiftpflanze | fish-poison plant,,
+kochgrunberg1928_223,Miritipalme | miriti palm (Mauritia flexuosa),3811,MIRITI PALM
+kochgrunberg1928_224,1 | one,1493,ONE
+kochgrunberg1928_225,2 | two,1498,TWO
+kochgrunberg1928_226,3 | three,492,THREE
+kochgrunberg1928_227,4 | four,1500,FOUR
+kochgrunberg1928_228,5 | five,493,FIVE
+kochgrunberg1928_229,6 | six,1703,SIX
+kochgrunberg1928_230,7 | seven,1704,SEVEN
+kochgrunberg1928_231,8 | eight,1705,EIGHT
+kochgrunberg1928_232,9 | nine,1483,NINE
+kochgrunberg1928_233,10 | ten,1515,TEN
+kochgrunberg1928_234,"wenig | little, few",,
+kochgrunberg1928_235,"viel | much, many",,
+kochgrunberg1928_236,"alles | all, everything",98,ALL
+kochgrunberg1928_237,ich | I,1209,I
+kochgrunberg1928_238,du | you (singular),1215,THOU
+kochgrunberg1928_239,er | he,1211,HE
+kochgrunberg1928_240,wir | we,1212,WE
+kochgrunberg1928_241,sie | she / they (sie),,
+kochgrunberg1928_242,dieser | this (one),1214,THIS
+kochgrunberg1928_243,mein Bogen | my bow,,
+kochgrunberg1928_244,dein Bogen | your (sg.) bow,,
+kochgrunberg1928_245,sein Bogen | his bow,,
+kochgrunberg1928_246,unser Haus | our house,,
+kochgrunberg1928_247,ihr Haus | her/their house,,
+kochgrunberg1928_248,groß | big,1202,BIG
+kochgrunberg1928_249,klein | small,1246,SMALL
+kochgrunberg1928_250,hoch | high,1265,HIGH
+kochgrunberg1928_251,tief | deep,1593,DEEP
+kochgrunberg1928_252,lang | long,1203,LONG
+kochgrunberg1928_253,kalt | cold,1287,COLD
+kochgrunberg1928_254,warm | warm,1232,WARM
+kochgrunberg1928_255,trocken | dry,1398,DRY
+kochgrunberg1928_256,"krank | sick, ill",1847,SICK
+kochgrunberg1928_257,tot | dead,1625,DEAD
+kochgrunberg1928_258,gut | good,1035,GOOD
+kochgrunberg1928_259,schlecht | bad,1292,BAD
+kochgrunberg1928_260,weiß | white,1335,WHITE
+kochgrunberg1928_261,schwarz | black,163,BLACK
+kochgrunberg1928_262,rot | red,156,RED
+kochgrunberg1928_263,blau | blue,837,BLUE
+kochgrunberg1928_264,grün | green,1425,GREEN
+kochgrunberg1928_265,gelb | yellow,1424,YELLOW
+kochgrunberg1928_266,gestern | yesterday,1174,YESTERDAY
+kochgrunberg1928_267,morgen | tomorrow,1329,TOMORROW
+kochgrunberg1928_268,rechts | right (side),1019,RIGHT
+kochgrunberg1928_269,links | left (side),244,LEFT
+kochgrunberg1928_270,hier | here,136,HERE
+kochgrunberg1928_271,ja | yes,1268,YES
+kochgrunberg1928_272,beschlafen | to sleep with (have intercourse with),,
+kochgrunberg1928_273,iß! | eat! (imperative),,
+kochgrunberg1928_274,kacken | to defecate,676,SHIT (DEFECATE)
+kochgrunberg1928_275,bemale dich! | paint yourself! (imperative),,
+kochgrunberg1928_276,rudere! | row/paddle! (imperative),,
+kochgrunberg1928_277,setze dich! | sit down! (imperative),,
+kochgrunberg1928_278,ich schlafe | I sleep,,
+kochgrunberg1928_279,heute | today,1283,TODAY
+kochgrunberg1928_280,nahe | near,1942,NEAR
+kochgrunberg1928_281,dort | there,1937,THERE
+kochgrunberg1928_282,fern | far,1406,FAR
+kochgrunberg1928_283,nein | no,1269,NO
+kochgrunberg1928_284,schlage! | hit! (imperative),,
+kochgrunberg1928_285,tatauieren | to tattoo,,
+kochgrunberg1928_286,töten | to kill,1417,KILL
+kochgrunberg1928_287,schneide! | cut! (imperative),,
+kochgrunberg1928_288,vorwärts! | forward! (go on!),,
+kochgrunberg1928_289,laßt uns gehen! | let us go!,,
+kochgrunberg1928_290,"Brust | breast, chest",,
+kochgrunberg1928_291,"Brustwarze, männliche | nipple, male",,
+kochgrunberg1928_292,Hodensack | scrotum,2834,SCROTUM
+kochgrunberg1928_293,Deckelkörbchen f. Kleinkram | small lidded basket for odds and ends,,
+kochgrunberg1928_294,Kalebasse | calabash,,
+kochgrunberg1928_295,meine Kalebasse | my calabash,,
+kochgrunberg1928_296,Schwiegervater | father-in-law,1055,FATHER-IN-LAW
+kochgrunberg1928_297,Bruder | brother,1262,BROTHER
+kochgrunberg1928_298,Schwester | sister,1263,SISTER
+kochgrunberg1928_299,Gespenst | ghost,1175,GHOST
+kochgrunberg1928_300,Affe | monkey,1350,MONKEY
+kochgrunberg1928_301,Tapirmähne | tapir's mane,,
+kochgrunberg1928_302,Huhn | chicken,1318,CHICKEN
+kochgrunberg1928_303,pissen | to urinate (piss),592,PISS
+kochgrunberg1928_304,"rudern | to row, paddle",1849,ROW
+kochgrunberg1928_305,vorwärts | forward,,
+kochgrunberg1928_306,Augenbrauen | eyebrows,1173,EYEBROW
+kochgrunberg1928_307,Augenwimpern | eyelashes,1540,EYELASH
+kochgrunberg1928_308,Bart | beard,678,BEARD
+kochgrunberg1928_309,Schamhaar | pubic hair,36,PUBIC HAIR
+kochgrunberg1928_310,Wange | cheek,1730,CHEEK
+kochgrunberg1928_311,Kinn | chin,1510,CHIN
+kochgrunberg1928_312,Schulter | shoulder,1482,SHOULDER
+kochgrunberg1928_313,Ellbogen | elbow,981,ELBOW
+kochgrunberg1928_314,Handfläche | palm of the hand,1183,PALM OF HAND
+kochgrunberg1928_315,Daumen | thumb,1781,THUMB
+kochgrunberg1928_316,Zeigefinger | index finger,,
+kochgrunberg1928_317,Mittelfinger | middle finger,3387,MIDDLE FINGER
+kochgrunberg1928_318,Ringfinger | ring finger,,
+kochgrunberg1928_319,Sohle | sole (of the foot),2666,SOLE (FOOT)
+kochgrunberg1928_320,Ferse | heel,980,HEEL
+kochgrunberg1928_321,Zehen | toes,1389,TOE
+kochgrunberg1928_322,Hals | neck,1333,NECK
+kochgrunberg1928_323,Nacken | nape of the neck,1347,NAPE (OF NECK)
+kochgrunberg1928_324,Kehle | throat,1346,THROAT
+kochgrunberg1928_325,Achselhöhle | armpit,1886,ARMPIT
+kochgrunberg1928_326,Schulterblatt | shoulder blade,,
+kochgrunberg1928_327,Rippen | ribs,801,RIB
+kochgrunberg1928_328,"Brust, männliche | breast, male (chest)",,
+kochgrunberg1928_329,"Brust, weibliche | breast, female",1402,BREAST
+kochgrunberg1928_330,"Brustwarze, weibliche | nipple, female",,
+kochgrunberg1928_331,Rücken | back,1291,BACK
+kochgrunberg1928_332,Glans | glans (penis),,
+kochgrunberg1928_333,Praeputium | foreskin (praeputium),,
+kochgrunberg1928_334,Scrotum | scrotum,2834,SCROTUM
+kochgrunberg1928_335,Testiculi | testicles,797,TESTICLES
+kochgrunberg1928_336,"Ader | vein, blood vessel",,
+kochgrunberg1928_337,"Fleisch | flesh, meat",2615,FLESH OR MEAT
+kochgrunberg1928_338,Herz | heart,1223,HEART
+kochgrunberg1928_339,Leber | liver,1224,LIVER
+kochgrunberg1928_340,Lunge | lung,688,LUNG
+kochgrunberg1928_341,Magen | stomach,819,STOMACH
+kochgrunberg1928_342,"Darm | intestine, gut",1991,INTESTINES
+kochgrunberg1928_343,Schnabel | beak,73,BEAK
+kochgrunberg1928_344,Schwanz des Hundes | tail of the dog,,
+kochgrunberg1928_345,Schwanz des Fisches | tail of the fish,,
+kochgrunberg1928_346,Schwanz des Vogels | tail of the bird,,
+kochgrunberg1928_347,Feder | feather,1201,FEATHER
+kochgrunberg1928_348,See | lake,624,LAKE
+kochgrunberg1928_349,"Stromschnelle, Katarakt | rapids, cataract",1670,RAPIDS
+kochgrunberg1928_350,"Kohle | charcoal, coal",1188,CHARCOAL
+kochgrunberg1928_351,Asche | ash,646,ASH
+kochgrunberg1928_352,Rauch | smoke,778,SMOKE (EXHAUST)
+kochgrunberg1928_353,Wolke | cloud,1489,CLOUD
+kochgrunberg1928_354,Gewitter | thunderstorm,,
+kochgrunberg1928_355,Regenzeit | rainy season,453,RAINY SEASON
+kochgrunberg1928_356,Mörser | mortar,224,MORTAR
+kochgrunberg1928_357,Stößel | pestle,225,PESTLE
+kochgrunberg1928_358,Backherd | baking hearth (griddle),,
+kochgrunberg1928_359,Bratrost | roasting grill,,
+kochgrunberg1928_360,Fischkäscher | fish dip net (landing net),,
+kochgrunberg1928_361,Trockenzeit | dry season,452,DRY SEASON
+kochgrunberg1928_362,Morgen | morning,1339,MORNING
+kochgrunberg1928_363,"Mittag | midday, noon",12,MIDDAY
+kochgrunberg1928_364,Abend | evening,1629,EVENING
+kochgrunberg1928_365,Morgenstern | morning star,3340,MORNING STAR
+kochgrunberg1928_366,Skorpion | scorpion,1538,SCORPION
+kochgrunberg1928_367,Savanne | savanna,260,SAVANNA
+kochgrunberg1928_368,Insel | island,622,ISLAND
+kochgrunberg1928_369,"Sand, Sandbank | sand, sandbank",,
+kochgrunberg1928_370,Salz | salt,1274,SALT
+kochgrunberg1928_371,Kaschiritrog | kaschiri trough,,
+kochgrunberg1928_372,Pfefferbrühe | pepper broth,,
+kochgrunberg1928_373,Schere | scissors,356,SHEARS
+kochgrunberg1928_374,Baumseide zum Umwickeln der Giftpfeilchen | tree silk (kapok fibre) for wrapping poison darts,,
+kochgrunberg1928_375,Schwägerin | sister-in-law,2317,SISTER-IN-LAW
+kochgrunberg1928_376,"Armband | bracelet, armband",,
+kochgrunberg1928_377,Hut | hat,771,HAT
+kochgrunberg1928_378,Hemd | shirt,1622,SHIRT
+kochgrunberg1928_379,"Koffer | trunk, suitcase",,
+kochgrunberg1928_380,Seife | soap,788,SOAP
+kochgrunberg1928_381,Halskette | necklace,1961,NECKLACE
+kochgrunberg1928_382,Rohrflöte | reed flute,,
+kochgrunberg1928_383,Flöte aus Hirschknochen | flute made of deer bone,,
+kochgrunberg1928_384,Signalhorn | signal horn,,
+kochgrunberg1928_385,Tanz | dance,3472,DANCE (MOVEMENT)
+kochgrunberg1928_386,"Gesang | song, singing",1096,SONG
+kochgrunberg1928_387,Mädchen | girl,1646,GIRL
+kochgrunberg1928_388,Witwe | widow,1756,WIDOW
+kochgrunberg1928_389,Feind | enemy,1358,ENEMY
+kochgrunberg1928_390,Neger | Black person (historical term 'Neger'),,
+kochgrunberg1928_391,"Krankheit | illness, disease",1986,DISEASE
+kochgrunberg1928_392,Coataaffe | coatá monkey (spider monkey),434,SPIDER MONKEY
+kochgrunberg1928_393,Oyapisaaffe | oyapisá monkey,,
+kochgrunberg1928_394,"Agutipuru, Eichhorn | agutipuru, squirrel",1628,SQUIRREL
+kochgrunberg1928_395,"Jaguar, bunter | jaguar, spotted",,
+kochgrunberg1928_396,"Jaguar, schwarzer | jaguar, black",,
+kochgrunberg1928_397,Puma | puma,1891,PUMA
+kochgrunberg1928_398,Tigerkatze | tiger cat (small spotted wild cat),,
+kochgrunberg1928_399,Mucura | opossum (mucura),309,OPOSSUM
+kochgrunberg1928_400,Stachelschwein | porcupine,2510,PORCUPINE
+kochgrunberg1928_401,Roter Arara | red macaw,,
+kochgrunberg1928_402,Großes Hokko | large curassow,,
+kochgrunberg1928_403,Name | name,1405,NAME
+kochgrunberg1928_404,"Bild | picture, image",2401,PICTURE
+kochgrunberg1928_405,Sprache | language,1307,LANGUAGE
+kochgrunberg1928_406,Traum | dream,2374,DREAM
+kochgrunberg1928_407,"Cuati, Nasenbär | coati (cuati)",2389,COATI (COATIMUNDI)
+kochgrunberg1928_408,Großes Waldgürteltier | large forest armadillo,,
+kochgrunberg1928_409,Kleines Savannengürteltier | small savanna armadillo,,
+kochgrunberg1928_410,Riesengürteltier | giant armadillo,,
+kochgrunberg1928_411,Maus | mouse,1491,MOUSE
+kochgrunberg1928_412,Pferd | horse,615,HORSE
+kochgrunberg1928_413,"Rind | cattle (ox, cow)",1153,CATTLE
+kochgrunberg1928_414,"Haustier, gezähmtes Tier | pet, tamed animal",3780,PET
+kochgrunberg1928_415,Japu | japu (oropendola),,
+kochgrunberg1928_416,"Jacami, Psophia crepitans | trumpeter (jacamim), Psophia crepitans",,
+kochgrunberg1928_417,Tucano | toucan (tucano),308,TOUCAN
+kochgrunberg1928_418,Kolibri | hummingbird,1589,HUMMINGBIRD
+kochgrunberg1928_419,Inambu | tinamou (inambu),3921,TINAMOU
+kochgrunberg1928_420,Kleiner Inambu | small tinamou (inambu),,
+kochgrunberg1928_421,"Ariramba, Eisvogel | ariramba, kingfisher",2444,KINGFISHER
+kochgrunberg1928_422,Königsgeier | king vulture,,
+kochgrunberg1928_423,Eule | owl,735,OWL
+kochgrunberg1928_424,Urutaui | potoo (urutau),,
+kochgrunberg1928_425,"Uacuraua, Nachtschwalbe | uacuraua, nightjar",,
+kochgrunberg1928_426,Marreca-Entchen | marreca duckling (small teal),,
+kochgrunberg1928_427,Carara | carará (anhinga),,
+kochgrunberg1928_428,"Mergulhão, Tauchervogel | mergulhão, diving bird",,
+kochgrunberg1928_429,Schuppen | scales (of fish),266,SCALE
+kochgrunberg1928_430,Gräten | fishbones,3799,FISHBONE
+kochgrunberg1928_431,"Sorubim, Wels | surubim, catfish",,
+kochgrunberg1928_432,Matrincham | matrinchã (fish),,
+kochgrunberg1928_433,Tucunare | tucunaré (peacock bass),,
+kochgrunberg1928_434,Trahira | traíra (fish),,
+kochgrunberg1928_435,Aracu | aracu (fish),,
+kochgrunberg1928_436,"Pacu, weiß | pacu (fish), white",,
+kochgrunberg1928_437,"Pacu, schwarz | pacu (fish), black",,
+kochgrunberg1928_438,Pirahiba | piraíba (catfish),,
+kochgrunberg1928_439,Pirandira | pirandira (fish),,
+kochgrunberg1928_440,Pirapucu | pirapucu (fish),,
+kochgrunberg1928_441,Curimata | curimatá (fish),,
+kochgrunberg1928_442,Zitteraal | electric eel,2443,ELECTRIC EEL
+kochgrunberg1928_443,Sauba | saúva (leaf-cutter ant),,
+kochgrunberg1928_444,"Corocoro, Ibis | corocoro, ibis",,
+kochgrunberg1928_445,Weißer Reiher | white heron (egret),,
+kochgrunberg1928_446,Maguarystorch | maguari stork,,
+kochgrunberg1928_447,Socoreiher | soco heron,,
+kochgrunberg1928_448,Kleiner Socoreiher | small soco heron,,
+kochgrunberg1928_449,Trovão uira | trovão uira (bird),,
+kochgrunberg1928_450,Kleiner Vogel | small bird,,
+kochgrunberg1928_451,Camäleon | 'chameleon' (iguanid lizard),,
+kochgrunberg1928_452,"Yacuruaru, große Eidechse | jacuruaru, large lizard (tegu)",,
+kochgrunberg1928_453,"Tartaruga, Flußschildkröte | tartaruga, river turtle",,
+kochgrunberg1928_454,"Jabuti, Landschildkröte | jabuti, land tortoise",895,TORTOISE
+kochgrunberg1928_455,Große giftige Waldschlange | large venomous forest snake,,
+kochgrunberg1928_456,Schlange (frißt Giftschlangen) | snake (eats venomous snakes),,
+kochgrunberg1928_457,Schlange sp. | snake sp.,,
+kochgrunberg1928_458,Kröte | toad,894,TOAD
+kochgrunberg1928_459,Regenwurm | earthworm,2350,EARTHWORM
+kochgrunberg1928_460,Maniuara | maniuara (termite/ant),,
+kochgrunberg1928_461,Maruim | maruim (biting midge),,
+kochgrunberg1928_462,Mutuca | mutuca (horsefly),,
+kochgrunberg1928_463,Fliege | fly,1504,FLY (INSECT)
+kochgrunberg1928_464,Grille | cricket,2354,CRICKET
+kochgrunberg1928_465,"Heuschrecke | grasshopper, locust",607,GRASSHOPPER
+kochgrunberg1928_466,Gottesanbeterin | praying mantis,3279,MANTIS
+kochgrunberg1928_467,Wespe | wasp,1517,WASP
+kochgrunberg1928_468,Mistkäfer | dung beetle,,
+kochgrunberg1928_469,Großer schwarzer Rüsselkäfer | large black weevil,,
+kochgrunberg1928_470,Ast | branch,1531,BRANCH
+kochgrunberg1928_471,Rinde | bark,1204,BARK
+kochgrunberg1928_472,Dorn | thorn,124,THORN
+kochgrunberg1928_473,"Frucht, Samen | fruit, seed",,
+kochgrunberg1928_474,"Harz, Baummilch | resin, tree latex",,
+kochgrunberg1928_475,"Schale, Hülse | peel/shell, husk",,
+kochgrunberg1928_476,"Strauch | shrub, bush",751,SHRUB
+kochgrunberg1928_477,Gras | grass,606,GRASS
+kochgrunberg1928_478,Entkörnter Maiskolben | shelled corncob,,
+kochgrunberg1928_479,Maiskörner | maize kernels,,
+kochgrunberg1928_480,Maniokwurzel | manioc root (tuber),,
+kochgrunberg1928_481,Maniokmehl | manioc flour,324,MANIOC FLOUR
+kochgrunberg1928_482,Leuchtkäfer | firefly,206,FIREFLY
+kochgrunberg1928_483,"Sandfloh | sand flea, chigoe",438,CHIGGOE (JIGGER FLEA)
+kochgrunberg1928_484,Tausendfuß | millipede/centipede (Tausendfuß),,
+kochgrunberg1928_485,Carapato | tick (carrapato),1527,TICK
+kochgrunberg1928_486,Micuim | micuim (chigger mite),,
+kochgrunberg1928_487,Barata | cockroach (barata),1575,COCKROACH
+kochgrunberg1928_488,"Muschel | mussel, shellfish",,
+kochgrunberg1928_489,Schnecke | snail,1543,SNAIL
+kochgrunberg1928_490,"Tapioka, Maniokstärke | tapioca, manioc starch",3940,TAPIOCA
+kochgrunberg1928_491,"Macachera, Aipim | sweet manioc (macaxeira, aipim)",,
+kochgrunberg1928_492,Papaya | papaya,2445,PAPAYA
+kochgrunberg1928_493,Acayu | cashew (acaju),2441,CASHEW
+kochgrunberg1928_494,Cucura-Traube | cucura grape,,
+kochgrunberg1928_495,Andere Cucura | other cucura,,
+kochgrunberg1928_496,"Bambus, dick | bamboo, thick",,
+kochgrunberg1928_497,"Bambus, halbdick | bamboo, medium-thick",,
+kochgrunberg1928_498,"Bambus, fein | bamboo, thin",,
+kochgrunberg1928_499,Pfeilrohr | arrow cane,,
+kochgrunberg1928_500,Inga | inga (Inga sp.),,
+kochgrunberg1928_501,Kautschuk | rubber,4064,RUBBER
+kochgrunberg1928_502,"Sipo, Schlingpflanze zum Binden | cipó, climbing plant used for tying",2388,LIANA
+kochgrunberg1928_503,Inajapalme | inajá palm,,
+kochgrunberg1928_504,Bacabapalme | bacaba palm,,
+kochgrunberg1928_505,Assaipalme | assai palm,2437,ACAI PALM
+kochgrunberg1928_506,Tucumapalme | tucuma palm,2439,TUCUMA PALM
+kochgrunberg1928_507,15 | fifteen,1709,FIFTEEN
+kochgrunberg1928_508,20 | twenty,1710,TWENTY

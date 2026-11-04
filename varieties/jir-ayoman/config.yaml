@@ -1,0 +1,25 @@
+av_id: jir-ayoman
+name: Ayomán
+glottocode: ayom1234
+family: Jirajaran
+macroarea: South America
+sources:
+  transcription: jahn1927
+  cognates: jahn1927
+  source_language_id: jahn1927_ayoman
+extensions:
+  transcriptions: false
+  forms: false
+  cognates: false
+  concept_map: false
+  profile: false
+scoring:
+  forms_score: 0.0
+  cognates_score: 0.0
+  tier: copper
+pinned: true
+registered_on: '2026-11-04'
+notes: '2026-11-04 South American isolates batch 3. First Ayomán construction: Jahn
+  1927 (his 1910 recording, informant Carmen Ramos), in Jahn''s documented phonetic
+  alphabet; Oramas 1916 forms as quoted by Jahn are written-only gap fills. Written-only:
+  the source spelling is kept; no reading inferred.'

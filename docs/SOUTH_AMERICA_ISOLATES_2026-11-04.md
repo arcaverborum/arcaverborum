@@ -115,3 +115,49 @@ decisions in the [batch-2 ledger](south_america_isolates_2026-11-04_batch2.csv).
 * Written-only supplements carry `transcription_policy = orthographic_only`.
 * New family codes for the remaining South American isolate families
   (`family_codes.csv`); new av_ids frozen in `varieties.csv`.
+
+## Track 2b: transcribed original sources (batch 3)
+
+Ten source extensions transcribed from page images or extracted from
+born-digital lexica: `guamo1788`, `jahn1927`, `kochgrunberg1928`, `heath1883`,
+`cmrivet1913`, `tessmann1930` (public domain; Tessmann and Créqui-Montfort and
+Rivet are public domain in the US, accepted for all tiers by the maintainer),
+`chacon2024arutani` (CC BY 4.0), `bacelar2010kanoe`, `dangelis2010arara` and
+`pereira1964irantxe` (CC BY 3.0, now a reviewed licence in all three tiers).
+Each extension's README and VERIFY.md record the pages, scan hashes, notation,
+exclusions and the verification: an independent second reading of every list
+(historical sources) or a re-read sample of 150 to 365 rows (born-digital
+lexica, 0 to 0.8% errors, all corrected). Page images are kept outside git.
+Counts: [batch-3 metrics](south_america_isolates_2026-11-04_batch3_metrics.json);
+decisions: [batch-3 ledger](south_america_isolates_2026-11-04_batch3.csv).
+
+| Construction | Forms | Concepts | Core | Source |
+| --- | ---: | ---: | ---: | --- |
+| Guamo, Santa Rosa (new) | 0 → 179 | 0 → 154 | 0 → 63 | Anon. 1788 |
+| Guamo, San José (new) | 0 → 178 | 0 → 154 | 0 → 63 | Anon. 1788 |
+| Guamo, village not stated (new) | 0 → 136 | 0 → 110 | 0 → 38 | Anon. 1788 |
+| Ayomán (new) | 0 → 263 | 0 → 156 | 0 → 60 | Jahn 1927 |
+| Jirajara (new) | 0 → 96 | 0 → 70 | 0 → 28 | Jahn 1927 |
+| Gayón (new) | 0 → 72 | 0 → 50 | 0 → 26 | Jahn 1927 |
+| Timote (new) | 0 → 350 | 0 → 224 | 0 → 83 | Jahn 1927 |
+| Auaké, historical (new) | 0 → 328 | 0 → 212 | 0 → 79 | Koch-Grünberg 1928 |
+| Arara do Rio Branco (new) | 0 → 246 | 0 → 91 | 0 → 31 | D'Angelis 2010, IPA |
+| Manoki (new) | 0 → 652 | 0 → 357 | 0 → 100 | Pereira 1964 |
+| Arutani | 78 → 1,139 | 78 → 540 | 70 → 132 | Chacon et al. 2024, IPA (primary) |
+| Kanoê | 263 → 1,322 | 205 → 518 | 113 → 130 | Bacelar, IPA (primary) |
+| Canichana | 87 → 347 | 87 → 327 | 70 → 112 | Heath 1883; Créqui-Montfort and Rivet 1913 |
+| Máku | 112 → 372 | 100 → 321 | 75 → 108 | Koch-Grünberg 1928 |
+| Sapé | 78 → 191 | 78 → 178 | 70 → 92 | Koch-Grünberg 1928 |
+| Omurano | 60 → 190 | 60 → 184 | 54 → 71 | Tessmann 1930 |
+| Aewa | 18 → 68 | 18 → 66 | 17 → 20 | Tessmann 1930 |
+
+* Historical lists are **written-only**: spelling kept exactly, no reading
+  inferred. Jahn's and Koch-Grünberg's documented notations are copied into the
+  extension READMEs as the basis for future reviewed profiles.
+* Guamo follows the compiler's own doublet convention (first form Santa Rosa,
+  second San José); single forms are not assigned to a village.
+* Créqui-Montfort and Rivet's Heath rows repeat `heath1883` and are not used
+  again; Ayomán forms that Jahn quotes from Oramas carry no Glottocode and are
+  not admitted.
+* Kanoê: 58 Johansson release-A forms without a concept mapping cannot be
+  carried as supplements and stay in the intake.

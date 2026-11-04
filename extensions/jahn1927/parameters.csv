@@ -1,0 +1,604 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss
+jahn1927_1,Cabeza (mi) | (my) head,1256,HEAD
+jahn1927_2,Ojos (mis) | (my) eyes,1248,EYE
+jahn1927_3,Nariz (mi) | (my) nose,1221,NOSE
+jahn1927_4,Boca (mi) | (my) mouth,674,MOUTH
+jahn1927_5,Oreja (mi) | (my) ear,1247,EAR
+jahn1927_6,Cuello (mi) | (my) neck,1333,NECK
+jahn1927_7,Lengua (mi) | (my) tongue,1205,TONGUE
+jahn1927_8,Dientes (mis) | (my) teeth,1380,TOOTH
+jahn1927_9,Cejas (mis) | (my) eyebrows,1173,EYEBROW
+jahn1927_10,Barba (mi) | (my) beard,678,BEARD
+jahn1927_11,Cabello (mi) | (my) hair,1040,HAIR
+jahn1927_12,Espinazo (mi) | (my) backbone,805,SPINE
+jahn1927_13,Mano (mi) | (my) hand,1277,HAND
+jahn1927_14,Ambas manos (mis) | (my) both hands,,
+jahn1927_15,Brazo (mi) | (my) arm,1673,ARM
+jahn1927_16,Pierna (mi) | (my) leg,1297,LEG
+jahn1927_17,Rodilla (mi) | (my) knee,1371,KNEE
+jahn1927_18,Pie (mi) | (my) foot,1301,FOOT
+jahn1927_19,Dedo de la mano (mi) | (my) finger,1303,FINGER
+jahn1927_20,Uñas | nails,1258,FINGERNAIL
+jahn1927_21,Vientre (mi) | (my) belly,1251,BELLY
+jahn1927_22,Pecho | chest,1592,CHEST
+jahn1927_23,Teta de mujer (su) | (her) woman's breast,1402,BREAST
+jahn1927_24,Muslo (mi) | (my) thigh,800,THIGH
+jahn1927_25,Pene (mi) | (my) penis,1222,PENIS
+jahn1927_26,Escroto (mi) | (my) scrotum,2834,SCROTUM
+jahn1927_27,Vulva | vulva,1837,VULVA
+jahn1927_28,Agua | water,948,WATER
+jahn1927_29,Lluvia | rain,658,RAIN (PRECIPITATION)
+jahn1927_30,Cielo | sky,1732,SKY
+jahn1927_31,Viento | wind,960,WIND
+jahn1927_32,Frío | cold,1287,COLD
+jahn1927_33,Sol | sun,1343,SUN
+jahn1927_34,Luna | moon,1313,MOON
+jahn1927_35,Estrella | star,1430,STAR
+jahn1927_36,Día | day,1225,DAY (NOT NIGHT)
+jahn1927_37,Noche | night,1233,NIGHT
+jahn1927_38,Fuego | fire,221,FIRE
+jahn1927_39,Leña | firewood,10,FIREWOOD
+jahn1927_40,"Camino | path, road",,
+jahn1927_41,Piedra | stone,857,STONE
+jahn1927_42,Arena | sand,671,SAND
+jahn1927_43,Trueno | thunder,1150,THUNDER
+jahn1927_44,Creciente | flood (river rising),,
+jahn1927_45,Mañana | tomorrow,1329,TOMORROW
+jahn1927_46,Pasado mañana | day after tomorrow,1179,DAY AFTER TOMORROW
+jahn1927_47,Casa | house,1252,HOUSE
+jahn1927_48,Pared | wall,933,WALL (OF HOUSE)
+jahn1927_49,Puerta | door,1567,DOOR
+jahn1927_50,Ventana | window,1375,WINDOW
+jahn1927_51,Fogón | hearth,185,FIREPLACE
+jahn1927_52,Tapara | calabash gourd (vessel),,
+jahn1927_53,Totuma | calabash bowl,,
+jahn1927_54,"Cuero | hide, leather",,
+jahn1927_55,Chinchorro (hamaca) | hammock,2019,HAMMOCK
+jahn1927_56,Cuerda de colgar la hamaca | hammock rope,,
+jahn1927_57,Cabuya | agave-fibre cord,,
+jahn1927_58,Hilo | thread,1161,THREAD
+jahn1927_59,Algodón | cotton,1850,COTTON
+jahn1927_60,Cachimbo | tobacco pipe,1124,PIPE
+jahn1927_61,Conuco | cultivated plot,,
+jahn1927_62,Carato | carato (maize drink),,
+jahn1927_63,Camisa | shirt,1622,SHIRT
+jahn1927_64,Calzón | trousers,809,TROUSERS
+jahn1927_65,Sombrero | hat,771,HAT
+jahn1927_66,Fustán | petticoat,,
+jahn1927_67,Collar | necklace,1961,NECKLACE
+jahn1927_68,Peine | comb,1475,COMB
+jahn1927_69,Budare | griddle (budare),,
+jahn1927_70,Hacha | axe,677,AXE
+jahn1927_71,Machete | machete,2680,MACHETE
+jahn1927_72,Escardilla | hoe,284,HOE
+jahn1927_73,Cuchillo | knife,1352,KNIFE
+jahn1927_74,Arco | bow,994,BOW
+jahn1927_75,Flecha | arrow,977,ARROW
+jahn1927_76,Cuerda del arco | bowstring,2119,BOW STRING
+jahn1927_77,Aguardiente | liquor (cocui),,
+jahn1927_78,Tinaja | large earthen jar,,
+jahn1927_79,Olla | cooking pot,1462,POT
+jahn1927_80,Cuchara | spoon,1378,SPOON
+jahn1927_81,Piedra de moler | grinding stone,,
+jahn1927_82,Brasa | ember,67,EMBERS
+jahn1927_83,Canasto | basket,1539,BASKET
+jahn1927_84,Almácigo | seedbed,,
+jahn1927_85,Cosecha | harvest,611,HARVEST
+jahn1927_86,Hombre | man,1554,MAN
+jahn1927_87,Hombre trabajador | hardworking man,,
+jahn1927_88,Mujer | woman,962,WOMAN
+jahn1927_89,Hombre blanco | white man,,
+jahn1927_90,Hombre negro | black man,,
+jahn1927_91,Marido | husband,1200,HUSBAND
+jahn1927_92,Padre | father,1217,FATHER
+jahn1927_93,Madre | mother,1216,MOTHER
+jahn1927_94,Tía | aunt,,
+jahn1927_95,Hermano | brother,1262,BROTHER
+jahn1927_96,Hermana | sister,1263,SISTER
+jahn1927_97,Muchacho | boy,1366,BOY
+jahn1927_98,Muchacha | girl,1646,GIRL
+jahn1927_99,Abuelo | grandfather,1383,GRANDFATHER
+jahn1927_100,Abuela | grandmother,1496,GRANDMOTHER
+jahn1927_101,Niño de pecho | nursing baby,1289,BABY
+jahn1927_102,Hombre viejo | old man,406,OLD MAN
+jahn1927_103,Mujer vieja | old woman,907,OLD WOMAN
+jahn1927_104,Muchos hombres | many men,,
+jahn1927_105,Dios | God,1944,GOD
+jahn1927_106,Diablo | devil,3917,DEVIL
+jahn1927_107,"Curandero | healer, medicine man",,
+jahn1927_108,Muerto | dead,1625,DEAD
+jahn1927_109,Tabaco | tobacco,974,TOBACCO
+jahn1927_110,Tigre (Felis onza) | jaguar,1250,JAGUAR
+jahn1927_111,Oso palmero (Myrmecophaga jubata) | giant anteater,,
+jahn1927_112,Oso hormiguero—(Myrmecophaga tetradactyla) | tamandua (lesser anteater),,
+jahn1927_113,Caballo | horse,615,HORSE
+jahn1927_114,Vaca | cow,1007,COW
+jahn1927_115,Mula | mule,890,MULE
+jahn1927_116,Cabra | goat,1502,GOAT
+jahn1927_117,Pava de monte (Penelope cristata) | guan,,
+jahn1927_118,Paují (Crax Daubentoni) | curassow,,
+jahn1927_119,Guacharaca (Penelope sp.) | chachalaca,,
+jahn1927_120,Cotorra (Chrysotis sp.) | parrot (Amazona),,
+jahn1927_121,Paloma turca (Columba plumbea) | plumbeous pigeon,,
+jahn1927_122,Gavilán (Falco sp.) | hawk,307,HAWK
+jahn1927_123,Loro (Psittacus sp.) | parrot,882,PARROT
+jahn1927_124,Zamuro (Catharistes atratus) | black vulture,,
+jahn1927_125,Catanejo (Ibycter tharus) | caracara,,
+jahn1927_126,Rey de zamuros (Cathtartes papa) | king vulture,,
+jahn1927_127,Gallina | hen,1514,HEN
+jahn1927_128,Zorro (Canis azarae) | fox,1312,FOX
+jahn1927_129,Mapurite (Mephitis mapurite) | skunk,3888,SKUNK
+jahn1927_130,Marrano | pig,1337,PIG
+jahn1927_131,Asno | donkey,1862,DONKEY
+jahn1927_132,Danta (Tapirus americanus) | tapir,312,TAPIR
+jahn1927_133,Venado (Cervus rufus) | deer,1936,DEER
+jahn1927_134,Matacán (Cervus simplicicornis) | brocket deer,,
+jahn1927_135,Cachicamo (Dasypus sp.) | armadillo,1885,ARMADILLO
+jahn1927_136,Perro | dog,2009,DOG
+jahn1927_137,Conejo (Lepus brasiliensis) | rabbit,1136,RABBIT
+jahn1927_138,Picure (Dasyprocta aguti) | agouti,313,AGOUTI
+jahn1927_139,Araguato (Mycetes seniculus) | howler monkey,433,HOWLER MONKEY
+jahn1927_140,Lapa Coelogenys paca) | paca,316,PACA
+jahn1927_141,Iguana (Iguana tuberculata) | iguana,1578,IGUANA
+jahn1927_142,Lagartijo | lizard,632,LIZARD
+jahn1927_143,Culebra | snake,730,SNAKE
+jahn1927_144,Id. tigra (Eunectes murinus) | anaconda,896,ANACONDA (WATER BOA)
+jahn1927_145,Cocui (Agave lurida) | agave (cocui),,
+jahn1927_146,Dato (Lemaireocereus sp.) | columnar cactus (dato),,
+jahn1927_147,Cocuiza (Fourcraea geminispina) | Furcraea (cocuiza),,
+jahn1927_148,Chara (Pachira sp?) | chara (Pachira),,
+jahn1927_149,Plátano (Musa sapientum L) | plantain,399,PLANTAIN
+jahn1927_150,Naranja (Citrus aurantium L) | orange,2627,ORANGE (FRUIT)
+jahn1927_151,Mamón (Melicocca bijuga) | Spanish lime (mamón),,
+jahn1927_152,Cotopriz (Melicocca olivaeformis) | cotopriz (Talisia),,
+jahn1927_153,Vera (Guayacum arboreum) | vera (lignum-vitae tree),,
+jahn1927_154,Javillo (Hura crepitans) | sandbox tree,,
+jahn1927_155,Cedro (Cedrela odorata L) | Spanish cedar,,
+jahn1927_156,Marfil (Ticorea sp?) | marfil (Ticorea),,
+jahn1927_157,Sibucara (Bombax sp?) | sibucara (Bombax),,
+jahn1927_158,Guaje o muchacho (Aroidea) | aroid (guaje),,
+jahn1927_159,Ocumo (Colocasia esculenta) | taro,351,TARO
+jahn1927_160,Guate (Maranta sp.) | arrowroot,,
+jahn1927_161,Apio (Arracacha esculenta) | arracacha,,
+jahn1927_162,Auyama (Cucurbita pepo) | pumpkin,864,PUMPKIN
+jahn1927_163,Lechosa (Carica papaya) | papaya,2445,PAPAYA
+jahn1927_164,Yuca (Manihot utilissima) | manioc,927,MANIOC
+jahn1927_165,Batata (Ipomoea batatas) | sweet potato,159,SWEET POTATO
+jahn1927_166,Quinchoncho (Cajanus indicus) | pigeon pea,,
+jahn1927_167,Chibatas (Phaseolus vulgaris) | common bean,,
+jahn1927_168,Caraotas (Phaseolus derasus) | beans (caraotas),,
+jahn1927_169,Maíz (Zea mais) | maize,506,MAIZE
+jahn1927_170,Uno | one,1493,ONE
+jahn1927_171,Dos | two,1498,TWO
+jahn1927_172,Tres | three,492,THREE
+jahn1927_173,Cuatro | four,1500,FOUR
+jahn1927_174,Cinco | five,493,FIVE
+jahn1927_175,Yo | I,1209,I
+jahn1927_176,Tú | you (sg.),1215,THOU
+jahn1927_177,El | he,2642,HE OR SHE
+jahn1927_178,"Flaco | thin, lean",,
+jahn1927_179,Grande | big,1202,BIG
+jahn1927_180,Nuevo | new,1231,NEW
+jahn1927_181,Viejo | old,,
+jahn1927_182,"Bravo | fierce, angry",,
+jahn1927_183,"Mucho | much, many",,
+jahn1927_184,"Poco | few, little",,
+jahn1927_185,Cerca | near,1942,NEAR
+jahn1927_186,Lejos | far,1406,FAR
+jahn1927_187,Claro | clear,,
+jahn1927_188,Oscuro | dark,706,DARK
+jahn1927_189,Bueno | good,1035,GOOD
+jahn1927_190,Malo | bad,1292,BAD
+jahn1927_191,Valiente | brave,3,BRAVE
+jahn1927_192,Dulce | sweet,717,SWEET
+jahn1927_193,Amargo | bitter,887,BITTER
+jahn1927_194,Maduro | ripe,178,RIPE
+jahn1927_195,"Verde | unripe, green (fruit)",1958,UNRIPE
+jahn1927_196,Ahora | now,1376,NOW
+jahn1927_197,Alegre | glad,,
+jahn1927_198,Solo | alone,1964,ALONE
+jahn1927_199,Feo | ugly,1548,UGLY
+jahn1927_200,"Bonito, hermoso | pretty, beautiful",1427,BEAUTIFUL
+jahn1927_201,Blanco | white,1335,WHITE
+jahn1927_202,Negro | black,163,BLACK
+jahn1927_203,Amarillo | yellow,1424,YELLOW
+jahn1927_204,Verde | green,1425,GREEN
+jahn1927_205,Rojo | red,156,RED
+jahn1927_206,Sí | yes,1268,YES
+jahn1927_207,No | no,1269,NO
+jahn1927_208,Dormir (yo duermo) | to sleep (I sleep),,
+jahn1927_209,Comer (yo como) | to eat (I eat),,
+jahn1927_210,Beber (yo bebo) | to drink (I drink),,
+jahn1927_211,Evacuar | to defecate,676,SHIT (DEFECATE)
+jahn1927_212,Orinar (yo orino) | to urinate (I urinate),,
+jahn1927_213,Cazar (yo cazo) | to hunt (I hunt),,
+jahn1927_214,Morder (yo muerdo) | to bite (I bite),,
+jahn1927_215,Cocinar (voy a cocinar) | to cook (I am going to cook),,
+jahn1927_216,Cantar (yo canto) | to sing (I sing),,
+jahn1927_217,Cortar (yo corto) | to cut (I cut),,
+jahn1927_218,Moler (yo muelo) | to grind (I grind),,
+jahn1927_219,Lavar (yo lavo) | to wash (I wash),,
+jahn1927_220,Matar (yo mato) | to kill (I kill),,
+jahn1927_221,Llorar (yo lloro) | to cry (I cry),,
+jahn1927_222,Reir (yo río) | to laugh (I laugh),,
+jahn1927_223,Andar (yo ando) | to walk (I walk),,
+jahn1927_224,Correr (yo corro) | to run (I run),,
+jahn1927_225,Dar (yo doy) | to give (I give),,
+jahn1927_226,Pedir (dáme) | to ask for (give me),,
+jahn1927_227,Cargar (yo cargo) | to carry (I carry),,
+jahn1927_228,Botar (yo boto) | to throw away (I throw away),,
+jahn1927_229,Bailar (yo bailo) | to dance (I dance),,
+jahn1927_230,Ojo (mi) | (my) eye,1248,EYE
+jahn1927_231,Barba | beard,678,BEARD
+jahn1927_232,Pierna | leg,1297,LEG
+jahn1927_233,Uña (mi) | (my) nail,1258,FINGERNAIL
+jahn1927_234,Braza | ember,67,EMBERS
+jahn1927_235,"Pueblo | village, town",3609,TOWN OR VILLAGE
+jahn1927_236,"Médico | doctor, healer",,
+jahn1927_237,Baile (tura) | dance (tura),,
+jahn1927_238,Esposa | wife,1199,WIFE
+jahn1927_239,Hijo | son,1620,SON
+jahn1927_240,Sal | salt,1274,SALT
+jahn1927_241,Relámpago | lightning,1654,LIGHTNING
+jahn1927_242,"Quebrada | stream, ravine",,
+jahn1927_243,Chinchorro | hammock,2019,HAMMOCK
+jahn1927_244,"Tierras, terrenos | lands, plots",,
+jahn1927_245,Batea | wooden tray,,
+jahn1927_246,Mazamorra | maize porridge,,
+jahn1927_247,Casamiento | wedding,,
+jahn1927_248,Yuca | manioc,927,MANIOC
+jahn1927_249,León (Felis concolor) (puma) | puma,1891,PUMA
+jahn1927_250,Danta (Tapirussp.) | tapir,312,TAPIR
+jahn1927_251,Zorro (Canis Azarae) | fox,1312,FOX
+jahn1927_252,Araguato | howler monkey,433,HOWLER MONKEY
+jahn1927_253,Pereza | sloth,2446,SLOTH
+jahn1927_254,Mapurite (Mephitis) | skunk,3888,SKUNK
+jahn1927_255,Gato | cat,1208,CAT
+jahn1927_256,Gato cerval | wildcat,,
+jahn1927_257,Morrocoy | tortoise,895,TORTOISE
+jahn1927_258,Pescado | fish,227,FISH
+jahn1927_259,Chácharo | peccary,2390,PECCARY
+jahn1927_260,Gallo | rooster,1511,ROOSTER
+jahn1927_261,Guaca | guaca (a bird),,
+jahn1927_262,Guacharaca | chachalaca,,
+jahn1927_263,Gavilán | hawk,307,HAWK
+jahn1927_264,Paují | curassow,,
+jahn1927_265,Pavo | turkey,,
+jahn1927_266,Venado | deer,1936,DEER
+jahn1927_267,Lapa | paca,316,PACA
+jahn1927_268,Picure | agouti,313,AGOUTI
+jahn1927_269,Id. cascabel | rattlesnake,871,RATTLESNAKE
+jahn1927_270,Cienpiés (Scolopendra) | centipede,1974,CENTIPEDE
+jahn1927_271,"Bueno, bonito | good, pretty",,
+jahn1927_272,Bien de salud | in good health,,
+jahn1927_273,Enfermo | sick,1847,SICK
+jahn1927_274,Cabeza | head,1256,HEAD
+jahn1927_275,Ojo | eye,1248,EYE
+jahn1927_276,Nariz | nose,1221,NOSE
+jahn1927_277,Oreja | ear,1247,EAR
+jahn1927_278,Tetas | breasts,1402,BREAST
+jahn1927_279,Vientre | belly,1251,BELLY
+jahn1927_280,Pie | foot,1301,FOOT
+jahn1927_281,Sangre | blood,946,BLOOD
+jahn1927_282,Penis | penis,1222,PENIS
+jahn1927_283,Espalda | back,1291,BACK
+jahn1927_284,Anciana | old woman,907,OLD WOMAN
+jahn1927_285,Totuma grande | large calabash bowl,,
+jahn1927_286,Id. pequeña | small calabash bowl,,
+jahn1927_287,Escopeta | shotgun,,
+jahn1927_288,Remillón | remillón (a vessel),,
+jahn1927_289,Maíz tostado | toasted maize,,
+jahn1927_290,Cocui cocido | cooked agave (cocui),,
+jahn1927_291,"Cocui, licor | agave liquor (cocui)",,
+jahn1927_292,Hallaca de jojoto | tender-maize tamale,,
+jahn1927_293,Zorro | fox,1312,FOX
+jahn1927_294,Tigre | jaguar,1250,JAGUAR
+jahn1927_295,León | puma,1891,PUMA
+jahn1927_296,Conejo | rabbit,1136,RABBIT
+jahn1927_297,Puerco de monte | peccary,2390,PECCARY
+jahn1927_298,Cunaguaro | jaguarundi,,
+jahn1927_299,Oveja | sheep,1331,SHEEP
+jahn1927_300,Cachicamo | armadillo,1885,ARMADILLO
+jahn1927_301,Zamuro | black vulture,,
+jahn1927_302,Carpintero | woodpecker,2447,WOODPECKER
+jahn1927_303,Catanejo | caracara,,
+jahn1927_304,"Paloma | pigeon, dove",,
+jahn1927_305,Paraulata | thrush (paraulata),,
+jahn1927_306,Comer | to eat,1336,EAT
+jahn1927_307,Beber | to drink,1401,DRINK
+jahn1927_308,Matar | to kill,1417,KILL
+jahn1927_309,Dormir | to sleep,1585,SLEEP
+jahn1927_310,Irse | to go away,,
+jahn1927_311,Maíz | maize,506,MAIZE
+jahn1927_312,Caraota | bean (caraota),,
+jahn1927_313,Sacar | to take out,,
+jahn1927_314,Pluma | feather,1201,FEATHER
+jahn1927_315,La cabeza | the head,1256,HEAD
+jahn1927_316,La nariz | the nose,1221,NOSE
+jahn1927_317,La cara | the face,1560,FACE
+jahn1927_318,La frente | the forehead,123,FOREHEAD
+jahn1927_319,La barba | the beard,678,BEARD
+jahn1927_320,La lengua | the tongue,1205,TONGUE
+jahn1927_321,Los dientes | the teeth,1380,TOOTH
+jahn1927_322,La boca (mi) | (my) mouth,674,MOUTH
+jahn1927_323,El mentón | the chin,1510,CHIN
+jahn1927_324,Los ojos | the eyes,1248,EYE
+jahn1927_325,La garganta | the throat,1346,THROAT
+jahn1927_326,La nuca | the nape,1347,NAPE (OF NECK)
+jahn1927_327,Los pechos (de la mujer) | the (woman's) breasts,1402,BREAST
+jahn1927_328,El pecho | the chest,1592,CHEST
+jahn1927_329,La oreja | the ear,1247,EAR
+jahn1927_330,El hombro | the shoulder,1482,SHOULDER
+jahn1927_331,La espalda (mi) | (my) back,1291,BACK
+jahn1927_332,Los huesos | the bones,1394,BONE
+jahn1927_333,El estómago | the stomach,819,STOMACH
+jahn1927_334,La cadera (mi) | (my) hip,1745,HIP
+jahn1927_335,Los brazos | the arms,1673,ARM
+jahn1927_336,Las piernas | the legs,1297,LEG
+jahn1927_337,Los pies | the feet,1301,FOOT
+jahn1927_338,Las manos | the hands,1277,HAND
+jahn1927_339,La sangre | the blood,946,BLOOD
+jahn1927_340,El vientre | the belly,1251,BELLY
+jahn1927_341,El talón | the heel,980,HEEL
+jahn1927_342,"El sobaco, la axila | the armpit",1886,ARMPIT
+jahn1927_343,El agua | the water,948,WATER
+jahn1927_344,La tierra | the earth,3603,EARTH OR LAND
+jahn1927_345,El sol | the sun,1343,SUN
+jahn1927_346,La luna | the moon,1313,MOON
+jahn1927_347,Las estrellas | the stars,1430,STAR
+jahn1927_348,La nube | the cloud,1489,CLOUD
+jahn1927_349,La lluvia | the rain,658,RAIN (PRECIPITATION)
+jahn1927_350,El relámpago | the lightning,1654,LIGHTNING
+jahn1927_351,El río | the river,666,RIVER
+jahn1927_352,La arena | the sand,671,SAND
+jahn1927_353,La piedra | the stone,857,STONE
+jahn1927_354,"La peña | the rock, crag",,
+jahn1927_355,La espuma | the foam,1768,FOAM
+jahn1927_356,El puente | the bridge,1011,BRIDGE
+jahn1927_357,"El camino | the path, road",,
+jahn1927_358,El temblor de tierra | the earthquake,6,EARTHQUAKE
+jahn1927_359,El viento | the wind,960,WIND
+jahn1927_360,El fuego | the fire,221,FIRE
+jahn1927_361,La leña | the firewood,10,FIREWOOD
+jahn1927_362,La madera | the wood (timber),1803,WOOD
+jahn1927_363,El carbón | the charcoal,1188,CHARCOAL
+jahn1927_364,La ceniza | the ash,646,ASH
+jahn1927_365,La cueva | the cave,1155,CAVE
+jahn1927_366,Arco iris | rainbow,1733,RAINBOW
+jahn1927_367,"La plata, dinero | silver, money",,
+jahn1927_368,El páramo | the páramo (high moor),,
+jahn1927_369,La sal | the salt,1274,SALT
+jahn1927_370,Calor | heat,612,HEAT
+jahn1927_371,Hoy | today,1283,TODAY
+jahn1927_372,Ayer | yesterday,1174,YESTERDAY
+jahn1927_373,Anoche | last night,,
+jahn1927_374,Esta mañana | this morning,,
+jahn1927_375,Al amanecer | at dawn,,
+jahn1927_376,Medio día (12 m.) | noon,2490,NOON
+jahn1927_377,"Tarde (vésper) | afternoon, evening",,
+jahn1927_378,Ayer tarde | yesterday afternoon,,
+jahn1927_379,Año | year,1226,YEAR
+jahn1927_380,Mes | month,1370,MONTH
+jahn1927_381,Semana | week,1469,WEEK
+jahn1927_382,El día | the day,,
+jahn1927_383,Lunes | Monday,1697,MONDAY
+jahn1927_384,Martes | Tuesday,1695,TUESDAY
+jahn1927_385,Miércoles | Wednesday,1694,WEDNESDAY
+jahn1927_386,Jueves | Thursday,1693,THURSDAY
+jahn1927_387,Cuándo? | when?,1238,WHEN
+jahn1927_388,"Luego | then, soon",,
+jahn1927_389,"Pronto | soon, quickly",,
+jahn1927_390,"El pueblo | the village, town",3609,TOWN OR VILLAGE
+jahn1927_391,La casa | the house,1252,HOUSE
+jahn1927_392,Casa grande | big house,,
+jahn1927_393,La puerta | the door,1567,DOOR
+jahn1927_394,La cama | the bed,1663,BED
+jahn1927_395,La piedra de moler | the grinding stone,,
+jahn1927_396,La olla | the cooking pot,1462,POT
+jahn1927_397,La cuchara | the spoon,1378,SPOON
+jahn1927_398,El budare | the griddle (budare),,
+jahn1927_399,El cántaro | the jug,,
+jahn1927_400,El sombrero | the hat,771,HAT
+jahn1927_401,mi sombrero | my hat,,
+jahn1927_402,El huso | the spindle,277,SPINDLE
+jahn1927_403,El peine | the comb,1475,COMB
+jahn1927_404,La camisa | the shirt,1622,SHIRT
+jahn1927_405,La iglesia | the church,1349,CHURCH
+jahn1927_406,Papelón | raw sugar loaf (papelón),,
+jahn1927_407,La comida | the food,256,FOOD
+jahn1927_408,La mesa | the table,1775,TABLE
+jahn1927_409,La harina | the flour,1594,FLOUR
+jahn1927_410,La chicha | the chicha (maize beer),,
+jahn1927_411,La carne | the meat,634,MEAT
+jahn1927_412,Los huevos | the eggs,744,EGG
+jahn1927_413,La leche | the milk,635,MILK
+jahn1927_414,El chimó | the chimó (tobacco paste),,
+jahn1927_415,"El bordón, el palo | the staff, the stick",,
+jahn1927_416,La braza | the ember,67,EMBERS
+jahn1927_417,"Pasto | grass, pasture",,
+jahn1927_418,"La frazada, cobija | the blanket",806,BLANKET
+jahn1927_419,El hombre | the man,1554,MAN
+jahn1927_420,La mujer | the woman,962,WOMAN
+jahn1927_421,Mi marido | my husband,,
+jahn1927_422,Mi esposa | my wife,,
+jahn1927_423,El padre | the father,1217,FATHER
+jahn1927_424,mi padre | my father,,
+jahn1927_425,La madre | the mother,1216,MOTHER
+jahn1927_426,mi madre | my mother,,
+jahn1927_427,El hijo | the son,1620,SON
+jahn1927_428,La hija | the daughter,1357,DAUGHTER
+jahn1927_429,El niño | the child,1304,CHILD (YOUNG HUMAN)
+jahn1927_430,El muchacho | the boy,1366,BOY
+jahn1927_431,La vieja | the old woman,907,OLD WOMAN
+jahn1927_432,El indio | the Indian,,
+jahn1927_433,El hermano | the brother,1262,BROTHER
+jahn1927_434,mi hermano | my brother,,
+jahn1927_435,La hermana | the sister,1263,SISTER
+jahn1927_436,mi hermana | my sister,,
+jahn1927_437,El sobrino | the nephew,,
+jahn1927_438,El tío | the uncle,,
+jahn1927_439,La tía | the aunt,,
+jahn1927_440,mi tía | my aunt,,
+jahn1927_441,Varón | male,1553,MALE
+jahn1927_442,Hembra | female,1551,FEMALE
+jahn1927_443,El perro | the dog,2009,DOG
+jahn1927_444,El gato | the cat,1208,CAT
+jahn1927_445,El zorro | the fox,1312,FOX
+jahn1927_446,El venado | the deer,1936,DEER
+jahn1927_447,El ratón | the mouse,1491,MOUSE
+jahn1927_448,El marrano | the pig,1337,PIG
+jahn1927_449,El ave | the bird,937,BIRD
+jahn1927_450,El pico de ave | the bird's beak,73,BEAK
+jahn1927_451,Las alas | the wings,1257,WING
+jahn1927_452,La cola | the tail,1220,TAIL
+jahn1927_453,Las patas | the (animal's) legs,,
+jahn1927_454,Las plumas | the feathers,1201,FEATHER
+jahn1927_455,Las barbas del gallo | the rooster's wattles,,
+jahn1927_456,La cerda | the bristle,,
+jahn1927_457,Los cachos | the horns,1393,HORN (ANATOMY)
+jahn1927_458,Las pesuñas | the hooves,152,HOOF
+jahn1927_459,La mano derecha del animal | the animal's right forefoot,,
+jahn1927_460,La mano izquierda del animal | the animal's left forefoot,,
+jahn1927_461,Los testículos del toro | the bull's testicles,,
+jahn1927_462,La gallina | the hen,1514,HEN
+jahn1927_463,El zamuro | the black vulture,,
+jahn1927_464,El loro (Psittacus sp.) | the parrot,882,PARROT
+jahn1927_465,Los pollos | the chicks,,
+jahn1927_466,El gavilán | the hawk,307,HAWK
+jahn1927_467,La culebra | the snake,730,SNAKE
+jahn1927_468,Culebra tuqui (Spilates variabilis) | tuqui snake,,
+jahn1927_469,El lagarto | the lizard,632,LIZARD
+jahn1927_470,El alacrán (Scorpio) | the scorpion,1538,SCORPION
+jahn1927_471,La cucaracha (Periplaneta americana) | the cockroach,1575,COCKROACH
+jahn1927_472,Las hormigas | the ants,587,ANT
+jahn1927_473,La araña | the spider,843,SPIDER
+jahn1927_474,El piojo | the louse,1392,LOUSE
+jahn1927_475,La tara (Locusta sp.) | the locust,810,LOCUST
+jahn1927_476,Los murciélagos (Vespertilio) | the bats,1793,BAT
+jahn1927_477,Las moscas | the flies,1504,FLY (INSECT)
+jahn1927_478,El cigarrón (Bombus sp.) | the bumblebee,,
+jahn1927_479,Los chigüires (Capibara) | the capybaras,314,CAPYBARA
+jahn1927_480,Las pulgas | the fleas,232,FLEA
+jahn1927_481,La mula | the mule,890,MULE
+jahn1927_482,El juquián (coleóptero) | the juquián (a beetle),,
+jahn1927_483,El huevo | the egg,744,EGG
+jahn1927_484,El caracol | the snail,1543,SNAIL
+jahn1927_485,El casco (pezuña) | the hoof,152,HOOF
+jahn1927_486,El árbol | the tree,906,TREE
+jahn1927_487,El tronco | the trunk,776,TRUNK OF TREE
+jahn1927_488,La hoja | the leaf,628,LEAF
+jahn1927_489,Las raíces | the roots,670,ROOT
+jahn1927_490,La corteza | the bark,1204,BARK
+jahn1927_491,La flor | the flower,239,FLOWER
+jahn1927_492,Guayaba (Psidium guaba) | guava,3981,GUAVA
+jahn1927_493,La papa (Solanum tuberosum) | the potato,593,POTATO
+jahn1927_494,La caraota (Phaseolus derassus) | the bean (caraota),,
+jahn1927_495,La batata (Ipomoea batatas) | the sweet potato,159,SWEET POTATO
+jahn1927_496,El maíz (Zea mais) | the maize,506,MAIZE
+jahn1927_497,La mazorca | the maize cob,,
+jahn1927_498,El trigo | the wheat,1077,WHEAT
+jahn1927_499,El apio (Arracacha esculenta) | the arracacha,,
+jahn1927_500,La tuna (Opuntia tuna) | the prickly pear,,
+jahn1927_501,La cocuiza (Fourcraea geminispina) | the cocuiza (Furcraea),,
+jahn1927_502,El moral (Rubus floribundus) | the blackberry bush,,
+jahn1927_503,El algodón (Gossypium barbadense) | the cotton,1850,COTTON
+jahn1927_504,El maguey (Inflorescencia de Fourcraea) | the maguey (Furcraea flower stalk),,
+jahn1927_505,El lechero (Euphorbia caracasana?) | the lechero (Euphorbia),,
+jahn1927_506,La yerba santa (Chenopodium ambrosioides) | the wormseed,,
+jahn1927_507,El carruzo (Arundo sp.) | the reed (Arundo),,
+jahn1927_508,La caña | the cane,,
+jahn1927_509,La zábila (Aloe barbadensis) | the aloe,,
+jahn1927_510,El berro (Nasturtium officinale) | the watercress,,
+jahn1927_511,El aguacate (Persea gratissima) | the avocado,3725,AVOCADO
+jahn1927_512,El frailejón (Espeletia sp.) | the frailejón (Espeletia),,
+jahn1927_513,El cacao | the cacao,,
+jahn1927_514,El tabaco | the tobacco,974,TOBACCO
+jahn1927_515,El cambur | the banana,868,BANANA
+jahn1927_516,El plátano | the plantain,399,PLANTAIN
+jahn1927_517,La yuca | the manioc,927,MANIOC
+jahn1927_518,Seis | six,1703,SIX
+jahn1927_519,Siete | seven,1704,SEVEN
+jahn1927_520,Ocho | eight,1705,EIGHT
+jahn1927_521,Nueve | nine,1483,NINE
+jahn1927_522,Diez | ten,1515,TEN
+jahn1927_523,Once | eleven,1706,ELEVEN
+jahn1927_524,Doce | twelve,1707,TWELVE
+jahn1927_525,Veinte | twenty,1710,TWENTY
+jahn1927_526,mio | mine,,
+jahn1927_527,"Tú, usted | you (sg.)",1215,THOU
+jahn1927_528,tuyo | yours (sg.),,
+jahn1927_529,Nosotros | we,1212,WE
+jahn1927_530,Ustedes | you (pl.),1213,YOU
+jahn1927_531,Pequeño | small,1246,SMALL
+jahn1927_532,Gordo | fat,1279,FAT (OBESE)
+jahn1927_533,Bonito | pretty,1427,BEAUTIFUL
+jahn1927_534,Duro | hard,1884,HARD
+jahn1927_535,Blando | soft,1856,SOFT
+jahn1927_536,Pobre | poor,1674,POOR
+jahn1927_537,Caliente | hot,1286,HOT
+jahn1927_538,Ligero | quick,1631,FAST
+jahn1927_539,Despacio | slowly,701,SLOW
+jahn1927_540,Cansado | tired,1757,TIRED
+jahn1927_541,Seco | dry,1398,DRY
+jahn1927_542,"Bravo, severo | fierce, severe",,
+jahn1927_543,Desnudo | naked,590,NAKED
+jahn1927_544,Trabajar | to work,984,WORK (LABOUR)
+jahn1927_545,Encender | to kindle,,
+jahn1927_546,Reírse | to laugh,1355,LAUGH
+jahn1927_547,"Quejarse | to complain, moan",,
+jahn1927_548,Doler | to hurt,,
+jahn1927_549,Escupir | to spit,1440,SPIT
+jahn1927_550,"Buscar, Ir por | to look for, to fetch",,
+jahn1927_551,Dar | to give,1447,GIVE
+jahn1927_552,Traer | to bring,692,BRING
+jahn1927_553,trae! | bring!,,
+jahn1927_554,Llorar | to cry,1839,CRY
+jahn1927_555,"Coger, tomar | to take, to grasp",1749,TAKE
+jahn1927_556,"Andar, ir | to walk, to go",,
+jahn1927_557,Venir | to come,1446,COME
+jahn1927_558,Morder | to bite,1403,BITE
+jahn1927_559,"Picar | to sting, prick",,
+jahn1927_560,Recoger | to gather,,
+jahn1927_561,Hilar | to spin (thread),121,SPIN
+jahn1927_562,"Tener, poseer | to have, to own",773,HAVE
+jahn1927_563,"Estar, morar, vivir | to be, to dwell, to live",,
+jahn1927_564,Morir | to die,1494,DIE
+jahn1927_565,Encontrar | to find,719,FIND
+jahn1927_566,Comprar | to buy,1869,BUY
+jahn1927_567,Peinarse | to comb oneself,,
+jahn1927_568,"Poner, colocar | to put, to place",998,PUT
+jahn1927_569,Ver | to see,1409,SEE
+jahn1927_570,No ver | not to see,,
+jahn1927_571,Cerrar | to close,1046,SHUT
+jahn1927_572,Abrir | to open,1156,OPEN
+jahn1927_573,Sembrar | to sow,748,SOW SEEDS
+jahn1927_574,Entrar | to enter,749,ENTER
+jahn1927_575,entra! | enter!,,
+jahn1927_576,Salir | to go out,1107,GO OUT
+jahn1927_577,Gritar | to shout,715,SHOUT
+jahn1927_578,Cortar | to cut,1432,CUT
+jahn1927_579,Pasar o vadear el río | to cross or ford the river,,
+jahn1927_580,Hablar | to speak,1623,SPEAK
+jahn1927_581,"Golpear, azotar | to hit, to whip",,
+jahn1927_582,Tejer | to weave,133,WEAVE
+jahn1927_583,Arrancar | to pull out,,
+jahn1927_584,Oír | to hear,1408,HEAR
+jahn1927_585,Avergonzarse | to be ashamed,,
+jahn1927_586,"Desear, querer | to wish, to want",1784,WANT
+jahn1927_587,yo quiero | I want,,
+jahn1927_588,"Sobre, encima | on, above",,
+jahn1927_589,Debajo | below,1485,BELOW OR UNDER
+jahn1927_590,Delante | in front,1883,IN FRONT OF
+jahn1927_591,Detrás | behind,1686,BEHIND
+jahn1927_592,"Arriba, en lo alto | up, above",,
+jahn1927_593,Con | with,1340,WITH
+jahn1927_594,Para | for,,
+jahn1927_595,"A, hacia | to, towards",,
+jahn1927_596,Hacia arriba | upwards,,
+jahn1927_597,Hacia abajo | downwards,,
+jahn1927_598,"Hasta | until, up to",,
+jahn1927_599,Aquí | here,136,HERE
+jahn1927_600,Ya | already,2576,ALREADY
+jahn1927_601,Todavía | still,,
+jahn1927_602,"Sí, asentimiento | yes (assent)",1268,YES
+jahn1927_603,"No, negación | no (negation)",1269,NO
