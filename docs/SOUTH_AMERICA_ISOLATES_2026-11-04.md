@@ -161,3 +161,50 @@ decisions: [batch-3 ledger](south_america_isolates_2026-11-04_batch3.csv).
   not admitted.
 * Kanoê: 58 Johansson release-A forms without a concept mapping cannot be
   carried as supplements and stay in the intake.
+
+## Track 2c: transcribed original sources (batch 4)
+
+Fifteen more extensions, all public domain except `spruce1863` (Urban 2015's
+edition, CC BY 4.0): `borba1908`, `quadros1892`, `nimuendaju1925`,
+`castelnau1851`, `boggiani1900`, `schmidt1905`, `lafone1895`, `branner1887`,
+`nimuendaju1935`, `nimuendaju1949`, `estevao1958`, `seler1902`,
+`martinezcompanon1790`, `spruce1863` and `romero1768`. `aguirre1793` was
+transcribed but is held (an older Payaguá stage needing its own construction).
+Counts: [batch-4 metrics](south_america_isolates_2026-11-04_batch4_metrics.json);
+decisions: [batch-4 ledger](south_america_isolates_2026-11-04_batch4.csv).
+
+**Blind spot-check.** The second readings of these lists were not independent,
+so a separate reader transcribed 25 sampled rows per source (359 rows) from the
+page images without seeing the forms. No gloss–form pairing errors; nine sources
+matched exactly, four had diacritic-level differences (now flagged), and for
+the Martínez Compañón plate and Spruce's manuscript the low-resolution scans
+cannot decide a few letters: those rows follow Urban's published readings with
+`Doubt = true` and the alternative. One Atacame form was corrected (*yr-e*);
+Schmidt's æ forms are flagged for a possibly unrecorded macron. Yurumanguí had
+its own blind second reading (154 of 159 entries identical, five settled on the
+image); Rivet's respellings without a 1768 original (37 rows) are excluded.
+
+| Construction | Forms | Concepts | Core | Source |
+| --- | ---: | ---: | ---: | --- |
+| Atacame (new) | 0 → 440 | 0 → 235 | 0 → 79 | Pallares 1877 via Seler 1902 |
+| Payaguá (new) | 0 → 515 | 0 → 243 | 0 → 83 | Boggiani 1900 |
+| Matanawí (new) | 0 → 353 | 0 → 203 | 0 → 86 | Nimuendajú 1925 |
+| Guachi (new) | 0 → 145 | 0 → 127 | 0 → 52 | Castelnau 1851 |
+| Yurumanguí (new) | 0 → 144 | 0 → 93 | 0 → 28 | Romero 1768 via Rivet 1942 |
+| Oti (new) | 0 → 100 | 0 → 81 | 0 → 43 | Borba 1908; Quadros 1892 |
+| Culli (new) | 0 → 43 | 0 → 42 | 0 → 26 | Martínez Compañón |
+| Sechuran (new) | 0 → 31 | 0 → 29 | 0 → 11 | Spruce 1863 via Urban 2015 |
+| Sechura, Martínez Compañón (new) | 0 → 43 | 0 → 42 | 0 → 26 | Martínez Compañón |
+| Colán (new) | 0 → 43 | 0 → 42 | 0 → 26 | Martínez Compañón |
+| Catacaos (new) | 0 → 43 | 0 → 42 | 0 → 26 | Martínez Compañón |
+| Xukurú (new) | 0 → 29 | 0 → 29 | 0 → 16 | Nimuendajú (Loukotka 1949; 1935) |
+| Tuxá (new) | 0 → 13 | 0 → 11 | 0 → 7 | Estêvão (Pompeu 1958) |
+| Guató | 38 → 277 | 38 → 275 | 36 → 99 | Schmidt 1905; Castelnau 1851 |
+| Vilela | 73 → 291 | 60 → 161 | 37 → 77 | Lafone Quevedo 1895 |
+| Fulniô | 32 → 53 | 30 → 51 | 28 → 31 | Branner 1887; Nimuendajú 1935 |
+| Mochica | (247 after batch 2) → 267 | → 194 | → 78 | Martínez Compañón (Yunga) |
+
+Held: Pankararú (the "Macarú = Pankararú" identity is unsettled), Aguirre's
+Payaguá (separate stage), Chono (no usable glossed source), Mure (prayers only),
+Ramanos (8 words, copyrighted edition only) and Tinigua (Castellví 1940 in
+copyright to 2031).

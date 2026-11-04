@@ -1,0 +1,203 @@
+{
+ "date": "2026-11-04",
+ "baseline": "A-2026-11-03",
+ "ledger": "docs/south_america_isolates_2026-11-04_batch4.csv",
+ "constructions": {
+  "oti-oti": {
+   "forms_before": 0,
+   "forms_after": 100,
+   "concepts_before": 0,
+   "concepts_after": 81,
+   "core_before": 0,
+   "core_after": 43,
+   "status": {
+    "unclean": 100
+   }
+  },
+  "mtn-matanawi": {
+   "forms_before": 0,
+   "forms_after": 353,
+   "concepts_before": 0,
+   "concepts_after": 203,
+   "core_before": 0,
+   "core_after": 86,
+   "status": {
+    "unclean": 229,
+    "resegmented": 124
+   }
+  },
+  "gch-guachi": {
+   "forms_before": 0,
+   "forms_after": 145,
+   "concepts_before": 0,
+   "concepts_after": 127,
+   "core_before": 0,
+   "core_after": 52,
+   "status": {
+    "unclean": 145
+   }
+  },
+  "pay-payagua": {
+   "forms_before": 0,
+   "forms_after": 515,
+   "concepts_before": 0,
+   "concepts_after": 243,
+   "core_before": 0,
+   "core_after": 83,
+   "status": {
+    "unclean": 515
+   }
+  },
+  "tux-tuxa": {
+   "forms_before": 0,
+   "forms_after": 13,
+   "concepts_before": 0,
+   "concepts_after": 11,
+   "core_before": 0,
+   "core_after": 7,
+   "status": {
+    "unclean": 13
+   }
+  },
+  "xuk-xukuru": {
+   "forms_before": 0,
+   "forms_after": 29,
+   "concepts_before": 0,
+   "concepts_after": 29,
+   "core_before": 0,
+   "core_after": 16,
+   "status": {
+    "unclean": 16,
+    "resegmented": 13
+   }
+  },
+  "atm-atacame": {
+   "forms_before": 0,
+   "forms_after": 440,
+   "concepts_before": 0,
+   "concepts_after": 235,
+   "core_before": 0,
+   "core_after": 79,
+   "status": {
+    "unclean": 140,
+    "resegmented": 300
+   }
+  },
+  "cul-culli": {
+   "forms_before": 0,
+   "forms_after": 43,
+   "concepts_before": 0,
+   "concepts_after": 42,
+   "core_before": 0,
+   "core_after": 26,
+   "status": {
+    "unclean": 43
+   }
+  },
+  "sec-sechuran": {
+   "forms_before": 0,
+   "forms_after": 31,
+   "concepts_before": 0,
+   "concepts_after": 29,
+   "core_before": 0,
+   "core_after": 11,
+   "status": {
+    "unclean": 31
+   }
+  },
+  "sec-sec": {
+   "forms_before": 0,
+   "forms_after": 43,
+   "concepts_before": 0,
+   "concepts_after": 42,
+   "core_before": 0,
+   "core_after": 26,
+   "status": {
+    "unclean": 43
+   }
+  },
+  "tln-colan": {
+   "forms_before": 0,
+   "forms_after": 43,
+   "concepts_before": 0,
+   "concepts_after": 42,
+   "core_before": 0,
+   "core_after": 26,
+   "status": {
+    "unclean": 43
+   }
+  },
+  "tln-catacaos": {
+   "forms_before": 0,
+   "forms_after": 43,
+   "concepts_before": 0,
+   "concepts_after": 42,
+   "core_before": 0,
+   "core_after": 26,
+   "status": {
+    "unclean": 43
+   }
+  },
+  "yrm-yurumangui": {
+   "forms_before": 0,
+   "forms_after": 144,
+   "concepts_before": 0,
+   "concepts_after": 93,
+   "core_before": 0,
+   "core_after": 28,
+   "status": {
+    "resegmented": 142,
+    "unclean": 2
+   }
+  },
+  "guc-guato": {
+   "forms_before": 38,
+   "forms_after": 277,
+   "concepts_before": 38,
+   "concepts_after": 275,
+   "core_before": 36,
+   "core_after": 99,
+   "status": {
+    "source": 38,
+    "unclean": 239
+   }
+  },
+  "vil-vilela": {
+   "forms_before": 73,
+   "forms_after": 291,
+   "concepts_before": 60,
+   "concepts_after": 161,
+   "core_before": 37,
+   "core_after": 77,
+   "status": {
+    "source": 73,
+    "unclean": 218
+   }
+  },
+  "ful-fulnio": {
+   "forms_before": 32,
+   "forms_after": 53,
+   "concepts_before": 30,
+   "concepts_after": 51,
+   "core_before": 28,
+   "core_after": 31,
+   "status": {
+    "source": 32,
+    "unclean": 21
+   }
+  },
+  "moc-mochica": {
+   "forms_before": 39,
+   "forms_after": 267,
+   "concepts_before": 37,
+   "concepts_after": 194,
+   "core_before": 35,
+   "core_after": 78,
+   "status": {
+    "profile": 208,
+    "source": 39,
+    "unclean": 20
+   }
+  }
+ }
+}

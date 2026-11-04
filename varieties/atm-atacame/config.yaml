@@ -1,0 +1,24 @@
+av_id: atm-atacame
+name: Atacame
+glottocode: atac1235
+family: Atacame
+macroarea: South America
+sources:
+  transcription: seler1902
+  cognates: seler1902
+  source_language_id: seler1902_esmeraldas
+extensions:
+  transcriptions: false
+  forms: false
+  cognates: false
+  concept_map: false
+  profile: false
+scoring:
+  forms_score: 0.0
+  cognates_score: 0.0
+  tier: copper
+pinned: true
+registered_on: '2026-11-04'
+notes: '2026-11-04 South American isolates batch 4. First Atacame (Esmeraldeño) construction:
+  Pallares 1877 vocabulary as printed by Seler 1902 pp. 54-62. Written-only: the source
+  spelling is kept; no reading inferred.'

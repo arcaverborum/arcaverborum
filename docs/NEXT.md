@@ -3,10 +3,22 @@
 ## ACTIVE — South American isolates (2026-11-04, reviewing)
 
 Requested by the user: extend coverage for South America, especially all its
-isolates. [Report](SOUTH_AMERICA_ISOLATES_2026-11-04.md). Track 1 admits 2,331 gap-fill
-forms in four constructions; eight more (3,582 reviewed forms) wait for their
-intake slices to be addable to a pull request or a new snapshot. Track 2
-(original sources for the 21 missing and 15 thin isolates) is in research.
+isolates. [Report](SOUTH_AMERICA_ISOLATES_2026-11-04.md). Tracks 1, 2a, 2b and
+2c are executed (gap fills, machine-readable sources, transcribed originals).
+Remaining:
+
+1. **Held identities/stages:** Pankararú (Macarú identity), Aguirre 1793
+   Payaguá as its own historical construction, Freitez Pineda's Ayamán rows.
+2. **Profiles:** Jahn's and Koch-Grünberg's documented notations, Boggiani's
+   key and Nimuendajú's could support reviewed orthographic profiles; until
+   then those lists are written-only.
+3. **Blocked sources:** Chono, Mure, Ramanos, Tinigua (to 2031), Silva 2012
+   Aikanã (rights), Meader's SIL lists (rights), Farabee 1918 Taruma (no scan
+   reachable), La Grasserie 1894 Puquina (no scan).
+4. **Fidelity:** Kunza's IDS forms are labelled phonemic but are 19th-century
+   spellings; relabel as written or profile.
+5. **Performance:** slice validation streams the full Lexibank forms file on a
+   full workspace; use the intake database instead.
 
 ## Organization launch and schema-A release (2026-11-02)
 

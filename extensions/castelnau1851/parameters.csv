@@ -1,0 +1,206 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss
+castelnau1851_1,Dieu | god,1944,GOD
+castelnau1851_2,Diable | devil,3917,DEVIL
+castelnau1851_3,Homme | man,1554,MAN
+castelnau1851_4,Femme | woman,962,WOMAN
+castelnau1851_5,Fils | son,1620,SON
+castelnau1851_6,Fille | daughter,1357,DAUGHTER
+castelnau1851_7,Tête | head,1256,HEAD
+castelnau1851_8,Cheveux | hair,1040,HAIR
+castelnau1851_9,Front | forehead,123,FOREHEAD
+castelnau1851_10,Œil | eye,1248,EYE
+castelnau1851_11,Cils | eyelashes,1540,EYELASH
+castelnau1851_12,Nez | nose,1221,NOSE
+castelnau1851_13,Lèvres et bouche | lips and mouth,,
+castelnau1851_14,Dents | teeth,1380,TOOTH
+castelnau1851_15,Langue | tongue,1205,TONGUE
+castelnau1851_16,Gorge ou cou | throat or neck,,
+castelnau1851_17,Menton | chin,1510,CHIN
+castelnau1851_18,Maison | house,1252,HOUSE
+castelnau1851_19,Oreille | ear,1247,EAR
+castelnau1851_20,Cœur | heart,1223,HEART
+castelnau1851_21,Poitrine | chest,1592,CHEST
+castelnau1851_22,Bras | arm,1673,ARM
+castelnau1851_23,Cervelle | brain,1583,BRAIN
+castelnau1851_24,Main | hand,1277,HAND
+castelnau1851_25,Doigt | finger,1303,FINGER
+castelnau1851_26,Epaule | shoulder,1482,SHOULDER
+castelnau1851_27,Ventre | belly,1251,BELLY
+castelnau1851_28,Sang | blood,946,BLOOD
+castelnau1851_29,Cuisse | thigh,800,THIGH
+castelnau1851_30,Jambe | leg,1297,LEG
+castelnau1851_31,Pied | foot,1301,FOOT
+castelnau1851_32,Pierre | stone,857,STONE
+castelnau1851_33,Vêtement | clothing,1895,CLOTHES
+castelnau1851_34,Aldea | village (Sp./Pg. aldea),930,VILLAGE
+castelnau1851_35,Petite rivière | small river,,
+castelnau1851_36,Grande rivière | large river,,
+castelnau1851_37,"Terre | earth, land",,
+castelnau1851_38,Eau | water,948,WATER
+castelnau1851_39,Lac | lake,624,LAKE
+castelnau1851_40,Montagne | mountain,639,MOUNTAIN
+castelnau1851_41,Pluie | rain,658,RAIN (PRECIPITATION)
+castelnau1851_42,Soleil | sun,1343,SUN
+castelnau1851_43,Lune | moon,1313,MOON
+castelnau1851_44,Étoile | star,1430,STAR
+castelnau1851_45,Froid | cold,1287,COLD
+castelnau1851_46,Éclair | lightning,1654,LIGHTNING
+castelnau1851_47,Chaleur | heat,612,HEAT
+castelnau1851_48,Tonnerre | thunder,1150,THUNDER
+castelnau1851_49,Cheval | horse,615,HORSE
+castelnau1851_50,"Bœuf | ox, cattle",,
+castelnau1851_51,Oiseau | bird,937,BIRD
+castelnau1851_52,Perroquet | parrot,882,PARROT
+castelnau1851_53,Jaguar | jaguar,1250,JAGUAR
+castelnau1851_54,Singe | monkey,1350,MONKEY
+castelnau1851_55,Poisson | fish,227,FISH
+castelnau1851_56,"Bois | wood, forest",,
+castelnau1851_57,"Prairies | meadows, grasslands",,
+castelnau1851_58,Arbre | tree,906,TREE
+castelnau1851_59,Canot | canoe,1970,CANOE
+castelnau1851_60,Cocotier | coconut palm (palm tree),,
+castelnau1851_61,Cacique | chief,301,CHIEFTAIN
+castelnau1851_62,Massue | club,1763,CLUB
+castelnau1851_63,Tuer | kill,1417,KILL
+castelnau1851_64,Dormir | sleep,1585,SLEEP
+castelnau1851_65,Battre | beat,1665,BEAT
+castelnau1851_66,Manger | eat,1336,EAT
+castelnau1851_67,Lait | milk,635,MILK
+castelnau1851_68,Nager | swim,1439,SWIM
+castelnau1851_69,Plonger | dive,119,DIVE
+castelnau1851_70,S'asseoir | sit down,1649,SIT DOWN
+castelnau1851_71,Danser | dance,1879,DANCE
+castelnau1851_72,Sabre | sabre,,
+castelnau1851_73,Fusil | gun,1566,GUN
+castelnau1851_74,Jour | day,,
+castelnau1851_75,Un | one,1493,ONE
+castelnau1851_76,Deux | two,1498,TWO
+castelnau1851_77,Trois | three,492,THREE
+castelnau1851_78,Quatre | four,1500,FOUR
+castelnau1851_79,Cinq | five,493,FIVE
+castelnau1851_80,Blanc | white (person?),,
+castelnau1851_81,Nègre | black person,,
+castelnau1851_82,Indien (peau rouge) | Indian (redskin),,
+castelnau1851_83,Mulâtre | mulatto,,
+castelnau1851_84,Chasser | hunt,1435,HUNT
+castelnau1851_85,Bon | good,1035,GOOD
+castelnau1851_86,Mauvais | bad,1292,BAD
+castelnau1851_87,Joli | pretty,1427,BEAUTIFUL
+castelnau1851_88,Laid | ugly,1548,UGLY
+castelnau1851_89,Vieillard ou vieille femme | old man or old woman,725,OLD PERSON
+castelnau1851_90,"Joyeux | joyful, happy",1495,HAPPY
+castelnau1851_91,"Pleurer | cry, weep",1839,CRY
+castelnau1851_92,Plumes | feathers,1201,FEATHER
+castelnau1851_93,Cascade | waterfall,943,WATERFALL
+castelnau1851_94,Mourir | die,1494,DIE
+castelnau1851_95,Chanter | sing,1261,SING
+castelnau1851_96,Serpent | snake,730,SNAKE
+castelnau1851_97,Serpent à sonnettes | rattlesnake,871,RATTLESNAKE
+castelnau1851_98,Tatou | armadillo,1885,ARMADILLO
+castelnau1851_99,Tapir | tapir,312,TAPIR
+castelnau1851_100,Bananes | bananas,868,BANANA
+castelnau1851_101,Parler | speak,1623,SPEAK
+castelnau1851_102,Crainte | fear,781,FEAR (FRIGHT)
+castelnau1851_103,Tabac | tobacco,974,TOBACCO
+castelnau1851_104,Coati | coati,2389,COATI (COATIMUNDI)
+castelnau1851_105,Toucan | toucan,308,TOUCAN
+castelnau1851_106,Ara | macaw,1630,MACAW
+castelnau1851_107,"Lard | lard, bacon fat",,
+castelnau1851_108,Peau | skin,763,SKIN
+castelnau1851_109,Mordre | bite,1403,BITE
+castelnau1851_110,Malade | sick,1847,SICK
+castelnau1851_111,"Fatiguer | tire, be tired",,
+castelnau1851_112,Fuir | flee,956,FLEE
+castelnau1851_113,Natte | mat,195,MAT
+castelnau1851_114,Faire la cuisine | cook,1100,COOK (SOMETHING)
+castelnau1851_115,Pêcher | fish (v.),2638,FISHING
+castelnau1851_116,Voleur | thief,1160,THIEF
+castelnau1851_117,Lezard | lizard,632,LIZARD
+castelnau1851_118,Laver | wash,1453,WASH
+castelnau1851_119,Papillon | butterfly,1791,BUTTERFLY
+castelnau1851_120,Caïman | caiman,2438,CAIMAN
+castelnau1851_121,Aimer | love,923,LOVE
+castelnau1851_122,Appeler | call,1084,CALL
+castelnau1851_123,Savoir | know,1410,KNOW (SOMETHING)
+castelnau1851_124,Après | after,1685,AFTER
+castelnau1851_125,Chauve-souris | bat,1793,BAT
+castelnau1851_126,Assez | enough,1881,ENOUGH
+castelnau1851_127,Attendre | wait,1590,WAIT (FOR)
+castelnau1851_128,Hier | yesterday,1174,YESTERDAY
+castelnau1851_129,Avec | with,1340,WITH
+castelnau1851_130,Aujourd'hui | today,1283,TODAY
+castelnau1851_131,"Auprès | near, beside",1942,NEAR
+castelnau1851_132,Cochon | pig,1337,PIG
+castelnau1851_133,Poule | hen,1514,HEN
+castelnau1851_134,Léger | light (in weight),1052,LIGHT (WEIGHT)
+castelnau1851_135,Attacher | tie,1917,TIE
+castelnau1851_136,Lourd | heavy,1210,HEAVY
+castelnau1851_137,Paresseux | lazy (or sloth),,
+castelnau1851_138,Faim | hunger,1864,HUNGER
+castelnau1851_139,Soif | thirst,848,THIRST
+castelnau1851_140,Oui | yes,1268,YES
+castelnau1851_141,Non | no,1269,NO
+castelnau1851_142,Coton | cotton,1850,COTTON
+castelnau1851_143,Miroir | mirror,1171,MIRROR
+castelnau1851_144,Collier | necklace,1961,NECKLACE
+castelnau1851_145,Nid d'oiseau | bird's nest,539,NEST
+castelnau1851_146,Ma fille | my daughter,,
+castelnau1851_147,Tète | head,1256,HEAD
+castelnau1851_148,Sourcils | eyebrows,1173,EYEBROW
+castelnau1851_149,Lèvre | lip,478,LIP
+castelnau1851_150,Bouche | mouth,674,MOUTH
+castelnau1851_151,Gorge | throat,1346,THROAT
+castelnau1851_152,Épaule | shoulder,1482,SHOULDER
+castelnau1851_153,Queue | tail,1220,TAIL
+castelnau1851_154,Vêtements | clothes,1895,CLOTHES
+castelnau1851_155,Rivière | river,666,RIVER
+castelnau1851_156,Étoiles | stars,1430,STAR
+castelnau1851_157,Cerf | deer,1936,DEER
+castelnau1851_158,Loup | wolf (maned wolf?),,
+castelnau1851_159,Chemin | path,2252,PATH
+castelnau1851_160,Grand canot | large canoe,,
+castelnau1851_161,Petit canot | small canoe,,
+castelnau1851_162,Cocotier (acuri) | palm tree (acuri palm),,
+castelnau1851_163,Arc | bow,994,BOW
+castelnau1851_164,Flèches | arrows,977,ARROW
+castelnau1851_165,Boire | drink,1401,DRINK
+castelnau1851_166,Chien | dog,2009,DOG
+castelnau1851_167,Chef | chief,301,CHIEFTAIN
+castelnau1851_168,Couteau | knife,1352,KNIFE
+castelnau1851_169,Feu | fire,221,FIRE
+castelnau1851_170,Six | six,1703,SIX
+castelnau1851_171,Sept | seven,1704,SEVEN
+castelnau1851_172,Huit | eight,1705,EIGHT
+castelnau1851_173,Neuf | nine,1483,NINE
+castelnau1851_174,Dix | ten,1515,TEN
+castelnau1851_175,Onze | eleven,1706,ELEVEN
+castelnau1851_176,Douze | twelve,1707,TWELVE
+castelnau1851_177,Treize | thirteen,1708,THIRTEEN
+castelnau1851_178,Quatorze | fourteen,2451,FOURTEEN
+castelnau1851_179,Quinze | fifteen,1709,FIFTEEN
+castelnau1851_180,Seize | sixteen,2454,SIXTEEN
+castelnau1851_181,Dix-sept | seventeen,2453,SEVENTEEN
+castelnau1851_182,Dix-huit | eighteen,1713,EIGHTEEN
+castelnau1851_183,Dix-neuf | nineteen,1714,NINETEEN
+castelnau1851_184,Vingt | twenty,1710,TWENTY
+castelnau1851_185,Vingt et un | twenty-one,,
+castelnau1851_186,Vingt-six | twenty-six,,
+castelnau1851_187,Trente | thirty,1715,THIRTY
+castelnau1851_188,Nuit | night,1233,NIGHT
+castelnau1851_189,Rouge | red,156,RED
+castelnau1851_190,Mauvais ou laid | bad or ugly,,
+castelnau1851_191,"Être joyeux | be joyful, happy",1495,HAPPY
+castelnau1851_192,Boa | boa,,
+castelnau1851_193,Alligator | alligator,1581,ALLIGATOR
+castelnau1851_194,"Eau-de-vie | brandy, spirits",,
+castelnau1851_195,Haricots | beans,832,BEAN
+castelnau1851_196,Fièvre | fever,1534,FEVER
+castelnau1851_197,Maïs | maize,506,MAIZE
+castelnau1851_198,Patate | sweet potato,159,SWEET POTATO
+castelnau1851_199,Autruche | ostrich (i.e. rhea),,
+castelnau1851_200,Jabiru | jabiru stork,,
+castelnau1851_201,Viande | meat,634,MEAT
+castelnau1851_202,Courir | run,1519,RUN
+castelnau1851_203,Lézard | lizard,632,LIZARD
+castelnau1851_204,Capivara | capybara,314,CAPYBARA
+castelnau1851_205,Eternuer | sneeze,1621,SNEEZE

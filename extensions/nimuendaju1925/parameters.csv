@@ -1,0 +1,300 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss
+nimuendaju1925_1,Lingua | tongue,1205,TONGUE
+nimuendaju1925_2,Labio | lip,478,LIP
+nimuendaju1925_3,Narinas | nostrils,1178,NOSTRIL
+nimuendaju1925_4,Orelha | ear,1247,EAR
+nimuendaju1925_5,Cabeça | head,1256,HEAD
+nimuendaju1925_6,Cabello | hair (of the head),2648,HAIR (HEAD)
+nimuendaju1925_7,Barba | beard,678,BEARD
+nimuendaju1925_8,Hombro | shoulder,1482,SHOULDER
+nimuendaju1925_9,Cotovello | elbow,981,ELBOW
+nimuendaju1925_10,Dedo da mão | finger,1303,FINGER
+nimuendaju1925_11,Palma da mão | palm of the hand,,
+nimuendaju1925_12,Coxa | thigh,800,THIGH
+nimuendaju1925_13,Joelho | knee,1371,KNEE
+nimuendaju1925_14,Unha do pé | toenail,2662,TOENAIL
+nimuendaju1925_15,Peito | chest,1592,CHEST
+nimuendaju1925_16,Costa | back,1291,BACK
+nimuendaju1925_17,Penis | penis,1222,PENIS
+nimuendaju1925_18,Pelle | skin,763,SKIN
+nimuendaju1925_19,"Carne | meat, flesh",,
+nimuendaju1925_20,Ourina | urine,1142,URINE
+nimuendaju1925_21,Bocca | mouth,674,MOUTH
+nimuendaju1925_22,Dente | tooth,1380,TOOTH
+nimuendaju1925_23,Nariz | nose,1221,NOSE
+nimuendaju1925_24,Olho | eye,1248,EYE
+nimuendaju1925_25,Ouvido | ear (organ of hearing),,
+nimuendaju1925_26,Testa | forehead,123,FOREHEAD
+nimuendaju1925_27,Sobrancelha | eyebrow,1173,EYEBROW
+nimuendaju1925_28,Bigode | moustache,1165,MOUSTACHE
+nimuendaju1925_29,Braço | arm,1673,ARM
+nimuendaju1925_30,Mão | hand,1277,HAND
+nimuendaju1925_31,Dorso da mão | back of the hand,,
+nimuendaju1925_32,Unha da mão | fingernail,1258,FINGERNAIL
+nimuendaju1925_33,Perna | leg,1297,LEG
+nimuendaju1925_34,Pé | foot,1301,FOOT
+nimuendaju1925_35,Pescoço | neck,1333,NECK
+nimuendaju1925_36,Seio | breast,1402,BREAST
+nimuendaju1925_37,Barriga | belly,1251,BELLY
+nimuendaju1925_38,Vulva | vulva,1837,VULVA
+nimuendaju1925_39,Osso | bone,1394,BONE
+nimuendaju1925_40,Sangue | blood,946,BLOOD
+nimuendaju1925_41,Coração | heart,1223,HEART
+nimuendaju1925_42,Agua | water,948,WATER
+nimuendaju1925_43,"Caxoeira | waterfall, rapids",943,WATERFALL
+nimuendaju1925_44,Ygarapé | creek (igarapé),947,STREAM
+nimuendaju1925_45,Lago | lake,624,LAKE
+nimuendaju1925_46,Fogo | fire,221,FIRE
+nimuendaju1925_47,Lenha | firewood,10,FIREWOOD
+nimuendaju1925_48,Carvão | charcoal,1188,CHARCOAL
+nimuendaju1925_49,Chuva | rain,658,RAIN (PRECIPITATION)
+nimuendaju1925_50,Trovão | thunder,1150,THUNDER
+nimuendaju1925_51,Arco iris | rainbow,1733,RAINBOW
+nimuendaju1925_52,Lua | moon,1313,MOON
+nimuendaju1925_53,Pleiade | Pleiades,,
+nimuendaju1925_54,Orion | Orion,3945,ORION'S CONSTELLATION
+nimuendaju1925_55,Dia | day,1225,DAY (NOT NIGHT)
+nimuendaju1925_56,Inverno | winter (in Amazonian usage the rainy season),,
+nimuendaju1925_57,"Terra | earth, land",,
+nimuendaju1925_58,Pedra | stone,857,STONE
+nimuendaju1925_59,Rio | river,666,RIVER
+nimuendaju1925_60,Fumaça | smoke,778,SMOKE (EXHAUST)
+nimuendaju1925_61,Céu | sky,1732,SKY
+nimuendaju1925_62,Vento | wind,960,WIND
+nimuendaju1925_63,Relampago | lightning,1654,LIGHTNING
+nimuendaju1925_64,Sol | sun,1343,SUN
+nimuendaju1925_65,Estrella | star,1430,STAR
+nimuendaju1925_66,Venus (mat.) | Venus as morning star,3340,MORNING STAR
+nimuendaju1925_67,Via lactea | Milky Way,2289,MILKY WAY
+nimuendaju1925_68,Noite | night,1233,NIGHT
+nimuendaju1925_69,Verão | summer (in Amazonian usage the dry season),,
+nimuendaju1925_70,Areia | sand,671,SAND
+nimuendaju1925_71,Casa | house,1252,HOUSE
+nimuendaju1925_72,Rêde | hammock,2019,HAMMOCK
+nimuendaju1925_73,"Banco | bench, stool",,
+nimuendaju1925_74,Machado de pedra | stone axe,,
+nimuendaju1925_75,Canôa | canoe,1970,CANOE
+nimuendaju1925_76,Remo | paddle,234,PADDLE
+nimuendaju1925_77,Flecha | arrow,977,ARROW
+nimuendaju1925_78,Pente | comb,1475,COMB
+nimuendaju1925_79,Esteira | mat,195,MAT
+nimuendaju1925_80,Tipity | tipiti (manioc press),,
+nimuendaju1925_81,Fio | thread,1161,THREAD
+nimuendaju1925_82,Panno | cloth,1616,CLOTH
+nimuendaju1925_83,Tanga da mulher | woman's apron (tanga),,
+nimuendaju1925_84,Diadema de pennas | feather diadem,,
+nimuendaju1925_85,Caminho | path,2252,PATH
+nimuendaju1925_86,Panella | cooking pot,3653,COOKING POT
+nimuendaju1925_87,Machado | axe,677,AXE
+nimuendaju1925_88,Faca | knife,1352,KNIFE
+nimuendaju1925_89,Canôa de casca | bark canoe,,
+nimuendaju1925_90,Arco | bow,994,BOW
+nimuendaju1925_91,Anzol | fishhook,1074,FISHHOOK
+nimuendaju1925_92,Panacú | panacu (carrying basket),,
+nimuendaju1925_93,Peneira | sieve,86,SIEVE
+nimuendaju1925_94,Ralo | grater,,
+nimuendaju1925_95,Fuso | spindle,277,SPINDLE
+nimuendaju1925_96,Cordão da cintura | waist cord,,
+nimuendaju1925_97,minha roupa | my clothes,,
+nimuendaju1925_98,Bracelete | bracelet,1754,BRACELET
+nimuendaju1925_99,Cuia | gourd bowl (cuia),,
+nimuendaju1925_100,Paus para produzir fogo | fire-drill sticks,,
+nimuendaju1925_101,Tapioca | tapioca,3940,TAPIOCA
+nimuendaju1925_102,Cachiry | caxiri (fermented manioc drink),,
+nimuendaju1925_103,Jumarú | jumarú (not identified),,
+nimuendaju1925_104,Phosphoros | matches,1133,MATCH
+nimuendaju1925_105,Farinha d'agua | farinha d'água (soaked manioc flour),,
+nimuendaju1925_106,Beijú | beiju (manioc flatbread),,
+nimuendaju1925_107,Abano | fan,1971,FAN (OBJECT)
+nimuendaju1925_108,Homem | man,1554,MAN
+nimuendaju1925_109,minha mulher | my wife,,
+nimuendaju1925_110,meu filho ♂ | my son (male speaker),,
+nimuendaju1925_111,meu filho ♀ | my son (female speaker),,
+nimuendaju1925_112,meu irmão menor ♂ e ♀ | my younger brother (male and female speaker),,
+nimuendaju1925_113,meu netto | my grandson,,
+nimuendaju1925_114,o pae delle | his father,,
+nimuendaju1925_115,a mãe delle | his mother,,
+nimuendaju1925_116,minha tia | my aunt,,
+nimuendaju1925_117,minha sogra ♂ e ♀ | my mother-in-law (male and female speaker),,
+nimuendaju1925_118,Avó | grandmother,1496,GRANDMOTHER
+nimuendaju1925_119,Velha | old woman,907,OLD WOMAN
+nimuendaju1925_120,Tuxáua | chief (tuxaua),2394,CHIEF
+nimuendaju1925_121,Branco | white man,2839,WHITE MAN
+nimuendaju1925_122,Indio | Indian (indigenous person),,
+nimuendaju1925_123,Alma de defunto | soul of a dead person,1175,GHOST
+nimuendaju1925_124,Nome | name,1405,NAME
+nimuendaju1925_125,Remedio | medicine,1372,MEDICINE
+nimuendaju1925_126,Mulher | woman,962,WOMAN
+nimuendaju1925_127,meu marido | my husband,,
+nimuendaju1925_128,o marido della | her husband,,
+nimuendaju1925_129,minha filha ♂ e ♀ | my daughter (male and female speaker),,
+nimuendaju1925_130,"meu irmão maior ♀ ♂, | my elder brother (female, male speaker)",,
+nimuendaju1925_131,meu pae | my father,,
+nimuendaju1925_132,minha mãe | my mother,,
+nimuendaju1925_133,meu tio | my uncle,,
+nimuendaju1925_134,meu sogro ♂ e ♀ | my father-in-law (male and female speaker),,
+nimuendaju1925_135,Avô | grandfather,1383,GRANDFATHER
+nimuendaju1925_136,Velho | old man,406,OLD MAN
+nimuendaju1925_137,Criança | child,1304,CHILD (YOUNG HUMAN)
+nimuendaju1925_138,Pagé | shaman (pajé),394,SHAMAN (FOLK HEALER)
+nimuendaju1925_139,Negro | black man,2806,BLACK MAN
+nimuendaju1925_140,Indio brabo | wild (uncontacted) Indian,,
+nimuendaju1925_141,Cadaver | corpse,767,CORPSE
+nimuendaju1925_142,Sombra | shadow,2275,SHADOW
+nimuendaju1925_143,Doença | disease,1986,DISEASE
+nimuendaju1925_144,Cigarro | cigarette,969,CIGARETTE
+nimuendaju1925_145,"Couro | leather, hide",629,LEATHER
+nimuendaju1925_146,Macaco prego | capuchin monkey,,
+nimuendaju1925_147,Coatá | spider monkey (coatá),434,SPIDER MONKEY
+nimuendaju1925_148,Onça parda | puma,1891,PUMA
+nimuendaju1925_149,Lontra | otter,15,OTTER
+nimuendaju1925_150,Porco queixada | white-lipped peccary,436,WHITE-LIPPED PECCARY
+nimuendaju1925_151,Anta | tapir,312,TAPIR
+nimuendaju1925_152,Paca | paca,316,PACA
+nimuendaju1925_153,Morcego | bat,1793,BAT
+nimuendaju1925_154,Tamanduá mirim | lesser anteater,,
+nimuendaju1925_155,Preguiça real | sloth (preguiça real),,
+nimuendaju1925_156,Rabo | tail,1220,TAIL
+nimuendaju1925_157,Guariba | howler monkey,433,HOWLER MONKEY
+nimuendaju1925_158,Onça pintada | jaguar,1250,JAGUAR
+nimuendaju1925_159,Cachorro | dog,2009,DOG
+nimuendaju1925_160,Veado matteiro | red brocket deer,,
+nimuendaju1925_161,Taitetú | collared peccary,435,COLLARED PECCARY
+nimuendaju1925_162,Capivara | capybara,314,CAPYBARA
+nimuendaju1925_163,Cutia | agouti,313,AGOUTI
+nimuendaju1925_164,Tamanduá bandeira | giant anteater,,
+nimuendaju1925_165,Tatú | armadillo,1885,ARMADILLO
+nimuendaju1925_166,Passaro | bird,937,BIRD
+nimuendaju1925_167,Ovo | egg,744,EGG
+nimuendaju1925_168,Gavião | hawk,307,HAWK
+nimuendaju1925_169,Urubú | vulture (urubu),1185,VULTURE
+nimuendaju1925_170,Arára vermelho | red macaw,,
+nimuendaju1925_171,Papagaio | parrot,882,PARROT
+nimuendaju1925_172,Mutum fava | curassow (mutum fava),,
+nimuendaju1925_173,Jacú | guan (jacu),,
+nimuendaju1925_174,Aza | wing,1257,WING
+nimuendaju1925_175,Penna | feather,1201,FEATHER
+nimuendaju1925_176,Gavião real | harpy eagle (gavião real),,
+nimuendaju1925_177,Urubú rei | king vulture,,
+nimuendaju1925_178,Arára amarello | yellow macaw,,
+nimuendaju1925_179,Pato | duck,1360,DUCK
+nimuendaju1925_180,Mutum pinima | curassow (mutum pinima),,
+nimuendaju1925_181,"Gallinha | chicken, hen",,
+nimuendaju1925_182,Cobra | snake,730,SNAKE
+nimuendaju1925_183,Giboya | boa constrictor,,
+nimuendaju1925_184,Sucurijú | anaconda,896,ANACONDA (WATER BOA)
+nimuendaju1925_185,Jararáca | jararaca (pit viper),,
+nimuendaju1925_186,Jacaré | caiman,2438,CAIMAN
+nimuendaju1925_187,Cameleão | iguana (camaleão),,
+nimuendaju1925_188,Jaboty | tortoise,895,TORTOISE
+nimuendaju1925_189,Tejú | tegu lizard,,
+nimuendaju1925_190,Tartaruga | river turtle,112,TURTLE
+nimuendaju1925_191,Cururú | toad (cururu),894,TOAD
+nimuendaju1925_192,Peixe | fish,227,FISH
+nimuendaju1925_193,Arraia | stingray,1910,STINGRAY
+nimuendaju1925_194,Sarapó | knifefish (sarapó),,
+nimuendaju1925_195,Pacú | pacu (fish),,
+nimuendaju1925_196,Piranha | piranha,317,PIRANHA
+nimuendaju1925_197,Suruby | surubim catfish,,
+nimuendaju1925_198,Tucunaré | peacock bass (tucunaré),,
+nimuendaju1925_199,Trahira | trahira (fish),,
+nimuendaju1925_200,Pulga | flea,232,FLEA
+nimuendaju1925_201,Carapanã | mosquito,1509,MOSQUITO
+nimuendaju1925_202,Mel | honey,942,HONEY
+nimuendaju1925_203,Aranha | spider,843,SPIDER
+nimuendaju1925_204,Formiga | ant,587,ANT
+nimuendaju1925_205,Ambuá | millipede (embuá),,
+nimuendaju1925_206,Piolho | louse,1392,LOUSE
+nimuendaju1925_207,Abelha | bee,665,BEE
+nimuendaju1925_208,Vespa | wasp,1517,WASP
+nimuendaju1925_209,Borboleta | butterfly,1791,BUTTERFLY
+nimuendaju1925_210,Cupim | termite,883,TERMITE
+nimuendaju1925_211,Minhoca | earthworm,2350,EARTHWORM
+nimuendaju1925_212,Arvore | tree,906,TREE
+nimuendaju1925_213,"Campo | open field, savanna (campo)",,
+nimuendaju1925_214,Flor | flower,239,FLOWER
+nimuendaju1925_215,Casca | bark,1204,BARK
+nimuendaju1925_216,Castanheira | Brazil-nut tree,,
+nimuendaju1925_217,Bacaba | bacaba palm,,
+nimuendaju1925_218,Taboca | taboca bamboo,,
+nimuendaju1925_219,Milho | maize,506,MAIZE
+nimuendaju1925_220,Mandioca | manioc,927,MANIOC
+nimuendaju1925_221,Cará | yam (cará),410,YAM
+nimuendaju1925_222,Urucú | annatto (urucum),,
+nimuendaju1925_223,Tabaco | tobacco,974,TOBACCO
+nimuendaju1925_224,Banana | banana,868,BANANA
+nimuendaju1925_225,"Matto | forest, bush (mato)",,
+nimuendaju1925_226,Folha | leaf,628,LEAF
+nimuendaju1925_227,Fructa | fruit,1507,FRUIT
+nimuendaju1925_228,Raiz | root,670,ROOT
+nimuendaju1925_229,Açahy | açaí palm,,
+nimuendaju1925_230,Canna braba | wild cane (cana brava),,
+nimuendaju1925_231,Timbó | timbó (fish poison),,
+nimuendaju1925_232,Batata | batata (sweet potato or potato),,
+nimuendaju1925_233,Algodão | cotton,1850,COTTON
+nimuendaju1925_234,Pimenta | chili pepper,919,CHILI PEPPER
+nimuendaju1925_235,um | one,1493,ONE
+nimuendaju1925_236,dois | two,1498,TWO
+nimuendaju1925_237,tres | three,492,THREE
+nimuendaju1925_238,muitos | many,1198,MANY
+nimuendaju1925_239,branco | white,1335,WHITE
+nimuendaju1925_240,"claro | light, bright",,
+nimuendaju1925_241,preto | black,163,BLACK
+nimuendaju1925_242,azul | blue,837,BLUE
+nimuendaju1925_243,amarello | yellow,1424,YELLOW
+nimuendaju1925_244,escuro | dark,706,DARK
+nimuendaju1925_245,vermelho | red,156,RED
+nimuendaju1925_246,quente | hot,1286,HOT
+nimuendaju1925_247,"alto | high, tall",,
+nimuendaju1925_248,"baixo | low, short",,
+nimuendaju1925_249,bom | good,1035,GOOD
+nimuendaju1925_250,bonito | beautiful,1427,BEAUTIFUL
+nimuendaju1925_251,feio | ugly,1548,UGLY
+nimuendaju1925_252,"muito | much, very",,
+nimuendaju1925_253,"magro | thin, lean",,
+nimuendaju1925_254,novo | new,1231,NEW
+nimuendaju1925_255,enchuto | dry,1398,DRY
+nimuendaju1925_256,morto | dead,1625,DEAD
+nimuendaju1925_257,sujo | dirty,1230,DIRTY
+nimuendaju1925_258,frio | cold,1287,COLD
+nimuendaju1925_259,grande | big,1202,BIG
+nimuendaju1925_260,pequeno | small,1246,SMALL
+nimuendaju1925_261,ruim | bad,1292,BAD
+nimuendaju1925_262,"pouco | little, few",,
+nimuendaju1925_263,gordo | fat,1279,FAT (OBESE)
+nimuendaju1925_264,velho | old,,
+nimuendaju1925_265,molhado | wet,1726,WET
+nimuendaju1925_266,doente | sick,1847,SICK
+nimuendaju1925_267,limpo | clean,704,CLEAN
+nimuendaju1925_268,hontem | yesterday,1174,YESTERDAY
+nimuendaju1925_269,hoje | today,1283,TODAY
+nimuendaju1925_270,amanhã | tomorrow,1329,TOMORROW
+nimuendaju1925_271,agóra | now,1376,NOW
+nimuendaju1925_272,aqui | here,136,HERE
+nimuendaju1925_273,lá está | there it is,,
+nimuendaju1925_274,longe | far,1406,FAR
+nimuendaju1925_275,esquerda | left,244,LEFT
+nimuendaju1925_276,lá | there,1937,THERE
+nimuendaju1925_277,perto | near,1942,NEAR
+nimuendaju1925_278,direita | right,1019,RIGHT
+nimuendaju1925_279,"encima | above, on top",,
+nimuendaju1925_280,"embaixo | below, underneath",,
+nimuendaju1925_281,dentro da casa | inside the house,3305,INSIDE A HOUSE
+nimuendaju1925_282,sim | yes,1268,YES
+nimuendaju1925_283,não (quero) | no ([I do not] want),,
+nimuendaju1925_284,eu | I,1209,I
+nimuendaju1925_285,elle | he,1211,HE
+nimuendaju1925_286,elles | they,817,THEY
+nimuendaju1925_287,teu arco | your bow,,
+nimuendaju1925_288,aquelle | that one,78,THAT
+nimuendaju1925_289,tu | you (singular),1215,THOU
+nimuendaju1925_290,nos | we,1212,WE
+nimuendaju1925_291,meu arco | my bow,,
+nimuendaju1925_292,o arco delle | his bow,,
+nimuendaju1925_293,este | this,1214,THIS
+nimuendaju1925_294,"comedor | eater, glutton",,
+nimuendaju1925_295,logar de dormir | sleeping place,,
+nimuendaju1925_296,matador | killer,,
+nimuendaju1925_297,comida | food,256,FOOD
+nimuendaju1925_298,remador | rower,,
+nimuendaju1925_299,coçar | to scratch,,

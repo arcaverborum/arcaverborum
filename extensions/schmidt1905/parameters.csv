@@ -1,0 +1,417 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss
+schmidt1905_1,Kopf | head,1256,HEAD
+schmidt1905_2,Mund | mouth,674,MOUTH
+schmidt1905_3,Zahn | tooth,1380,TOOTH
+schmidt1905_4,Nase | nose,1221,NOSE
+schmidt1905_5,Auge | eye,1248,EYE
+schmidt1905_6,Ohr | ear,1247,EAR
+schmidt1905_7,Hals | neck,1333,NECK
+schmidt1905_8,Hand | hand,1277,HAND
+schmidt1905_9,Schulter | shoulder,1482,SHOULDER
+schmidt1905_10,Arm | arm,1673,ARM
+schmidt1905_11,Ellenbogen | elbow,981,ELBOW
+schmidt1905_12,Finger | finger,1303,FINGER
+schmidt1905_13,Daumen | thumb,1781,THUMB
+schmidt1905_14,Fuss | foot,1301,FOOT
+schmidt1905_15,Bein | leg,1297,LEG
+schmidt1905_16,Knie | knee,1371,KNEE
+schmidt1905_17,Fusssohle | sole of the foot,,
+schmidt1905_18,Zehe | toe,1389,TOE
+schmidt1905_19,Fingernagel | fingernail,1258,FINGERNAIL
+schmidt1905_20,Zehennagel | toenail,2662,TOENAIL
+schmidt1905_21,Brustwarze | nipple,796,NIPPLE
+schmidt1905_22,Kreuzgegend | small of the back (lumbar region),3613,LOWER BACK
+schmidt1905_23,Nabel | navel,1838,NAVEL
+schmidt1905_24,Penis | penis,1222,PENIS
+schmidt1905_25,Hinterteil | buttocks,834,BUTTOCKS
+schmidt1905_26,Leber | liver,1224,LIVER
+schmidt1905_27,Blut | blood,946,BLOOD
+schmidt1905_28,Haut | skin,763,SKIN
+schmidt1905_29,Haar | hair,1040,HAIR
+schmidt1905_30,Wimper | eyelash,1540,EYELASH
+schmidt1905_31,Augenbraue | eyebrow,1173,EYEBROW
+schmidt1905_32,Sporn beim Hahn | spur of a cock,,
+schmidt1905_33,Kamm beim Hahn | comb of a cock,188,COMB OF BIRD
+schmidt1905_34,Schnabel | beak,73,BEAK
+schmidt1905_35,Flügel | wing,1257,WING
+schmidt1905_36,Schwanz | tail,1220,TAIL
+schmidt1905_37,Sonne | sun,1343,SUN
+schmidt1905_38,Mond | moon,1313,MOON
+schmidt1905_39,Stern | star,1430,STAR
+schmidt1905_40,Himmel | sky,1732,SKY
+schmidt1905_41,Erde | earth,,
+schmidt1905_42,Wolke | cloud,1489,CLOUD
+schmidt1905_43,Regen | rain,658,RAIN (PRECIPITATION)
+schmidt1905_44,Regenbogen | rainbow,1733,RAINBOW
+schmidt1905_45,Donner | thunder,1150,THUNDER
+schmidt1905_46,Blitz | lightning,1654,LIGHTNING
+schmidt1905_47,Abendrot | evening glow (red sky at sunset),,
+schmidt1905_48,Wasser | water,948,WATER
+schmidt1905_49,Fluss | river,666,RIVER
+schmidt1905_50,Bucht (Port.: bahia) | bay (Port. bahia),663,BAY
+schmidt1905_51,See | lake,624,LAKE
+schmidt1905_52,Flussarm | river arm,,
+schmidt1905_53,Insel | island,622,ISLAND
+schmidt1905_54,Feuer | fire,221,FIRE
+schmidt1905_55,Feuerholz | firewood,10,FIREWOOD
+schmidt1905_56,Rauch | smoke,778,SMOKE (EXHAUST)
+schmidt1905_57,Asche | ash,646,ASH
+schmidt1905_58,Berg | mountain,639,MOUNTAIN
+schmidt1905_59,Stein | stone,857,STONE
+schmidt1905_60,Silber | silver,759,SILVER
+schmidt1905_61,Haus | house,1252,HOUSE
+schmidt1905_62,Dach | roof,769,ROOF
+schmidt1905_63,Tür | door,1567,DOOR
+schmidt1905_64,Festhaus | festival house,,
+schmidt1905_65,Boot | boat,1844,BOAT
+schmidt1905_66,"Ruder | paddle, oar",,
+schmidt1905_67,Stange zum Fortstossen des Kanus (Port.: singa) | pole for punting the canoe (Port. singa),,
+schmidt1905_68,Spitze des Bootes | bow of the boat,,
+schmidt1905_69,Hinterteil d. Bootes | stern of the boat,,
+schmidt1905_70,Beil | axe,677,AXE
+schmidt1905_71,Beilstiel | axe handle,,
+schmidt1905_72,Tonteller | clay plate,,
+schmidt1905_73,Holzteller | wooden plate,,
+schmidt1905_74,Tonkrug | clay jug,,
+schmidt1905_75,Kochtopf | cooking pot,3653,COOKING POT
+schmidt1905_76,Becher | cup,476,CUP
+schmidt1905_77,Löffel | spoon,1378,SPOON
+schmidt1905_78,Gross. Holzlöffel | large wooden spoon,,
+schmidt1905_79,Suppenspatel | soup spatula,,
+schmidt1905_80,Muschelschale zum Essen der Suppe | shell used for eating soup,,
+schmidt1905_81,Schneckenschale zum Trinken | snail shell used for drinking,,
+schmidt1905_82,Bananensuppe | banana soup,,
+schmidt1905_83,"Buschmesser | bush knife, machete",2680,MACHETE
+schmidt1905_84,Messer | knife,1352,KNIFE
+schmidt1905_85,Gabel | fork,1302,FORK
+schmidt1905_86,Rohrstab zum Trinken des »tšitša« | cane tube for drinking chicha,,
+schmidt1905_87,Bombilha (Stab zum Mate-Trinken) | bombilla (tube for drinking mate),,
+schmidt1905_88,Kürbisgefäss zum Trinken des Mate | gourd vessel for drinking mate,,
+schmidt1905_89,Kleine Kürbisschale | small gourd bowl,,
+schmidt1905_90,Kürbisgefäss | gourd vessel,,
+schmidt1905_91,Rasselkürbis | gourd rattle,,
+schmidt1905_92,Gegorener Akurípalmsaft | fermented acuri-palm juice (chicha),,
+schmidt1905_93,Zuckerbranntwein | sugar-cane brandy,,
+schmidt1905_94,Schale aus Krokodilbrustpanzer (grosse) | bowl made from crocodile breastplate (large),,
+schmidt1905_95,Schale aus Krokodilbrustpanzer (kleine) | bowl made from crocodile breastplate (small),,
+schmidt1905_96,"Kasten | box, chest",1465,BOX
+schmidt1905_97,Feuerbohrer | fire drill,,
+schmidt1905_98,Feuerfächer | fire fan,,
+schmidt1905_99,Klopfstein für Kerne | hammer stone for cracking nuts,,
+schmidt1905_100,Steinbruch | quarry,,
+schmidt1905_101,Zigarre | cigar,4019,CIGAR
+schmidt1905_102,Tabak | tobacco,974,TOBACCO
+schmidt1905_103,Mandiokamehlsieb | manioc-flour sieve,,
+schmidt1905_104,Mandiokareibe | manioc grater,,
+schmidt1905_105,Korb (aus Akurípalmblatt geflochten) | basket (plaited of acuri-palm leaf),1539,BASKET
+schmidt1905_106,Viola (Saiteninstrument) | viola (string instrument),,
+schmidt1905_107,Saite der Viola | string of the viola,,
+schmidt1905_108,Wirbel der Viola | tuning peg of the viola,,
+schmidt1905_109,Rundes Loch der Viola | round sound-hole of the viola,,
+schmidt1905_110,Die drei Querfäden am oberen Ende der Viola | the three cross-threads at the upper end of the viola,,
+schmidt1905_111,Caracacha (Musikinstrument aus einem gerifften Stück Bambusrohr) | caracacha (scraper instrument of notched bamboo),,
+schmidt1905_112,Horn zum Rufen | horn for calling,939,HORN (INSTRUMENT)
+schmidt1905_113,Klapper aus Tierhufen | rattle of animal hoofs,,
+schmidt1905_114,Ohrfederbüschel | feather ear ornament,,
+schmidt1905_115,Diadem | diadem,,
+schmidt1905_116,Rochenstachel (Instrument gegen Zahnschmerz) | stingray spine (instrument against toothache),,
+schmidt1905_117,Zeugpuppe | cloth doll,,
+schmidt1905_118,Lanze | lance,945,SPEAR
+schmidt1905_119,Gewehr | gun,1566,GUN
+schmidt1905_120,Webemesser zum Anfertigen der Moskitowedel | weaving knife for making mosquito whisks,,
+schmidt1905_121,Spindel | spindle,277,SPINDLE
+schmidt1905_122,Wirtel der Spindel | spindle whorl,,
+schmidt1905_123,Baumwolle | cotton,1850,COTTON
+schmidt1905_124,Faden | thread,1161,THREAD
+schmidt1905_125,Webstuhl für Hängematten | loom for hammocks,,
+schmidt1905_126,Bogen zum Glätten der Rohbaumwolle | bow for smoothing raw cotton,,
+schmidt1905_127,Hängematte aus Baumwolle | cotton hammock,,
+schmidt1905_128,Hängematte aus Tucumpalmfaser | hammock of tucum-palm fibre,,
+schmidt1905_129,Schlafmatte aus Binsen | sleeping mat of rushes,,
+schmidt1905_130,Schlafmatte aus Akurípalmblatt | sleeping mat of acuri-palm leaf,,
+schmidt1905_131,Jaguarfell (Schlafmatte) | jaguar skin (sleeping mat),,
+schmidt1905_132,Hirschfell | deer skin,,
+schmidt1905_133,Sitzbank | bench,2584,BENCH
+schmidt1905_134,Hut | hat,771,HAT
+schmidt1905_135,Hemd | shirt,1622,SHIRT
+schmidt1905_136,Hose | trousers,809,TROUSERS
+schmidt1905_137,Handgelenkbinde | wrist band,,
+schmidt1905_138,Moskitowedel | mosquito whisk,,
+schmidt1905_139,Moskitonetz | mosquito net,2795,MOSQUITO NET
+schmidt1905_140,Halsband aus Grassamen | necklace of grass seeds,,
+schmidt1905_141,Bogen | bow (weapon),994,BOW
+schmidt1905_142,Bogensehne | bowstring,,
+schmidt1905_143,Bogen zum Tonkugelschiessen | pellet bow,,
+schmidt1905_144,Tonkugel zum Schiessen | clay pellet for shooting,,
+schmidt1905_145,Ton | clay,1399,CLAY
+schmidt1905_146,Pfeil mit Taquarárohrspitze | arrow with taquara-cane point,,
+schmidt1905_147,Pfeil mit Knochenspitze | arrow with bone point,,
+schmidt1905_148,Vogelpfeil mit verdickter Holzspitze | bird arrow with thickened wooden point,,
+schmidt1905_149,Kinderpfeil | child's arrow,,
+schmidt1905_150,Harpunenpfeil | harpoon arrow,,
+schmidt1905_151,Taquaráspitze des Pfeils | taquara-cane point of the arrow,,
+schmidt1905_152,Knochenspitze des Pfeils und des Harpunenpfeils | bone point of the arrow and of the harpoon arrow,,
+schmidt1905_153,Holzspitze beim Vogelpfeil | wooden point of the bird arrow,,
+schmidt1905_154,Rohrschaft der Pfeile | cane shaft of the arrows,,
+schmidt1905_155,Rohrschaft der Harpune | cane shaft of the harpoon,,
+schmidt1905_156,Umwicklung der Pfeile | binding of the arrows,,
+schmidt1905_157,Umwicklung der Federn des Kinderpfeils | binding of the feathers of the child's arrow,,
+schmidt1905_158,Baumwollumwicklung des Pfeils | cotton binding of the arrow,,
+schmidt1905_159,Baumwollumwicklung bei einer Harpune | cotton binding of a harpoon,,
+schmidt1905_160,Holzzwischenstück des Taquarápfeiles | wooden foreshaft of the taquara arrow,,
+schmidt1905_161,Holzzwischenstück eines Knochenpfeiles und gezacktes Holzstück einer Harpune | wooden foreshaft of a bone arrow and barbed wooden piece of a harpoon,,
+schmidt1905_162,Schaftfeder bei einem Taquarápfeil | shaft feather of a taquara arrow,,
+schmidt1905_163,Schaftfeder bei einem Vogelpfeil | shaft feather of a bird arrow,,
+schmidt1905_164,Kerbe beim Taquarápfeil | nock of the taquara arrow,,
+schmidt1905_165,Kerbe beim Knochenpfeil und beim Harpunenpfeil | nock of the bone arrow and of the harpoon arrow,,
+schmidt1905_166,Kerbe beim Vogelpfeil | nock of the bird arrow,,
+schmidt1905_167,Kerbe beim Kinderpfeil | nock of the child's arrow,,
+schmidt1905_168,Strick der Harpune | harpoon line,,
+schmidt1905_169,Fischleim zum Einsetzen der Knochenspitze | fish glue for setting the bone point,,
+schmidt1905_170,Mutter | mother,1216,MOTHER
+schmidt1905_171,Vater | father,1217,FATHER
+schmidt1905_172,Sohn | son,1620,SON
+schmidt1905_173,Tochter | daughter,1357,DAUGHTER
+schmidt1905_174,"Bruder, älterer | older brother",1759,OLDER BROTHER
+schmidt1905_175,"Bruder, jüngerer | younger brother",1760,YOUNGER BROTHER
+schmidt1905_176,Schwester | sister,1263,SISTER
+schmidt1905_177,Bruder des Vaters | father's brother,,
+schmidt1905_178,Bruder der Mutter | mother's brother,1984,MOTHER'S BROTHER
+schmidt1905_179,Schwester des Vaters | father's sister,170,FATHER'S SISTER
+schmidt1905_180,Schwester der Mutter | mother's sister,171,MOTHER'S SISTER
+schmidt1905_181,Vater des Vaters | father's father,,
+schmidt1905_182,Mutter des Vaters | father's mother,,
+schmidt1905_183,Vater der Mutter | mother's father,,
+schmidt1905_184,Mutter der Mutter | mother's mother,,
+schmidt1905_185,Enkel | grandson,1618,GRANDSON
+schmidt1905_186,Enkelin | granddaughter,1619,GRANDDAUGHTER
+schmidt1905_187,"Vetter, älterer | older cousin (male)",,
+schmidt1905_188,"Vetter, jüngerer | younger cousin (male)",,
+schmidt1905_189,Ehemann | husband,1200,HUSBAND
+schmidt1905_190,Ehefrau | wife,1199,WIFE
+schmidt1905_191,Vater des Ehemanns | husband's father,,
+schmidt1905_192,Vater der Ehefrau | wife's father,,
+schmidt1905_193,Mutter des Ehemanns | husband's mother,,
+schmidt1905_194,Mutter der Ehefrau | wife's mother,,
+schmidt1905_195,Schwager | brother-in-law,2314,BROTHER-IN-LAW
+schmidt1905_196,Leute | people,789,PEOPLE
+schmidt1905_197,Knabe | boy,1366,BOY
+schmidt1905_198,"Affe (Tupi: macaco), (Simia macacus spec.) | monkey (macaco, Simia macacus spec.)",,
+schmidt1905_199,Affe (kleine spec.) | monkey (small species),,
+schmidt1905_200,"Boca d'agua (Affe, Macacus boca d'agua) | boca d'agua monkey",,
+schmidt1905_201,"Bugio (Tupi), (Mycetes barbatus) | howler monkey (bugio, Mycetes barbatus)",433,HOWLER MONKEY
+schmidt1905_202,Fledermaus (spec.) | bat (species),,
+schmidt1905_203,"Nasenbär (Tupi: coati), (Nasua socialis) | coati (Nasua socialis)",,
+schmidt1905_204,Ochse | ox,1169,OX
+schmidt1905_205,Pferd | horse,615,HORSE
+schmidt1905_206,Schwein | pig,1337,PIG
+schmidt1905_207,Hund | dog,2009,DOG
+schmidt1905_208,"Hirsch, kleiner (Tupi: suasú), (Cervus rufus od. campestris) | small deer (suasú, Cervus rufus or campestris)",,
+schmidt1905_209,"Sumpfhirsch (Tupi: suasúpucu), (Cervus paludosus; Bras: veado galheiro) | marsh deer (Cervus paludosus; Port. veado galheiro)",,
+schmidt1905_210,"Tapir (Tupi: tapira), (Tapirus americanus) | tapir",312,TAPIR
+schmidt1905_211,"Jaguar (Tupi: yaguára), (Felis onca) | jaguar",1250,JAGUAR
+schmidt1905_212,"Jaguatirika (Tupi: Yaguatirika), (Felis mitis [pardalis]) | ocelot-like cat (jaguatirica, Felis mitis [pardalis])",,
+schmidt1905_213,"Gürteltier (Tupi: tatú), (Dasypus) | armadillo",1885,ARMADILLO
+schmidt1905_214,Beuteltier (Didelphys spec.) | opossum (Didelphys spec.),309,OPOSSUM
+schmidt1905_215,Fischotter (Lutra brasiliensis) | otter (Lutra brasiliensis),15,OTTER
+schmidt1905_216,Paca (Coelogenys paca) | paca,316,PACA
+schmidt1905_217,Eichhorn (Sciurus aestuans) | squirrel (Sciurus aestuans),1628,SQUIRREL
+schmidt1905_218,Ratte (spec.) | rat (species),,
+schmidt1905_219,Meerschwein (Cavia aperea) | cavy (Cavia aperea),,
+schmidt1905_220,Agutí (Dasyprocta aguti) | agouti,313,AGOUTI
+schmidt1905_221,Capivara (Hydrochoerus capyvara) | capybara,314,CAPYBARA
+schmidt1905_222,Vogelnest | bird's nest,539,NEST
+schmidt1905_223,Papagei (spec.) | parrot (species),,
+schmidt1905_224,Arara (spec. blau) | macaw (blue species),,
+schmidt1905_225,Arara (spec. rot) | macaw (red species),,
+schmidt1905_226,Sittig (Bras.: perequito; spec.) | parakeet (Port. periquito; species),,
+schmidt1905_227,Hahn | rooster,1511,ROOSTER
+schmidt1905_228,"Mutum (Crax) | curassow (mutum, Crax)",,
+schmidt1905_229,"Jakutinga (Tupi: yaku-tinga), (Penelope pipile) | jacutinga (Penelope pipile)",,
+schmidt1905_230,Rebhuhn (Perdix spec.) | partridge (Perdix spec.),,
+schmidt1905_231,"Arakuan (Tupi), (Ortalida canicollis) | aracuan (Ortalida canicollis)",,
+schmidt1905_232,"Anhuma (Tupi), (Palamedea cornuta) | horned screamer (anhuma, Palamedea cornuta)",,
+schmidt1905_233,"Ema (Tupi), (Rhea americana) | rhea (ema, Rhea americana)",,
+schmidt1905_234,Taube (spec.) | dove (species),,
+schmidt1905_235,"Tucan (Tupi), (Rhamphastos discolorus) | toucan (Rhamphastos discolorus)",308,TOUCAN
+schmidt1905_236,"Cancão (Tupi), (Erismatura dominica) | cancão (Erismatura dominica)",,
+schmidt1905_237,Pescador (bras. Name für einen Vogel) | pescador (Brazilian name of a bird),,
+schmidt1905_238,Cabeça secca (bras. Name für einen Vogel) | cabeça secca (Brazilian name of a bird),,
+schmidt1905_239,"Tujujustorch (Tupi: tuyuyu), (Mycteria americana oder Ciconia mycteria) | jabiru stork (tuiuiú, Mycteria americana)",,
+schmidt1905_240,"Soco (Tupi), (Ardea brasiliensis) | soco heron (Ardea brasiliensis)",,
+schmidt1905_241,Yoko (bras. Name für einen Vogel) | yoko (Brazilian name of a bird),,
+schmidt1905_242,"Reiher, grauer (Ardea spec.) | grey heron (Ardea spec.)",,
+schmidt1905_243,"Karão (Tupi), (Ardea scolopacea, sive Ibis infuscata) | carão (Ardea scolopacea, or Ibis infuscata)",,
+schmidt1905_244,"Löffler (Bras: colhereiro), (Platalea rosea) | spoonbill (Port. colhereiro, Platalea rosea)",,
+schmidt1905_245,"Möwe (Bras.: gaivota, spec.) | gull (Port. gaivota, species)",,
+schmidt1905_246,Ente | duck,1360,DUCK
+schmidt1905_247,Mareka (Entenart) | marreca (kind of duck),,
+schmidt1905_248,Schwalbe (Bras.: andorinha; spec.) | swallow (Port. andorinha; species),,
+schmidt1905_249,"Gralha (Blaurabe, Cyanocorax coeruleus) | gralha (blue jay, Cyanocorax coeruleus)",,
+schmidt1905_250,"Töpfervogel (Bras.: massabarro), (Furnarius spec.) | ovenbird (Port. maria-de-barro, Furnarius spec.)",,
+schmidt1905_251,"Kurikaka (Tupi), (Ibis spec.) | curicaca (Ibis spec.)",,
+schmidt1905_252,"Yao (Tupi), (Crypturus noctivagus, sive Zabele bras.) | yao (Crypturus noctivagus)",,
+schmidt1905_253,"Wasserhuhn (Bras.: frango d'agua), (Fulica spec.) | water hen (Port. frango d'agua, Fulica spec.)",,
+schmidt1905_254,"Bigua-tinga (Tupi), (Plotus anhinga) | biguatinga (Plotus anhinga)",,
+schmidt1905_255,"Bigua (Tupi), (Carbo brasilianus) | biguá cormorant (Carbo brasilianus)",,
+schmidt1905_256,"Sariema (Tupi), (Dicholophus cristatus) | seriema (Dicholophus cristatus)",,
+schmidt1905_257,"Cafezinho (Bras.), (kleiner brauner Sumpfvogel) | cafezinho (small brown marsh bird)",,
+schmidt1905_258,"Specht (Bras.: picapao), (Picus spec.) | woodpecker (Port. pica-pau, Picus spec.)",,
+schmidt1905_259,"Baguari (Tupi), (Ciconia spec.) | baguari (Ciconia spec.)",,
+schmidt1905_260,Escravo de Juan pinto (Bras.) | escravo de Juan pinto (Brazilian bird name),,
+schmidt1905_261,"Kabure (Tupi), (Schleiereule, Strix spec.) | cabure owl (Strix spec.)",,
+schmidt1905_262,"Urubu (Tupi), (Geier, Catharista spec.) | urubu vulture (Catharista spec.)",,
+schmidt1905_263,"Falke (Bras.: gavião, spec.) | hawk (Port. gavião, species)",,
+schmidt1905_264,Cardinal (Cardinalis cucullatus) | cardinal (Cardinalis cucullatus),,
+schmidt1905_265,Frosch resp. Kröte (spec.) | frog or toad (species),,
+schmidt1905_266,"Senembu (Tupi), (grosse Echsenspecies) | senembu (large lizard species)",,
+schmidt1905_267,Papavento (Bras. grosse Echsenspecies) | papavento (large lizard species),,
+schmidt1905_268,Orisso (bras. Eidechsenspecies) | orisso (lizard species),,
+schmidt1905_269,Eidechse (Lagartixa spec.) | lizard (lagartixa species),,
+schmidt1905_270,"Krokodil (Crocodilus sclerops) | caiman ('Krokodil', Crocodilus sclerops)",,
+schmidt1905_271,"Sukuriuh (Tupi), (Boa spec., Riesenschlange) | sucuri, anaconda (Boa spec.)",,
+schmidt1905_272,"Sumpfschildkröte (Bras.: kagado), (Platemis spec.) | marsh turtle (Port. cágado, Platemys spec.)",,
+schmidt1905_273,"Piranha (Tupi), (Serasalmo piraya) | piranha",317,PIRANHA
+schmidt1905_274,"Kurimbata (Tupi), Fisch spec.) | curimbatá (fish species)",,
+schmidt1905_275,Cascudo (Fisch spec.) | cascudo (fish species),,
+schmidt1905_276,"Kará (Tupi), (Fisch spec.) | cará (fish species)",,
+schmidt1905_277,"Pakú (Tupi), (Fisch spec.) | pacu (fish species)",,
+schmidt1905_278,"Pakupeba (Tupi), (Fisch spec.) | pacupeba (fish species)",,
+schmidt1905_279,Pintado (Fisch spec.) | pintado (fish species),,
+schmidt1905_280,"Fisch, ähnlich dem Pintado | fish similar to the pintado",,
+schmidt1905_281,Yaú (Tupi) (Fisch spec.) | jaú (fish species),,
+schmidt1905_282,Rubafo (Fisch spec.) | rubafo (fish species),,
+schmidt1905_283,Schmetterling (spec.) | butterfly (species),,
+schmidt1905_284,"Fliege (Bras.: mosca, spec.) | fly (Port. mosca, species)",,
+schmidt1905_285,"Fliege, grosse (Bras.: mutuca, spec.) | large fly (Port. mutuca, species)",,
+schmidt1905_286,"Fliege, kleine (Bras.: moscinha, spec.) | small fly (Port. mosquinha, species)",,
+schmidt1905_287,"Mandori (Tupi), (Biene spec.) | mandori bee (species)",,
+schmidt1905_288,"Marimbondo (Tupi), (Wespe spec.) | marimbondo wasp (species)",,
+schmidt1905_289,Honig | honey,942,HONEY
+schmidt1905_290,Kopflaus | head louse,310,HEAD LOUSE
+schmidt1905_291,Moskito | mosquito,1509,MOSQUITO
+schmidt1905_292,Ameise (spec.) | ant (species),,
+schmidt1905_293,"Ameise (Bras.: carregador, spec.) | ant (Port. carregador, species)",,
+schmidt1905_294,Tocanguira-Ameise (spec.) | tocandira ant (species),,
+schmidt1905_295,Grille (spec.) | cricket (species),,
+schmidt1905_296,Blutegel (spec.) | leech (species),,
+schmidt1905_297,Krebs (spec.) | crab (species),,
+schmidt1905_298,Schnecke (spec.) | snail (species),,
+schmidt1905_299,Muschel (spec.) | mussel (species),,
+schmidt1905_300,Baum | tree,906,TREE
+schmidt1905_301,Holz | wood,1803,WOOD
+schmidt1905_302,Blatt | leaf,628,LEAF
+schmidt1905_303,Wurzel | root,670,ROOT
+schmidt1905_304,Zweig | branch,1531,BRANCH
+schmidt1905_305,Blume | flower,239,FLOWER
+schmidt1905_306,Mais | maize,506,MAIZE
+schmidt1905_307,Bohne | bean,832,BEAN
+schmidt1905_308,Mandioka | manioc,927,MANIOC
+schmidt1905_309,Zuckerrohr | sugar cane,146,SUGAR CANE
+schmidt1905_310,Banane | banana,868,BANANA
+schmidt1905_311,Feigenbaum | fig tree,,
+schmidt1905_312,Mangave | mangave (plant),,
+schmidt1905_313,Tucumpalme | tucum palm,,
+schmidt1905_314,Frucht der Tucumpalme | fruit of the tucum palm,,
+schmidt1905_315,Akurípalme | acuri palm,,
+schmidt1905_316,Carandapalme | caranda palm,,
+schmidt1905_317,Jatobá-Baum | jatobá tree,,
+schmidt1905_318,Inga (Baum) | inga (tree),,
+schmidt1905_319,Embauva | embaúba,,
+schmidt1905_320,Sibotá-Frucht | sibotá fruit,,
+schmidt1905_321,Onha de gato (Strauch mit Dornen) | unha de gato (thorny shrub),,
+schmidt1905_322,Paudaio | paudaio (plant),,
+schmidt1905_323,Runcador | runcador (plant),,
+schmidt1905_324,Taruma | tarumã,,
+schmidt1905_325,Forno d'agua | forno d'agua (plant),,
+schmidt1905_326,Guaápe (Wasserpflanze) | guaapé (water plant),,
+schmidt1905_327,weiss | white,1335,WHITE
+schmidt1905_328,schwarz | black,163,BLACK
+schmidt1905_329,blau | blue,837,BLUE
+schmidt1905_330,grün | green,1425,GREEN
+schmidt1905_331,rot | red,156,RED
+schmidt1905_332,gelb | yellow,1424,YELLOW
+schmidt1905_333,dunkel | dark,706,DARK
+schmidt1905_334,hell | bright,679,BRIGHT
+schmidt1905_335,rein | clean,704,CLEAN
+schmidt1905_336,gangbar | passable,,
+schmidt1905_337,schmutzig | dirty,1230,DIRTY
+schmidt1905_338,gross | big,1202,BIG
+schmidt1905_339,klein | small,1246,SMALL
+schmidt1905_340,hoch | high,1265,HIGH
+schmidt1905_341,niedrig | low,721,LOW
+schmidt1905_342,heiss | hot,1286,HOT
+schmidt1905_343,kalt | cold,1287,COLD
+schmidt1905_344,weit entfernt | far away,1406,FAR
+schmidt1905_345,"gut, hübsch | good, pretty",,
+schmidt1905_346,schlecht | bad,1292,BAD
+schmidt1905_347,hart | hard,1884,HARD
+schmidt1905_348,wild | wild,,
+schmidt1905_349,zahm | tame,2838,TAME
+schmidt1905_350,"verschieden, anders | different, other",2504,DIFFERENT
+schmidt1905_351,Eins | one,1493,ONE
+schmidt1905_352,zwei | two,1498,TWO
+schmidt1905_353,drei | three,492,THREE
+schmidt1905_354,vier | four,1500,FOUR
+schmidt1905_355,fünf | five,493,FIVE
+schmidt1905_356,sechs | six,1703,SIX
+schmidt1905_357,sieben | seven,1704,SEVEN
+schmidt1905_358,acht | eight,1705,EIGHT
+schmidt1905_359,neun | nine,1483,NINE
+schmidt1905_360,zehn | ten,1515,TEN
+schmidt1905_361,elf | eleven,1706,ELEVEN
+schmidt1905_362,zwölf | twelve,1707,TWELVE
+schmidt1905_363,dreizehn | thirteen,1708,THIRTEEN
+schmidt1905_364,vierzehn | fourteen,2451,FOURTEEN
+schmidt1905_365,viele | many,1198,MANY
+schmidt1905_366,"Einiges, einige Sachen | something, some things",,
+schmidt1905_367,Wie viele? | how many?,822,HOW MANY
+schmidt1905_368,wann? | when?,1238,WHEN
+schmidt1905_369,"dort, hier (Partikel die auf den Ort der Handlung hinweist) | there, here (particle pointing to the place of the action)",,
+schmidt1905_370,"dorthin, weist auf den Ort hin, wohin die Handlung gerichtet ist | thither (points to the place toward which the action is directed)",,
+schmidt1905_371,"hier, dieser hier | here, this one here",,
+schmidt1905_372,zurück | back,,
+schmidt1905_373,"wieder, wiederum | again",204,AGAIN
+schmidt1905_374,jetzt | now,1376,NOW
+schmidt1905_375,deshalb | therefore,,
+schmidt1905_376,"Negation nein | negation, no",1269,NO
+schmidt1905_377,Begrüssungsform | greeting formula,,
+schmidt1905_378,vorwärts! (Bras.: vamos!) | forward! (Port. vamos!),,
+schmidt1905_379,trinken | drink,1401,DRINK
+schmidt1905_380,essen | eat ('evidently second person = you eat'),,
+schmidt1905_381,Zuckerrohr lutschen | suck sugar cane,,
+schmidt1905_382,rauchen | smoke ('evidently second person = you smoke'),,
+schmidt1905_383,"machen, tun | make, do",2575,DO OR MAKE
+schmidt1905_384,Feuer anzünden | light a fire,,
+schmidt1905_385,"schleifen | grind, whet",251,SHARPEN (SOMETHING)
+schmidt1905_386,liegen | lie (rest),1411,LIE (REST)
+schmidt1905_387,schlafen | sleep,1585,SLEEP
+schmidt1905_388,sitzen | sit,1416,SIT
+schmidt1905_389,gehen | go,695,GO
+schmidt1905_390,reisen | travel,3665,TRAVEL
+schmidt1905_391,holen | fetch,3551,FETCH
+schmidt1905_392,bringen | bring,692,BRING
+schmidt1905_393,geben | give ('I give'),,
+schmidt1905_394,mit dem Pfeil schiessen | shoot with the arrow,1172,SHOOT
+schmidt1905_395,töten | kill,1417,KILL
+schmidt1905_396,"schlagen | hit, beat",1433,HIT
+schmidt1905_397,streiten | quarrel,1848,QUARREL
+schmidt1905_398,"rudern | row, paddle",1849,ROW
+schmidt1905_399,waschen | wash,1453,WASH
+schmidt1905_400,reinigen | clean (verb),,
+schmidt1905_401,schneiden | cut,1432,CUT
+schmidt1905_402,werfen | throw,1456,THROW
+schmidt1905_403,rufen | call,1084,CALL
+schmidt1905_404,fragen | ask ('she asks'),,
+schmidt1905_405,schwimmen | swim,1439,SWIM
+schmidt1905_406,singen | sing,1261,SING
+schmidt1905_407,tanzen | dance,1879,DANCE
+schmidt1905_408,lachen | laugh,1355,LAUGH
+schmidt1905_409,weinen | weep ('she weeps'),,
+schmidt1905_410,niesen | sneeze,1621,SNEEZE
+schmidt1905_411,kacken | defecate,,
+schmidt1905_412,pissen | urinate,592,PISS
+schmidt1905_413,pforzen | fart,1159,FART
+schmidt1905_414,sterben | die,1494,DIE
+schmidt1905_415,"sehen, wissen | see, know ('you see')",,
+schmidt1905_416,krank sein | be sick,1847,SICK
