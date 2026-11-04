@@ -70,3 +70,36 @@ review, not specialist certification.
   others) remain gated.
 * Thin constructions whose only alternative is GLED or DiACL (Aikanã, Leco,
   Vilela, Arutani) await the original-source research of track 2.
+
+## Track 2a: machine-readable sources and primary changes (batch 2)
+
+Three new source extensions: `asjp` (ASJP v21.1, CC BY 4.0: Puquina, Betoi,
+Taruma lists), `cerronpalominomochica` (Cerrón-Palomino 1995, CLDF edition,
+CC BY 4.0) and `majeled` (MaJeLeD Kipeá and Dzubukuá, CC BY 4.0). Per-construction
+counts are in the [batch-2 metrics](south_america_isolates_2026-11-04_batch2_metrics.json);
+decisions in the [batch-2 ledger](south_america_isolates_2026-11-04_batch2.csv).
+
+| Construction | Forms | Concepts | Core | Change |
+| --- | ---: | ---: | ---: | --- |
+| Puquina (new) | 0 → 39 | 0 → 34 | 0 → 32 | ASJP placeholder; no open original wordlist |
+| Betoi (new) | 0 → 21 | 0 → 20 | 0 → 18 | ASJP placeholder (from Zamponi 2003) |
+| Dzubukuá (new) | 0 → 611 | 0 → 87 | 0 → 51 | MaJeLeD (Nantes 1709), written-only |
+| Mochica | 39 → 247 | 37 → 175 | 35 → 71 | Cerrón-Palomino primary with profile; GLED preserved |
+| Kipeá | 38 → 153 | 23 → 123 | 12 → 66 | MaJeLeD gap fill, written-only |
+| Leco | 7 → 48 | 7 → 44 | 4 → 39 | GLED (van de Kerke via ASJP) primary; DiACL preserved |
+| Aikanã | 1 → 41 | 0 → 39 | 0 → 37 | GLED primary (see note) |
+| Taruma | 1 → 17 | 1 → 16 | 1 → 16 | ASJP (Farabee 1918) primary; Wiktionary preserved |
+
+* **Mochica readings** come from the CLDF edition's own grapheme mapping, used as
+  a variety-scoped profile (32 graphemes, one value each), so they are
+  profile-derived; all 39 earlier GLED forms remain as attributed supplements.
+* **ASJP CUICA is not used.** It is Jahn's (1927) Timote vocabulary with the noun
+  prefixes stripped (13 of 33 forms identical, the rest prefix-less), not a
+  Cuica sample; Timote will be taken from Jahn directly.
+* **Aikanã:** the release-A record (Hunter-Gatherer, peach palm) had no concept
+  mapping and cannot be carried as a sense-reviewed supplement; it remains in
+  the intake. DiACL's 283 Aikanã rows stay held (mixed notation, unresolved
+  provenance); Silva 2012 is all rights reserved.
+* Written-only supplements carry `transcription_policy = orthographic_only`.
+* New family codes for the remaining South American isolate families
+  (`family_codes.csv`); new av_ids frozen in `varieties.csv`.

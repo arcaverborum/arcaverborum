@@ -1,0 +1,24 @@
+av_id: bet-betoi
+name: Betoi
+glottocode: beto1237
+family: Betoi-Jirara
+macroarea: South America
+sources:
+  transcription: asjp
+  cognates: asjp
+  source_language_id: asjp_BETOI
+extensions:
+  transcriptions: false
+  forms: false
+  cognates: false
+  concept_map: false
+  profile: false
+scoring:
+  forms_score: 0.0
+  cognates_score: 0.0
+  tier: copper
+pinned: true
+registered_on: '2026-11-04'
+notes: '2026-11-04 South American isolates batch 2. First Betoi construction: ASJP
+  v21.1 list (21 forms, from Zamponi 2003 via ASJP), a placeholder; Glottolog dialect
+  beto1237.'

@@ -4,8 +4,9 @@ glottocode: taru1236
 family: Taruma
 macroarea: South America
 sources:
-  transcription: wiktionary
-  cognates: wiktionary
+  transcription: asjp
+  cognates: asjp
+  source_language_id: asjp_TARUMA
 extensions:
   transcriptions: false
   forms: false
@@ -16,6 +17,8 @@ scoring:
   forms_score: 0.2066
   cognates_score: 0.0
   tier: copper
-pinned: false
+pinned: true
 registered_on: '2026-05-20'
-notes: 'auto: forms=wiktionary (0.21) [fallback p3]'
+notes: '2026-11-04 South American isolates batch 2. Primary change: ASJP v21.1 TARUMA
+  list (16 forms, Farabee 1918 via ASJP) replaces a single Wiktionary record, preserved
+  as a supplement.'

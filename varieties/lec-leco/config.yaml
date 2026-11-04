@@ -4,8 +4,9 @@ glottocode: leco1242
 family: Leco
 macroarea: South America
 sources:
-  transcription: diacl
-  cognates: diacl
+  transcription: gled
+  cognates: gled
+  source_language_id: gled_LEKO
 extensions:
   transcriptions: false
   forms: false
@@ -16,6 +17,8 @@ scoring:
   forms_score: 0.2237
   cognates_score: 0.0
   tier: copper
-pinned: false
+pinned: true
 registered_on: '2026-05-20'
-notes: 'auto: forms=diacl (0.22)'
+notes: '2026-11-04 South American isolates batch 2. Primary change: GLED/ASJP LEKO
+  list (41 forms; ASJP cites van de Kerke''s fieldwork with last speakers) replaces
+  DiACL (7 forms), whose rows are preserved as attributed supplements.'

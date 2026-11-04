@@ -1,0 +1,99 @@
+{
+ "date": "2026-11-04",
+ "baseline": "A-2026-11-03",
+ "ledger": "docs/south_america_isolates_2026-11-04_batch2.csv",
+ "constructions": {
+  "puq-puquina": {
+   "forms_before": 0,
+   "forms_after": 39,
+   "concepts_before": 0,
+   "concepts_after": 34,
+   "core_before": 0,
+   "core_after": 32,
+   "status": {
+    "source": 39
+   }
+  },
+  "bet-betoi": {
+   "forms_before": 0,
+   "forms_after": 21,
+   "concepts_before": 0,
+   "concepts_after": 20,
+   "core_before": 0,
+   "core_after": 18,
+   "status": {
+    "source": 21
+   }
+  },
+  "kri-dzubukua": {
+   "forms_before": 0,
+   "forms_after": 611,
+   "concepts_before": 0,
+   "concepts_after": 87,
+   "core_before": 0,
+   "core_after": 51,
+   "status": {
+    "resegmented": 602,
+    "unclean": 9
+   }
+  },
+  "moc-mochica": {
+   "forms_before": 39,
+   "forms_after": 247,
+   "concepts_before": 37,
+   "concepts_after": 175,
+   "core_before": 35,
+   "core_after": 71,
+   "status": {
+    "profile": 208,
+    "source": 39
+   }
+  },
+  "lec-leco": {
+   "forms_before": 7,
+   "forms_after": 48,
+   "concepts_before": 7,
+   "concepts_after": 44,
+   "core_before": 4,
+   "core_after": 39,
+   "status": {
+    "source": 41,
+    "unclean": 7
+   }
+  },
+  "aik-aikana": {
+   "forms_before": 1,
+   "forms_after": 41,
+   "concepts_before": 0,
+   "concepts_after": 39,
+   "core_before": 0,
+   "core_after": 37,
+   "status": {
+    "source": 41
+   }
+  },
+  "taf-taruma": {
+   "forms_before": 1,
+   "forms_after": 17,
+   "concepts_before": 1,
+   "concepts_after": 16,
+   "core_before": 1,
+   "core_after": 16,
+   "status": {
+    "source": 16,
+    "unclean": 1
+   }
+  },
+  "kri-kipea": {
+   "forms_before": 38,
+   "forms_after": 153,
+   "concepts_before": 23,
+   "concepts_after": 123,
+   "core_before": 12,
+   "core_after": 66,
+   "status": {
+    "unclean": 153
+   }
+  }
+ }
+}
