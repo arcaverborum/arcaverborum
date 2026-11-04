@@ -115,7 +115,7 @@ def _write(path: Path, fields: list[str], rows) -> int:
 # ---------------------------------------------------------------- CLDF export
 
 _CLDF_FORMS = ["ID", "Language_ID", "Parameter_ID", "Value", "Form", "Segments", "Comment", "Source",
-               "Loan", "License", "terms_status", "transcription_source", "cognate_source",
+               "source_reference", "Loan", "License", "terms_status", "transcription_source", "cognate_source",
                "source_form_id", "source_parameter_id", "Segments_Source", "quality_score"]
 _CLDF_COGNATES = ["ID", "Form_ID", "Cognateset_ID", "Cognate_Source", "Cognate_Detection_Method",
                   "Alignment", "Segment_Slice", "Morpheme_Index", "Doubt"]
@@ -124,8 +124,41 @@ _CLDF_PARAMETERS = ["ID", "Name", "Concepticon_ID", "pos", "semantic_field", "De
 UNMAPPED = "unmapped"
 
 
+# CLDF list-valued properties: the separator is part of the schema.
+_SEPARATORS = {"Segments": " ", "Source": ";", "Alignment": " "}
+# Columns kept in the export without a CLDF property (no such term in the ontology).
+_NOT_CLDF_TERMS = {"Cognate_Detection_Method", "Doubt"}
+
+
 def _cols(names):
-    return [dict(name=n, **({"propertyUrl": _PROP[n]} if n in _PROP else {})) for n in names]
+    return [dict(name=n, **({"propertyUrl": _PROP[n]} if n in _PROP and n not in _NOT_CLDF_TERMS else {}),
+                 **({"separator": _SEPARATORS[n]} if n in _SEPARATORS else {})) for n in names]
+
+
+def cldf_sources(raw: str, available: set[str]) -> list[str]:
+    """CLDF ``Source`` references for a record's ``bibtex_key``: resolvable keys only.
+
+    Some upstream datasets pack several references into one key
+    (``uralex_JL, MH``); these are split and re-prefixed with the dataset
+    namespace. References that do not resolve to a BibTeX entry are left out
+    of ``Source``; the original string is kept in ``source_reference``.
+    """
+    refs = []
+    for part in (raw or "").split(";"):
+        part = part.strip()
+        if not part:
+            continue
+        base, _, locator = part.partition("[")
+        base = base.strip()
+        candidates = [base]
+        if base not in available and "," in base and "_" in base:
+            prefix = base.split("_", 1)[0] + "_"
+            first, *rest = [b.strip() for b in base.split(",")]
+            candidates = [first] + [r if r.startswith(prefix) else prefix + r for r in rest if r]
+        for key in candidates:
+            if key in available:
+                refs.append(key + (f"[{locator}" if locator else ""))
+    return refs
 
 
 def _cldf_metadata(release_id: str, tier: str) -> dict:
@@ -154,7 +187,11 @@ def _cldf_metadata(release_id: str, tier: str) -> dict:
 
 
 def validate_cldf(cldf_dir: Path) -> dict:
-    """Referential integrity of the CLDF export (no pycldf dependency)."""
+    """Validate the CLDF export: the CLDF specification (pycldf), then referential integrity."""
+    from pycldf import Dataset
+
+    if not Dataset.from_metadata(cldf_dir / "cldf-metadata.json").validate():
+        raise ValueError("CLDF export does not validate against the CLDF specification")
     langs = {r["ID"] for r in _read(cldf_dir / "languages.csv")}
     params = {r["ID"] for r in _read(cldf_dir / "parameters.csv")}
     forms, problems = set(), []
@@ -208,6 +245,10 @@ def build_tier(root: Path, out: Path, release_id: str, tier_name: str, tier: dic
     variety_sources: dict[str, set[str]] = defaultdict(set)
     concepts_used: set[str] = set()
     bib_keys: set[str] = set()
+    from arcaverborum.aggregate import _bibtex_key, _split_bibtex
+
+    bib_entries = _split_bibtex((agg / "sources.bib").read_text(encoding="utf-8"))
+    available_keys = {_bibtex_key(e) for e in bib_entries}
     n_forms = n_cognates = 0
     with (agg / "forms.csv").open(encoding="utf-8", newline="") as fin, \
             (data / "forms.csv").open("w", encoding="utf-8", newline="") as f_native, \
@@ -236,15 +277,15 @@ def build_tier(root: Path, out: Path, release_id: str, tier_name: str, tier: dic
             counts[row["av_id"]] += 1
             per_source[ts] += 1
             segments[row["Segments_Source"]] += 1
-            for key in (row.get("bibtex_key") or "").split(";"):
-                if key.strip():
-                    bib_keys.add(key.split("[", 1)[0].strip())
+            refs = cldf_sources(row.get("bibtex_key", ""), available_keys)
+            bib_keys.update(r.split("[", 1)[0] for r in refs)
             sequence[row["av_id"]] += 1
             form_id = f"{row['av_id']}-{sequence[row['av_id']]:06d}"
             concept = row.get("concept_id") or UNMAPPED
             concepts_used.add(concept)
             w_cldf.writerow(dict(row, ID=form_id, Language_ID=row["av_id"], Parameter_ID=concept,
-                                 Source=row.get("bibtex_key", ""), Form=row.get("Form") or row.get("Value", "")))
+                                 Source=";".join(refs), source_reference=row.get("bibtex_key", ""),
+                                 Form=row.get("Form") or row.get("Value", "")))
             cognacy = (row.get("canonical_cognate_id") or row.get("Cognacy") or "").strip()
             for i, cset in enumerate(sorted({c.strip() for c in cognacy.split(";") if c.strip()})):
                 n_cognates += 1
@@ -295,10 +336,7 @@ def build_tier(root: Path, out: Path, release_id: str, tier_name: str, tier: dic
                             version=t.get("Repository_Version", "")))
     _write(data / "sources.csv", ["source", "records", "license", "terms_status", "title", "citation", "url",
                                   "version"], sources)
-    bib_text = (agg / "sources.bib").read_text(encoding="utf-8")
-    from arcaverborum.aggregate import _bibtex_key, _split_bibtex
-
-    entries = [e for e in _split_bibtex(bib_text) if _bibtex_key(e) in bib_keys]
+    entries = [e for e in bib_entries if _bibtex_key(e) in bib_keys]
     for target in (data / "sources.bib", cldf / "sources.bib"):
         target.write_text("\n\n".join(entries) + ("\n" if entries else ""), encoding="utf-8")
     (cldf / "cldf-metadata.json").write_text(json.dumps(_cldf_metadata(release_id, tier_name), indent=2,
