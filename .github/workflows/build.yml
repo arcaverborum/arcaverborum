@@ -52,7 +52,7 @@ jobs:
           python -c "from arcaverborum.snapshot import unpack; unpack('arcaverborum-$tag-snapshot.tar.gz', '.')"
           echo "tag=$tag" >> "$GITHUB_OUTPUT"
 
-      - name: Validate source extensions
+      - name: Validate source extensions and slice additions
         if: steps.snapshot.outputs.tag != ''
         run: python build.py extensions --check
 
@@ -62,9 +62,9 @@ jobs:
           base=${{ github.event.pull_request.base.sha }}
           touched=$(git diff --name-only "$base"...HEAD -- varieties | cut -d/ -f2 | sort -u | \
                     while read v; do [ -f "varieties/$v/config.yaml" ] && echo "$v"; done)
-          shared=$(git diff --name-only "$base"...HEAD -- src build.py extensions | head -1)
+          shared=$(git diff --name-only "$base"...HEAD -- src build.py extensions slices | head -1)
           if [ -n "$shared" ]; then
-            echo "Build code or source extensions changed: rebuilding everything"
+            echo "Build code, source extensions or slice additions changed: rebuilding everything"
             python build.py update --all
             python build.py aggregate
           elif [ -n "$touched" ]; then

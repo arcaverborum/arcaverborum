@@ -60,7 +60,7 @@ def _intake_paths(source: str = "lexibank") -> dict[str, Path]:
 def _all_intake_sources() -> list[str]:
     """Intake sources present on disk (lexibank always first, committed source extensions last)."""
     sources = []
-    for name in ("lexibank", "wiktionary", "extensions"):
+    for name in ("lexibank", "wiktionary", "slices", "extensions"):
         if (INTAKE_DIR / name / "forms.csv").exists():
             sources.append(name)
     return sources or ["lexibank"]
@@ -68,8 +68,10 @@ def _all_intake_sources() -> list[str]:
 
 def _combined_intake() -> dict[str, list[Path]]:
     """Forms/languages/parameters paths across all present intake sources."""
+    from arcaverborum import slices
     from arcaverborum.extensions import materialize
 
+    slices.materialize(PROJECT_ROOT)
     materialize(PROJECT_ROOT)
     sources = _all_intake_sources()
     return {
@@ -239,9 +241,10 @@ def _git_commit() -> str:
 
 
 def cmd_extensions(args: argparse.Namespace) -> int:
+    from arcaverborum import slices
     from arcaverborum.extensions import datasets, materialize, validate
 
-    problems = validate(PROJECT_ROOT)
+    problems = validate(PROJECT_ROOT) + slices.validate(PROJECT_ROOT)
     for problem in problems:
         logger.error("%s", problem)
     if problems:
@@ -249,6 +252,9 @@ def cmd_extensions(args: argparse.Namespace) -> int:
     names = datasets(PROJECT_ROOT)
     if not args.check:
         materialize(PROJECT_ROOT)
+        slices.materialize(PROJECT_ROOT)
+    if slices.present(PROJECT_ROOT):
+        logger.info("Slice additions valid (slices/lexibank/)")
     logger.info("%d source extensions valid%s", len(names), f": {', '.join(names)}" if names else "")
     return 0
 
