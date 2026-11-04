@@ -1,0 +1,25 @@
+av_id: tln-colan
+name: Colán
+glottocode: cola1238
+family: Tallán
+macroarea: South America
+sources:
+  transcription: martinezcompanon1790
+  cognates: martinezcompanon1790
+  source_language_id: martinezcompanon1790_colan
+extensions:
+  transcriptions: false
+  forms: false
+  cognates: false
+  concept_map: false
+  profile: false
+scoring:
+  forms_score: 0.0
+  cognates_score: 0.0
+  tier: copper
+pinned: true
+registered_on: '2026-11-04'
+notes: '2026-11-04 South American isolates batch 4. First Colán (Tallán) construction:
+  Martínez Compañón''s plan. Colán and Catacaos are neighbouring lists of the same
+  glosses, not independent evidence. Written-only: the source spelling is kept; no
+  reading inferred.'

@@ -1,0 +1,24 @@
+av_id: oti-oti
+name: Oti
+glottocode: otii1244
+family: Oti
+macroarea: South America
+sources:
+  transcription: borba1908
+  cognates: borba1908
+  source_language_id: borba1908_chavante
+extensions:
+  transcriptions: false
+  forms: false
+  cognates: false
+  concept_map: false
+  profile: false
+scoring:
+  forms_score: 0.0
+  cognates_score: 0.0
+  tier: copper
+pinned: true
+registered_on: '2026-11-04'
+notes: '2026-11-04 South American isolates batch 4. First Oti construction: Borba
+  1908 pp. 73-76 (''Chavante'' = Oti, collected 1878); Quadros 1892 as gap fill. Written-only:
+  the source spelling is kept; no reading inferred.'

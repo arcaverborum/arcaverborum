@@ -1,0 +1,24 @@
+av_id: tln-catacaos
+name: Catacaos
+glottocode: cata1293
+family: Tallán
+macroarea: South America
+sources:
+  transcription: martinezcompanon1790
+  cognates: martinezcompanon1790
+  source_language_id: martinezcompanon1790_catacaos
+extensions:
+  transcriptions: false
+  forms: false
+  cognates: false
+  concept_map: false
+  profile: false
+scoring:
+  forms_score: 0.0
+  cognates_score: 0.0
+  tier: copper
+pinned: true
+registered_on: '2026-11-04'
+notes: '2026-11-04 South American isolates batch 4. First Catacaos (Tallán) construction:
+  Martínez Compañón''s plan. Written-only: the source spelling is kept; no reading
+  inferred.'

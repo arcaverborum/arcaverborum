@@ -1,0 +1,24 @@
+av_id: sec-sechuran
+name: Sechuran
+glottocode: sech1236
+family: Sechuran
+macroarea: South America
+sources:
+  transcription: spruce1863
+  cognates: spruce1863
+  source_language_id: spruce1863_sechura
+extensions:
+  transcriptions: false
+  forms: false
+  cognates: false
+  concept_map: false
+  profile: false
+scoring:
+  forms_score: 0.0
+  cognates_score: 0.0
+  tier: copper
+pinned: true
+registered_on: '2026-11-04'
+notes: '2026-11-04 South American isolates batch 4. First Sechuran construction: Spruce''s
+  1863 manuscript as edited by Urban 2015 (CC BY 4.0), original forms only. Written-only:
+  the source spelling is kept; no reading inferred.'

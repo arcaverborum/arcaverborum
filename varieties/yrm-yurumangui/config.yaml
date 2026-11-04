@@ -1,0 +1,25 @@
+av_id: yrm-yurumangui
+name: Yurumanguí
+glottocode: yuru1243
+family: Yurumanguí
+macroarea: South America
+sources:
+  transcription: romero1768
+  cognates: romero1768
+  source_language_id: romero1768_yurumangui
+extensions:
+  transcriptions: false
+  forms: false
+  cognates: false
+  concept_map: false
+  profile: false
+scoring:
+  forms_score: 0.0
+  cognates_score: 0.0
+  tier: copper
+pinned: true
+registered_on: '2026-11-04'
+notes: '2026-11-04 South American isolates batch 4. First Yurumanguí construction:
+  Christoval Romero''s 1768 vocabulary as printed by Rivet 1942, original bracketed
+  forms only (Rivet''s respellings excluded); glosses partly Rivet''s French. Written-only:
+  the source spelling is kept; no reading inferred.'

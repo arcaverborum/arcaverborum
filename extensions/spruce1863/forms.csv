@@ -1,0 +1,32 @@
+ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Loan,Doubt
+spruce1863_sechura_1,spruce1863_sechura,spruce1863_1,Recla,Recla,,Urban 2015: alternative reading reda,spruce1863_spruce1863;spruce1863_urban2015[412],,true
+spruce1863_sechura_2,spruce1863_sechura,spruce1863_2,Cucatama,Cucatama,,,spruce1863_spruce1863;spruce1863_urban2015[412],,
+spruce1863_sechura_3,spruce1863_sechura,spruce1863_3,Ñosma,Ñosma,,,spruce1863_spruce1863;spruce1863_urban2015[412],,
+spruce1863_sechura_4,spruce1863_sechura,spruce1863_4,Tono,Tono,,,spruce1863_spruce1863;spruce1863_urban2015[412],,
+spruce1863_sechura_5,spruce1863_sechura,spruce1863_5,Kilkil,Kilkil,,"earlier editions misread the gloss as ""heart"" (corazón); unclear: alternative reading Kilhil (blind check 2026-11-04; follows Urban 2015)",spruce1863_spruce1863;spruce1863_urban2015[412],,true
+spruce1863_sechura_6,spruce1863_sechura,spruce1863_6,Kon'mpar,Kon'mpar,,apostrophe as written; unclear: alternative reading Kon'mfua (blind check 2026-11-04; follows Urban 2015),spruce1863_spruce1863;spruce1863_urban2015[412],,true
+spruce1863_sechura_7,spruce1863_sechura,spruce1863_7,Ludac,Ludac,,Rivet 1949 and Urban 2019 App. B note an alternative reading luctac/lutac,spruce1863_spruce1863;spruce1863_urban2015[412],,true
+spruce1863_sechura_8,spruce1863_sechura,spruce1863_8,Xuma,Xuma,,,spruce1863_spruce1863;spruce1863_urban2015[412],,
+spruce1863_sechura_9,spruce1863_sechura,spruce1863_9,Teuma,Teuma,,,spruce1863_spruce1863;spruce1863_urban2015[412],,
+spruce1863_sechura_10,spruce1863_sechura,spruce1863_10,Puesa,Puesa,,unclear: alternative reading Fueva (blind check 2026-11-04; follows Urban 2015),spruce1863_spruce1863;spruce1863_urban2015[412],,true
+spruce1863_sechura_11,spruce1863_sechura,spruce1863_11,Lava,Lava,,,spruce1863_spruce1863;spruce1863_urban2015[412],,
+spruce1863_sechura_12,spruce1863_sechura,spruce1863_12,Uchi,Uchi,,,spruce1863_spruce1863;spruce1863_urban2015[412],,
+spruce1863_sechura_13,spruce1863_sechura,spruce1863_13,Chuna,Chuna,,,spruce1863_spruce1863;spruce1863_urban2015[412],,
+spruce1863_sechura_14,spruce1863_sechura,spruce1863_14,Collo,Collo,,,spruce1863_spruce1863;spruce1863_urban2015[412],,
+spruce1863_sechura_15,spruce1863_sechura,spruce1863_15,Tapa,Tapa,,"Urban 2015: alternative reading fapa; earlier editions misread the gloss as ""herring"" (arenque)",spruce1863_spruce1863;spruce1863_urban2015[412],,true
+spruce1863_sechura_16,spruce1863_sechura,spruce1863_16,Xoto,Xoto,,,spruce1863_spruce1863;spruce1863_urban2015[412],,
+spruce1863_sechura_17,spruce1863_sechura,spruce1863_17,Yura,Yura,,"Urban 2015: ""luz"" (or ""ligero""?)",spruce1863_spruce1863;spruce1863_urban2015[413],,
+spruce1863_sechura_18,spruce1863_sechura,spruce1863_18,Llumash,Llumash,,,spruce1863_spruce1863;spruce1863_urban2015[413],,
+spruce1863_sechura_19,spruce1863_sechura,spruce1863_19,Chapru,Chapru,,,spruce1863_spruce1863;spruce1863_urban2015[413],,
+spruce1863_sechura_20,spruce1863_sechura,spruce1863_20,Yuvirma,Yuvirma,,,spruce1863_spruce1863;spruce1863_urban2015[413],,
+spruce1863_sechura_21,spruce1863_sechura,spruce1863_21,Shushca,Shushca,,,spruce1863_spruce1863;spruce1863_urban2015[413],,
+spruce1863_sechura_22,spruce1863_sechura,spruce1863_22,Yé,Yé,,,spruce1863_spruce1863;spruce1863_urban2015[413],,
+spruce1863_sechura_23,spruce1863_sechura,spruce1863_23,Roncho,Roncho,,possibly < Spanish (gall)inazo/(car)ancho per Urban; not flagged,spruce1863_spruce1863;spruce1863_urban2015[413],,
+spruce1863_sechura_24,spruce1863_sechura,spruce1863_24,Coyu roro,Coyu roro,,"cf. Plan Sechura roro ""mar""",spruce1863_spruce1863;spruce1863_urban2015[413],,
+spruce1863_sechura_25,spruce1863_sechura,spruce1863_25,Sono,Sono,,Urban 2015: alternative reading suno,spruce1863_spruce1863;spruce1863_urban2015[413],,true
+spruce1863_sechura_26,spruce1863_sechura,spruce1863_26,Ñash,Ñash,,,spruce1863_spruce1863;spruce1863_urban2015[413],,
+spruce1863_sechura_27,spruce1863_sechura,spruce1863_27,Re,Re,,"earlier editions misread the gloss as ""house"" (casa)",spruce1863_spruce1863;spruce1863_urban2015[413],,
+spruce1863_sechura_28,spruce1863_sechura,spruce1863_28,Taholma,Taholma,,,spruce1863_spruce1863;spruce1863_urban2015[413],,
+spruce1863_sechura_29,spruce1863_sechura,spruce1863_29,Pillacala,Pillacala,,,spruce1863_spruce1863;spruce1863_urban2015[413],,
+spruce1863_sechura_30,spruce1863_sechura,spruce1863_30,Ratichma,Ratichma,,written vertically in the right margin; Urban 2015: alternative reading rutichma,spruce1863_spruce1863;spruce1863_urban2015[413],,true
+spruce1863_sechura_31,spruce1863_sechura,spruce1863_31,Naminma,Naminma,,"written vertically in the right margin; Urban 2015: i undotted, possible apostrophe over the second m",spruce1863_spruce1863;spruce1863_urban2015[413],,true
