@@ -1,7 +1,8 @@
 # Current project state
 
 **Baseline for schema A (carried over from `tresoldi/arcaverborum`, 2026-11-02).**
-Curation is frozen until release `A` is published; see [LAUNCH](LAUNCH.md).
+Release `A-2026-11-03` is published and curation has resumed; the table is the
+release A baseline. Changes since: [South American isolates](SOUTH_AMERICA_ISOLATES_2026-11-04.md).
 
 | Measure | Accepted value |
 | --- | ---: |

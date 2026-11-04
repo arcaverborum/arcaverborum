@@ -23,3 +23,14 @@ construction:
   cognates:
     source: source-scoped
     notes: No cross-source inference; Jê study automatic IDs are raw provenance only.
+south_america_isolates_2026_11_04:
+  status: draft
+  report: ../../docs/SOUTH_AMERICA_ISOLATES_2026-11-04.md
+  ledger: ../../docs/south_america_isolates_2026-11-04_supplements.csv
+  primary: huntergatherer
+  forms: 1050
+  concepts: 961
+  supported_core: 148
+  supplement_members:
+    idssegmented_yuwana: 733
+  preservation: All release A records retained; gap fills only; source-scoped cognacy.

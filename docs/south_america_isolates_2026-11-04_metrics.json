@@ -1,0 +1,90 @@
+{
+ "date": "2026-11-04",
+ "baseline": "A-2026-11-03",
+ "ledger": "docs/south_america_isolates_2026-11-04_supplements.csv",
+ "constructions": {
+  "cam-camsa": {
+   "forms_before": 234,
+   "forms_after": 371,
+   "concepts_before": 222,
+   "concepts_after": 350,
+   "core_before": 146,
+   "core_after": 146,
+   "added_forms": 137,
+   "members": {
+    "hubercolumbian_Kamsa": 137
+   }
+  },
+  "hot-hoti": {
+   "forms_before": 317,
+   "forms_after": 1050,
+   "concepts_before": 268,
+   "concepts_after": 961,
+   "core_before": 148,
+   "core_after": 148,
+   "added_forms": 733,
+   "members": {
+    "idssegmented_yuwana": 733
+   }
+  },
+  "pue-puelche": {
+   "forms_before": 319,
+   "forms_after": 844,
+   "concepts_before": 262,
+   "concepts_after": 771,
+   "core_before": 145,
+   "core_after": 145,
+   "added_forms": 525,
+   "members": {
+    "idssegmented_gununakune": 525
+   }
+  },
+  "pui-puinave": {
+   "forms_before": 346,
+   "forms_after": 1282,
+   "concepts_before": 316,
+   "concepts_after": 1164,
+   "core_before": 159,
+   "core_after": 159,
+   "added_forms": 936,
+   "members": {
+    "idssegmented_puinave": 877,
+    "hubercolumbian_Puinave": 59
+   }
+  }
+ },
+ "totals": {
+  "forms_before": 1216,
+  "forms_after": 3547,
+  "concepts_before": 1068,
+  "concepts_after": 3246,
+  "core_before": 598,
+  "core_after": 598,
+  "added_forms": 2331
+ },
+ "ledger_decisions": {
+  "hold": 153,
+  "admit": 2331
+ },
+ "hold_reasons": {
+  "Overlapping concept: the hubercolumbian member is admitted instead; a second source is not": 51,
+  "Pair review: A paddle is not an oar fixed in an oarlock; directional approximation not adm": 2,
+  "Pair review: Unqualified cane does not establish sugar cane.": 1,
+  "Pair review: Source sense is the top of the head; the frozen concept is a royal headdress.": 1,
+  "Pair review: Source rattle (likely a gourd/ritual rattle) is not established as the frozen": 1,
+  "Pair review: Frozen concept is wind blowing; the source may elicit blowing with the mouth.": 2,
+  "Pair review: Frozen spa-leaf is a leaf-shaped object (e.g. paper); a plant leaf belongs to": 2,
+  "Earlier batch held this exact source form; its recorded reason stands.": 12,
+  "Overlapping concept: the idssegmented member is admitted instead; a second source is not a": 81
+ },
+ "deferred_snapshot_slices": [
+  "cof-cofan",
+  "mov-movima",
+  "pae-paez",
+  "pum-pume",
+  "tru-trumai",
+  "ura-urarina",
+  "wao-waorani",
+  "war-warao"
+ ]
+}
