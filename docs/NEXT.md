@@ -3,8 +3,9 @@
 ## ACTIVE — South American isolates (2026-11-04, reviewing)
 
 Requested by the user: extend coverage for South America, especially all its
-isolates. [Report](SOUTH_AMERICA_ISOLATES_2026-11-04.md). Track 1 (gap fills
-from snapshot sources: 5,913 forms in 12 constructions) is complete. Track 2
+isolates. [Report](SOUTH_AMERICA_ISOLATES_2026-11-04.md). Track 1 admits 2,331 gap-fill
+forms in four constructions; eight more (3,582 reviewed forms) wait for their
+intake slices to be addable to a pull request or a new snapshot. Track 2
 (original sources for the 21 missing and 15 thin isolates) is in research.
 
 ## Organization launch and schema-A release (2026-11-02)

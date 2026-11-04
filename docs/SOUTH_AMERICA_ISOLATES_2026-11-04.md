@@ -6,33 +6,35 @@ them; 21 have no construction, and 15 covered ones have fewer than 100 records.
 
 ## Track 1: gap fills from sources already in the snapshot
 
-Twelve isolate constructions gain **5,913 forms**: 4,518 → 9,910 concepts and
-1,663 → 1,772 supported core slots. All added rows carry segments supplied by
-their source (`Segments_Source = source`). No earlier record was lost (checked
-per construction by source form and concept). Primary sources, their cognacy and
-all release A evidence are unchanged; supplements fill only concepts the
-construction lacked. Per-construction counts are in the
+Four isolate constructions gain **2,331 forms**: 1,068 → 3,246 concepts. The
+additions are all outside the 161-concept core, which these four already cover
+well (598 supported core slots, unchanged). Every added row carries segments
+supplied by its source (`Segments_Source = source`). No earlier record was lost
+(checked per construction by source form and concept). Primary sources, their
+cognacy and all release A evidence are unchanged; supplements fill only
+concepts the construction lacked. Per-construction counts are in the
 [metrics](south_america_isolates_2026-11-04_metrics.json).
 
 | Construction | Forms | Concepts | Core | Added from |
 | --- | ---: | ---: | ---: | --- |
-| Cofán | 345 → 1,488 | 297 → 1,177 | 133 → 140 | IDS 254 (Borman) |
-| Páez | 336 → 1,376 | 304 → 1,265 | 133 → 158 | IDS 244 (Gerdel); Huber and Reed 1992; Joo |
 | Puinave | 346 → 1,282 | 316 → 1,164 | 159 → 159 | IDS 249 (Richardson); Huber and Reed 1992 |
-| Pumé | 312 → 1,212 | 274 → 1,149 | 127 → 138 | IDS 251 (Dyck and Dyck) |
 | Hoti | 317 → 1,050 | 268 → 961 | 148 → 148 | IDS 250 (Rodman and Rodman) |
 | Puelche | 319 → 844 | 262 → 771 | 145 → 145 | IDS 312 (Casamiquela and Viegas Barros) |
-| Movima | 320 → 597 | 295 → 572 | 135 → 153 | Blum et al. Pano-Tacanan (from IDS) |
 | Camsá | 234 → 371 | 222 → 350 | 146 → 146 | Huber and Reed 1992 |
-| Urarina | 298 → 355 | 264 → 320 | 129 → 149 | NorthPeruLex (Peña 2023 fieldwork) |
-| Waorani | 1,230 → 1,299 | 1,196 → 1,265 | 147 → 156 | Hunter-Gatherer database |
-| Trumai | 682 → 725 | 562 → 605 | 135 → 142 | Hunter-Gatherer database |
-| Warao | 316 → 369 | 258 → 311 | 126 → 138 | Hunter-Gatherer database; Joo |
+
+**Eight more constructions are reviewed but not admitted yet.** The same review
+admits 3,582 forms for Cofán, Páez, Pumé, Movima, Urarina, Waorani, Trumai and
+Warao (core 1,065 → 1,174 across the eight). Their source slices, for example IDS
+Cofán, are not in the A-2026-11-03 accepted-inputs snapshot: a snapshot holds
+only the (language, dataset) slices that accepted constructions declared when
+the release was cut, so a pull request cannot rebuild them, and a source
+extension cannot carry rows of an existing dataset. They wait for a way to add
+intake slices of existing datasets to a pull request, or for the next snapshot.
 
 ### Decision rules
 
-The [ledger](south_america_isolates_2026-11-04_supplements.csv) records 5,913
-admissions and 444 holds, each with its reason. It was compiled with
+The [ledger](south_america_isolates_2026-11-04_supplements.csv) records the four
+admitted constructions: 2,331 admissions and 153 holds, each with its reason. It was compiled with
 `scripts/compile_supplements.py`, which guards spelling, source sense, member
 and evidence hash.
 

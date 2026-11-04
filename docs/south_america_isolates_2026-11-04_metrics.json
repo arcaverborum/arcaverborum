@@ -15,18 +15,6 @@
     "hubercolumbian_Kamsa": 137
    }
   },
-  "cof-cofan": {
-   "forms_before": 345,
-   "forms_after": 1488,
-   "concepts_before": 297,
-   "concepts_after": 1177,
-   "core_before": 133,
-   "core_after": 140,
-   "added_forms": 1143,
-   "members": {
-    "idssegmented_cofan": 1143
-   }
-  },
   "hot-hoti": {
    "forms_before": 317,
    "forms_after": 1050,
@@ -37,32 +25,6 @@
    "added_forms": 733,
    "members": {
     "idssegmented_yuwana": 733
-   }
-  },
-  "mov-movima": {
-   "forms_before": 320,
-   "forms_after": 597,
-   "concepts_before": 295,
-   "concepts_after": 572,
-   "core_before": 135,
-   "core_after": 153,
-   "added_forms": 277,
-   "members": {
-    "blumpanotacana_Movima": 277
-   }
-  },
-  "pae-paez": {
-   "forms_before": 336,
-   "forms_after": 1376,
-   "concepts_before": 304,
-   "concepts_after": 1265,
-   "core_before": 133,
-   "core_after": 158,
-   "added_forms": 1040,
-   "members": {
-    "idssegmented_paez": 945,
-    "hubercolumbian_Paez": 90,
-    "joophonosemantic_Paez": 5
    }
   },
   "pue-puelche": {
@@ -89,95 +51,40 @@
     "idssegmented_puinave": 877,
     "hubercolumbian_Puinave": 59
    }
-  },
-  "pum-pume": {
-   "forms_before": 312,
-   "forms_after": 1212,
-   "concepts_before": 274,
-   "concepts_after": 1149,
-   "core_before": 127,
-   "core_after": 138,
-   "added_forms": 900,
-   "members": {
-    "idssegmented_yaruro": 900
-   }
-  },
-  "tru-trumai": {
-   "forms_before": 682,
-   "forms_after": 725,
-   "concepts_before": 562,
-   "concepts_after": 605,
-   "core_before": 135,
-   "core_after": 142,
-   "added_forms": 43,
-   "members": {
-    "huntergatherer_382": 43
-   }
-  },
-  "ura-urarina": {
-   "forms_before": 298,
-   "forms_after": 355,
-   "concepts_before": 264,
-   "concepts_after": 320,
-   "core_before": 129,
-   "core_after": 149,
-   "added_forms": 57,
-   "members": {
-    "northperulex_Urarina": 57
-   }
-  },
-  "wao-waorani": {
-   "forms_before": 1230,
-   "forms_after": 1299,
-   "concepts_before": 1196,
-   "concepts_after": 1265,
-   "core_before": 147,
-   "core_after": 156,
-   "added_forms": 69,
-   "members": {
-    "huntergatherer_103": 69
-   }
-  },
-  "war-warao": {
-   "forms_before": 316,
-   "forms_after": 369,
-   "concepts_before": 258,
-   "concepts_after": 311,
-   "core_before": 126,
-   "core_after": 138,
-   "added_forms": 53,
-   "members": {
-    "huntergatherer_113": 40,
-    "joophonosemantic_Warao": 13
-   }
   }
  },
  "totals": {
-  "forms_before": 5055,
-  "forms_after": 10968,
-  "concepts_before": 4518,
-  "concepts_after": 9910,
-  "core_before": 1663,
-  "core_after": 1772,
-  "added_forms": 5913
+  "forms_before": 1216,
+  "forms_after": 3547,
+  "concepts_before": 1068,
+  "concepts_after": 3246,
+  "core_before": 598,
+  "core_after": 598,
+  "added_forms": 2331
  },
  "ledger_decisions": {
-  "hold": 444,
-  "admit": 5913
+  "hold": 153,
+  "admit": 2331
  },
  "hold_reasons": {
-  "Overlapping concept: the hubercolumbian member is admitted instead": 77,
-  "Pair review: A paddle is not an oar fixed in an oarlock": 2,
+  "Overlapping concept: the hubercolumbian member is admitted instead; a second source is not": 51,
+  "Pair review: A paddle is not an oar fixed in an oarlock; directional approximation not adm": 2,
   "Pair review: Unqualified cane does not establish sugar cane.": 1,
-  "Pair review: Source sense is the top of the head": 2,
+  "Pair review: Source sense is the top of the head; the frozen concept is a royal headdress.": 1,
   "Pair review: Source rattle (likely a gourd/ritual rattle) is not established as the frozen": 1,
-  "Pair review: Frozen concept is wind blowing": 3,
-  "Pair review: Frozen spa-leaf is a leaf-shaped object (e.g. paper)": 3,
-  "Row cites Johansson (2021), the CLDF version of Johansson et al. (2020) sound-symbolism da": 75,
-  "Earlier batch held this source sense for this concept in the same source (scope not establ": 57,
-  "Earlier batch held this exact source form": 12,
-  "Overlapping concept: the idssegmented member is admitted instead": 209,
-  "Overlapping concept: the huntergatherer member is admitted instead": 1,
-  "Unqualified source gloss does not establish the narrower frozen concept": 1
- }
+  "Pair review: Frozen concept is wind blowing; the source may elicit blowing with the mouth.": 2,
+  "Pair review: Frozen spa-leaf is a leaf-shaped object (e.g. paper); a plant leaf belongs to": 2,
+  "Earlier batch held this exact source form; its recorded reason stands.": 12,
+  "Overlapping concept: the idssegmented member is admitted instead; a second source is not a": 81
+ },
+ "deferred_snapshot_slices": [
+  "cof-cofan",
+  "mov-movima",
+  "pae-paez",
+  "pum-pume",
+  "tru-trumai",
+  "ura-urarina",
+  "wao-waorani",
+  "war-warao"
+ ]
 }
