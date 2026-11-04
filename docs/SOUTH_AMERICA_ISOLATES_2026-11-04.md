@@ -22,14 +22,26 @@ concepts the construction lacked. Per-construction counts are in the
 | Puelche | 319 → 844 | 262 → 771 | 145 → 145 | IDS 312 (Casamiquela and Viegas Barros) |
 | Camsá | 234 → 371 | 222 → 350 | 146 → 146 | Huber and Reed 1992 |
 
-**Eight more constructions are reviewed but not admitted yet.** The same review
+**Eight more constructions, admitted through slice additions.** The same review
 admits 3,582 forms for Cofán, Páez, Pumé, Movima, Urarina, Waorani, Trumai and
-Warao (core 1,065 → 1,174 across the eight). Their source slices, for example IDS
-Cofán, are not in the A-2026-11-03 accepted-inputs snapshot: a snapshot holds
-only the (language, dataset) slices that accepted constructions declared when
-the release was cut, so a pull request cannot rebuild them, and a source
-extension cannot carry rows of an existing dataset. They wait for a way to add
-intake slices of existing datasets to a pull request, or for the next snapshot.
+Warao (core 1,065 → 1,174 across the eight; see the
+[ledger](south_america_isolates_2026-11-04_slices.csv)). Their intake groups
+(IDS Cofán and others) are not in the A-2026-11-03 snapshot, so they are
+committed as slice additions (`slices/lexibank/`: 11 whole groups, 5,732 intake
+rows, pinned to the intake dataset versions). A clean checkout with only the
+snapshot and these slices rebuilds the eight byte-identically to the full
+workspace.
+
+| Construction | Forms | Concepts | Core |
+| --- | ---: | ---: | ---: |
+| Cofán | 345 → 1,488 | 297 → 1,177 | 133 → 140 |
+| Páez | 336 → 1,376 | 304 → 1,265 | 133 → 158 |
+| Pumé | 312 → 1,212 | 274 → 1,149 | 127 → 138 |
+| Movima | 320 → 597 | 295 → 572 | 135 → 153 |
+| Urarina | 298 → 355 | 264 → 320 | 129 → 149 |
+| Waorani | 1,230 → 1,299 | 1,196 → 1,265 | 147 → 156 |
+| Trumai | 682 → 725 | 562 → 605 | 135 → 142 |
+| Warao | 316 → 369 | 258 → 311 | 126 → 138 |
 
 ### Decision rules
 
