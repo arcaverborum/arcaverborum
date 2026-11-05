@@ -8,7 +8,7 @@ sources:
   cognates: jahn1927
   source_language_id: jahn1927_jirajara
 extensions:
-  transcriptions: false
+  transcriptions: true
   forms: false
   cognates: false
   concept_map: false
@@ -19,6 +19,7 @@ scoring:
   tier: copper
 pinned: true
 registered_on: '2026-11-04'
-notes: '2026-11-04 South American isolates batch 3. First Jirajara construction: Jahn
-  1927 (Siquisique list after Párraga c. 1880). Written-only: the source spelling
-  is kept; no reading inferred.'
+notes: '2026-11-04 South American isolates batch 3. First Jirajara construction: Jahn 1927 (Siquisique
+  list after Párraga c. 1880). Profile review 2026-11-05: Profile held: Jahn 1927 pp. 339, 379, 388
+  do not establish that the Ayomán key applies to Párraga''s Siquisique spelling. Guarded written-only
+  evidence; no reading inferred.'

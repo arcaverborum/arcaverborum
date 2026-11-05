@@ -9,9 +9,17 @@ Remaining:
 
 1. **Held identities/stages:** Pankararú (Macarú identity), Aguirre 1793
    Payaguá as its own historical construction, Freitez Pineda's Ayamán rows.
-2. **Profiles:** Jahn's and Koch-Grünberg's documented notations, Boggiani's
-   key and Nimuendajú's could support reviewed orthographic profiles; until
-   then those lists are written-only.
+2. **Profiles — reviewed 2026-11-05:** Koch-Grünberg's explicit adoption of
+   Schmidt 1907's Anthropos key is now reviewed: **Awake 228/328**, **Máku
+   supplements 188/260**, **Sapé supplements 78/113** gain complete readings.
+   KG's own/local notes take precedence; intermediate/reduced values,
+   parentheses, uncertain glyphs and a/o + accented i/u diphthongs (nucleus
+   not stated) remain held. Exact supplement keys and
+   per-admission SHA256 guards protect other sources. Jahn/Boggiani/Nimuendajú
+   round-one decisions are unchanged, including Payaguá `S → z`, five guarded
+   written primaries and the removal of 746 accidental generic readings.
+   [Review and counts](SOUTH_AMERICA_ISOLATES_2026-11-04.md#profiles-reviewed-2026-11-05),
+   [remaining evidence](planning/HELD.md#south-american-isolate-profiles-2026-11-05).
 3. **Blocked sources:** Chono, Mure, Ramanos, Tinigua (to 2031), Silva 2012
    Aikanã (rights), Meader's SIL lists (rights), Farabee 1918 Taruma (no scan
    reachable), La Grasserie 1894 Puquina (no scan).

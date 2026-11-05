@@ -12,14 +12,17 @@ extensions:
   forms: false
   cognates: false
   concept_map: false
-  profile: false
+  profile: true
 scoring:
   forms_score: 0.0
   cognates_score: 0.0
   tier: copper
 pinned: true
 registered_on: '2026-11-04'
-notes: '2026-11-04 South American isolates batch 3. Historical Auaké (Awake) sample:
-  Koch-Grünberg 1928, vol. IV pp. 308-313 (recorded 1911-13), in his phonetic notation.
-  Separate from the modern Arutani construction. Written-only: the source spelling
-  is kept; no reading inferred.'
+notes: '2026-11-04 South American isolates batch 3. Historical Auaké (Awake) sample: Koch-Grünberg
+  1928, vol. IV pp. 308-313 (recorded 1911-13), in his phonetic notation. Separate from the modern
+  Arutani construction. Profile review 2026-11-05: Reviewed profile: Koch-Grünberg 1928 IV pp. 2-3
+  and local notes override his explicitly adopted Schmidt 1907 Anthropos alphabet (pp. 540-584, 848-880,
+  consonant conspectus after p. 1098). Nasality, quantity, nucleus stress and boundaries are retained;
+  plain o uses KG''s stated typical open value. Parenthesized reductions, reduced/intermediate or
+  uncertain glyph values and local exceptional readings remain unresolved.'

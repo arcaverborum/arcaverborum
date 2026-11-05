@@ -208,3 +208,84 @@ Held: Pankararú (the "Macarú = Pankararú" identity is unsettled), Aguirre's
 Payaguá (separate stage), Chono (no usable glossed source), Mure (prayers only),
 Ramanos (8 words, copyrighted edition only) and Tinigua (Castellví 1940 in
 copyright to 2031).
+
+## Profiles — reviewed 2026-11-05
+
+Round 1 reviewed the acquired author keys; round 2 follows the maintainer's
+acceptance of Koch-Grünberg's p. 2 explicit adoption of P. W. Schmidt, *Die
+Sprachlaute und ihre Darstellung in einem allgemeinen linguistischen Alphabet*,
+*Anthropos*2 (1907). Schmidt's original PDF is pinned at SHA256
+`d8baff851d819dc40e581642dda6e76d4f3d192f97aebd3ffb20c78083822552`.
+Printed glyphs were read from page renders: vowels/diacritics pp. 540–584,
+consonants pp. 848–880 and the unnumbered consonant conspectus after p. 1098
+(PDF p. 1289). KG IV pp. 2–3 and every local note in pp. 308–324 were also
+inspected. KG's own/local statements override the identical-glyph Anthropos
+value. This supersedes the earlier KG missing-base-alphabet hold; the other
+round-one decisions remain unchanged.
+
+| Source | Primary fully profiled / source rows | Supplement fully profiled / admitted source rows |
+| --- | --- | --- |
+| Jahn 1927 | Ayomán 0/263; Jirajara 0/96; Gayón 0/72; Timote 0/350 | — |
+| Koch-Grünberg 1928 | Awake **228/328** (round 1: 0) | Máku **188/260**; Sapé **78/113** (round 1: 0 each) |
+| Boggiani 1900 | Payaguá 1/515 | — |
+| Nimuendajú 1925 | Matanawí 0/353 | — |
+| Nimuendajú 1949 | Xukurú 0/21 | — |
+| Nimuendajú 1935 | — | Fulniô 0/9; Xukurú 0/8 |
+
+The KG profile retains vowel nasality, colon/macron quantity, very-short breve,
+nonsyllabic arc, nucleus-attached stress and analytical/word boundaries. Plain
+`o` uses KG's stated **typical** open `ɔ` value; this is not a claim about every
+surface realization. Schmidt's A degrees remain distinct (`a→ä`, `ạ→a`,
+`a̱→ɑ`); underlined `u̱→ʊ` has an identical-glyph value in Schmidt compatible
+with KG's u–o interval. Explicit KG `e̱→ɛ`, `w→w`, `y→j`, rolled `r`,
+`x→x`, `x̭→ç` and apostrophe→ʔ take precedence. Reduced ẹ is not Schmidt's
+ordinary closed e. Intermediate fʰ/z̭, uncertain ĺ/ị and local palate/hesitation /
+indistinct-vowel readings remain unresolved. Parentheses denote strongly reduced
+sounds; the existing profile machinery provides no corresponding convention,
+so their forms stay written. No mark is silently deleted and no value is
+borrowed from later language scholarship. KG p. 3 says a/o followed by an accented i/u is a diphthong (even across a hyphen) but not which member is the nucleus; Schmidt §242 (unaccented member nonsyllabic) would contradict KG's equivalent arc notation, and a hiatus reading would contradict KG. These forms are held as exact whole-form guards.
+
+Awake uses a primary profile with 110 finite rules plus 39 exact empty
+whole-form guards (34 of them the diphthong hold). Converted Máku/Sapé admissions use separate exact `^Form$`
+supplement profiles, with a per-admission file SHA256; only 188/78 rows clear
+`orthographic_only`. The remaining 72/35 KG admissions retain it. Other-source
+primary/supplement readings and evidence hashes remain unchanged. Unknown
+notation counts (occurrences, not distinct forms) are:
+
+| Scope | Unmapped units and occurrence counts | Additional local whole-form holds |
+| --- | --- | --- |
+| Awake | `(`65, `)`65, `ĺ`1, `ẹ`2, `ẹ́`1, `ị`1 | 39: 34 a/o + accented i/u diphthongs; final-vowel notes pp. 311/313 and three-dash notation |
+| Máku KG supplements | `(`57, `)`57, `z̭`9, `·`1, `ʰ`2 (within fʰ), `ẹ`12, `ẹ́`2 | 3: two a/o + accented i/u diphthongs; hesitant ai, p. 321 fn1 |
+| Sapé KG supplements | `(`9, `)`9, `:`3 (after unsupported ẹ clusters), `ẹ`8, `ẹ́`9, `ẹ̃`8, `ẹ̃́`2 | 11: ten a/o + accented i/u diphthongs; palate-specific u, p. 314 fn2 |
+
+Jahn's p. 379 key remains scoped to Ayomán (`sh→ʃ` only). His p. 339
+introduction allows different conventions; Párraga/Siquisique Jirajara and
+Gayón do not explicitly adopt that key. Timote retains Urrecheaga's spelling
+(p. 326). These three remain guarded written-only. Ayomán's selector excludes
+all 58 Oramas and four Freitez Pineda rows; no admission or identity changed.
+Nimuendajú's 1925 p. 148 Torá table is not established for Matanawí; its local
+hooked-stress notes supply no full key. The 1935 typescript and 1949 printing
+have no applicable authorial key. Matanawí/Xukurú retain their written guards.
+Boggiani's eight comparisons, including initial-capital equivalents, still
+cover only the unmapped first-person prefix `S→z`; its affix sense is unchanged.
+
+Reproduce with `scripts/sa_isolates_profile.py --write --review-output PATH`.
+The private handoff directory `work/sa-isolates/profiles/kochgrunberg1928.md`
+contains both sources' exact page/image locations, transcribed table,
+per-grapheme justification, counts and ten samples per variety. Other per-source
+packets are preserved. `REPORT.md` gives the current closure; historical round 1
+packets and its verification remain separate.
+
+Round2: all three affected CLI builds passed (891 output rows); full pytest
+**661 passed**, exit 0 (99 pre-existing warnings), using existing optional CLDF
+test support. Intake rebuilding was explicitly blocked before writes. Stable-ID
+comparison proves every form, value, concept, identity, loan, provenance and
+cognacy field unchanged, except converted supplements' explicit reading-provenance
+comments. Only 494 new `Segments`/`Segments_Source` pairs change. The existing
+supplement mechanism regroups rows by profile file, so Máku/Sapé CSV row order
+changes; Awake order does not. All other-source rows are byte-equivalent as
+records. Compiler rerun is byte-idempotent; Ruff/whitespace checks pass. Intake
+size/inode/mtime and `extensions/`, `slices/`, `src/` are unchanged. No aggregate /
+site refresh, commit, push or PR was made. Round1's removal of 746 accidental
+generic tokenizer readings remains intact. Remaining gates are in
+[HELD](planning/HELD.md#south-american-isolate-profiles-2026-11-05).
