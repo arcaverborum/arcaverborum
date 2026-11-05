@@ -1,5 +1,30 @@
 # Held work and reopening evidence
 
+## South American isolate profiles — 2026-11-05
+
+[Author-key review](../SOUTH_AMERICA_ISOLATES_2026-11-04.md#profiles-reviewed-2026-11-05)
+is complete within the acquired evidence. Round 2 reviewed the **explicitly
+adopted Schmidt 1907 Anthropos alphabet** against its page images, superseding
+the earlier KG missing-base-alphabet hold. Awake 228, Máku 188 and Sapé 78 complete
+KG readings are installed; Payaguá's first-person prefix `S → z` retains its
+round-one reading. Completed scopes are not broad-profile tasks to repeat.
+
+| Source/scope | Evidence needed to reopen |
+| --- | --- |
+| Jahn's Ayomán | Authorial values for undefined ordinary letters/accents, resolution of h and ch comparisons and German vowel quality/quantity. |
+| Jirajara (Párraga/Siquisique), Gayón, Timote | Exact notation authority for each list; Ayomán p. 379 is not a blanket key. Timote retains Urrecheaga's spelling per p. 326. |
+| Oramas / Freitez Pineda | Independently scoped notation and identity/admission review; neither receives Jahn's Ayomán profile. |
+| Koch-Grünberg IV, remaining 100 Awake / 72 Máku / 35 Sapé KG rows | Which member of an a/o + accented i/u diphthong (KG p. 3) is the nucleus; Defined treatment of parenthesized strong reductions; unique values for reduced ẹ clusters, intermediate fʰ/z̭ and unresolved ĺ/ị glyphs; exact local readings for indistinct final vowels (pp. 311/313), palate-specific u (p. 314), hesitant ai (p. 321) and nonordinary punctuation. Keep uncertain source glyph comments. KG pp. 2–3/local notes override Schmidt; typical plain o→ɔ is implemented, and the original Anthropos alphabet gate is closed. |
+| Boggiani | Complete authorial base alphabet and resolution of th, guttural/blended consonants, ambiguous vowel qualities, syncopation and reduced typography; restore near-mute italic distinctions before broadening readings. |
+| Nimuendajú 1925 Matanawí | Establish whether the p. 148 Torá table applies to Matanawí; resolve the local hooked-stress convention and missing base/diacritic values. |
+| Nimuendajú 1935 / 1949 | An authorial key explicitly applicable to the typescript / Loukotka printing; sufficient image evidence for uncertain diacritics. Do not borrow an alphabet across sources/dates/languages. |
+
+The supplemental exact-form/hash mechanism now converts 278 KG admissions;
+only these clear `orthographic_only`. Remaining KG admissions and all Fulniô /
+Xukurú Nimuendajú supplements retain written-only guards. Other-source primaries
+keep their own notation. No new sense/identity admission or independent
+confirmation is claimed by adopting a notation table.
+
 **NXT closure gates,2026-11-02:** [execution](https://github.com/tresoldi/arcaverborum/blob/7d76a4486/docs/research/NXT_EXECUTION_2026-11-02.md).
 The seven BECAUSE OF/BEAD/husband-side kinship/A LITTLE definition cases are
 resolved from native lineage without lexical remapping. The573 exposed lexical
@@ -119,7 +144,7 @@ Full RefLex remaining edition transport and other Wiktionary edition intake are 
 
 Four exact Laklãnõ profiles are complete, with364 other records guarded. Extend only with original matching conventions; no generic modern profile across all DIACL records. Kaingang nasal-loss/Phi conversion cases remain held;12 reviewed additions are complete. Puelche21/Mbyá11/Tehuelche6 additions are complete. Haush/Teushen still need readable lexical source pages, not inventory metadata or a new proposed family.
 
-Historical CHIRILA230,182-row20-field private staging is complete, with malformed final record and duplicates explicit. Public transformed export and exact-edition attribution remain unresolved; no blanket ban on technical conversion is asserted. Nukunu/Hercus, separate Breen Mayi samples and Black Koko-Bera require original lexical payload/reuse basis. Curr159 Dawson/Burnett historical identity is disputed in the original.29 Bunce Lower Yarra written citations supplement all58 prior GLED; no historical IPA or primary promotion inferred.64 absent-code members remain metadata leads; seven manual accepted-identity comparisons show why old codes/aliases cannot be counted blindly.2025 Dataverse Guestbook/restrictions remain separate; no form/contact/application was submitted.
+Historical CHIRILA230,182-row20-field private staging is complete, with malformed final record and duplicates explicit. Public transformed export and exact-edition attribution remain unresolved; no blanket ban on technical conversion is asserted. Nukunu/Hercus, separate Breen Mayi samples and Black Koko-Bera require original lexical payload/reuse basis. Curr159 Dawson/Burnett historical identity is disputed in the original.29 Bunce Lower Yarra written citations supplement all 58 prior GLED; no historical IPA or primary promotion inferred.64 absent-code members remain metadata leads; seven manual accepted-identity comparisons show why old codes/aliases cannot be counted blindly.2025 Dataverse Guestbook/restrictions remain separate; no form/contact/application was submitted.
 
 ## S01–S09 original-source closure —2026-10-30
 

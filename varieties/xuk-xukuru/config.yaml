@@ -8,7 +8,7 @@ sources:
   cognates: nimuendaju1949
   source_language_id: nimuendaju1949_sukuru
 extensions:
-  transcriptions: false
+  transcriptions: true
   forms: false
   cognates: false
   concept_map: false
@@ -19,6 +19,7 @@ scoring:
   tier: copper
 pinned: true
 registered_on: '2026-11-04'
-notes: '2026-11-04 South American isolates batch 4. First Xukurú construction: Nimuendajú''s
-  forms as printed by Loukotka 1949; his 1935 typescript as gap fill. Written-only:
-  the source spelling is kept; no reading inferred.'
+notes: '2026-11-04 South American isolates batch 4. First Xukurú construction: Nimuendajú''s forms
+  as printed by Loukotka 1949; his 1935 typescript as gap fill. Profile review 2026-11-05: Profile
+  held: Nimuendajú''s forms printed by Loukotka 1949 pp. 79-80 and the 1935 typescript have no applicable
+  authorial notation key. Guarded written-only evidence; no later or cross-source alphabet inferred.'

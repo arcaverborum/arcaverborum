@@ -12,14 +12,15 @@ extensions:
   forms: false
   cognates: false
   concept_map: false
-  profile: false
+  profile: true
 scoring:
   forms_score: 0.0
   cognates_score: 0.0
   tier: copper
 pinned: true
 registered_on: '2026-11-04'
-notes: '2026-11-04 South American isolates batch 4. First Payaguá construction: Boggiani
-  1900, with his spelling key in the extension README. Aguirre 1793 (older stage)
-  is held for a separate construction. Written-only: the source spelling is kept;
-  no reading inferred.'
+notes: '2026-11-04 South American isolates batch 4. First Payaguá construction: Boggiani 1900, with
+  his spelling key in the extension README. Aguirre 1793 (older stage) is held for a separate construction.
+  Profile review 2026-11-05: Partial profile from Boggiani 1900 p. 208, Letras y signos convencionales.
+  Only explicit, unambiguous values are mapped; ordinary vowels, ambiguous qualities, stress combinations
+  and reduced letters remain unresolved.'

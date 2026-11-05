@@ -12,14 +12,15 @@ extensions:
   forms: false
   cognates: false
   concept_map: false
-  profile: false
+  profile: true
 scoring:
   forms_score: 0.0
   cognates_score: 0.0
   tier: copper
 pinned: true
 registered_on: '2026-11-04'
-notes: '2026-11-04 South American isolates batch 3. First Ayomán construction: Jahn
-  1927 (his 1910 recording, informant Carmen Ramos), in Jahn''s documented phonetic
-  alphabet; Oramas 1916 forms as quoted by Jahn are written-only gap fills. Written-only:
-  the source spelling is kept; no reading inferred.'
+notes: '2026-11-04 South American isolates batch 3. First Ayomán construction: Jahn 1927 (his 1910
+  recording, informant Carmen Ramos), in Jahn''s documented phonetic alphabet. Profile review 2026-11-05:
+  Partial profile: only sh is unambiguous in Jahn 1927 p. 379. Undefined letters and marks remain
+  unresolved. The source-language selector excludes all Oramas and Freitez Pineda forms; no Jahn
+  rule is applied to them.'
