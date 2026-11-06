@@ -23,8 +23,12 @@ Remaining:
 3. **Blocked sources:** Chono, Mure, Ramanos, Tinigua (to 2031), Silva 2012
    Aikanã (rights), Meader's SIL lists (rights), Farabee 1918 Taruma (no scan
    reachable), La Grasserie 1894 Puquina (no scan).
-4. **Fidelity:** Kunza's IDS forms are labelled phonemic but are 19th-century
-   spellings; relabel as written or profile.
+4. **Fidelity — done 2026-11-06:** Kunza's 895 IDS forms (19th-century
+   spellings; IDS supplies no transcription) were labelled `source` via
+   idssegmented's tokenization; now guarded written-only
+   (`varieties/kuc-kunza/custom/transcriptions.csv`, `scripts/kunza_written.py`).
+   A reviewed profile would need a notation authority for the historical
+   glossaries behind IDS 308.
 5. **Performance:** slice validation streams the full Lexibank forms file on a
    full workspace; use the intake database instead.
 
