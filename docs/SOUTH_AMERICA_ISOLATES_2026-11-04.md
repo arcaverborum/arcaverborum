@@ -289,3 +289,14 @@ size/inode/mtime and `extensions/`, `slices/`, `src/` are unchanged. No aggregat
 site refresh, commit, push or PR was made. Round1's removal of 746 accidental
 generic tokenizer readings remains intact. Remaining gates are in
 [HELD](planning/HELD.md#south-american-isolate-profiles-2026-11-05).
+
+## Kunza relabel — 2026-11-06
+
+IDS 308 (Lehnert Santander) gives Kunza in the spellings of its historical
+sources; the plain `ids` rows have no Segments. The construction read
+`idssegmented`, whose segments are Lexibank's tokenization of those spellings
+(e.g. `hoyri` → `h o y/j r i`, `pockor` → `p o c k o r`) and were labelled as
+source transcriptions. All 895 rows now carry guarded `orthographic_only`
+overrides (per-row evidence SHA256); only `Segments`/`Segments_Source` change.
+`kuc-kunza` is pinned so auto-ranking does not undo this. Reproduce with
+`scripts/kunza_written.py --write`.

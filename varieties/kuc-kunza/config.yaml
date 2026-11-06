@@ -7,7 +7,7 @@ sources:
   transcription: idssegmented
   cognates: idssegmented
 extensions:
-  transcriptions: false
+  transcriptions: true
   forms: false
   cognates: false
   concept_map: false
@@ -16,6 +16,9 @@ scoring:
   forms_score: 1.0
   cognates_score: 0.0
   tier: bronze
-pinned: false
+pinned: true
 registered_on: '2026-05-20'
-notes: 'auto: forms=idssegmented (1.00)'
+notes: 'auto: forms=idssegmented (1.00). 2026-11-06: written-only. IDS 308 (Lehnert Santander)
+  gives 19th-century source spellings with no transcription; the idssegmented segments were a
+  Lexibank tokenization of the spelling and are cleared by guarded orthographic_only overrides
+  (scripts/kunza_written.py). Pinned so the relabel is not undone by auto-ranking.'
